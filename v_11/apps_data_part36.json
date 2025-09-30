@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bill Status on Purchase Order",
+        "image": null,
+        "technical_name": "eg_po_bill_status",
+        "category": ""
+    },
+    {
+        "name": "Bulk Invoice Validate",
+        "image": null,
+        "technical_name": "eg_bulk_invoice_validate",
+        "category": ""
+    },
+    {
+        "name": "Export Bank Book PDF",
+        "image": null,
+        "technical_name": "eg_bank_book_export_pdf",
+        "category": ""
+    },
+    {
+        "name": "Export Bank Book XLS",
+        "image": null,
+        "technical_name": "eg_bank_book_export_xls",
+        "category": ""
+    },
+    {
+        "name": "Number Of Days in PO",
+        "image": null,
+        "technical_name": "eg_no_of_days_in_po",
+        "category": ""
+    },
+    {
+        "name": "Partner DOB",
+        "image": null,
+        "technical_name": "eg_to_partner_dob",
+        "category": ""
+    },
+    {
+        "name": "Partner in out mail",
+        "image": null,
+        "technical_name": "eg_partner_in_out_mail",
+        "category": ""
+    },
+    {
+        "name": "Print product image in Purchase",
+        "image": null,
+        "technical_name": "eg_purchase_bill_product_image",
+        "category": ""
+    },
+    {
+        "name": "Project Mass Stage Change",
+        "image": null,
+        "technical_name": "eg_mass_stage_change",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Creation Restriction",
+        "image": null,
+        "technical_name": "eg_so_creation_restriction",
+        "category": ""
+    }
+]

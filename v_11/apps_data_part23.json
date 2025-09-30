@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Disable Update Quantity Feature",
+        "image": null,
+        "technical_name": "eg_hide_update_onhand",
+        "category": ""
+    },
+    {
+        "name": "Less Working Hour Notification",
+        "image": null,
+        "technical_name": "eg_workhours_notification",
+        "category": ""
+    },
+    {
+        "name": "Purchase Order Email Notification",
+        "image": null,
+        "technical_name": "eg_po_email_notification",
+        "category": ""
+    },
+    {
+        "name": "Sale Order To Task",
+        "image": null,
+        "technical_name": "eg_so_task",
+        "category": ""
+    },
+    {
+        "name": "Purchase Request By Employees",
+        "image": null,
+        "technical_name": "eg_rfq_employee",
+        "category": ""
+    },
+    {
+        "name": "Amount In Words",
+        "image": null,
+        "technical_name": "eg_amount_in_words",
+        "category": ""
+    },
+    {
+        "name": "Mass Confirm Picking",
+        "image": null,
+        "technical_name": "eg_mass_confirm_picking",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Custom Checklist",
+        "image": null,
+        "technical_name": "eg_sale_custom_checklist",
+        "category": ""
+    }
+]

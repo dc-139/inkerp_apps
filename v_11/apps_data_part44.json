@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Today Yesterday filter in PO",
+        "image": null,
+        "technical_name": "eg_po_today_yesterday_filter",
+        "category": ""
+    },
+    {
+        "name": "Account partner auto reconcile",
+        "image": null,
+        "technical_name": "eg_account_partner_auto_reconcile",
+        "category": ""
+    },
+    {
+        "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
+        "image": null,
+        "technical_name": "eg_advance_search_partner",
+        "category": ""
+    },
+    {
+        "name": "Advance Product Search in SO & PO",
+        "image": null,
+        "technical_name": "eg_sale_purchase_multi_product_adv",
+        "category": ""
+    },
+    {
+        "name": "All Contact Approval",
+        "image": null,
+        "technical_name": "eg_all_contacts_approval",
+        "category": ""
+    },
+    {
+        "name": "All In One Digital Signature",
+        "image": null,
+        "technical_name": "eg_all_in_one_digital_sign",
+        "category": ""
+    },
+    {
+        "name": "All Taxes Information - Sale, Purchase, Accounting",
+        "image": null,
+        "technical_name": "eg_all_tax_info",
+        "category": ""
+    },
+    {
+        "name": "All in One Receipt report",
+        "image": null,
+        "technical_name": "eg_all_in_one_receipt_report",
+        "category": ""
+    },
+    {
+        "name": "All in One Tags",
+        "image": null,
+        "technical_name": "eg_all_in_one_tags",
+        "category": ""
+    },
+    {
+        "name": "All-in-One Helpdesk",
+        "image": null,
+        "technical_name": "eg_all_in_one_helpdesk",
+        "category": ""
+    }
+]

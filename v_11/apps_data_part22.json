@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Remove/Hide Taxes",
+        "image": null,
+        "technical_name": "eg_remove_taxes",
+        "category": ""
+    },
+    {
+        "name": "Advance Product Search in SO",
+        "image": null,
+        "technical_name": "eg_sale_multi_product_adv",
+        "category": ""
+    },
+    {
+        "name": "Advance Product Search in PO",
+        "image": null,
+        "technical_name": "eg_purchase_multi_product_adv",
+        "category": ""
+    },
+    {
+        "name": "Minimum/Maximum Product Price",
+        "image": null,
+        "technical_name": "eg_min_max_product_price",
+        "category": ""
+    },
+    {
+        "name": "Purchase Tender Management",
+        "image": null,
+        "technical_name": "eg_po_tender_management",
+        "category": ""
+    },
+    {
+        "name": "Leave Email Notification",
+        "image": null,
+        "technical_name": "eg_leave_notification",
+        "category": ""
+    }
+]

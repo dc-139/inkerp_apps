@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Product Scrap",
+        "image": null,
+        "technical_name": "eg_product_scrap",
+        "category": ""
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": ""
+    },
+    {
+        "name": "Today Yesterday Filter in DO",
+        "image": null,
+        "technical_name": "eg_do_today_yesterday_filter",
+        "category": ""
+    },
+    {
+        "name": "Confirm Sale Person in Sale",
+        "image": null,
+        "technical_name": "eg_confirm_person_in_sale",
+        "category": ""
+    },
+    {
+        "name": "Customer Sequence",
+        "image": null,
+        "technical_name": "eg_customer_sequence",
+        "category": ""
+    },
+    {
+        "name": "Delivery status on sale order",
+        "image": null,
+        "technical_name": "eg_so_delivery_status",
+        "category": ""
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": ""
+    },
+    {
+        "name": "Item Count In Sale Order",
+        "image": null,
+        "technical_name": "eg_count_in_so",
+        "category": ""
+    },
+    {
+        "name": "Product Allowed on User",
+        "image": null,
+        "technical_name": "eg_allowed_product_on_user",
+        "category": ""
+    },
+    {
+        "name": "Purchase Auto Generate Barcode",
+        "image": null,
+        "technical_name": "eg_purchase_auto_generate_barcode",
+        "category": ""
+    }
+]

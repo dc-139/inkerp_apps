@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Sale Detail Report",
+        "image": null,
+        "technical_name": "eg_sale_detail_report",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Excel Report",
+        "image": null,
+        "technical_name": "eg_sale_excel_report",
+        "category": ""
+    },
+    {
+        "name": "Sale Order recurring",
+        "image": null,
+        "technical_name": "eg_sale_order_recurring",
+        "category": ""
+    },
+    {
+        "name": "Sale Report by Salesperson",
+        "image": null,
+        "technical_name": "eg_sale_report_by_salesperson",
+        "category": ""
+    },
+    {
+        "name": "All in one Sale reports",
+        "image": null,
+        "technical_name": "eg_sale_reports",
+        "category": ""
+    },
+    {
+        "name": "SendCloud Delivery Shipping Connector",
+        "image": null,
+        "technical_name": "eg_sendcloud_delivery",
+        "category": ""
+    },
+    {
+        "name": "Shopify Integration",
+        "image": null,
+        "technical_name": "eg_shopify_integration",
+        "category": ""
+    },
+    {
+        "name": "Top Customer Report",
+        "image": null,
+        "technical_name": "eg_top_customer_report",
+        "category": ""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Invoice Post Confirmation",
+        "image": null,
+        "technical_name": "eg_invoice_confirmation",
+        "category": ""
+    },
+    {
+        "name": "Cancel Bulk Invoice Entry",
+        "image": null,
+        "technical_name": "eg_invoice_bulk_cancel",
+        "category": ""
+    },
+    {
+        "name": "Inventory Report Printed Check",
+        "image": null,
+        "technical_name": "eg_inventory_report_printed_check",
+        "category": ""
+    },
+    {
+        "name": "Sales, Purchase, Warehouse and Accounting Edit Sequence Number",
+        "image": null,
+        "technical_name": "eg_edit_sequence_no",
+        "category": ""
+    }
+]

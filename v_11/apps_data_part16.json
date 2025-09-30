@@ -1,0 +1,20 @@
+[
+    {
+        "name": "All in one views",
+        "image": null,
+        "technical_name": "eg_all_in_one_views",
+        "category": ""
+    },
+    {
+        "name": "Eg All In One Excel Report",
+        "image": null,
+        "technical_name": "eg_all_in_one_excel_report",
+        "category": ""
+    },
+    {
+        "name": "Aramex Shipping Connector",
+        "image": null,
+        "technical_name": "eg_aramex_shipping_connector",
+        "category": ""
+    }
+]

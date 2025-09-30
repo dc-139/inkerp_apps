@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Tax Amount on Account",
+        "image": null,
+        "technical_name": "eg_tax_amount_on_account",
+        "category": ""
+    },
+    {
+        "name": "Product Sale Price Limit",
+        "image": null,
+        "technical_name": "eg_product_sale_price_limit",
+        "category": ""
+    },
+    {
+        "name": "Sale line Description in Picking",
+        "image": null,
+        "technical_name": "eg_sale_line_desc_picking",
+        "category": ""
+    },
+    {
+        "name": "Unique Sequence In Project",
+        "image": null,
+        "technical_name": "eg_project_unique_sequence",
+        "category": ""
+    },
+    {
+        "name": "Add Location in Delivery Order",
+        "image": null,
+        "technical_name": "eg_delivery_order_location",
+        "category": ""
+    },
+    {
+        "name": "All in one Price Lock",
+        "image": null,
+        "technical_name": "eg_all_in_one_lock_price",
+        "category": ""
+    },
+    {
+        "name": "Auto Assign Task",
+        "image": null,
+        "technical_name": "eg_task_auto_assign",
+        "category": ""
+    },
+    {
+        "name": "Generate Barcode for Employee",
+        "image": null,
+        "technical_name": "eg_employee_auto_generate_barcode",
+        "category": ""
+    },
+    {
+        "name": "Invoice Tag",
+        "image": null,
+        "technical_name": "eg_invoice_tag",
+        "category": ""
+    },
+    {
+        "name": "Lock Price",
+        "image": null,
+        "technical_name": "eg_lock_price",
+        "category": ""
+    }
+]

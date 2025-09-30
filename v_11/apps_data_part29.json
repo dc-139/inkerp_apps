@@ -1,0 +1,62 @@
+[
+    {
+        "name": "On Hand Qty on Sale Order",
+        "image": null,
+        "technical_name": "eg_sale_line_qoh",
+        "category": ""
+    },
+    {
+        "name": "Product Approval",
+        "image": null,
+        "technical_name": "eg_approve_product",
+        "category": ""
+    },
+    {
+        "name": "Cheque Number on Payment",
+        "image": null,
+        "technical_name": "eg_cheque_number_on_payment",
+        "category": ""
+    },
+    {
+        "name": "Customer Credit Warning",
+        "image": null,
+        "technical_name": "eg_customer_credit_warning",
+        "category": ""
+    },
+    {
+        "name": "On Hand Quantity in Purchase Order",
+        "image": null,
+        "technical_name": "eg_po_line_qoh",
+        "category": ""
+    },
+    {
+        "name": "Contact Creation Restriction",
+        "image": null,
+        "technical_name": "eg_partner_creation_restriction",
+        "category": ""
+    },
+    {
+        "name": "Default Project Stages",
+        "image": null,
+        "technical_name": "eg_project_default_stage",
+        "category": ""
+    },
+    {
+        "name": "Hide Product Price",
+        "image": null,
+        "technical_name": "eg_hide_product_price",
+        "category": ""
+    },
+    {
+        "name": "Unique Contact Alert",
+        "image": null,
+        "technical_name": "eg_unique_contact_alert",
+        "category": ""
+    },
+    {
+        "name": "Project Creation Restriction",
+        "image": null,
+        "technical_name": "eg_project_creation_restriction",
+        "category": ""
+    }
+]

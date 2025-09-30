@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Number of Days in Employee",
+        "image": null,
+        "technical_name": "eg_no_of_days_in_employee",
+        "category": ""
+    },
+    {
+        "name": "PO Creation Restriction",
+        "image": null,
+        "technical_name": "eg_po_creation_restriction",
+        "category": ""
+    },
+    {
+        "name": "Print product image",
+        "image": null,
+        "technical_name": "eg_sale_invoice_product_image",
+        "category": ""
+    },
+    {
+        "name": "Product Maximum Discount Limit",
+        "image": null,
+        "technical_name": "eg_product_discount_limit",
+        "category": ""
+    },
+    {
+        "name": "Product Restriction on Customer",
+        "image": null,
+        "technical_name": "eg_product_restriction_on_customers",
+        "category": ""
+    },
+    {
+        "name": "Product Weight in Invoice",
+        "image": null,
+        "technical_name": "eg_invoice_weight",
+        "category": ""
+    },
+    {
+        "name": "Purchase Confirmation date",
+        "image": null,
+        "technical_name": "eg_purchase_confirmation_date",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Tax Summary",
+        "image": null,
+        "technical_name": "eg_so_tax_summary",
+        "category": ""
+    },
+    {
+        "name": "Today Yesterday filter in MO",
+        "image": null,
+        "technical_name": "eg_mo_today_yesterday_filter",
+        "category": ""
+    },
+    {
+        "name": "Update CRM Tag",
+        "image": null,
+        "technical_name": "eg_crm_update_tag",
+        "category": ""
+    }
+]

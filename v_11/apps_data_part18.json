@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Merge Sale Order",
+        "image": null,
+        "technical_name": "eg_merge_sale_order",
+        "category": ""
+    },
+    {
+        "name": "Multiple Shipment Tracking eG",
+        "image": null,
+        "technical_name": "eg_multiple_shipment_tracking",
+        "category": ""
+    },
+    {
+        "name": "PO Auto Email",
+        "image": null,
+        "technical_name": "eg_po_auto_email",
+        "category": ""
+    },
+    {
+        "name": "PO Bulk Email",
+        "image": null,
+        "technical_name": "eg_po_bulk_email",
+        "category": ""
+    },
+    {
+        "name": "Product Sale Report (Day Wise)",
+        "image": null,
+        "technical_name": "eg_product_sale_report",
+        "category": ""
+    },
+    {
+        "name": "Product Variant Description",
+        "image": null,
+        "technical_name": "eg_product_var_desc",
+        "category": ""
+    },
+    {
+        "name": "Purchase Order Excel Report",
+        "image": null,
+        "technical_name": "eg_purchase_excel_report",
+        "category": ""
+    },
+    {
+        "name": "Eg Purchase Order Recurring",
+        "image": null,
+        "technical_name": "eg_purchase_order_recurring",
+        "category": ""
+    },
+    {
+        "name": "Sale Confirm Approval",
+        "image": null,
+        "technical_name": "eg_sale_confirm_approval",
+        "category": ""
+    }
+]

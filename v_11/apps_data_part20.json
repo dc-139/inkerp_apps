@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Top Selling Product Report",
+        "image": null,
+        "technical_name": "eg_top_selling_product_report",
+        "category": ""
+    },
+    {
+        "name": "Woocommerce Integration",
+        "image": null,
+        "technical_name": "eg_woocommerce_integration",
+        "category": ""
+    },
+    {
+        "name": "Fastlo Delivery Integration",
+        "image": null,
+        "technical_name": "eg_fastlo_shipping_connector",
+        "category": ""
+    },
+    {
+        "name": "Fedex Shipping Connector",
+        "image": null,
+        "technical_name": "eg_fedex_shipping_connector",
+        "category": ""
+    },
+    {
+        "name": "SMSA Delivery",
+        "image": null,
+        "technical_name": "eg_smsa_delivery",
+        "category": ""
+    }
+]

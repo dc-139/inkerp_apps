@@ -1,0 +1,26 @@
+[
+    {
+        "name": "PostNl Shipping Connector",
+        "image": null,
+        "technical_name": "eg_postnl_shipping_connector",
+        "category": ""
+    },
+    {
+        "name": "Generic Import",
+        "image": null,
+        "technical_name": "eg_generic_import",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Undelivered",
+        "image": null,
+        "technical_name": "eg_so_undelivered",
+        "category": ""
+    },
+    {
+        "name": "All In One Purchase Reports",
+        "image": null,
+        "technical_name": "eg_purchase_reports",
+        "category": ""
+    }
+]

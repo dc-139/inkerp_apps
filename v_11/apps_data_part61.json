@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sale Order Compare",
+        "image": null,
+        "technical_name": "eg_so_compare",
+        "category": ""
+    },
+    {
+        "name": "Journal Restriction",
+        "image": null,
+        "technical_name": "eg_journal_restriction",
+        "category": ""
+    },
+    {
+        "name": "Website Birthday Discount",
+        "image": null,
+        "technical_name": "eg_website_birthday_discount",
+        "category": ""
+    },
+    {
+        "name": "Purchase Order Template Product",
+        "image": null,
+        "technical_name": "eg_purchase_order_template",
+        "category": ""
+    },
+    {
+        "name": "Purchase Order Price Compare",
+        "image": null,
+        "technical_name": "eg_po_price_compare",
+        "category": ""
+    },
+    {
+        "name": "WhatsApp Custom Template",
+        "image": null,
+        "technical_name": "eg_whatsapp_template",
+        "category": ""
+    },
+    {
+        "name": "Quick Search",
+        "image": null,
+        "technical_name": "eg_quick_search",
+        "category": ""
+    },
+    {
+        "name": "Dynamic Approve for PO",
+        "image": null,
+        "technical_name": "eg_po_dynamic_approve",
+        "category": ""
+    },
+    {
+        "name": "All In One Barcode",
+        "image": null,
+        "technical_name": "eg_all_in_one_barcode",
+        "category": ""
+    },
+    {
+        "name": "BOM Barcode",
+        "image": null,
+        "technical_name": "eg_bom_barcode",
+        "category": ""
+    }
+]

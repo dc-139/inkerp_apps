@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Employee own Record",
+        "image": null,
+        "technical_name": "eg_employee_own_record",
+        "category": ""
+    },
+    {
+        "name": "Multi Warehouse in Purchase",
+        "image": null,
+        "technical_name": "eg_purchase_multi_warehouse",
+        "category": ""
+    },
+    {
+        "name": "Tax Amount on Sale Order",
+        "image": null,
+        "technical_name": "eg_tax_amount_on_sale_order",
+        "category": ""
+    },
+    {
+        "name": "Hide Sale Margin",
+        "image": null,
+        "technical_name": "eg_hide_sale_margin",
+        "category": ""
+    },
+    {
+        "name": "Multi User in Project Task",
+        "image": null,
+        "technical_name": "eg_project_task_multi_user",
+        "category": ""
+    },
+    {
+        "name": "Sale Category",
+        "image": null,
+        "technical_name": "eg_sale_category",
+        "category": ""
+    },
+    {
+        "name": "Hide Tax in Purchase and Bill",
+        "image": null,
+        "technical_name": "eg_hide_tax_purchase_bill",
+        "category": ""
+    },
+    {
+        "name": "Number of Days in Project Task",
+        "image": null,
+        "technical_name": "eg_no_of_days_in_project_task",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Edit Restriction",
+        "image": null,
+        "technical_name": "eg_so_edit_restriction",
+        "category": ""
+    },
+    {
+        "name": "Task Checklist",
+        "image": null,
+        "technical_name": "eg_task_checklist",
+        "category": ""
+    }
+]

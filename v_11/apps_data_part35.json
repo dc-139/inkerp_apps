@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Po Restriction",
+        "image": null,
+        "technical_name": "eg_po_restriction",
+        "category": ""
+    },
+    {
+        "name": "Product Restriction on User",
+        "image": null,
+        "technical_name": "eg_product_restriction_on_users",
+        "category": ""
+    },
+    {
+        "name": "Purchase Order Edit Restriction",
+        "image": null,
+        "technical_name": "eg_po_edit_restriction",
+        "category": ""
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": ""
+    },
+    {
+        "name": "Tax Amount on Purchase Order",
+        "image": null,
+        "technical_name": "eg_tax_amount_on_purchase",
+        "category": ""
+    },
+    {
+        "name": "Tax Amount on Vendor Bill",
+        "image": null,
+        "technical_name": "eg_tax_amount_on_vendor_bill",
+        "category": ""
+    },
+    {
+        "name": "Taxes to Vat in Sales, Purchase, Invoice, Bills Reports and View",
+        "image": null,
+        "technical_name": "eg_tax_vat",
+        "category": ""
+    },
+    {
+        "name": "Unique Project Task Alert",
+        "image": null,
+        "technical_name": "eg_unique_project_task_alert",
+        "category": ""
+    },
+    {
+        "name": "User Specific Product",
+        "image": null,
+        "technical_name": "eg_user_specific_product",
+        "category": ""
+    },
+    {
+        "name": "Users Last Login Date",
+        "image": null,
+        "technical_name": "eg_user_last_login_date",
+        "category": ""
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Product Warranty Management",
+        "image": null,
+        "technical_name": "eg_product_warranty_management",
+        "category": ""
+    },
+    {
+        "name": "WhatsApp All in One Integration",
+        "image": null,
+        "technical_name": "eg_whatsapp_all_in_one_integration",
+        "category": ""
+    },
+    {
+        "name": "Purchase Order Receipt report",
+        "image": null,
+        "technical_name": "eg_purchase_order_receipt_report",
+        "category": ""
+    },
+    {
+        "name": "Purchase Order To Task",
+        "image": null,
+        "technical_name": "eg_po_task",
+        "category": ""
+    },
+    {
+        "name": "WhatsApp Contacts Integration",
+        "image": null,
+        "technical_name": "eg_whatsapp_contacts_integration",
+        "category": ""
+    },
+    {
+        "name": "WhatsApp Delivery Integration",
+        "image": null,
+        "technical_name": "eg_whatsapp_delivery_integration",
+        "category": ""
+    },
+    {
+        "name": "WhatsApp Invoice Integration",
+        "image": null,
+        "technical_name": "eg_whatsapp_invoice_integration",
+        "category": ""
+    },
+    {
+        "name": "WhatsApp Purchase Integration",
+        "image": null,
+        "technical_name": "eg_whatsapp_purchase_integration",
+        "category": ""
+    },
+    {
+        "name": "WhatsApp Sale Integration",
+        "image": null,
+        "technical_name": "eg_whatsapp_sale_integration",
+        "category": ""
+    },
+    {
+        "name": "Purchase Revision Number & history",
+        "image": null,
+        "technical_name": "eg_purchase_revision",
+        "category": ""
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Purchase order multi lots selection",
+        "image": null,
+        "technical_name": "eg_po_multi_lot_selection",
+        "category": ""
+    },
+    {
+        "name": "Quick Update Order Lines on Pricelist",
+        "image": null,
+        "technical_name": "eg_quick_update_pricelist_in_so_line",
+        "category": ""
+    },
+    {
+        "name": "Quotation from CRM Opportunity Extended",
+        "image": null,
+        "technical_name": "eg_crm_opportunity_quotation",
+        "category": ""
+    },
+    {
+        "name": "Restrict out-of Stock Sale Orders",
+        "image": null,
+        "technical_name": "eg_sale_product_stock_restrict",
+        "category": ""
+    },
+    {
+        "name": "Sale Commission Target",
+        "image": null,
+        "technical_name": "eg_sales_commission_target",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Product Multiple Quantity",
+        "image": null,
+        "technical_name": "eg_so_multiples_qty",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Return",
+        "image": null,
+        "technical_name": "eg_sale_return",
+        "category": ""
+    },
+    {
+        "name": "Sale Picking Manual",
+        "image": null,
+        "technical_name": "eg_sale_picking_manual",
+        "category": ""
+    },
+    {
+        "name": "Split Invoice",
+        "image": null,
+        "technical_name": "eg_split_invoice",
+        "category": ""
+    },
+    {
+        "name": "Split Purchase Order",
+        "image": null,
+        "technical_name": "eg_split_purchase_order",
+        "category": ""
+    }
+]

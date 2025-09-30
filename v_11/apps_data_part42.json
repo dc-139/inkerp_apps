@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Today yesterday filter in mails",
+        "image": null,
+        "technical_name": "eg_mail_today_yesterday_filter",
+        "category": ""
+    },
+    {
+        "name": "Warehouse Creation Restriction",
+        "image": null,
+        "technical_name": "eg_warehouse_creation_restriction",
+        "category": ""
+    },
+    {
+        "name": "Warehouse Edit Restriction",
+        "image": null,
+        "technical_name": "eg_warehouse_edit_restriction",
+        "category": ""
+    },
+    {
+        "name": "lost opportunity reason",
+        "image": null,
+        "technical_name": "eg_crm_lost_reason",
+        "category": ""
+    },
+    {
+        "name": "Bulk validate Bills",
+        "image": null,
+        "technical_name": "eg_bulk_bill_validate",
+        "category": ""
+    },
+    {
+        "name": "Delivery Date In Sale Order",
+        "image": null,
+        "technical_name": "eg_delivery_date_in_so",
+        "category": ""
+    },
+    {
+        "name": "Multi Company Inventory Transfer",
+        "image": null,
+        "technical_name": "eg_multi_company_inventory_transfer",
+        "category": ""
+    },
+    {
+        "name": "Number Of Days in SO",
+        "image": null,
+        "technical_name": "eg_no_of_days_in_so",
+        "category": ""
+    },
+    {
+        "name": "Number of Days in Mail",
+        "image": null,
+        "technical_name": "eg_no_of_days_in_mail",
+        "category": ""
+    },
+    {
+        "name": "Purchase Category",
+        "image": null,
+        "technical_name": "eg_purchase_category",
+        "category": ""
+    }
+]

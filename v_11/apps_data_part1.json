@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Purchase Order from Sale Order",
+        "image": null,
+        "technical_name": "eg_po_from_so",
+        "category": ""
+    },
+    {
+        "name": "User Signature in Sale/Quotation Reports",
+        "image": null,
+        "technical_name": "eg_sale_user_signature_report",
+        "category": ""
+    },
+    {
+        "name": "Bill of Material (BOM) Cost Price",
+        "image": null,
+        "technical_name": "eg_bom_cost_price",
+        "category": ""
+    }
+]

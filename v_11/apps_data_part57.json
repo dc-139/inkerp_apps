@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Advance Multiple Branch Management",
+        "image": null,
+        "technical_name": "eg_advance_branch_management",
+        "category": ""
+    },
+    {
+        "name": "Meeting Room Booking",
+        "image": null,
+        "technical_name": "eg_meeting_room_booking",
+        "category": ""
+    },
+    {
+        "name": "Website Product And Category Description From Backend",
+        "image": null,
+        "technical_name": "eg_website_description_from_backend",
+        "category": ""
+    },
+    {
+        "name": "Website Disable Add To Cart Button Guest Users",
+        "image": null,
+        "technical_name": "eg_website_disable_add_to_cart_for_guest",
+        "category": ""
+    },
+    {
+        "name": "Website Add to Cart Multi Variant",
+        "image": null,
+        "technical_name": "eg_multi_variant_cart",
+        "category": ""
+    },
+    {
+        "name": "Website Product Field Manager",
+        "image": null,
+        "technical_name": "eg_website_dynamic_product_fields",
+        "category": ""
+    },
+    {
+        "name": "Hide wishlist and Compare for Guest",
+        "image": null,
+        "technical_name": "eg_website_hide_wishlist_and_compare",
+        "category": ""
+    }
+]

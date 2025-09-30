@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Employee Advance Expenses",
+        "image": null,
+        "technical_name": "eg_employee_advance_expenses",
+        "category": ""
+    },
+    {
+        "name": "Employee Attendance Manual Entries",
+        "image": null,
+        "technical_name": "eg_attendance_manual_entry",
+        "category": ""
+    },
+    {
+        "name": "Employee Expenses Limit",
+        "image": null,
+        "technical_name": "eg_employee_expenses_limit",
+        "category": ""
+    },
+    {
+        "name": "Employee Monthly Attendance report xls",
+        "image": null,
+        "technical_name": "eg_attendance_report_xls",
+        "category": ""
+    },
+    {
+        "name": "Hr Employee Medical",
+        "image": null,
+        "technical_name": "eg_hr_employee_medical",
+        "category": ""
+    },
+    {
+        "name": "Hr Overtime",
+        "image": null,
+        "technical_name": "eg_hr_overtime",
+        "category": ""
+    },
+    {
+        "name": "Import Invoices from Excel",
+        "image": null,
+        "technical_name": "eg_import_invoices_through_excel",
+        "category": ""
+    },
+    {
+        "name": "Import Stock Picking",
+        "image": null,
+        "technical_name": "eg_import_stock_picking",
+        "category": ""
+    },
+    {
+        "name": "Inventory Coverage Report",
+        "image": null,
+        "technical_name": "eg_inventory_coverage_report",
+        "category": ""
+    },
+    {
+        "name": "Inventory Overstock Report",
+        "image": null,
+        "technical_name": "eg_inventory_overstock_report",
+        "category": ""
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Cancel Journal Entries",
+        "image": null,
+        "technical_name": "eg_account_cancel_journal",
+        "category": ""
+    },
+    {
+        "name": "Change Vendor In Validated Purchase Order",
+        "image": null,
+        "technical_name": "eg_change_vendor_purchase_order",
+        "category": ""
+    },
+    {
+        "name": "Contract Recurring Invoice Analytic",
+        "image": null,
+        "technical_name": "eg_contract_recurring_invoice_analytic",
+        "category": ""
+    },
+    {
+        "name": "Create Invoice From Picking",
+        "image": null,
+        "technical_name": "eg_invoice_from_do",
+        "category": ""
+    },
+    {
+        "name": "Create Single invoice",
+        "image": null,
+        "technical_name": "eg_create_single_invoice",
+        "category": ""
+    },
+    {
+        "name": "Create Task From CRM-Lead",
+        "image": null,
+        "technical_name": "eg_create_task_from_lead",
+        "category": ""
+    },
+    {
+        "name": "Crm Lead Lifetime",
+        "image": null,
+        "technical_name": "eg_crm_lead_lifetime",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields In Mrp",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_mrp",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields In Partner",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_partner",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields In Project",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_project",
+        "category": ""
+    }
+]

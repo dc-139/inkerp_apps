@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Inventory Planner",
+        "image": null,
+        "technical_name": "eg_inventory_planner",
+        "category": ""
+    },
+    {
+        "name": "Inventory Turn Over Report",
+        "image": null,
+        "technical_name": "eg_inventory_turnover_analysis_report",
+        "category": ""
+    },
+    {
+        "name": "Inventory Valuation Report",
+        "image": null,
+        "technical_name": "eg_inventory_valuation_report",
+        "category": ""
+    },
+    {
+        "name": "Invoice Policy Sale Order",
+        "image": null,
+        "technical_name": "eg_invoice_policy_sale_order",
+        "category": ""
+    },
+    {
+        "name": "Machine Repair Management in Odoo",
+        "image": null,
+        "technical_name": "eg_machine_repair_industry",
+        "category": ""
+    }
+]

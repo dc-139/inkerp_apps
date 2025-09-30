@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Task Category",
+        "image": null,
+        "technical_name": "eg_task_category",
+        "category": ""
+    },
+    {
+        "name": "Today Yesterday filter in SO",
+        "image": null,
+        "technical_name": "eg_so_today_yesterday_filter",
+        "category": ""
+    },
+    {
+        "name": "Unique Purchase Alert",
+        "image": null,
+        "technical_name": "eg_unique_purchase_alert",
+        "category": ""
+    },
+    {
+        "name": "Cancel sale order in Bulk",
+        "image": null,
+        "technical_name": "eg_sales_bulk_cancel",
+        "category": ""
+    },
+    {
+        "name": "Delivery note on purchase",
+        "image": null,
+        "technical_name": "eg_purchase_delivery_note",
+        "category": ""
+    },
+    {
+        "name": "Employee Sequence",
+        "image": null,
+        "technical_name": "eg_employee_sequence",
+        "category": ""
+    },
+    {
+        "name": "Invoice Status in Sale Order",
+        "image": null,
+        "technical_name": "eg_so_invoice_status",
+        "category": ""
+    },
+    {
+        "name": "Manufacture Order Restriction",
+        "image": null,
+        "technical_name": "eg_mo_restriction",
+        "category": ""
+    },
+    {
+        "name": "Merge Tasks",
+        "image": null,
+        "technical_name": "eg_merge_tasks",
+        "category": ""
+    },
+    {
+        "name": "Number Of Days in Employee Leave",
+        "image": null,
+        "technical_name": "eg_no_of_days_in_leave",
+        "category": ""
+    }
+]

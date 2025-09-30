@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Product Attributes Manager",
+        "image": null,
+        "technical_name": "eg_product_style_size_color_brand",
+        "category": ""
+    },
+    {
+        "name": "Product Catch Weight Inventory",
+        "image": null,
+        "technical_name": "eg_product_catch_weight_inventory",
+        "category": ""
+    },
+    {
+        "name": "Product Customer  Info",
+        "image": null,
+        "technical_name": "eg_product_customer_info",
+        "category": ""
+    },
+    {
+        "name": "Product Dimension",
+        "image": null,
+        "technical_name": "eg_product_dimension",
+        "category": ""
+    },
+    {
+        "name": "Product List View in Point of Sale",
+        "image": null,
+        "technical_name": "eg_pos_product_list_view",
+        "category": ""
+    },
+    {
+        "name": "Product QR Generator5",
+        "image": null,
+        "technical_name": "eg_product_qr_generator",
+        "category": ""
+    },
+    {
+        "name": "Product Quantity Pack",
+        "image": null,
+        "technical_name": "eg_uom_qty_pack",
+        "category": ""
+    },
+    {
+        "name": "Product Vendor Code",
+        "image": null,
+        "technical_name": "eg_po_vendor_code",
+        "category": ""
+    }
+]

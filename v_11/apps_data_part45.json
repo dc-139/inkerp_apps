@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Attendance Auto Checkout",
+        "image": null,
+        "technical_name": "eg_attendance_auto_checkout",
+        "category": ""
+    },
+    {
+        "name": "Auto Parts Base",
+        "image": null,
+        "technical_name": "eg_vehicle_detail",
+        "category": ""
+    },
+    {
+        "name": "Auto Section In Sale Order",
+        "image": null,
+        "technical_name": "eg_auto_section_sale_order",
+        "category": ""
+    },
+    {
+        "name": "Automated Sale Order",
+        "image": null,
+        "technical_name": "eg_automated_sale_order",
+        "category": ""
+    },
+    {
+        "name": "Blanket Purchase Order",
+        "image": null,
+        "technical_name": "eg_blanket_purchase_order",
+        "category": ""
+    },
+    {
+        "name": "Blanket Sale Order",
+        "image": null,
+        "technical_name": "eg_blanket_sale_order",
+        "category": ""
+    },
+    {
+        "name": "Bom Structure and Cost Excel Report",
+        "image": null,
+        "technical_name": "eg_bom_structure_and_cost_excel_report",
+        "category": ""
+    },
+    {
+        "name": "Bulk Import Pricelist in odoo",
+        "image": null,
+        "technical_name": "eg_import_pricelist_in_odoo",
+        "category": ""
+    },
+    {
+        "name": "CRM Opportunity Purchase",
+        "image": null,
+        "technical_name": "eg_crm_opportunity_purchase",
+        "category": ""
+    },
+    {
+        "name": "CRM Opportunity Task",
+        "image": null,
+        "technical_name": "eg_crm_opportunity_task",
+        "category": ""
+    }
+]

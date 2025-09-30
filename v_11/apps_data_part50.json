@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Merge Invoice",
+        "image": null,
+        "technical_name": "eg_merge_invoice",
+        "category": ""
+    },
+    {
+        "name": "Merge Manufacturing Order",
+        "image": null,
+        "technical_name": "eg_merge_mrp_orders",
+        "category": ""
+    },
+    {
+        "name": "Merge Purchase Order",
+        "image": null,
+        "technical_name": "eg_merge_purchase_order",
+        "category": ""
+    },
+    {
+        "name": "Multi Company features of Odoo System are supported",
+        "image": null,
+        "technical_name": "eg_doc_approval",
+        "category": ""
+    },
+    {
+        "name": "Multi UOM Price list",
+        "image": null,
+        "technical_name": "eg_multi_uom_pricelist",
+        "category": ""
+    },
+    {
+        "name": "Multiple Invoice Payment",
+        "image": null,
+        "technical_name": "eg_multi_invoice_payment",
+        "category": ""
+    }
+]

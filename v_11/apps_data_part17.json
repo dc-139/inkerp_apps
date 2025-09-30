@@ -1,0 +1,50 @@
+[
+    {
+        "name": "E-commerce Base",
+        "image": null,
+        "technical_name": "eg_ecommerce_base",
+        "category": ""
+    },
+    {
+        "name": "Import Purchase Order Line",
+        "image": null,
+        "technical_name": "eg_import_purchase_order_line",
+        "category": ""
+    },
+    {
+        "name": "Import Sale Order Line",
+        "image": null,
+        "technical_name": "eg_import_sale_order_line",
+        "category": ""
+    },
+    {
+        "name": "Invoice Order Excel Report",
+        "image": null,
+        "technical_name": "eg_invoice_excel_report",
+        "category": ""
+    },
+    {
+        "name": "Invoice Payment Report",
+        "image": null,
+        "technical_name": "eg_invoice_payment_report",
+        "category": ""
+    },
+    {
+        "name": "Invoice Validation Approval",
+        "image": null,
+        "technical_name": "eg_invoice_validation_approval",
+        "category": ""
+    },
+    {
+        "name": "Eg Low Stock Notification",
+        "image": null,
+        "technical_name": "eg_low_stock_notification",
+        "category": ""
+    },
+    {
+        "name": "Merge Delivery Order",
+        "image": null,
+        "technical_name": "eg_merge_delivery_order",
+        "category": ""
+    }
+]

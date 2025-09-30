@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Custom Fields In Task",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_task",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields In Users",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_users",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields in Accountv",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_account",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields in Employee",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_employee",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields in Lead",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_crm",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields in Purchase",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_purchase",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields in Sale",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_sale",
+        "category": ""
+    },
+    {
+        "name": "Custom Fields in Stock",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_stock",
+        "category": ""
+    },
+    {
+        "name": "Customer Discount",
+        "image": null,
+        "technical_name": "eg_customer_discount",
+        "category": ""
+    },
+    {
+        "name": "Customer Supplier Approve",
+        "image": null,
+        "technical_name": "eg_customer_supplier_approve",
+        "category": ""
+    }
+]

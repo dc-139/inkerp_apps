@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sale Order list line",
+        "image": null,
+        "technical_name": "eg_sale_line_list_view",
+        "category": ""
+    },
+    {
+        "name": "Unique Code in Product",
+        "image": null,
+        "technical_name": "eg_product_code_unique",
+        "category": ""
+    },
+    {
+        "name": "Unpaid Invoice Reminder",
+        "image": null,
+        "technical_name": "eg_unpaid_invoice_reminder",
+        "category": ""
+    },
+    {
+        "name": "Update Mass variants",
+        "image": null,
+        "technical_name": "eg_mass_update_variant_cost",
+        "category": ""
+    },
+    {
+        "name": "Add Vendor Type in Contacts",
+        "image": null,
+        "technical_name": "eg_vendor_type",
+        "category": ""
+    },
+    {
+        "name": "All in one Hide Description",
+        "image": null,
+        "technical_name": "eg_all_in_one_desc",
+        "category": ""
+    },
+    {
+        "name": "Manufacturing Category",
+        "image": null,
+        "technical_name": "eg_manufacturing_category",
+        "category": ""
+    },
+    {
+        "name": "Product weight in Delivery Order",
+        "image": null,
+        "technical_name": "eg_do_weight",
+        "category": ""
+    },
+    {
+        "name": "Receipt Status on Purchase order",
+        "image": null,
+        "technical_name": "eg_po_receipt_status",
+        "category": ""
+    },
+    {
+        "name": "Sale Order Detail",
+        "image": null,
+        "technical_name": "eg_so_order_detail",
+        "category": ""
+    }
+]

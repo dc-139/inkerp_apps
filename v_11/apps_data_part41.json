@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Clickable Source Document in Purchase",
+        "image": null,
+        "technical_name": "eg_purchase_source_document_in_clickable",
+        "category": ""
+    },
+    {
+        "name": "Count of Delivery Order in SO",
+        "image": null,
+        "technical_name": "eg_do_count_in_so",
+        "category": ""
+    },
+    {
+        "name": "Delivery Order after Sale Confirm",
+        "image": null,
+        "technical_name": "eg_delivery_after_sale_confirm",
+        "category": ""
+    },
+    {
+        "name": "Last Active Date of User",
+        "image": null,
+        "technical_name": "eg_user_last_active_date",
+        "category": ""
+    },
+    {
+        "name": "Last Update on Product",
+        "image": null,
+        "technical_name": "eg_last_product_update",
+        "category": ""
+    },
+    {
+        "name": "Max Discount in Sale Order",
+        "image": null,
+        "technical_name": "eg_sale_max_discount",
+        "category": ""
+    },
+    {
+        "name": "Number of Days in Partner",
+        "image": null,
+        "technical_name": "eg_no_of_days_in_partner",
+        "category": ""
+    },
+    {
+        "name": "Number of days in Product",
+        "image": null,
+        "technical_name": "eg_no_of_days_in_product",
+        "category": ""
+    },
+    {
+        "name": "Purchase Quotation number",
+        "image": null,
+        "technical_name": "eg_purchase_quotation_order_number",
+        "category": ""
+    },
+    {
+        "name": "Purchase Receipt by Date",
+        "image": null,
+        "technical_name": "eg_purchase_receipt_by_date",
+        "category": ""
+    }
+]
