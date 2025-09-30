@@ -3,48 +3,48 @@
         "name": "Unique Project Task Alert",
         "image": null,
         "technical_name": "eg_unique_project_task_alert",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "User Specific Product",
         "image": null,
         "technical_name": "eg_user_specific_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "User Specific Product",
         "image": null,
         "technical_name": "eg_user_specific_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "User Specific Product",
         "image": null,
         "technical_name": "eg_user_specific_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "User Specific Product",
         "image": null,
         "technical_name": "eg_user_specific_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "User Specific Product",
         "image": null,
         "technical_name": "eg_user_specific_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Users Last Login Date",
         "image": null,
         "technical_name": "eg_user_last_login_date",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Users Last Login Date",
         "image": null,
         "technical_name": "eg_user_last_login_date",
-        "category": "Purchases"
+        "category": ""
     }
 ]

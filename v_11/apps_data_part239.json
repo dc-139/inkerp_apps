@@ -3,13 +3,13 @@
         "name": "Create Invoice From Picking",
         "image": null,
         "technical_name": "eg_invoice_from_do",
-        "category": "Point of Sale"
+        "category": "Accounting"
     },
     {
         "name": "Create Invoice From Picking",
         "image": null,
         "technical_name": "eg_invoice_from_do",
-        "category": "Point of Sale"
+        "category": "Accounting"
     },
     {
         "name": "POS to Purchase",

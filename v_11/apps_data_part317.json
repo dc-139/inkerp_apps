@@ -3,13 +3,13 @@
         "name": "Split Purchase Order",
         "image": null,
         "technical_name": "eg_split_purchase_order",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Split Purchase Order",
         "image": null,
         "technical_name": "eg_split_purchase_order",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Split Sale Order",

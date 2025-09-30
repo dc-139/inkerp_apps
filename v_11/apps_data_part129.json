@@ -21,42 +21,42 @@
         "name": "Sale Order list line",
         "image": null,
         "technical_name": "eg_sale_line_list_view",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Sale Order list line",
         "image": null,
         "technical_name": "eg_sale_line_list_view",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Sale Order list line",
         "image": null,
         "technical_name": "eg_sale_line_list_view",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Sale Order list line",
         "image": null,
         "technical_name": "eg_sale_line_list_view",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Sale Order list line",
         "image": null,
         "technical_name": "eg_sale_line_list_view",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Unique Code in Product",
         "image": null,
         "technical_name": "eg_product_code_unique",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Unique Code in Product",
         "image": null,
         "technical_name": "eg_product_code_unique",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

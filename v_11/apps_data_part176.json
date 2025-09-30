@@ -3,13 +3,13 @@
         "name": "Product Maximum Discount Limit",
         "image": null,
         "technical_name": "eg_product_discount_limit",
-        "category": "Sales"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Maximum Discount Limit",
         "image": null,
         "technical_name": "eg_product_discount_limit",
-        "category": "Sales"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Restriction on Customer",

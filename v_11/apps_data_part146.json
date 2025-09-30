@@ -57,6 +57,6 @@
         "name": "Product Restriction on User",
         "image": null,
         "technical_name": "eg_product_restriction_on_users",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

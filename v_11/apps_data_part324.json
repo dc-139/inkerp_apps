@@ -3,37 +3,37 @@
         "name": "User Signature in Picking/Delivery Slip Reports",
         "image": null,
         "technical_name": "eg_inventory_user_signature_report",
-        "category": "Sales"
+        "category": "Warehouse"
     },
     {
         "name": "User Signature in Picking/Delivery Slip Reports",
         "image": null,
         "technical_name": "eg_inventory_user_signature_report",
-        "category": "Sales"
+        "category": "Warehouse"
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
         "image": null,
         "technical_name": "eg_purchase_user_signature_report",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
         "image": null,
         "technical_name": "eg_purchase_user_signature_report",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
         "image": null,
         "technical_name": "eg_purchase_user_signature_report",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
         "image": null,
         "technical_name": "eg_purchase_user_signature_report",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "User Signature in Sale/Quotation Reports",

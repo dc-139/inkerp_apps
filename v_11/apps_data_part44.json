@@ -3,43 +3,43 @@
         "name": "Import Purchase Order Line",
         "image": null,
         "technical_name": "eg_import_purchase_order_line",
-        "category": "Extra Tools"
+        "category": "Purchases"
     },
     {
         "name": "Import Purchase Order Line",
         "image": null,
         "technical_name": "eg_import_purchase_order_line",
-        "category": "Extra Tools"
+        "category": "Purchases"
     },
     {
         "name": "Import Purchase Order Line",
         "image": null,
         "technical_name": "eg_import_purchase_order_line",
-        "category": "Extra Tools"
+        "category": "Purchases"
     },
     {
         "name": "Import Sale Order Line",
         "image": null,
         "technical_name": "eg_import_sale_order_line",
-        "category": "Extra Tools"
+        "category": "Sales"
     },
     {
         "name": "Import Sale Order Line",
         "image": null,
         "technical_name": "eg_import_sale_order_line",
-        "category": "Extra Tools"
+        "category": "Sales"
     },
     {
         "name": "Import Sale Order Line",
         "image": null,
         "technical_name": "eg_import_sale_order_line",
-        "category": "Extra Tools"
+        "category": "Sales"
     },
     {
         "name": "Import Sale Order Line",
         "image": null,
         "technical_name": "eg_import_sale_order_line",
-        "category": "Extra Tools"
+        "category": "Sales"
     },
     {
         "name": "Invoice Order Excel Report",

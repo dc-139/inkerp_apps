@@ -45,6 +45,6 @@
         "name": "Bulk validate Bills",
         "image": null,
         "technical_name": "eg_bulk_bill_validate",
-        "category": "Sales"
+        "category": ""
     }
 ]

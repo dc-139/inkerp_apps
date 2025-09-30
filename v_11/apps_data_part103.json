@@ -3,60 +3,60 @@
         "name": "Default Project Stages",
         "image": null,
         "technical_name": "eg_project_default_stage",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Default Project Stages",
         "image": null,
         "technical_name": "eg_project_default_stage",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Default Project Stages",
         "image": null,
         "technical_name": "eg_project_default_stage",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Default Project Stages",
         "image": null,
         "technical_name": "eg_project_default_stage",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Default Project Stages",
         "image": null,
         "technical_name": "eg_project_default_stage",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Default Project Stages",
         "image": null,
         "technical_name": "eg_project_default_stage",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Default Project Stages",
         "image": null,
         "technical_name": "eg_project_default_stage",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Hide Product Price",
         "image": null,
         "technical_name": "eg_hide_product_price",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Hide Product Price",
         "image": null,
         "technical_name": "eg_hide_product_price",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Hide Product Price",
         "image": null,
         "technical_name": "eg_hide_product_price",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

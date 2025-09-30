@@ -27,6 +27,6 @@
         "name": "Operation Type Restriction",
         "image": null,
         "technical_name": "eg_stock_picking_type_restriction",
-        "category": "Sales"
+        "category": ""
     }
 ]

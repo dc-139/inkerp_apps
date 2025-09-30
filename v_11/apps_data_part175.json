@@ -3,48 +3,48 @@
         "name": "Print product image",
         "image": null,
         "technical_name": "eg_sale_invoice_product_image",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Print product image",
         "image": null,
         "technical_name": "eg_sale_invoice_product_image",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Print product image",
         "image": null,
         "technical_name": "eg_sale_invoice_product_image",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Maximum Discount Limit",
         "image": null,
         "technical_name": "eg_product_discount_limit",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Maximum Discount Limit",
         "image": null,
         "technical_name": "eg_product_discount_limit",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Maximum Discount Limit",
         "image": null,
         "technical_name": "eg_product_discount_limit",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Maximum Discount Limit",
         "image": null,
         "technical_name": "eg_product_discount_limit",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Maximum Discount Limit",
         "image": null,
         "technical_name": "eg_product_discount_limit",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

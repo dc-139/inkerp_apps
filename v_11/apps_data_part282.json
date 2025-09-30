@@ -3,60 +3,60 @@
         "name": "Product Catch Weight Inventory",
         "image": null,
         "technical_name": "eg_product_catch_weight_inventory",
-        "category": "Purchases"
+        "category": "Warehouse"
     },
     {
         "name": "Product Catch Weight Inventory",
         "image": null,
         "technical_name": "eg_product_catch_weight_inventory",
-        "category": "Purchases"
+        "category": "Warehouse"
     },
     {
         "name": "Product Catch Weight Inventory",
         "image": null,
         "technical_name": "eg_product_catch_weight_inventory",
-        "category": "Purchases"
+        "category": "Warehouse"
     },
     {
         "name": "Product Catch Weight Inventory",
         "image": null,
         "technical_name": "eg_product_catch_weight_inventory",
-        "category": "Purchases"
+        "category": "Warehouse"
     },
     {
         "name": "Product Customer  Info",
         "image": null,
         "technical_name": "eg_product_customer_info",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Product Customer  Info",
         "image": null,
         "technical_name": "eg_product_customer_info",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Product Customer  Info",
         "image": null,
         "technical_name": "eg_product_customer_info",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Product Dimension",
         "image": null,
         "technical_name": "eg_product_dimension",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Dimension",
         "image": null,
         "technical_name": "eg_product_dimension",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Dimension",
         "image": null,
         "technical_name": "eg_product_dimension",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

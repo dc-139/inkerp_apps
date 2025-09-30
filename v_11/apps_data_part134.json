@@ -3,60 +3,60 @@
         "name": "Manufacturing Category",
         "image": null,
         "technical_name": "eg_manufacturing_category",
-        "category": "Purchases"
+        "category": "Manufacturing"
     },
     {
         "name": "Manufacturing Category",
         "image": null,
         "technical_name": "eg_manufacturing_category",
-        "category": "Purchases"
+        "category": "Manufacturing"
     },
     {
         "name": "Manufacturing Category",
         "image": null,
         "technical_name": "eg_manufacturing_category",
-        "category": "Purchases"
+        "category": "Manufacturing"
     },
     {
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

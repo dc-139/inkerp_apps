@@ -3,7 +3,7 @@
         "name": "Last Sale Price & Quantity",
         "image": null,
         "technical_name": "eg_last_sale_quantity_price",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Low Stock Information",

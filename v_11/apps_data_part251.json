@@ -3,31 +3,31 @@
         "name": "Fedex Shipping Connector",
         "image": null,
         "technical_name": "eg_fedex_shipping_connector",
-        "category": "Human Resources"
+        "category": "Extra Tools"
     },
     {
         "name": "Generic Import",
         "image": null,
         "technical_name": "eg_generic_import",
-        "category": "Human Resources"
+        "category": "Extra Tools"
     },
     {
         "name": "Generic Import",
         "image": null,
         "technical_name": "eg_generic_import",
-        "category": "Human Resources"
+        "category": "Extra Tools"
     },
     {
         "name": "Generic Import",
         "image": null,
         "technical_name": "eg_generic_import",
-        "category": "Human Resources"
+        "category": "Extra Tools"
     },
     {
         "name": "Generic Import",
         "image": null,
         "technical_name": "eg_generic_import",
-        "category": "Human Resources"
+        "category": "Extra Tools"
     },
     {
         "name": "Hr Employee Medical",
@@ -57,6 +57,6 @@
         "name": "Hr Overtime",
         "image": null,
         "technical_name": "eg_hr_overtime",
-        "category": "Human Resources"
+        "category": ""
     }
 ]

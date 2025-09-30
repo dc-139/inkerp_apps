@@ -3,31 +3,31 @@
         "name": "Account partner auto reconcile",
         "image": null,
         "technical_name": "eg_account_partner_auto_reconcile",
-        "category": "Purchases"
+        "category": "Accounting"
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
         "image": null,
         "technical_name": "eg_advance_search_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
         "image": null,
         "technical_name": "eg_advance_search_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
         "image": null,
         "technical_name": "eg_advance_search_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
         "image": null,
         "technical_name": "eg_advance_search_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Advance Product Search in PO",
@@ -57,6 +57,6 @@
         "name": "Advance Product Search in SO & PO",
         "image": null,
         "technical_name": "eg_sale_purchase_multi_product_adv",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

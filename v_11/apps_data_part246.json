@@ -3,7 +3,7 @@
         "name": "Customer Supplier Approve",
         "image": null,
         "technical_name": "eg_customer_supplier_approve",
-        "category": "Productivity"
+        "category": "Sales"
     },
     {
         "name": "Disable Update Quantity Feature",

@@ -3,60 +3,60 @@
         "name": "Item Count In Sale Order",
         "image": null,
         "technical_name": "eg_count_in_so",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Item Count In Sale Order",
         "image": null,
         "technical_name": "eg_count_in_so",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Item Count In Sale Order",
         "image": null,
         "technical_name": "eg_count_in_so",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Item Count In Sale Order",
         "image": null,
         "technical_name": "eg_count_in_so",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Item Count In Sale Order",
         "image": null,
         "technical_name": "eg_count_in_so",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Item Count In Sale Order",
         "image": null,
         "technical_name": "eg_count_in_so",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Item Count In Sale Order",
         "image": null,
         "technical_name": "eg_count_in_so",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Product Allowed on User",
         "image": null,
         "technical_name": "eg_allowed_product_on_user",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Allowed on User",
         "image": null,
         "technical_name": "eg_allowed_product_on_user",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Allowed on User",
         "image": null,
         "technical_name": "eg_allowed_product_on_user",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

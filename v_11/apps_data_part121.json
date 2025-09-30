@@ -3,43 +3,43 @@
         "name": "Lock Price",
         "image": null,
         "technical_name": "eg_lock_price",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Lock Price",
         "image": null,
         "technical_name": "eg_lock_price",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Product Scrap",
         "image": null,
         "technical_name": "eg_product_scrap",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Scrap",
         "image": null,
         "technical_name": "eg_product_scrap",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Scrap",
         "image": null,
         "technical_name": "eg_product_scrap",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Scrap",
         "image": null,
         "technical_name": "eg_product_scrap",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Scrap",
         "image": null,
         "technical_name": "eg_product_scrap",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Purchase Order Product Weight Information",

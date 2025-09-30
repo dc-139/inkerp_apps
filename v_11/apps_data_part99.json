@@ -3,60 +3,60 @@
         "name": "Product Approval",
         "image": null,
         "technical_name": "eg_approve_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Approval",
         "image": null,
         "technical_name": "eg_approve_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Approval",
         "image": null,
         "technical_name": "eg_approve_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Approval",
         "image": null,
         "technical_name": "eg_approve_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product Approval",
         "image": null,
         "technical_name": "eg_approve_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Cheque Number on Payment",
         "image": null,
         "technical_name": "eg_cheque_number_on_payment",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Cheque Number on Payment",
         "image": null,
         "technical_name": "eg_cheque_number_on_payment",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Cheque Number on Payment",
         "image": null,
         "technical_name": "eg_cheque_number_on_payment",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Cheque Number on Payment",
         "image": null,
         "technical_name": "eg_cheque_number_on_payment",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Cheque Number on Payment",
         "image": null,
         "technical_name": "eg_cheque_number_on_payment",
-        "category": "Purchases"
+        "category": ""
     }
 ]

@@ -3,13 +3,13 @@
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Product weight in Delivery Order",
         "image": null,
         "technical_name": "eg_do_weight",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Receipt Status on Purchase order",

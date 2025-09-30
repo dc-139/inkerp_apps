@@ -3,43 +3,43 @@
         "name": "Inventory User Confirmation",
         "image": null,
         "technical_name": "eg_inventory_user_confirmation",
-        "category": "Human Resources"
+        "category": "Warehouse"
     },
     {
         "name": "Inventory User Confirmation",
         "image": null,
         "technical_name": "eg_inventory_user_confirmation",
-        "category": "Human Resources"
+        "category": "Warehouse"
     },
     {
         "name": "Inventory User Confirmation",
         "image": null,
         "technical_name": "eg_inventory_user_confirmation",
-        "category": "Human Resources"
+        "category": "Warehouse"
     },
     {
         "name": "Invoice User Confirmation",
         "image": null,
         "technical_name": "eg_invoice_user_confirmation",
-        "category": "Human Resources"
+        "category": "Accounting"
     },
     {
         "name": "Invoice User Confirmation",
         "image": null,
         "technical_name": "eg_invoice_user_confirmation",
-        "category": "Human Resources"
+        "category": "Accounting"
     },
     {
         "name": "Invoice User Confirmation",
         "image": null,
         "technical_name": "eg_invoice_user_confirmation",
-        "category": "Human Resources"
+        "category": "Accounting"
     },
     {
         "name": "Sale User Confirmation",
         "image": null,
         "technical_name": "eg_sale_user_confirmation",
-        "category": "Human Resources"
+        "category": "Sales"
     },
     {
         "name": "Hr Employee Document",

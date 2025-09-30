@@ -3,25 +3,25 @@
         "name": "Import Sale Order Line",
         "image": null,
         "technical_name": "eg_import_sale_order_line",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Import Sale Order Line",
         "image": null,
         "technical_name": "eg_import_sale_order_line",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Import Sale Order Line",
         "image": null,
         "technical_name": "eg_import_sale_order_line",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "POS Import Sale Order",
         "image": null,
         "technical_name": "eg_pos_import_sale_order",
-        "category": "Warehouse"
+        "category": "Point of Sale"
     },
     {
         "name": "Import Stock Picking",

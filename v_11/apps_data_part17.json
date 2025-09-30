@@ -3,7 +3,7 @@
         "name": "Cancel Bulk Invoice Entry",
         "image": null,
         "technical_name": "eg_invoice_bulk_cancel",
-        "category": "Warehouse"
+        "category": "Accounting"
     },
     {
         "name": "Inventory Report Printed Check",

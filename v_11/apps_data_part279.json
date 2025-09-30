@@ -3,30 +3,30 @@
         "name": "Pricelist Restriction",
         "image": null,
         "technical_name": "eg_pricelist_restrictions",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Print Product Expiry Report",
         "image": null,
         "technical_name": "eg_product_expiry_report",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Print Product Expiry Report",
         "image": null,
         "technical_name": "eg_product_expiry_report",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Print Product Expiry Report",
         "image": null,
         "technical_name": "eg_product_expiry_report",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Print Product Expiry Report",
         "image": null,
         "technical_name": "eg_product_expiry_report",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

@@ -3,55 +3,55 @@
         "name": "Purchase Order Product Weight Information",
         "image": null,
         "technical_name": "eg_po_weight",
-        "category": "Warehouse"
+        "category": "Purchases"
     },
     {
         "name": "Sale Quotation Date",
         "image": null,
         "technical_name": "eg_sale_quotation_date",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Sale Quotation Date",
         "image": null,
         "technical_name": "eg_sale_quotation_date",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Sale Quotation Date",
         "image": null,
         "technical_name": "eg_sale_quotation_date",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Sale Quotation Date",
         "image": null,
         "technical_name": "eg_sale_quotation_date",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Sale Quotation Date",
         "image": null,
         "technical_name": "eg_sale_quotation_date",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Sale Quotation Date",
         "image": null,
         "technical_name": "eg_sale_quotation_date",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Sale Quotation Date",
         "image": null,
         "technical_name": "eg_sale_quotation_date",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Sale Quotation Date",
         "image": null,
         "technical_name": "eg_sale_quotation_date",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Today Yesterday Filter in DO",

@@ -27,18 +27,18 @@
         "name": "Print product image",
         "image": null,
         "technical_name": "eg_sale_invoice_product_image",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Print product image",
         "image": null,
         "technical_name": "eg_sale_invoice_product_image",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Print product image",
         "image": null,
         "technical_name": "eg_sale_invoice_product_image",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

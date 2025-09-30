@@ -3,13 +3,13 @@
         "name": "Cancel sale order in Bulk",
         "image": null,
         "technical_name": "eg_sales_bulk_cancel",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Cancel sale order in Bulk",
         "image": null,
         "technical_name": "eg_sales_bulk_cancel",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Delivery note on purchase",

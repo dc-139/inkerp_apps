@@ -3,55 +3,55 @@
         "name": "Product Purchase Price History",
         "image": null,
         "technical_name": "eg_product_purchase_price_history",
-        "category": "Warehouse"
+        "category": "Purchases"
     },
     {
         "name": "Product Sale Price History",
         "image": null,
         "technical_name": "eg_product_sale_price_history",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Product Sale Price History",
         "image": null,
         "technical_name": "eg_product_sale_price_history",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Product Sale Price History",
         "image": null,
         "technical_name": "eg_product_sale_price_history",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Product Sale Price History",
         "image": null,
         "technical_name": "eg_product_sale_price_history",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Purchase Order from Manufacturing Order",
         "image": null,
         "technical_name": "eg_po_from_mo",
-        "category": "Warehouse"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Manufacturing Order",
         "image": null,
         "technical_name": "eg_po_from_mo",
-        "category": "Warehouse"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Manufacturing Order",
         "image": null,
         "technical_name": "eg_po_from_mo",
-        "category": "Warehouse"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Manufacturing Order",
         "image": null,
         "technical_name": "eg_po_from_mo",
-        "category": "Warehouse"
+        "category": "Purchases"
     },
     {
         "name": "Stock Barcode for Odoo Community",

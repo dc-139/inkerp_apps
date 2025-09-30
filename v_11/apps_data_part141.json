@@ -3,7 +3,7 @@
         "name": "Delivery note on purchase",
         "image": null,
         "technical_name": "eg_purchase_delivery_note",
-        "category": "Human Resources"
+        "category": "Purchases"
     },
     {
         "name": "Employee Sequence",

@@ -3,7 +3,7 @@
         "name": "Split Sale Order",
         "image": null,
         "technical_name": "eg_split_quotation_order",
-        "category": "Warehouse"
+        "category": "Sales"
     },
     {
         "name": "Stock Barcode Responsive",

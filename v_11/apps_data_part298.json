@@ -3,43 +3,43 @@
         "name": "Purchase Order from Manufacturing Order",
         "image": null,
         "technical_name": "eg_po_from_mo",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Manufacturing Order",
         "image": null,
         "technical_name": "eg_po_from_mo",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Manufacturing Order",
         "image": null,
         "technical_name": "eg_po_from_mo",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Sale Order",
         "image": null,
         "technical_name": "eg_po_from_so",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Sale Order",
         "image": null,
         "technical_name": "eg_po_from_so",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Sale Order",
         "image": null,
         "technical_name": "eg_po_from_so",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order from Sale Order",
         "image": null,
         "technical_name": "eg_po_from_so",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order to Sale Order",

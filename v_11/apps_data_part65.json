@@ -3,43 +3,43 @@
         "name": "Purchase Order Email Notification",
         "image": null,
         "technical_name": "eg_po_email_notification",
-        "category": "Human Resources"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order Email Notification",
         "image": null,
         "technical_name": "eg_po_email_notification",
-        "category": "Human Resources"
+        "category": "Purchases"
     },
     {
         "name": "Purchase Order Email Notification",
         "image": null,
         "technical_name": "eg_po_email_notification",
-        "category": "Human Resources"
+        "category": "Purchases"
     },
     {
         "name": "Sale Order To Task",
         "image": null,
         "technical_name": "eg_so_task",
-        "category": "Human Resources"
+        "category": "Sales"
     },
     {
         "name": "Sale Order To Task",
         "image": null,
         "technical_name": "eg_so_task",
-        "category": "Human Resources"
+        "category": "Sales"
     },
     {
         "name": "Sale Order To Task",
         "image": null,
         "technical_name": "eg_so_task",
-        "category": "Human Resources"
+        "category": "Sales"
     },
     {
         "name": "Sale Order To Task",
         "image": null,
         "technical_name": "eg_so_task",
-        "category": "Human Resources"
+        "category": "Sales"
     },
     {
         "name": "Purchase Request By Employees",

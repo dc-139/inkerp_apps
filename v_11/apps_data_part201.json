@@ -3,54 +3,54 @@
         "name": "Number of Days in Partner",
         "image": null,
         "technical_name": "eg_no_of_days_in_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Number of Days in Partner",
         "image": null,
         "technical_name": "eg_no_of_days_in_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Number of Days in Partner",
         "image": null,
         "technical_name": "eg_no_of_days_in_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Number of Days in Partner",
         "image": null,
         "technical_name": "eg_no_of_days_in_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Number of Days in Partner",
         "image": null,
         "technical_name": "eg_no_of_days_in_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Number of Days in Partner",
         "image": null,
         "technical_name": "eg_no_of_days_in_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Number of Days in Partner",
         "image": null,
         "technical_name": "eg_no_of_days_in_partner",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Number of days in Product",
         "image": null,
         "technical_name": "eg_no_of_days_in_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Number of days in Product",
         "image": null,
         "technical_name": "eg_no_of_days_in_product",
-        "category": "Purchases"
+        "category": "PurchasesSalesWarehouse"
     }
 ]

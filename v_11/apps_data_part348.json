@@ -9,13 +9,13 @@
         "name": "Custom Fields In Product",
         "image": null,
         "technical_name": "eg_custom_fields_in_product",
-        "category": "Sales"
+        "category": "PurchasesSalesWarehouse"
     },
     {
         "name": "Custom Fields in Purchase",
         "image": null,
         "technical_name": "eg_custom_fields_in_purchase",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Custom Fields in Sale",

@@ -3,55 +3,55 @@
         "name": "Sale line Description on MRP-Workorder and Picking",
         "image": null,
         "technical_name": "eg_sale_description_mrp",
-        "category": "Website"
+        "category": "SalesManufacturing"
     },
     {
         "name": "Sale line Description on MRP-Workorder and Picking",
         "image": null,
         "technical_name": "eg_sale_description_mrp",
-        "category": "Website"
+        "category": "SalesManufacturing"
     },
     {
         "name": "Sale Order Compare",
         "image": null,
         "technical_name": "eg_so_compare",
-        "category": "Website"
+        "category": "Sales"
     },
     {
         "name": "Sale Order Compare",
         "image": null,
         "technical_name": "eg_so_compare",
-        "category": "Website"
+        "category": "Sales"
     },
     {
         "name": "Sale Order Compare",
         "image": null,
         "technical_name": "eg_so_compare",
-        "category": "Website"
+        "category": "Sales"
     },
     {
         "name": "Sale Order Compare",
         "image": null,
         "technical_name": "eg_so_compare",
-        "category": "Website"
+        "category": "Sales"
     },
     {
         "name": "Journal Restriction",
         "image": null,
         "technical_name": "eg_journal_restriction",
-        "category": "Website"
+        "category": ""
     },
     {
         "name": "Journal Restriction",
         "image": null,
         "technical_name": "eg_journal_restriction",
-        "category": "Website"
+        "category": ""
     },
     {
         "name": "Journal Restriction",
         "image": null,
         "technical_name": "eg_journal_restriction",
-        "category": "Website"
+        "category": ""
     },
     {
         "name": "Website Birthday Discount",

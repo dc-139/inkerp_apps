@@ -3,13 +3,13 @@
         "name": "Last Purchase Quantity & Price",
         "image": null,
         "technical_name": "eg_last_purchse_quantity_price",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Last Purchase Quantity & Price",
         "image": null,
         "technical_name": "eg_last_purchse_quantity_price",
-        "category": "Sales"
+        "category": "Purchases"
     },
     {
         "name": "Last Sale Price & Quantity",

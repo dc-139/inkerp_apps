@@ -3,7 +3,7 @@
         "name": "Bulk Cancel Quotations",
         "image": null,
         "technical_name": "eg_cancel_quotation",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Bulk Import Pricelist in odoo",

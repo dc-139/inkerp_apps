@@ -3,31 +3,31 @@
         "name": "Quick Preview Project",
         "image": null,
         "technical_name": "eg_quick_preview_project",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Quick Preview Project",
         "image": null,
         "technical_name": "eg_quick_preview_project",
-        "category": "Purchases"
+        "category": "Project"
     },
     {
         "name": "Quick Preview Invoice",
         "image": null,
         "technical_name": "eg_quick_preview_invoice",
-        "category": "Purchases"
+        "category": "Accounting"
     },
     {
         "name": "Quick Preview Invoice",
         "image": null,
         "technical_name": "eg_quick_preview_invoice",
-        "category": "Purchases"
+        "category": "Accounting"
     },
     {
         "name": "Quick Preview Invoice",
         "image": null,
         "technical_name": "eg_quick_preview_invoice",
-        "category": "Purchases"
+        "category": "Accounting"
     },
     {
         "name": "Quick Preview Purchase Order",
@@ -51,12 +51,12 @@
         "name": "Quick Preview Delivery Order",
         "image": null,
         "technical_name": "eg_quick_preview_delivery_order",
-        "category": "Purchases"
+        "category": ""
     },
     {
         "name": "Quick Preview Delivery Order",
         "image": null,
         "technical_name": "eg_quick_preview_delivery_order",
-        "category": "Purchases"
+        "category": ""
     }
 ]

@@ -3,37 +3,37 @@
         "name": "Remove Internal Reference(SKU) From Product Name",
         "image": null,
         "technical_name": "eg_remove_internal_reference",
-        "category": "Purchases"
+        "category": "Productivity"
     },
     {
         "name": "Customer Credit Warning",
         "image": null,
         "technical_name": "eg_customer_credit_warning",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Customer Credit Warning",
         "image": null,
         "technical_name": "eg_customer_credit_warning",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Customer Credit Warning",
         "image": null,
         "technical_name": "eg_customer_credit_warning",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Customer Credit Warning",
         "image": null,
         "technical_name": "eg_customer_credit_warning",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "Customer Credit Warning",
         "image": null,
         "technical_name": "eg_customer_credit_warning",
-        "category": "Purchases"
+        "category": "Sales"
     },
     {
         "name": "On Hand Quantity in Purchase Order",
