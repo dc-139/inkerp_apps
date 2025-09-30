@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Create Invoice From Picking",
+        "image": null,
+        "technical_name": "eg_invoice_from_do",
+        "category": "Point of Sale"
+    },
+    {
+        "name": "Create Invoice From Picking",
+        "image": null,
+        "technical_name": "eg_invoice_from_do",
+        "category": "Point of Sale"
+    },
+    {
+        "name": "POS to Purchase",
+        "image": null,
+        "technical_name": "eg_pos_create_purchase",
+        "category": "Point of Sale"
+    }
+]

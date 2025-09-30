@@ -1,44 +1,38 @@
 [
     {
-        "name": "Advance Multiple Branch Management",
+        "name": "PostNl Shipping Connector",
         "image": null,
-        "technical_name": "eg_advance_branch_management",
-        "category": ""
+        "technical_name": "eg_postnl_shipping_connector",
+        "category": "Extra Tools"
     },
     {
-        "name": "Meeting Room Booking",
+        "name": "PostNl Shipping Connector",
         "image": null,
-        "technical_name": "eg_meeting_room_booking",
-        "category": ""
+        "technical_name": "eg_postnl_shipping_connector",
+        "category": "Extra Tools"
     },
     {
-        "name": "Website Product And Category Description From Backend",
+        "name": "PostNl Shipping Connector",
         "image": null,
-        "technical_name": "eg_website_description_from_backend",
-        "category": ""
+        "technical_name": "eg_postnl_shipping_connector",
+        "category": "Extra Tools"
     },
     {
-        "name": "Website Disable Add To Cart Button Guest Users",
+        "name": "PostNl Shipping Connector",
         "image": null,
-        "technical_name": "eg_website_disable_add_to_cart_for_guest",
-        "category": ""
+        "technical_name": "eg_postnl_shipping_connector",
+        "category": "Extra Tools"
     },
     {
-        "name": "Website Add to Cart Multi Variant",
+        "name": "Generic Import",
         "image": null,
-        "technical_name": "eg_multi_variant_cart",
-        "category": ""
+        "technical_name": "eg_generic_import",
+        "category": "Extra Tools"
     },
     {
-        "name": "Website Product Field Manager",
+        "name": "Generic Import",
         "image": null,
-        "technical_name": "eg_website_dynamic_product_fields",
-        "category": ""
-    },
-    {
-        "name": "Hide wishlist and Compare for Guest",
-        "image": null,
-        "technical_name": "eg_website_hide_wishlist_and_compare",
-        "category": ""
+        "technical_name": "eg_generic_import",
+        "category": "Extra Tools"
     }
 ]

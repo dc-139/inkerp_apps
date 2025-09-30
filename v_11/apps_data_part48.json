@@ -1,62 +1,38 @@
 [
     {
-        "name": "Employee Advance Expenses",
+        "name": "Product Variant Description",
         "image": null,
-        "technical_name": "eg_employee_advance_expenses",
-        "category": ""
+        "technical_name": "eg_product_var_desc",
+        "category": "Extra Tools"
     },
     {
-        "name": "Employee Attendance Manual Entries",
+        "name": "Product Variant Description",
         "image": null,
-        "technical_name": "eg_attendance_manual_entry",
-        "category": ""
+        "technical_name": "eg_product_var_desc",
+        "category": "Extra Tools"
     },
     {
-        "name": "Employee Expenses Limit",
+        "name": "Product Variant Description",
         "image": null,
-        "technical_name": "eg_employee_expenses_limit",
-        "category": ""
+        "technical_name": "eg_product_var_desc",
+        "category": "Extra Tools"
     },
     {
-        "name": "Employee Monthly Attendance report xls",
+        "name": "Purchase Order Excel Report",
         "image": null,
-        "technical_name": "eg_attendance_report_xls",
-        "category": ""
+        "technical_name": "eg_purchase_excel_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "Hr Employee Medical",
+        "name": "Purchase Order Excel Report",
         "image": null,
-        "technical_name": "eg_hr_employee_medical",
-        "category": ""
+        "technical_name": "eg_purchase_excel_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "Hr Overtime",
+        "name": "Purchase Order Excel Report",
         "image": null,
-        "technical_name": "eg_hr_overtime",
-        "category": ""
-    },
-    {
-        "name": "Import Invoices from Excel",
-        "image": null,
-        "technical_name": "eg_import_invoices_through_excel",
-        "category": ""
-    },
-    {
-        "name": "Import Stock Picking",
-        "image": null,
-        "technical_name": "eg_import_stock_picking",
-        "category": ""
-    },
-    {
-        "name": "Inventory Coverage Report",
-        "image": null,
-        "technical_name": "eg_inventory_coverage_report",
-        "category": ""
-    },
-    {
-        "name": "Inventory Overstock Report",
-        "image": null,
-        "technical_name": "eg_inventory_overstock_report",
-        "category": ""
+        "technical_name": "eg_purchase_excel_report",
+        "category": "Extra Tools"
     }
 ]

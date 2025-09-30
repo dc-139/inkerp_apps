@@ -1,50 +1,32 @@
 [
     {
-        "name": "E-commerce Base",
+        "name": "Cancel Bulk Invoice Entry",
         "image": null,
-        "technical_name": "eg_ecommerce_base",
-        "category": ""
+        "technical_name": "eg_invoice_bulk_cancel",
+        "category": "Warehouse"
     },
     {
-        "name": "Import Purchase Order Line",
+        "name": "Inventory Report Printed Check",
         "image": null,
-        "technical_name": "eg_import_purchase_order_line",
-        "category": ""
+        "technical_name": "eg_inventory_report_printed_check",
+        "category": "Warehouse"
     },
     {
-        "name": "Import Sale Order Line",
+        "name": "Inventory Report Printed Check",
         "image": null,
-        "technical_name": "eg_import_sale_order_line",
-        "category": ""
+        "technical_name": "eg_inventory_report_printed_check",
+        "category": "Warehouse"
     },
     {
-        "name": "Invoice Order Excel Report",
+        "name": "Inventory Report Printed Check",
         "image": null,
-        "technical_name": "eg_invoice_excel_report",
-        "category": ""
+        "technical_name": "eg_inventory_report_printed_check",
+        "category": "Warehouse"
     },
     {
-        "name": "Invoice Payment Report",
+        "name": "Inventory Report Printed Check",
         "image": null,
-        "technical_name": "eg_invoice_payment_report",
-        "category": ""
-    },
-    {
-        "name": "Invoice Validation Approval",
-        "image": null,
-        "technical_name": "eg_invoice_validation_approval",
-        "category": ""
-    },
-    {
-        "name": "Eg Low Stock Notification",
-        "image": null,
-        "technical_name": "eg_low_stock_notification",
-        "category": ""
-    },
-    {
-        "name": "Merge Delivery Order",
-        "image": null,
-        "technical_name": "eg_merge_delivery_order",
-        "category": ""
+        "technical_name": "eg_inventory_report_printed_check",
+        "category": "Warehouse"
     }
 ]

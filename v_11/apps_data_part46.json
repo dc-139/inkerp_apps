@@ -1,62 +1,62 @@
 [
     {
-        "name": "Cancel Journal Entries",
+        "name": "Eg Low Stock Notification",
         "image": null,
-        "technical_name": "eg_account_cancel_journal",
-        "category": ""
+        "technical_name": "eg_low_stock_notification",
+        "category": "Sales"
     },
     {
-        "name": "Change Vendor In Validated Purchase Order",
+        "name": "Eg Low Stock Notification",
         "image": null,
-        "technical_name": "eg_change_vendor_purchase_order",
-        "category": ""
+        "technical_name": "eg_low_stock_notification",
+        "category": "Sales"
     },
     {
-        "name": "Contract Recurring Invoice Analytic",
+        "name": "Eg Low Stock Notification",
         "image": null,
-        "technical_name": "eg_contract_recurring_invoice_analytic",
-        "category": ""
+        "technical_name": "eg_low_stock_notification",
+        "category": "Sales"
     },
     {
-        "name": "Create Invoice From Picking",
+        "name": "Merge Delivery Order",
         "image": null,
-        "technical_name": "eg_invoice_from_do",
-        "category": ""
+        "technical_name": "eg_merge_delivery_order",
+        "category": "Sales"
     },
     {
-        "name": "Create Single invoice",
+        "name": "Merge Delivery Order",
         "image": null,
-        "technical_name": "eg_create_single_invoice",
-        "category": ""
+        "technical_name": "eg_merge_delivery_order",
+        "category": "Sales"
     },
     {
-        "name": "Create Task From CRM-Lead",
+        "name": "Merge Delivery Order",
         "image": null,
-        "technical_name": "eg_create_task_from_lead",
-        "category": ""
+        "technical_name": "eg_merge_delivery_order",
+        "category": "Sales"
     },
     {
-        "name": "Crm Lead Lifetime",
+        "name": "Merge Delivery Order",
         "image": null,
-        "technical_name": "eg_crm_lead_lifetime",
-        "category": ""
+        "technical_name": "eg_merge_delivery_order",
+        "category": "Sales"
     },
     {
-        "name": "Custom Fields In Mrp",
+        "name": "Merge Sale Order",
         "image": null,
-        "technical_name": "eg_custom_fields_in_mrp",
-        "category": ""
+        "technical_name": "eg_merge_sale_order",
+        "category": "Sales"
     },
     {
-        "name": "Custom Fields In Partner",
+        "name": "Merge Sale Order",
         "image": null,
-        "technical_name": "eg_custom_fields_in_partner",
-        "category": ""
+        "technical_name": "eg_merge_sale_order",
+        "category": "Sales"
     },
     {
-        "name": "Custom Fields In Project",
+        "name": "Merge Sale Order",
         "image": null,
-        "technical_name": "eg_custom_fields_in_project",
-        "category": ""
+        "technical_name": "eg_merge_sale_order",
+        "category": "Sales"
     }
 ]

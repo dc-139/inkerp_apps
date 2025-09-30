@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Bulk Cancel Quotations",
+        "image": null,
+        "technical_name": "eg_cancel_quotation",
+        "category": "Purchases"
+    },
+    {
+        "name": "Bulk Import Pricelist in odoo",
+        "image": null,
+        "technical_name": "eg_import_pricelist_in_odoo",
+        "category": "Purchases"
+    },
+    {
+        "name": "Bulk Import Pricelist in odoo",
+        "image": null,
+        "technical_name": "eg_import_pricelist_in_odoo",
+        "category": "Purchases"
+    },
+    {
+        "name": "Bulk Import Pricelist in odoo",
+        "image": null,
+        "technical_name": "eg_import_pricelist_in_odoo",
+        "category": "Purchases"
+    },
+    {
+        "name": "Bulk Import Pricelist in odoo",
+        "image": null,
+        "technical_name": "eg_import_pricelist_in_odoo",
+        "category": "Purchases"
+    },
+    {
+        "name": "CRM Opportunity Purchase",
+        "image": null,
+        "technical_name": "eg_crm_opportunity_purchase",
+        "category": "Purchases"
+    },
+    {
+        "name": "CRM Opportunity Purchase",
+        "image": null,
+        "technical_name": "eg_crm_opportunity_purchase",
+        "category": "Purchases"
+    },
+    {
+        "name": "CRM Opportunity Purchase",
+        "image": null,
+        "technical_name": "eg_crm_opportunity_purchase",
+        "category": "Purchases"
+    },
+    {
+        "name": "CRM Opportunity Purchase",
+        "image": null,
+        "technical_name": "eg_crm_opportunity_purchase",
+        "category": "Purchases"
+    }
+]

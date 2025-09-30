@@ -1,14 +1,20 @@
 [
     {
-        "name": "Purchase Barcode",
+        "name": "Purchase Order Product Weight Information",
         "image": null,
-        "technical_name": "eg_purchase_barcode",
-        "category": ""
+        "technical_name": "eg_po_weight",
+        "category": "Purchases"
     },
     {
-        "name": "Sale Barcode",
+        "name": "Purchase Order Product Weight Information",
         "image": null,
-        "technical_name": "eg_sale_barcode",
-        "category": ""
+        "technical_name": "eg_po_weight",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Product Weight Information",
+        "image": null,
+        "technical_name": "eg_po_weight",
+        "category": "Purchases"
     }
 ]

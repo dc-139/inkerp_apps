@@ -1,32 +1,32 @@
 [
     {
-        "name": "Top Selling Product Report",
+        "name": "POS Receipt Design",
         "image": null,
-        "technical_name": "eg_top_selling_product_report",
-        "category": ""
+        "technical_name": "eg_pos_reciept_design",
+        "category": "Point of Sale"
     },
     {
-        "name": "Woocommerce Integration",
+        "name": "POS Receipt Design",
         "image": null,
-        "technical_name": "eg_woocommerce_integration",
-        "category": ""
+        "technical_name": "eg_pos_reciept_design",
+        "category": "Point of Sale"
     },
     {
-        "name": "Fastlo Delivery Integration",
+        "name": "POS Receipt Design",
         "image": null,
-        "technical_name": "eg_fastlo_shipping_connector",
-        "category": ""
+        "technical_name": "eg_pos_reciept_design",
+        "category": "Point of Sale"
     },
     {
-        "name": "Fedex Shipping Connector",
+        "name": "POS Receipt Design",
         "image": null,
-        "technical_name": "eg_fedex_shipping_connector",
-        "category": ""
+        "technical_name": "eg_pos_reciept_design",
+        "category": "Point of Sale"
     },
     {
-        "name": "SMSA Delivery",
+        "name": "POS Receipt QrCode",
         "image": null,
-        "technical_name": "eg_smsa_delivery",
-        "category": ""
+        "technical_name": "eg_pos_receipt_qrcode",
+        "category": "Point of Sale"
     }
 ]

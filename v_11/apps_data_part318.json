@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Split Sale Order",
+        "image": null,
+        "technical_name": "eg_split_quotation_order",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Stock Barcode Responsive",
+        "image": null,
+        "technical_name": "eg_stock_barcode_responsive",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Stock Barcode Responsive",
+        "image": null,
+        "technical_name": "eg_stock_barcode_responsive",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Stock Barcode Responsive",
+        "image": null,
+        "technical_name": "eg_stock_barcode_responsive",
+        "category": "Warehouse"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Operation Type Restriction",
+        "image": null,
+        "technical_name": "eg_stock_picking_type_restriction",
+        "category": "Purchases"
+    },
+    {
+        "name": "Operation Type Restriction",
+        "image": null,
+        "technical_name": "eg_stock_picking_type_restriction",
+        "category": "Purchases"
+    },
+    {
+        "name": "Operation Type Restriction",
+        "image": null,
+        "technical_name": "eg_stock_picking_type_restriction",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Auto Email",
+        "image": null,
+        "technical_name": "eg_po_auto_email",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Auto Email",
+        "image": null,
+        "technical_name": "eg_po_auto_email",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Auto Email",
+        "image": null,
+        "technical_name": "eg_po_auto_email",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Auto Email",
+        "image": null,
+        "technical_name": "eg_po_auto_email",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Bulk Email",
+        "image": null,
+        "technical_name": "eg_po_bulk_email",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Bulk Email",
+        "image": null,
+        "technical_name": "eg_po_bulk_email",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Bulk Email",
+        "image": null,
+        "technical_name": "eg_po_bulk_email",
+        "category": "Purchases"
+    }
+]

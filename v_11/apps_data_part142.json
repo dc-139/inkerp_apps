@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Invoice Post Confirmation",
+        "image": null,
+        "technical_name": "eg_invoice_confirmation",
+        "category": "Sales"
+    },
+    {
+        "name": "Invoice Post Confirmation",
+        "image": null,
+        "technical_name": "eg_invoice_confirmation",
+        "category": "Sales"
+    },
+    {
+        "name": "Invoice Post Confirmation",
+        "image": null,
+        "technical_name": "eg_invoice_confirmation",
+        "category": "Sales"
+    },
+    {
+        "name": "Invoice Post Confirmation",
+        "image": null,
+        "technical_name": "eg_invoice_confirmation",
+        "category": "Sales"
+    },
+    {
+        "name": "Invoice Status in Sale Order",
+        "image": null,
+        "technical_name": "eg_so_invoice_status",
+        "category": "Sales"
+    },
+    {
+        "name": "Invoice Status in Sale Order",
+        "image": null,
+        "technical_name": "eg_so_invoice_status",
+        "category": "Sales"
+    },
+    {
+        "name": "Invoice Status in Sale Order",
+        "image": null,
+        "technical_name": "eg_so_invoice_status",
+        "category": "Sales"
+    },
+    {
+        "name": "Invoice Status in Sale Order",
+        "image": null,
+        "technical_name": "eg_so_invoice_status",
+        "category": "Sales"
+    },
+    {
+        "name": "Invoice Status in Sale Order",
+        "image": null,
+        "technical_name": "eg_so_invoice_status",
+        "category": "Sales"
+    }
+]

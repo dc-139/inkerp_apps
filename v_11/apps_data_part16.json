@@ -1,20 +1,44 @@
 [
     {
-        "name": "All in one views",
+        "name": "Invoice Post Confirmation",
         "image": null,
-        "technical_name": "eg_all_in_one_views",
-        "category": ""
+        "technical_name": "eg_invoice_confirmation",
+        "category": "Accounting"
     },
     {
-        "name": "Eg All In One Excel Report",
+        "name": "Invoice Post Confirmation",
         "image": null,
-        "technical_name": "eg_all_in_one_excel_report",
-        "category": ""
+        "technical_name": "eg_invoice_confirmation",
+        "category": "Accounting"
     },
     {
-        "name": "Aramex Shipping Connector",
+        "name": "Invoice Post Confirmation",
         "image": null,
-        "technical_name": "eg_aramex_shipping_connector",
-        "category": ""
+        "technical_name": "eg_invoice_confirmation",
+        "category": "Accounting"
+    },
+    {
+        "name": "Invoice Post Confirmation",
+        "image": null,
+        "technical_name": "eg_invoice_confirmation",
+        "category": "Accounting"
+    },
+    {
+        "name": "Cancel Bulk Invoice Entry",
+        "image": null,
+        "technical_name": "eg_invoice_bulk_cancel",
+        "category": "Accounting"
+    },
+    {
+        "name": "Cancel Bulk Invoice Entry",
+        "image": null,
+        "technical_name": "eg_invoice_bulk_cancel",
+        "category": "Accounting"
+    },
+    {
+        "name": "Cancel Bulk Invoice Entry",
+        "image": null,
+        "technical_name": "eg_invoice_bulk_cancel",
+        "category": "Accounting"
     }
 ]

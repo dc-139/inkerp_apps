@@ -1,62 +1,62 @@
 [
     {
-        "name": "Sale Order Compare",
+        "name": "Advance Product Search in SO",
         "image": null,
-        "technical_name": "eg_so_compare",
-        "category": ""
+        "technical_name": "eg_sale_multi_product_adv",
+        "category": "Productivity"
     },
     {
-        "name": "Journal Restriction",
+        "name": "Advance Product Search in SO",
         "image": null,
-        "technical_name": "eg_journal_restriction",
-        "category": ""
+        "technical_name": "eg_sale_multi_product_adv",
+        "category": "Productivity"
     },
     {
-        "name": "Website Birthday Discount",
+        "name": "Advance Product Search in SO",
         "image": null,
-        "technical_name": "eg_website_birthday_discount",
-        "category": ""
+        "technical_name": "eg_sale_multi_product_adv",
+        "category": "Productivity"
     },
     {
-        "name": "Purchase Order Template Product",
+        "name": "Advance Product Search in PO",
         "image": null,
-        "technical_name": "eg_purchase_order_template",
-        "category": ""
+        "technical_name": "eg_purchase_multi_product_adv",
+        "category": "Productivity"
     },
     {
-        "name": "Purchase Order Price Compare",
+        "name": "Advance Product Search in PO",
         "image": null,
-        "technical_name": "eg_po_price_compare",
-        "category": ""
+        "technical_name": "eg_purchase_multi_product_adv",
+        "category": "Productivity"
     },
     {
-        "name": "WhatsApp Custom Template",
+        "name": "Advance Product Search in PO",
         "image": null,
-        "technical_name": "eg_whatsapp_template",
-        "category": ""
+        "technical_name": "eg_purchase_multi_product_adv",
+        "category": "Productivity"
     },
     {
-        "name": "Quick Search",
+        "name": "Advance Product Search in PO",
         "image": null,
-        "technical_name": "eg_quick_search",
-        "category": ""
+        "technical_name": "eg_purchase_multi_product_adv",
+        "category": "Productivity"
     },
     {
-        "name": "Dynamic Approve for PO",
+        "name": "Minimum/Maximum Product Price",
         "image": null,
-        "technical_name": "eg_po_dynamic_approve",
-        "category": ""
+        "technical_name": "eg_min_max_product_price",
+        "category": "Productivity"
     },
     {
-        "name": "All In One Barcode",
+        "name": "Minimum/Maximum Product Price",
         "image": null,
-        "technical_name": "eg_all_in_one_barcode",
-        "category": ""
+        "technical_name": "eg_min_max_product_price",
+        "category": "Productivity"
     },
     {
-        "name": "BOM Barcode",
+        "name": "Minimum/Maximum Product Price",
         "image": null,
-        "technical_name": "eg_bom_barcode",
-        "category": ""
+        "technical_name": "eg_min_max_product_price",
+        "category": "Productivity"
     }
 ]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Purchase Order Timeline",
+        "image": null,
+        "technical_name": "eg_receipt_time_stamp",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order Timeline",
+        "image": null,
+        "technical_name": "eg_receipt_time_stamp",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order Timeline",
+        "image": null,
+        "technical_name": "eg_receipt_time_stamp",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order Timeline",
+        "image": null,
+        "technical_name": "eg_receipt_time_stamp",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order Timeline",
+        "image": null,
+        "technical_name": "eg_receipt_time_stamp",
+        "category": "Sales"
+    },
+    {
+        "name": "Sales Confirm in bulk",
+        "image": null,
+        "technical_name": "eg_sales_bulk_confirm",
+        "category": "Sales"
+    },
+    {
+        "name": "Sales Confirm in bulk",
+        "image": null,
+        "technical_name": "eg_sales_bulk_confirm",
+        "category": "Sales"
+    },
+    {
+        "name": "Sales Confirm in bulk",
+        "image": null,
+        "technical_name": "eg_sales_bulk_confirm",
+        "category": "Sales"
+    }
+]

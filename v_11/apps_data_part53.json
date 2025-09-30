@@ -1,62 +1,44 @@
 [
     {
-        "name": "Product Warranty Management",
+        "name": "Top Customer Report",
         "image": null,
-        "technical_name": "eg_product_warranty_management",
-        "category": ""
+        "technical_name": "eg_top_customer_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "WhatsApp All in One Integration",
+        "name": "Top Customer Report",
         "image": null,
-        "technical_name": "eg_whatsapp_all_in_one_integration",
-        "category": ""
+        "technical_name": "eg_top_customer_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "Purchase Order Receipt report",
+        "name": "Top Customer Report",
         "image": null,
-        "technical_name": "eg_purchase_order_receipt_report",
-        "category": ""
+        "technical_name": "eg_top_customer_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "Purchase Order To Task",
+        "name": "Top Customer Report",
         "image": null,
-        "technical_name": "eg_po_task",
-        "category": ""
+        "technical_name": "eg_top_customer_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "WhatsApp Contacts Integration",
+        "name": "Top Selling Product Report",
         "image": null,
-        "technical_name": "eg_whatsapp_contacts_integration",
-        "category": ""
+        "technical_name": "eg_top_selling_product_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "WhatsApp Delivery Integration",
+        "name": "Top Selling Product Report",
         "image": null,
-        "technical_name": "eg_whatsapp_delivery_integration",
-        "category": ""
+        "technical_name": "eg_top_selling_product_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "WhatsApp Invoice Integration",
+        "name": "Top Selling Product Report",
         "image": null,
-        "technical_name": "eg_whatsapp_invoice_integration",
-        "category": ""
-    },
-    {
-        "name": "WhatsApp Purchase Integration",
-        "image": null,
-        "technical_name": "eg_whatsapp_purchase_integration",
-        "category": ""
-    },
-    {
-        "name": "WhatsApp Sale Integration",
-        "image": null,
-        "technical_name": "eg_whatsapp_sale_integration",
-        "category": ""
-    },
-    {
-        "name": "Purchase Revision Number & history",
-        "image": null,
-        "technical_name": "eg_purchase_revision",
-        "category": ""
+        "technical_name": "eg_top_selling_product_report",
+        "category": "Extra Tools"
     }
 ]

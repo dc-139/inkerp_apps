@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sale Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_so_invoice_details",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_so_invoice_details",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_so_invoice_details",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_so_invoice_details",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_so_invoice_details",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Product Multiple Quantity",
+        "image": null,
+        "technical_name": "eg_so_multiples_qty",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Product Multiple Quantity",
+        "image": null,
+        "technical_name": "eg_so_multiples_qty",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Product Multiple Quantity",
+        "image": null,
+        "technical_name": "eg_so_multiples_qty",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order recurring",
+        "image": null,
+        "technical_name": "eg_sale_order_recurring",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order recurring",
+        "image": null,
+        "technical_name": "eg_sale_order_recurring",
+        "category": "Sales"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Purchase Order from Manufacturing Order",
+        "image": null,
+        "technical_name": "eg_po_from_mo",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order from Manufacturing Order",
+        "image": null,
+        "technical_name": "eg_po_from_mo",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order from Manufacturing Order",
+        "image": null,
+        "technical_name": "eg_po_from_mo",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order from Sale Order",
+        "image": null,
+        "technical_name": "eg_po_from_so",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order from Sale Order",
+        "image": null,
+        "technical_name": "eg_po_from_so",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order from Sale Order",
+        "image": null,
+        "technical_name": "eg_po_from_so",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order from Sale Order",
+        "image": null,
+        "technical_name": "eg_po_from_so",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order to Sale Order",
+        "image": null,
+        "technical_name": "eg_so_from_po",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order to Sale Order",
+        "image": null,
+        "technical_name": "eg_so_from_po",
+        "category": "Sales"
+    },
+    {
+        "name": "Purchase Order to Sale Order",
+        "image": null,
+        "technical_name": "eg_so_from_po",
+        "category": "Sales"
+    }
+]

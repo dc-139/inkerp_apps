@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Remove Internal Reference(SKU) From Product Name",
+        "image": null,
+        "technical_name": "eg_remove_internal_reference",
+        "category": "Purchases"
+    },
+    {
+        "name": "Customer Credit Warning",
+        "image": null,
+        "technical_name": "eg_customer_credit_warning",
+        "category": "Purchases"
+    },
+    {
+        "name": "Customer Credit Warning",
+        "image": null,
+        "technical_name": "eg_customer_credit_warning",
+        "category": "Purchases"
+    },
+    {
+        "name": "Customer Credit Warning",
+        "image": null,
+        "technical_name": "eg_customer_credit_warning",
+        "category": "Purchases"
+    },
+    {
+        "name": "Customer Credit Warning",
+        "image": null,
+        "technical_name": "eg_customer_credit_warning",
+        "category": "Purchases"
+    },
+    {
+        "name": "Customer Credit Warning",
+        "image": null,
+        "technical_name": "eg_customer_credit_warning",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Quantity in Purchase Order",
+        "image": null,
+        "technical_name": "eg_po_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Quantity in Purchase Order",
+        "image": null,
+        "technical_name": "eg_po_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Quantity in Purchase Order",
+        "image": null,
+        "technical_name": "eg_po_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Quantity in Purchase Order",
+        "image": null,
+        "technical_name": "eg_po_line_qoh",
+        "category": "Purchases"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Customer Balance in Invoice",
+        "image": null,
+        "technical_name": "eg_account_invoice_balance",
+        "category": "Sales"
+    },
+    {
+        "name": "Customer Balance in Invoice",
+        "image": null,
+        "technical_name": "eg_account_invoice_balance",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Global Discount",
+        "image": null,
+        "technical_name": "eg_sale_global_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Global Discount",
+        "image": null,
+        "technical_name": "eg_sale_global_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Global Discount",
+        "image": null,
+        "technical_name": "eg_sale_global_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Global Discount",
+        "image": null,
+        "technical_name": "eg_sale_global_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Global Discount",
+        "image": null,
+        "technical_name": "eg_sale_global_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Global Discount",
+        "image": null,
+        "technical_name": "eg_sale_global_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Global Discount",
+        "image": null,
+        "technical_name": "eg_sale_global_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Advance Payment in Sale Order",
+        "image": null,
+        "technical_name": "eg_advance_payment_in_sale",
+        "category": "Sales"
+    }
+]

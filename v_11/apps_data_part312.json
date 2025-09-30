@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Sale Order To Task",
+        "image": null,
+        "technical_name": "eg_so_task",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order To Task",
+        "image": null,
+        "technical_name": "eg_so_task",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order To Task",
+        "image": null,
+        "technical_name": "eg_so_task",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Undelivered",
+        "image": null,
+        "technical_name": "eg_so_undelivered",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Undelivered",
+        "image": null,
+        "technical_name": "eg_so_undelivered",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Undelivered",
+        "image": null,
+        "technical_name": "eg_so_undelivered",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Undelivered",
+        "image": null,
+        "technical_name": "eg_so_undelivered",
+        "category": "Sales"
+    }
+]

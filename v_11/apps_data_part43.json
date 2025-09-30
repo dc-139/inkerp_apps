@@ -1,62 +1,32 @@
 [
     {
-        "name": "Purchase Order Timeline",
+        "name": "E-commerce Base",
         "image": null,
-        "technical_name": "eg_receipt_time_stamp",
-        "category": ""
+        "technical_name": "eg_ecommerce_base",
+        "category": "Purchases"
     },
     {
-        "name": "Sales Confirm in bulk",
+        "name": "E-commerce Base",
         "image": null,
-        "technical_name": "eg_sales_bulk_confirm",
-        "category": ""
+        "technical_name": "eg_ecommerce_base",
+        "category": "Purchases"
     },
     {
-        "name": "Today Yesterday Filter in User Login",
+        "name": "E-commerce Base",
         "image": null,
-        "technical_name": "eg_user_login_today_yesterday_filter",
-        "category": ""
+        "technical_name": "eg_ecommerce_base",
+        "category": "Purchases"
     },
     {
-        "name": "Item Count In Incoming shipment",
+        "name": "E-commerce Base",
         "image": null,
-        "technical_name": "eg_count_in_incoming",
-        "category": ""
+        "technical_name": "eg_ecommerce_base",
+        "category": "Purchases"
     },
     {
-        "name": "Note Print",
+        "name": "Import Purchase Order Line",
         "image": null,
-        "technical_name": "eg_note_print",
-        "category": ""
-    },
-    {
-        "name": "Number Of Days in DO",
-        "image": null,
-        "technical_name": "eg_no_of_days_in_do",
-        "category": ""
-    },
-    {
-        "name": "Number of Days in MO",
-        "image": null,
-        "technical_name": "eg_no_of_days_in_mo",
-        "category": ""
-    },
-    {
-        "name": "Number of Days in User",
-        "image": null,
-        "technical_name": "eg_no_of_days_in_users",
-        "category": ""
-    },
-    {
-        "name": "Requisitions Material Stock and Purchase by Employees",
-        "image": null,
-        "technical_name": "eg_material_purchase_requisitions",
-        "category": ""
-    },
-    {
-        "name": "Sales Terms & Conditions",
-        "image": null,
-        "technical_name": "eg_sale_terms_and_conditions",
-        "category": ""
+        "technical_name": "eg_import_purchase_order_line",
+        "category": "Purchases"
     }
 ]

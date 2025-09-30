@@ -1,62 +1,62 @@
 [
     {
-        "name": "Attendance Auto Checkout",
+        "name": "Invoice Order Excel Report",
         "image": null,
-        "technical_name": "eg_attendance_auto_checkout",
-        "category": ""
+        "technical_name": "eg_invoice_excel_report",
+        "category": "Warehouse"
     },
     {
-        "name": "Auto Parts Base",
+        "name": "Invoice Payment Report",
         "image": null,
-        "technical_name": "eg_vehicle_detail",
-        "category": ""
+        "technical_name": "eg_invoice_payment_report",
+        "category": "Warehouse"
     },
     {
-        "name": "Auto Section In Sale Order",
+        "name": "Invoice Payment Report",
         "image": null,
-        "technical_name": "eg_auto_section_sale_order",
-        "category": ""
+        "technical_name": "eg_invoice_payment_report",
+        "category": "Warehouse"
     },
     {
-        "name": "Automated Sale Order",
+        "name": "Invoice Payment Report",
         "image": null,
-        "technical_name": "eg_automated_sale_order",
-        "category": ""
+        "technical_name": "eg_invoice_payment_report",
+        "category": "Warehouse"
     },
     {
-        "name": "Blanket Purchase Order",
+        "name": "Invoice Payment Report",
         "image": null,
-        "technical_name": "eg_blanket_purchase_order",
-        "category": ""
+        "technical_name": "eg_invoice_payment_report",
+        "category": "Warehouse"
     },
     {
-        "name": "Blanket Sale Order",
+        "name": "Invoice Validation Approval",
         "image": null,
-        "technical_name": "eg_blanket_sale_order",
-        "category": ""
+        "technical_name": "eg_invoice_validation_approval",
+        "category": "Warehouse"
     },
     {
-        "name": "Bom Structure and Cost Excel Report",
+        "name": "Invoice Validation Approval",
         "image": null,
-        "technical_name": "eg_bom_structure_and_cost_excel_report",
-        "category": ""
+        "technical_name": "eg_invoice_validation_approval",
+        "category": "Warehouse"
     },
     {
-        "name": "Bulk Import Pricelist in odoo",
+        "name": "Invoice Validation Approval",
         "image": null,
-        "technical_name": "eg_import_pricelist_in_odoo",
-        "category": ""
+        "technical_name": "eg_invoice_validation_approval",
+        "category": "Warehouse"
     },
     {
-        "name": "CRM Opportunity Purchase",
+        "name": "Invoice Validation Approval",
         "image": null,
-        "technical_name": "eg_crm_opportunity_purchase",
-        "category": ""
+        "technical_name": "eg_invoice_validation_approval",
+        "category": "Warehouse"
     },
     {
-        "name": "CRM Opportunity Task",
+        "name": "Eg Low Stock Notification",
         "image": null,
-        "technical_name": "eg_crm_opportunity_task",
-        "category": ""
+        "technical_name": "eg_low_stock_notification",
+        "category": "Warehouse"
     }
 ]

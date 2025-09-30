@@ -1,62 +1,32 @@
 [
     {
-        "name": "Add Counter in Purchase",
+        "name": "Purchase Barcode",
         "image": null,
-        "technical_name": "eg_add_counter_in_purchase",
-        "category": ""
+        "technical_name": "eg_purchase_barcode",
+        "category": "Sales"
     },
     {
-        "name": "Clickable Source Document in Sale",
+        "name": "Purchase Barcode",
         "image": null,
-        "technical_name": "eg_sale_source_document_in_clickable",
-        "category": ""
+        "technical_name": "eg_purchase_barcode",
+        "category": "Sales"
     },
     {
-        "name": "Item Count In Purchase Order",
+        "name": "Purchase Barcode",
         "image": null,
-        "technical_name": "eg_count_in_po",
-        "category": ""
+        "technical_name": "eg_purchase_barcode",
+        "category": "Sales"
     },
     {
-        "name": "Last Purchase Quantity & Price",
+        "name": "Purchase Barcode",
         "image": null,
-        "technical_name": "eg_last_purchse_quantity_price",
-        "category": ""
+        "technical_name": "eg_purchase_barcode",
+        "category": "Sales"
     },
     {
-        "name": "Last Sale Price & Quantity",
+        "name": "Sale Barcode",
         "image": null,
-        "technical_name": "eg_last_sale_quantity_price",
-        "category": ""
-    },
-    {
-        "name": "Low Stock Information",
-        "image": null,
-        "technical_name": "eg_low_stock_inform",
-        "category": ""
-    },
-    {
-        "name": "Manufacture Order Edit Restriction",
-        "image": null,
-        "technical_name": "eg_mo_edit_restriction",
-        "category": ""
-    },
-    {
-        "name": "Manufacture order creation restriction",
-        "image": null,
-        "technical_name": "eg_mo_creation_restriction",
-        "category": ""
-    },
-    {
-        "name": "Number of Days in Timesheet",
-        "image": null,
-        "technical_name": "eg_no_of_days_in_timesheet",
-        "category": ""
-    },
-    {
-        "name": "SO delivery by date and time",
-        "image": null,
-        "technical_name": "eg_sale_delivery_by_date",
-        "category": ""
+        "technical_name": "eg_sale_barcode",
+        "category": "Sales"
     }
 ]

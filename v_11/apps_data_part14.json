@@ -1,26 +1,32 @@
 [
     {
-        "name": "Eg Sale Order Report",
+        "name": "Product Variant Price System",
         "image": null,
-        "technical_name": "eg_sale_order_report",
-        "category": ""
+        "technical_name": "eg_product_variant_price_system",
+        "category": "Purchases"
     },
     {
-        "name": "Eg Sale Order Extended",
+        "name": "Product Variant Price System",
         "image": null,
-        "technical_name": "eg_sale_order_extended",
-        "category": ""
+        "technical_name": "eg_product_variant_price_system",
+        "category": "Purchases"
     },
     {
-        "name": "Eg Sale Order Status",
+        "name": "Product Variant Price System",
         "image": null,
-        "technical_name": "eg_so_status",
-        "category": ""
+        "technical_name": "eg_product_variant_price_system",
+        "category": "Purchases"
     },
     {
-        "name": "Edit Product Bulk",
+        "name": "Product Variant Price System",
         "image": null,
-        "technical_name": "eg_edit_product_bulk",
-        "category": ""
+        "technical_name": "eg_product_variant_price_system",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Product Weight Information",
+        "image": null,
+        "technical_name": "eg_po_weight",
+        "category": "Purchases"
     }
 ]

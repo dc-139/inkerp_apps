@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Merge Sale Order",
+        "image": null,
+        "technical_name": "eg_merge_sale_order",
+        "category": "Purchases"
+    },
+    {
+        "name": "Minimum/Maximum Product Price",
+        "image": null,
+        "technical_name": "eg_min_max_product_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Minimum/Maximum Product Price",
+        "image": null,
+        "technical_name": "eg_min_max_product_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Minimum/Maximum Product Price",
+        "image": null,
+        "technical_name": "eg_min_max_product_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Minimum/Maximum Product Price",
+        "image": null,
+        "technical_name": "eg_min_max_product_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Multi Company features of Odoo System are supported",
+        "image": null,
+        "technical_name": "eg_doc_approval",
+        "category": "Purchases"
+    }
+]

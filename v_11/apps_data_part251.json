@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Fedex Shipping Connector",
+        "image": null,
+        "technical_name": "eg_fedex_shipping_connector",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Generic Import",
+        "image": null,
+        "technical_name": "eg_generic_import",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Generic Import",
+        "image": null,
+        "technical_name": "eg_generic_import",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Generic Import",
+        "image": null,
+        "technical_name": "eg_generic_import",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Generic Import",
+        "image": null,
+        "technical_name": "eg_generic_import",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Hr Employee Medical",
+        "image": null,
+        "technical_name": "eg_hr_employee_medical",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Hr Employee Medical",
+        "image": null,
+        "technical_name": "eg_hr_employee_medical",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Hr Employee Medical",
+        "image": null,
+        "technical_name": "eg_hr_employee_medical",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Hr Employee Medical",
+        "image": null,
+        "technical_name": "eg_hr_employee_medical",
+        "category": "Human Resources"
+    },
+    {
+        "name": "Hr Overtime",
+        "image": null,
+        "technical_name": "eg_hr_overtime",
+        "category": "Human Resources"
+    }
+]

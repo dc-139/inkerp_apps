@@ -1,62 +1,62 @@
 [
     {
-        "name": "Today Yesterday filter in PO",
+        "name": "Import Purchase Order Line",
         "image": null,
-        "technical_name": "eg_po_today_yesterday_filter",
-        "category": ""
+        "technical_name": "eg_import_purchase_order_line",
+        "category": "Extra Tools"
     },
     {
-        "name": "Account partner auto reconcile",
+        "name": "Import Purchase Order Line",
         "image": null,
-        "technical_name": "eg_account_partner_auto_reconcile",
-        "category": ""
+        "technical_name": "eg_import_purchase_order_line",
+        "category": "Extra Tools"
     },
     {
-        "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
+        "name": "Import Purchase Order Line",
         "image": null,
-        "technical_name": "eg_advance_search_partner",
-        "category": ""
+        "technical_name": "eg_import_purchase_order_line",
+        "category": "Extra Tools"
     },
     {
-        "name": "Advance Product Search in SO & PO",
+        "name": "Import Sale Order Line",
         "image": null,
-        "technical_name": "eg_sale_purchase_multi_product_adv",
-        "category": ""
+        "technical_name": "eg_import_sale_order_line",
+        "category": "Extra Tools"
     },
     {
-        "name": "All Contact Approval",
+        "name": "Import Sale Order Line",
         "image": null,
-        "technical_name": "eg_all_contacts_approval",
-        "category": ""
+        "technical_name": "eg_import_sale_order_line",
+        "category": "Extra Tools"
     },
     {
-        "name": "All In One Digital Signature",
+        "name": "Import Sale Order Line",
         "image": null,
-        "technical_name": "eg_all_in_one_digital_sign",
-        "category": ""
+        "technical_name": "eg_import_sale_order_line",
+        "category": "Extra Tools"
     },
     {
-        "name": "All Taxes Information - Sale, Purchase, Accounting",
+        "name": "Import Sale Order Line",
         "image": null,
-        "technical_name": "eg_all_tax_info",
-        "category": ""
+        "technical_name": "eg_import_sale_order_line",
+        "category": "Extra Tools"
     },
     {
-        "name": "All in One Receipt report",
+        "name": "Invoice Order Excel Report",
         "image": null,
-        "technical_name": "eg_all_in_one_receipt_report",
-        "category": ""
+        "technical_name": "eg_invoice_excel_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "All in One Tags",
+        "name": "Invoice Order Excel Report",
         "image": null,
-        "technical_name": "eg_all_in_one_tags",
-        "category": ""
+        "technical_name": "eg_invoice_excel_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "All-in-One Helpdesk",
+        "name": "Invoice Order Excel Report",
         "image": null,
-        "technical_name": "eg_all_in_one_helpdesk",
-        "category": ""
+        "technical_name": "eg_invoice_excel_report",
+        "category": "Extra Tools"
     }
 ]

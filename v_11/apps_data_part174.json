@@ -1,0 +1,44 @@
+[
+    {
+        "name": "PO Creation Restriction",
+        "image": null,
+        "technical_name": "eg_po_creation_restriction",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Creation Restriction",
+        "image": null,
+        "technical_name": "eg_po_creation_restriction",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Creation Restriction",
+        "image": null,
+        "technical_name": "eg_po_creation_restriction",
+        "category": "Purchases"
+    },
+    {
+        "name": "PO Creation Restriction",
+        "image": null,
+        "technical_name": "eg_po_creation_restriction",
+        "category": "Purchases"
+    },
+    {
+        "name": "Print product image",
+        "image": null,
+        "technical_name": "eg_sale_invoice_product_image",
+        "category": "Purchases"
+    },
+    {
+        "name": "Print product image",
+        "image": null,
+        "technical_name": "eg_sale_invoice_product_image",
+        "category": "Purchases"
+    },
+    {
+        "name": "Print product image",
+        "image": null,
+        "technical_name": "eg_sale_invoice_product_image",
+        "category": "Purchases"
+    }
+]

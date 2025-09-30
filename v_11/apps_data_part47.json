@@ -1,62 +1,56 @@
 [
     {
-        "name": "Custom Fields In Task",
+        "name": "Merge Sale Order",
         "image": null,
-        "technical_name": "eg_custom_fields_in_task",
-        "category": ""
+        "technical_name": "eg_merge_sale_order",
+        "category": "Purchases"
     },
     {
-        "name": "Custom Fields In Users",
+        "name": "Multiple Shipment Tracking eG",
         "image": null,
-        "technical_name": "eg_custom_fields_in_users",
-        "category": ""
+        "technical_name": "eg_multiple_shipment_tracking",
+        "category": "Purchases"
     },
     {
-        "name": "Custom Fields in Accountv",
+        "name": "Multiple Shipment Tracking eG",
         "image": null,
-        "technical_name": "eg_custom_fields_in_account",
-        "category": ""
+        "technical_name": "eg_multiple_shipment_tracking",
+        "category": "Purchases"
     },
     {
-        "name": "Custom Fields in Employee",
+        "name": "Multiple Shipment Tracking eG",
         "image": null,
-        "technical_name": "eg_custom_fields_in_employee",
-        "category": ""
+        "technical_name": "eg_multiple_shipment_tracking",
+        "category": "Purchases"
     },
     {
-        "name": "Custom Fields in Lead",
+        "name": "Multiple Shipment Tracking eG",
         "image": null,
-        "technical_name": "eg_custom_fields_in_crm",
-        "category": ""
+        "technical_name": "eg_multiple_shipment_tracking",
+        "category": "Purchases"
     },
     {
-        "name": "Custom Fields in Purchase",
+        "name": "PO Auto Email",
         "image": null,
-        "technical_name": "eg_custom_fields_in_purchase",
-        "category": ""
+        "technical_name": "eg_po_auto_email",
+        "category": "Purchases"
     },
     {
-        "name": "Custom Fields in Sale",
+        "name": "PO Auto Email",
         "image": null,
-        "technical_name": "eg_custom_fields_in_sale",
-        "category": ""
+        "technical_name": "eg_po_auto_email",
+        "category": "Purchases"
     },
     {
-        "name": "Custom Fields in Stock",
+        "name": "PO Auto Email",
         "image": null,
-        "technical_name": "eg_custom_fields_in_stock",
-        "category": ""
+        "technical_name": "eg_po_auto_email",
+        "category": "Purchases"
     },
     {
-        "name": "Customer Discount",
+        "name": "PO Auto Email",
         "image": null,
-        "technical_name": "eg_customer_discount",
-        "category": ""
-    },
-    {
-        "name": "Customer Supplier Approve",
-        "image": null,
-        "technical_name": "eg_customer_supplier_approve",
-        "category": ""
+        "technical_name": "eg_po_auto_email",
+        "category": "Purchases"
     }
 ]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Import Sale Order Line",
+        "image": null,
+        "technical_name": "eg_import_sale_order_line",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Import Sale Order Line",
+        "image": null,
+        "technical_name": "eg_import_sale_order_line",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Import Sale Order Line",
+        "image": null,
+        "technical_name": "eg_import_sale_order_line",
+        "category": "Warehouse"
+    },
+    {
+        "name": "POS Import Sale Order",
+        "image": null,
+        "technical_name": "eg_pos_import_sale_order",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Import Stock Picking",
+        "image": null,
+        "technical_name": "eg_import_stock_picking",
+        "category": "Warehouse"
+    }
+]

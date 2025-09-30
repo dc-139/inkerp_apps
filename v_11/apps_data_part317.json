@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Split Purchase Order",
+        "image": null,
+        "technical_name": "eg_split_purchase_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Split Purchase Order",
+        "image": null,
+        "technical_name": "eg_split_purchase_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Split Sale Order",
+        "image": null,
+        "technical_name": "eg_split_quotation_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Split Sale Order",
+        "image": null,
+        "technical_name": "eg_split_quotation_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Split Sale Order",
+        "image": null,
+        "technical_name": "eg_split_quotation_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Split Sale Order",
+        "image": null,
+        "technical_name": "eg_split_quotation_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Split Sale Order",
+        "image": null,
+        "technical_name": "eg_split_quotation_order",
+        "category": "Sales"
+    }
+]

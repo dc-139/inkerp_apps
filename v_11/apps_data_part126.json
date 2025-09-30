@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Delivery status on sale order",
+        "image": null,
+        "technical_name": "eg_so_delivery_status",
+        "category": "Sales"
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": "Sales"
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": "Sales"
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": "Sales"
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": "Sales"
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": "Sales"
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": "Sales"
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": "Sales"
+    },
+    {
+        "name": "Employee Category",
+        "image": null,
+        "technical_name": "eg_employee_category",
+        "category": "Sales"
+    },
+    {
+        "name": "Item Count In Sale Order",
+        "image": null,
+        "technical_name": "eg_count_in_so",
+        "category": "Sales"
+    }
+]

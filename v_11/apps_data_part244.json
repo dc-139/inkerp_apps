@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Custom Fields in Sale",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_sale",
+        "category": "Sales"
+    },
+    {
+        "name": "Custom Fields in Stock",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_stock",
+        "category": "Sales"
+    },
+    {
+        "name": "Custom Fields in Stock",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_stock",
+        "category": "Sales"
+    },
+    {
+        "name": "Custom Fields in Stock",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_stock",
+        "category": "Sales"
+    },
+    {
+        "name": "Customer Discount",
+        "image": null,
+        "technical_name": "eg_customer_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Customer Discount",
+        "image": null,
+        "technical_name": "eg_customer_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Customer Discount",
+        "image": null,
+        "technical_name": "eg_customer_discount",
+        "category": "Sales"
+    },
+    {
+        "name": "Customer Discount",
+        "image": null,
+        "technical_name": "eg_customer_discount",
+        "category": "Sales"
+    }
+]

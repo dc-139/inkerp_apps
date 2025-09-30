@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sale Category",
+        "image": null,
+        "technical_name": "eg_sale_category",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Category",
+        "image": null,
+        "technical_name": "eg_sale_category",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Category",
+        "image": null,
+        "technical_name": "eg_sale_category",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Category",
+        "image": null,
+        "technical_name": "eg_sale_category",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Category",
+        "image": null,
+        "technical_name": "eg_sale_category",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Category",
+        "image": null,
+        "technical_name": "eg_sale_category",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Category",
+        "image": null,
+        "technical_name": "eg_sale_category",
+        "category": "Purchases"
+    },
+    {
+        "name": "Hide Tax in Purchase and Bill",
+        "image": null,
+        "technical_name": "eg_hide_tax_purchase_bill",
+        "category": "Purchases"
+    },
+    {
+        "name": "Hide Tax in Purchase and Bill",
+        "image": null,
+        "technical_name": "eg_hide_tax_purchase_bill",
+        "category": "Purchases"
+    },
+    {
+        "name": "Hide Tax in Purchase and Bill",
+        "image": null,
+        "technical_name": "eg_hide_tax_purchase_bill",
+        "category": "Purchases"
+    }
+]

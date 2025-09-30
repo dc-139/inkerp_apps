@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Purchase Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_po_invoice_details",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_po_invoice_details",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Receipt report",
+        "image": null,
+        "technical_name": "eg_purchase_order_receipt_report",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Receipt report",
+        "image": null,
+        "technical_name": "eg_purchase_order_receipt_report",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Receipt report",
+        "image": null,
+        "technical_name": "eg_purchase_order_receipt_report",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Receipt report",
+        "image": null,
+        "technical_name": "eg_purchase_order_receipt_report",
+        "category": "Purchases"
+    }
+]

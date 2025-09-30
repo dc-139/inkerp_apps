@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Invoice Receipt Report",
+        "image": null,
+        "technical_name": "eg_invoice_receipt_report",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Qty on Sale Order",
+        "image": null,
+        "technical_name": "eg_sale_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Qty on Sale Order",
+        "image": null,
+        "technical_name": "eg_sale_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Qty on Sale Order",
+        "image": null,
+        "technical_name": "eg_sale_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Qty on Sale Order",
+        "image": null,
+        "technical_name": "eg_sale_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Qty on Sale Order",
+        "image": null,
+        "technical_name": "eg_sale_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "On Hand Qty on Sale Order",
+        "image": null,
+        "technical_name": "eg_sale_line_qoh",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Approval",
+        "image": null,
+        "technical_name": "eg_approve_product",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Approval",
+        "image": null,
+        "technical_name": "eg_approve_product",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Approval",
+        "image": null,
+        "technical_name": "eg_approve_product",
+        "category": "Purchases"
+    }
+]

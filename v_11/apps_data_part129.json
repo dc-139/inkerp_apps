@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Purchase Auto Generate Barcode",
+        "image": null,
+        "technical_name": "eg_purchase_auto_generate_barcode",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Auto Generate Barcode",
+        "image": null,
+        "technical_name": "eg_purchase_auto_generate_barcode",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Auto Generate Barcode",
+        "image": null,
+        "technical_name": "eg_purchase_auto_generate_barcode",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Order list line",
+        "image": null,
+        "technical_name": "eg_sale_line_list_view",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Order list line",
+        "image": null,
+        "technical_name": "eg_sale_line_list_view",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Order list line",
+        "image": null,
+        "technical_name": "eg_sale_line_list_view",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Order list line",
+        "image": null,
+        "technical_name": "eg_sale_line_list_view",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Order list line",
+        "image": null,
+        "technical_name": "eg_sale_line_list_view",
+        "category": "Purchases"
+    },
+    {
+        "name": "Unique Code in Product",
+        "image": null,
+        "technical_name": "eg_product_code_unique",
+        "category": "Purchases"
+    },
+    {
+        "name": "Unique Code in Product",
+        "image": null,
+        "technical_name": "eg_product_code_unique",
+        "category": "Purchases"
+    }
+]

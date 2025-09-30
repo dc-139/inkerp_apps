@@ -1,62 +1,44 @@
 [
     {
-        "name": "Clickable Source Document in Purchase",
+        "name": "All in one views",
         "image": null,
-        "technical_name": "eg_purchase_source_document_in_clickable",
-        "category": ""
+        "technical_name": "eg_all_in_one_views",
+        "category": "Extra Tools"
     },
     {
-        "name": "Count of Delivery Order in SO",
+        "name": "All in one views",
         "image": null,
-        "technical_name": "eg_do_count_in_so",
-        "category": ""
+        "technical_name": "eg_all_in_one_views",
+        "category": "Extra Tools"
     },
     {
-        "name": "Delivery Order after Sale Confirm",
+        "name": "All in one views",
         "image": null,
-        "technical_name": "eg_delivery_after_sale_confirm",
-        "category": ""
+        "technical_name": "eg_all_in_one_views",
+        "category": "Extra Tools"
     },
     {
-        "name": "Last Active Date of User",
+        "name": "All in one views",
         "image": null,
-        "technical_name": "eg_user_last_active_date",
-        "category": ""
+        "technical_name": "eg_all_in_one_views",
+        "category": "Extra Tools"
     },
     {
-        "name": "Last Update on Product",
+        "name": "Eg All In One Excel Report",
         "image": null,
-        "technical_name": "eg_last_product_update",
-        "category": ""
+        "technical_name": "eg_all_in_one_excel_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "Max Discount in Sale Order",
+        "name": "Eg All In One Excel Report",
         "image": null,
-        "technical_name": "eg_sale_max_discount",
-        "category": ""
+        "technical_name": "eg_all_in_one_excel_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "Number of Days in Partner",
+        "name": "Eg All In One Excel Report",
         "image": null,
-        "technical_name": "eg_no_of_days_in_partner",
-        "category": ""
-    },
-    {
-        "name": "Number of days in Product",
-        "image": null,
-        "technical_name": "eg_no_of_days_in_product",
-        "category": ""
-    },
-    {
-        "name": "Purchase Quotation number",
-        "image": null,
-        "technical_name": "eg_purchase_quotation_order_number",
-        "category": ""
-    },
-    {
-        "name": "Purchase Receipt by Date",
-        "image": null,
-        "technical_name": "eg_purchase_receipt_by_date",
-        "category": ""
+        "technical_name": "eg_all_in_one_excel_report",
+        "category": "Extra Tools"
     }
 ]

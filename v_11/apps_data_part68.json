@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sale Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_so_invoice_details",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_so_invoice_details",
+        "category": "Purchases"
+    },
+    {
+        "name": "Sale Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_so_invoice_details",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_po_invoice_details",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Invoiced Details",
+        "image": null,
+        "technical_name": "eg_po_invoice_details",
+        "category": "Purchases"
+    }
+]

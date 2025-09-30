@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Purchase Order Product Weight Information",
+        "image": null,
+        "technical_name": "eg_po_weight",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Sale Quotation Date",
+        "image": null,
+        "technical_name": "eg_sale_quotation_date",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Today Yesterday Filter in DO",
+        "image": null,
+        "technical_name": "eg_do_today_yesterday_filter",
+        "category": "Warehouse"
+    }
+]

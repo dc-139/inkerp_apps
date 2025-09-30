@@ -1,0 +1,62 @@
+[
+    {
+        "name": "User Signature in Picking/Delivery Slip Reports",
+        "image": null,
+        "technical_name": "eg_inventory_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in Picking/Delivery Slip Reports",
+        "image": null,
+        "technical_name": "eg_inventory_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in RFQ/Purchase Order Reports",
+        "image": null,
+        "technical_name": "eg_purchase_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in RFQ/Purchase Order Reports",
+        "image": null,
+        "technical_name": "eg_purchase_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in RFQ/Purchase Order Reports",
+        "image": null,
+        "technical_name": "eg_purchase_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in RFQ/Purchase Order Reports",
+        "image": null,
+        "technical_name": "eg_purchase_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in Sale/Quotation Reports",
+        "image": null,
+        "technical_name": "eg_sale_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in Sale/Quotation Reports",
+        "image": null,
+        "technical_name": "eg_sale_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in Sale/Quotation Reports",
+        "image": null,
+        "technical_name": "eg_sale_user_signature_report",
+        "category": "Sales"
+    },
+    {
+        "name": "User Signature in Sale/Quotation Reports",
+        "image": null,
+        "technical_name": "eg_sale_user_signature_report",
+        "category": "Sales"
+    }
+]

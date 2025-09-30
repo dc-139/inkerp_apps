@@ -1,26 +1,62 @@
 [
     {
-        "name": "Invoice Post Confirmation",
+        "name": "Product Image in Purchase Order Line and Reports",
         "image": null,
-        "technical_name": "eg_invoice_confirmation",
-        "category": ""
+        "technical_name": "eg_po_line_product_image",
+        "category": "Purchases"
     },
     {
-        "name": "Cancel Bulk Invoice Entry",
+        "name": "Product Image in Purchase Order Line and Reports",
         "image": null,
-        "technical_name": "eg_invoice_bulk_cancel",
-        "category": ""
+        "technical_name": "eg_po_line_product_image",
+        "category": "Purchases"
     },
     {
-        "name": "Inventory Report Printed Check",
+        "name": "Product Image in Purchase Order Line and Reports",
         "image": null,
-        "technical_name": "eg_inventory_report_printed_check",
-        "category": ""
+        "technical_name": "eg_po_line_product_image",
+        "category": "Purchases"
     },
     {
-        "name": "Sales, Purchase, Warehouse and Accounting Edit Sequence Number",
+        "name": "Product Image in Sale Order Line and Reports",
         "image": null,
-        "technical_name": "eg_edit_sequence_no",
-        "category": ""
+        "technical_name": "eg_so_line_product_image",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Image in Sale Order Line and Reports",
+        "image": null,
+        "technical_name": "eg_so_line_product_image",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Image in Sale Order Line and Reports",
+        "image": null,
+        "technical_name": "eg_so_line_product_image",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Image in Sale Order Line and Reports",
+        "image": null,
+        "technical_name": "eg_so_line_product_image",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Purchase Price History",
+        "image": null,
+        "technical_name": "eg_product_purchase_price_history",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Purchase Price History",
+        "image": null,
+        "technical_name": "eg_product_purchase_price_history",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Purchase Price History",
+        "image": null,
+        "technical_name": "eg_product_purchase_price_history",
+        "category": "Purchases"
     }
 ]

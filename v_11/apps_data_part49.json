@@ -1,32 +1,62 @@
 [
     {
-        "name": "Inventory Planner",
+        "name": "Purchase Order Excel Report",
         "image": null,
-        "technical_name": "eg_inventory_planner",
-        "category": ""
+        "technical_name": "eg_purchase_excel_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "Inventory Turn Over Report",
+        "name": "Eg Purchase Order Recurring",
         "image": null,
-        "technical_name": "eg_inventory_turnover_analysis_report",
-        "category": ""
+        "technical_name": "eg_purchase_order_recurring",
+        "category": "Extra Tools"
     },
     {
-        "name": "Inventory Valuation Report",
+        "name": "Eg Purchase Order Recurring",
         "image": null,
-        "technical_name": "eg_inventory_valuation_report",
-        "category": ""
+        "technical_name": "eg_purchase_order_recurring",
+        "category": "Extra Tools"
     },
     {
-        "name": "Invoice Policy Sale Order",
+        "name": "Eg Purchase Order Recurring",
         "image": null,
-        "technical_name": "eg_invoice_policy_sale_order",
-        "category": ""
+        "technical_name": "eg_purchase_order_recurring",
+        "category": "Extra Tools"
     },
     {
-        "name": "Machine Repair Management in Odoo",
+        "name": "Eg Purchase Order Recurring",
         "image": null,
-        "technical_name": "eg_machine_repair_industry",
-        "category": ""
+        "technical_name": "eg_purchase_order_recurring",
+        "category": "Extra Tools"
+    },
+    {
+        "name": "Sale Confirm Approval",
+        "image": null,
+        "technical_name": "eg_sale_confirm_approval",
+        "category": "Extra Tools"
+    },
+    {
+        "name": "Sale Confirm Approval",
+        "image": null,
+        "technical_name": "eg_sale_confirm_approval",
+        "category": "Extra Tools"
+    },
+    {
+        "name": "Sale Confirm Approval",
+        "image": null,
+        "technical_name": "eg_sale_confirm_approval",
+        "category": "Extra Tools"
+    },
+    {
+        "name": "Sale Confirm Approval",
+        "image": null,
+        "technical_name": "eg_sale_confirm_approval",
+        "category": "Extra Tools"
+    },
+    {
+        "name": "Sale Detail Report",
+        "image": null,
+        "technical_name": "eg_sale_detail_report",
+        "category": "Extra Tools"
     }
 ]

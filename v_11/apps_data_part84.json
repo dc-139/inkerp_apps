@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sale Dynamic Approve",
+        "image": null,
+        "technical_name": "eg_sale_dynamic_approve",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Operation Type for User",
+        "image": null,
+        "technical_name": "eg_operation_type_for_user",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Operation Type for User",
+        "image": null,
+        "technical_name": "eg_operation_type_for_user",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Operation Type for User",
+        "image": null,
+        "technical_name": "eg_operation_type_for_user",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Operation Type for User",
+        "image": null,
+        "technical_name": "eg_operation_type_for_user",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Operation Type for User",
+        "image": null,
+        "technical_name": "eg_operation_type_for_user",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Operation Type for User",
+        "image": null,
+        "technical_name": "eg_operation_type_for_user",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Operation Type for User",
+        "image": null,
+        "technical_name": "eg_operation_type_for_user",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Operation Type for User",
+        "image": null,
+        "technical_name": "eg_operation_type_for_user",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Restriction on Stock Location",
+        "image": null,
+        "technical_name": "eg_stock_location_restriction",
+        "category": "Warehouse"
+    }
+]

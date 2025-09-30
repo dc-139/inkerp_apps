@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Purchase Order Edit Restriction",
+        "image": null,
+        "technical_name": "eg_po_edit_restriction",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Read Only Unit Price",
+        "image": null,
+        "technical_name": "eg_readonly_unit_price",
+        "category": "Purchases"
+    }
+]

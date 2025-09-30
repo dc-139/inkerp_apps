@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Auto Section In Sale Order",
+        "image": null,
+        "technical_name": "eg_auto_section_sale_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Auto Section In Sale Order",
+        "image": null,
+        "technical_name": "eg_auto_section_sale_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Auto Section In Sale Order",
+        "image": null,
+        "technical_name": "eg_auto_section_sale_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Automated Sale Order",
+        "image": null,
+        "technical_name": "eg_automated_sale_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Automated Sale Order",
+        "image": null,
+        "technical_name": "eg_automated_sale_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Automated Sale Order",
+        "image": null,
+        "technical_name": "eg_automated_sale_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Blanket Purchase Order",
+        "image": null,
+        "technical_name": "eg_blanket_purchase_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Blanket Purchase Order",
+        "image": null,
+        "technical_name": "eg_blanket_purchase_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Blanket Purchase Order",
+        "image": null,
+        "technical_name": "eg_blanket_purchase_order",
+        "category": "Sales"
+    },
+    {
+        "name": "Blanket Sale Order",
+        "image": null,
+        "technical_name": "eg_blanket_sale_order",
+        "category": "Sales"
+    }
+]

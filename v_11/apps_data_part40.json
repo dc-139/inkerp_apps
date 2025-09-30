@@ -1,32 +1,20 @@
 [
     {
-        "name": "Today Yesterday Filter in Invoices",
+        "name": "Sale Barcode",
         "image": null,
-        "technical_name": "eg_invoice_today_yesterday_filter",
-        "category": ""
+        "technical_name": "eg_sale_barcode",
+        "category": "Sales"
     },
     {
-        "name": "User Sequence",
+        "name": "Sale Barcode",
         "image": null,
-        "technical_name": "eg_user_sequence",
-        "category": ""
+        "technical_name": "eg_sale_barcode",
+        "category": "Sales"
     },
     {
-        "name": "Add Count in Sales",
+        "name": "Sale Barcode",
         "image": null,
-        "technical_name": "eg_add_counter_in_sales",
-        "category": ""
-    },
-    {
-        "name": "Add Counter in Account",
-        "image": null,
-        "technical_name": "eg_add_counter_in_account",
-        "category": ""
-    },
-    {
-        "name": "Bulk Mark as todo",
-        "image": null,
-        "technical_name": "eg_bulk_mark_as_todo",
-        "category": ""
+        "technical_name": "eg_sale_barcode",
+        "category": "Sales"
     }
 ]

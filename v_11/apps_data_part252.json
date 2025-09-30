@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Hr Overtime",
+        "image": null,
+        "technical_name": "eg_hr_overtime",
+        "category": "Sales"
+    },
+    {
+        "name": "Hr Overtime",
+        "image": null,
+        "technical_name": "eg_hr_overtime",
+        "category": "Sales"
+    },
+    {
+        "name": "Import Invoices from Excel",
+        "image": null,
+        "technical_name": "eg_import_invoices_through_excel",
+        "category": "Sales"
+    },
+    {
+        "name": "Import Invoices from Excel",
+        "image": null,
+        "technical_name": "eg_import_invoices_through_excel",
+        "category": "Sales"
+    },
+    {
+        "name": "Import Invoices from Excel",
+        "image": null,
+        "technical_name": "eg_import_invoices_through_excel",
+        "category": "Sales"
+    },
+    {
+        "name": "Import Purchase Order Line",
+        "image": null,
+        "technical_name": "eg_import_purchase_order_line",
+        "category": "Sales"
+    },
+    {
+        "name": "Import Purchase Order Line",
+        "image": null,
+        "technical_name": "eg_import_purchase_order_line",
+        "category": "Sales"
+    },
+    {
+        "name": "Import Purchase Order Line",
+        "image": null,
+        "technical_name": "eg_import_purchase_order_line",
+        "category": "Sales"
+    },
+    {
+        "name": "Import Purchase Order Line",
+        "image": null,
+        "technical_name": "eg_import_purchase_order_line",
+        "category": "Sales"
+    },
+    {
+        "name": "Import Sale Order Line",
+        "image": null,
+        "technical_name": "eg_import_sale_order_line",
+        "category": "Sales"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Do Restriction",
+        "image": null,
+        "technical_name": "eg_do_restriction",
+        "category": "Sales"
+    },
+    {
+        "name": "Do Restriction",
+        "image": null,
+        "technical_name": "eg_do_restriction",
+        "category": "Sales"
+    },
+    {
+        "name": "Do Restriction",
+        "image": null,
+        "technical_name": "eg_do_restriction",
+        "category": "Sales"
+    },
+    {
+        "name": "Easy to hide/show the vendor's list of products to user.",
+        "image": null,
+        "technical_name": "eg_hide_vendors",
+        "category": "Sales"
+    },
+    {
+        "name": "Easy to hide/show the vendor's list of products to user.",
+        "image": null,
+        "technical_name": "eg_hide_vendors",
+        "category": "Sales"
+    },
+    {
+        "name": "Easy to hide/show the vendor's list of products to user.",
+        "image": null,
+        "technical_name": "eg_hide_vendors",
+        "category": "Sales"
+    },
+    {
+        "name": "Easy to hide/show the vendor's list of products to user.",
+        "image": null,
+        "technical_name": "eg_hide_vendors",
+        "category": "Sales"
+    },
+    {
+        "name": "Easy to hide/show the vendor's list of products to user.",
+        "image": null,
+        "technical_name": "eg_hide_vendors",
+        "category": "Sales"
+    },
+    {
+        "name": "Hide Description in Sale",
+        "image": null,
+        "technical_name": "eg_sale_hide_desc",
+        "category": "Sales"
+    },
+    {
+        "name": "Hide Description in Sale",
+        "image": null,
+        "technical_name": "eg_sale_hide_desc",
+        "category": "Sales"
+    }
+]

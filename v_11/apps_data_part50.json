@@ -1,38 +1,62 @@
 [
     {
-        "name": "Merge Invoice",
+        "name": "Sale Detail Report",
         "image": null,
-        "technical_name": "eg_merge_invoice",
-        "category": ""
+        "technical_name": "eg_sale_detail_report",
+        "category": "Sales"
     },
     {
-        "name": "Merge Manufacturing Order",
+        "name": "Sale Detail Report",
         "image": null,
-        "technical_name": "eg_merge_mrp_orders",
-        "category": ""
+        "technical_name": "eg_sale_detail_report",
+        "category": "Sales"
     },
     {
-        "name": "Merge Purchase Order",
+        "name": "Sale Detail Report",
         "image": null,
-        "technical_name": "eg_merge_purchase_order",
-        "category": ""
+        "technical_name": "eg_sale_detail_report",
+        "category": "Sales"
     },
     {
-        "name": "Multi Company features of Odoo System are supported",
+        "name": "Sale Order Excel Report",
         "image": null,
-        "technical_name": "eg_doc_approval",
-        "category": ""
+        "technical_name": "eg_sale_excel_report",
+        "category": "Sales"
     },
     {
-        "name": "Multi UOM Price list",
+        "name": "Sale Order Excel Report",
         "image": null,
-        "technical_name": "eg_multi_uom_pricelist",
-        "category": ""
+        "technical_name": "eg_sale_excel_report",
+        "category": "Sales"
     },
     {
-        "name": "Multiple Invoice Payment",
+        "name": "Sale Order Excel Report",
         "image": null,
-        "technical_name": "eg_multi_invoice_payment",
-        "category": ""
+        "technical_name": "eg_sale_excel_report",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order Excel Report",
+        "image": null,
+        "technical_name": "eg_sale_excel_report",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order recurring",
+        "image": null,
+        "technical_name": "eg_sale_order_recurring",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order recurring",
+        "image": null,
+        "technical_name": "eg_sale_order_recurring",
+        "category": "Sales"
+    },
+    {
+        "name": "Sale Order recurring",
+        "image": null,
+        "technical_name": "eg_sale_order_recurring",
+        "category": "Sales"
     }
 ]

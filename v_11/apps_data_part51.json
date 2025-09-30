@@ -1,62 +1,32 @@
 [
     {
-        "name": "Non Moving product in Stock Report",
+        "name": "Sale Order recurring",
         "image": null,
-        "technical_name": "eg_non_moving_product_stock_reports",
-        "category": ""
+        "technical_name": "eg_sale_order_recurring",
+        "category": "Extra Tools"
     },
     {
-        "name": "Odoo Rental Sale",
+        "name": "Sale Report by Salesperson",
         "image": null,
-        "technical_name": "eg_rental_info",
-        "category": ""
+        "technical_name": "eg_sale_report_by_salesperson",
+        "category": "Extra Tools"
     },
     {
-        "name": "One Click in SO PO",
+        "name": "Sale Report by Salesperson",
         "image": null,
-        "technical_name": "eg_oneclick_so_po",
-        "category": ""
+        "technical_name": "eg_sale_report_by_salesperson",
+        "category": "Extra Tools"
     },
     {
-        "name": "Operation Type Restriction",
+        "name": "Sale Report by Salesperson",
         "image": null,
-        "technical_name": "eg_stock_picking_type_restriction",
-        "category": ""
+        "technical_name": "eg_sale_report_by_salesperson",
+        "category": "Extra Tools"
     },
     {
-        "name": "PO Own Access",
+        "name": "Sale Report by Salesperson",
         "image": null,
-        "technical_name": "eg_po_own_access",
-        "category": ""
-    },
-    {
-        "name": "Parking Management",
-        "image": null,
-        "technical_name": "eg_parking_management",
-        "category": ""
-    },
-    {
-        "name": "Price-list Restriction",
-        "image": null,
-        "technical_name": "eg_pricelist_restriction",
-        "category": ""
-    },
-    {
-        "name": "Pricelist Restriction",
-        "image": null,
-        "technical_name": "eg_pricelist_restrictions",
-        "category": ""
-    },
-    {
-        "name": "Print Product Expiry Report",
-        "image": null,
-        "technical_name": "eg_product_expiry_report",
-        "category": ""
-    },
-    {
-        "name": "Product All Pricelist",
-        "image": null,
-        "technical_name": "eg_product_all_pricelist",
-        "category": ""
+        "technical_name": "eg_sale_report_by_salesperson",
+        "category": "Extra Tools"
     }
 ]

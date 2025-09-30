@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Lock Price",
+        "image": null,
+        "technical_name": "eg_lock_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Lock Price",
+        "image": null,
+        "technical_name": "eg_lock_price",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Scrap",
+        "image": null,
+        "technical_name": "eg_product_scrap",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Scrap",
+        "image": null,
+        "technical_name": "eg_product_scrap",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Scrap",
+        "image": null,
+        "technical_name": "eg_product_scrap",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Scrap",
+        "image": null,
+        "technical_name": "eg_product_scrap",
+        "category": "Purchases"
+    },
+    {
+        "name": "Product Scrap",
+        "image": null,
+        "technical_name": "eg_product_scrap",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Product Weight Information",
+        "image": null,
+        "technical_name": "eg_po_weight",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Product Weight Information",
+        "image": null,
+        "technical_name": "eg_po_weight",
+        "category": "Purchases"
+    },
+    {
+        "name": "Purchase Order Product Weight Information",
+        "image": null,
+        "technical_name": "eg_po_weight",
+        "category": "Purchases"
+    }
+]

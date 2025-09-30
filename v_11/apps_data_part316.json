@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Split Invoice",
+        "image": null,
+        "technical_name": "eg_split_invoice",
+        "category": "Purchases"
+    },
+    {
+        "name": "Split Invoice",
+        "image": null,
+        "technical_name": "eg_split_invoice",
+        "category": "Purchases"
+    },
+    {
+        "name": "Split Invoice",
+        "image": null,
+        "technical_name": "eg_split_invoice",
+        "category": "Purchases"
+    },
+    {
+        "name": "Split Purchase Order",
+        "image": null,
+        "technical_name": "eg_split_purchase_order",
+        "category": "Purchases"
+    },
+    {
+        "name": "Split Purchase Order",
+        "image": null,
+        "technical_name": "eg_split_purchase_order",
+        "category": "Purchases"
+    },
+    {
+        "name": "Split Purchase Order",
+        "image": null,
+        "technical_name": "eg_split_purchase_order",
+        "category": "Purchases"
+    },
+    {
+        "name": "Split Purchase Order",
+        "image": null,
+        "technical_name": "eg_split_purchase_order",
+        "category": "Purchases"
+    }
+]

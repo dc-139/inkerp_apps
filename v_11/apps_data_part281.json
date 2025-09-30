@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Product Attributes Manager",
+        "image": null,
+        "technical_name": "eg_product_style_size_color_brand",
+        "category": "Productivity"
+    },
+    {
+        "name": "Product Attributes Manager",
+        "image": null,
+        "technical_name": "eg_product_style_size_color_brand",
+        "category": "Productivity"
+    },
+    {
+        "name": "Product Brand in Odoo",
+        "image": null,
+        "technical_name": "eg_product_brand",
+        "category": "Productivity"
+    },
+    {
+        "name": "Product Brand in Odoo",
+        "image": null,
+        "technical_name": "eg_product_brand",
+        "category": "Productivity"
+    },
+    {
+        "name": "Product Brand in Odoo",
+        "image": null,
+        "technical_name": "eg_product_brand",
+        "category": "Productivity"
+    }
+]

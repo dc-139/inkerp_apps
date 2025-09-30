@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Receipt Status on Purchase order",
+        "image": null,
+        "technical_name": "eg_po_receipt_status",
+        "category": "Project"
+    },
+    {
+        "name": "Sale Order Detail",
+        "image": null,
+        "technical_name": "eg_so_order_detail",
+        "category": "Project"
+    },
+    {
+        "name": "Sale Order Detail",
+        "image": null,
+        "technical_name": "eg_so_order_detail",
+        "category": "Project"
+    },
+    {
+        "name": "Sale Order Detail",
+        "image": null,
+        "technical_name": "eg_so_order_detail",
+        "category": "Project"
+    },
+    {
+        "name": "Sale Order Detail",
+        "image": null,
+        "technical_name": "eg_so_order_detail",
+        "category": "Project"
+    },
+    {
+        "name": "Sale Order Detail",
+        "image": null,
+        "technical_name": "eg_so_order_detail",
+        "category": "Project"
+    },
+    {
+        "name": "Task Category",
+        "image": null,
+        "technical_name": "eg_task_category",
+        "category": "Project"
+    },
+    {
+        "name": "Task Category",
+        "image": null,
+        "technical_name": "eg_task_category",
+        "category": "Project"
+    },
+    {
+        "name": "Task Category",
+        "image": null,
+        "technical_name": "eg_task_category",
+        "category": "Project"
+    },
+    {
+        "name": "Task Category",
+        "image": null,
+        "technical_name": "eg_task_category",
+        "category": "Project"
+    }
+]

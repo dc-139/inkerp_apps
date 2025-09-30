@@ -1,62 +1,62 @@
 [
     {
-        "name": "Purchase order multi lots selection",
+        "name": "Top Selling Product Report",
         "image": null,
-        "technical_name": "eg_po_multi_lot_selection",
-        "category": ""
+        "technical_name": "eg_top_selling_product_report",
+        "category": "Extra Tools"
     },
     {
-        "name": "Quick Update Order Lines on Pricelist",
+        "name": "Woocommerce Integration",
         "image": null,
-        "technical_name": "eg_quick_update_pricelist_in_so_line",
-        "category": ""
+        "technical_name": "eg_woocommerce_integration",
+        "category": "Extra Tools"
     },
     {
-        "name": "Quotation from CRM Opportunity Extended",
+        "name": "Woocommerce Integration",
         "image": null,
-        "technical_name": "eg_crm_opportunity_quotation",
-        "category": ""
+        "technical_name": "eg_woocommerce_integration",
+        "category": "Extra Tools"
     },
     {
-        "name": "Restrict out-of Stock Sale Orders",
+        "name": "Woocommerce Integration",
         "image": null,
-        "technical_name": "eg_sale_product_stock_restrict",
-        "category": ""
+        "technical_name": "eg_woocommerce_integration",
+        "category": "Extra Tools"
     },
     {
-        "name": "Sale Commission Target",
+        "name": "Woocommerce Integration",
         "image": null,
-        "technical_name": "eg_sales_commission_target",
-        "category": ""
+        "technical_name": "eg_woocommerce_integration",
+        "category": "Extra Tools"
     },
     {
-        "name": "Sale Order Product Multiple Quantity",
+        "name": "Fastlo Delivery Integration",
         "image": null,
-        "technical_name": "eg_so_multiples_qty",
-        "category": ""
+        "technical_name": "eg_fastlo_shipping_connector",
+        "category": "Extra Tools"
     },
     {
-        "name": "Sale Order Return",
+        "name": "Fastlo Delivery Integration",
         "image": null,
-        "technical_name": "eg_sale_return",
-        "category": ""
+        "technical_name": "eg_fastlo_shipping_connector",
+        "category": "Extra Tools"
     },
     {
-        "name": "Sale Picking Manual",
+        "name": "Fastlo Delivery Integration",
         "image": null,
-        "technical_name": "eg_sale_picking_manual",
-        "category": ""
+        "technical_name": "eg_fastlo_shipping_connector",
+        "category": "Extra Tools"
     },
     {
-        "name": "Split Invoice",
+        "name": "Fastlo Delivery Integration",
         "image": null,
-        "technical_name": "eg_split_invoice",
-        "category": ""
+        "technical_name": "eg_fastlo_shipping_connector",
+        "category": "Extra Tools"
     },
     {
-        "name": "Split Purchase Order",
+        "name": "Fedex Shipping Connector",
         "image": null,
-        "technical_name": "eg_split_purchase_order",
-        "category": ""
+        "technical_name": "eg_fedex_shipping_connector",
+        "category": "Extra Tools"
     }
 ]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Import Stock Picking",
+        "image": null,
+        "technical_name": "eg_import_stock_picking",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Import Stock Picking",
+        "image": null,
+        "technical_name": "eg_import_stock_picking",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Import Stock Picking",
+        "image": null,
+        "technical_name": "eg_import_stock_picking",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Inventory Coverage Report",
+        "image": null,
+        "technical_name": "eg_inventory_coverage_report",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Inventory Coverage Report",
+        "image": null,
+        "technical_name": "eg_inventory_coverage_report",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Inventory Coverage Report",
+        "image": null,
+        "technical_name": "eg_inventory_coverage_report",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Inventory Coverage Report",
+        "image": null,
+        "technical_name": "eg_inventory_coverage_report",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Inventory Overstock Report",
+        "image": null,
+        "technical_name": "eg_inventory_overstock_report",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Inventory Overstock Report",
+        "image": null,
+        "technical_name": "eg_inventory_overstock_report",
+        "category": "Warehouse"
+    },
+    {
+        "name": "Inventory Overstock Report",
+        "image": null,
+        "technical_name": "eg_inventory_overstock_report",
+        "category": "Warehouse"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Custom Fields In Partner",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_partner",
+        "category": "Sales"
+    },
+    {
+        "name": "Custom Fields In Product",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_product",
+        "category": "Sales"
+    },
+    {
+        "name": "Custom Fields in Purchase",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_purchase",
+        "category": "Sales"
+    },
+    {
+        "name": "Custom Fields in Sale",
+        "image": null,
+        "technical_name": "eg_custom_fields_in_sale",
+        "category": "Sales"
+    },
+    {
+        "name": "Product Customer Code",
+        "image": null,
+        "technical_name": "eg_product_customer_code",
+        "category": "Sales"
+    },
+    {
+        "name": "Product Customer Code",
+        "image": null,
+        "technical_name": "eg_product_customer_code",
+        "category": "Sales"
+    },
+    {
+        "name": "Product Customer Code",
+        "image": null,
+        "technical_name": "eg_product_customer_code",
+        "category": "Sales"
+    },
+    {
+        "name": "Product Customer Code",
+        "image": null,
+        "technical_name": "eg_product_customer_code",
+        "category": "Sales"
+    },
+    {
+        "name": "Product Customer Code",
+        "image": null,
+        "technical_name": "eg_product_customer_code",
+        "category": "Sales"
+    }
+]
