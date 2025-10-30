@@ -8,7 +8,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order to Sale Order",
@@ -19,7 +20,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order to Sale Order",
@@ -30,7 +32,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order to Sale Order",
@@ -41,7 +44,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order to Sale Order",
@@ -52,7 +56,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Request By Employees",
@@ -63,7 +68,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Request By Employees",
@@ -74,7 +80,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Request By Employees",
@@ -85,7 +92,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Request By Employees",
@@ -96,7 +104,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Revision Number & history",
@@ -107,7 +116,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Revision Number & history",
@@ -118,7 +128,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Revision Number & history",
@@ -129,7 +140,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Revision Number & history",
@@ -140,7 +152,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Tender Management",
@@ -151,7 +164,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Tender Management",
@@ -162,7 +176,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Tender Management",
@@ -173,7 +188,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Tender Management",
@@ -184,7 +200,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase order multi lots selection",
@@ -195,7 +212,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase order multi lots selection",
@@ -206,7 +224,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase order multi lots selection",
@@ -217,7 +236,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "POS Quick Payment",
@@ -228,7 +248,8 @@
         "is_offer": false,
         "offer_price": 20.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Update Order Lines on Pricelist",
@@ -239,7 +260,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Update Order Lines on Pricelist",
@@ -250,7 +272,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Update Order Lines on Pricelist",
@@ -261,7 +284,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Update Order Lines on Pricelist",
@@ -272,7 +296,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quotation from CRM Opportunity Extended",
@@ -283,7 +308,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quotation from CRM Opportunity Extended",
@@ -294,7 +320,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quotation from CRM Opportunity Extended",
@@ -305,7 +332,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quotation from CRM Opportunity Extended",
@@ -316,7 +344,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Restrict out-of Stock Sale Orders",
@@ -327,6 +356,7 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     }
 ]

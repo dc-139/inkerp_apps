@@ -8,7 +8,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in SO & PO",
@@ -19,7 +20,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in SO & PO",
@@ -30,7 +32,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All Contact Approval",
@@ -41,7 +44,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All Contact Approval",
@@ -52,7 +56,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All Contact Approval",
@@ -63,7 +68,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All Contact Approval",
@@ -74,7 +80,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All In One Digital Signature",
@@ -85,7 +92,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All In One Digital Signature",
@@ -96,7 +104,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All In One Digital Signature",
@@ -107,7 +116,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All In One Digital Signature",
@@ -118,7 +128,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Eg All In One Excel Report",
@@ -129,7 +140,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Eg All In One Excel Report",
@@ -140,7 +152,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Eg All In One Excel Report",
@@ -151,7 +164,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Eg All In One Excel Report",
@@ -162,7 +176,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Eg All In One Excel Report",
@@ -173,7 +188,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All In One Purchase Reports",
@@ -184,7 +200,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All In One Purchase Reports",
@@ -195,7 +212,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All In One Purchase Reports",
@@ -206,7 +224,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All In One Purchase Reports",
@@ -217,7 +236,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -228,7 +248,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -239,7 +260,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -250,7 +272,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -261,7 +284,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in One Receipt report",
@@ -272,7 +296,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in One Receipt report",
@@ -283,7 +308,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in One Receipt report",
@@ -294,7 +320,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in One Receipt report",
@@ -305,7 +332,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in One Tags",
@@ -316,7 +344,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in One Tags",
@@ -327,7 +356,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in One Tags",
@@ -338,7 +368,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in One Tags",
@@ -349,7 +380,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one Sale reports",
@@ -360,7 +392,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one Sale reports",
@@ -371,7 +404,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one Sale reports",
@@ -382,7 +416,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one Sale reports",
@@ -393,7 +428,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one Sale reports",
@@ -404,7 +440,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one Sale reports",
@@ -415,7 +452,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one Sale reports",
@@ -426,7 +464,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one views",
@@ -437,7 +476,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "All in one views",
@@ -448,6 +488,7 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     }
 ]

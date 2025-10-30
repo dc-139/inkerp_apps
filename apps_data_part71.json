@@ -8,7 +8,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Branch Management",
@@ -19,7 +20,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Branch Management",
@@ -30,7 +32,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Variant Price System",
@@ -41,7 +44,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Variant Price System",
@@ -52,7 +56,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Variant Price System",
@@ -63,7 +68,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Variant Price System",
@@ -74,7 +80,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Vendor Product Management",
@@ -85,7 +92,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Vendor Product Management",
@@ -96,7 +104,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Vendor Product Management",
@@ -107,7 +116,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Variant Mass Update Cost Price and sale",
@@ -118,7 +128,8 @@
         "is_offer": false,
         "offer_price": 5.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Variant Mass Update Cost Price and sale",
@@ -129,7 +140,8 @@
         "is_offer": false,
         "offer_price": 5.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Variant Mass Update Cost Price and sale",
@@ -140,7 +152,8 @@
         "is_offer": false,
         "offer_price": 5.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Multi website selection for products | Multiple Websites per Category | Bulk website assign | Product Multiple Website",
@@ -151,7 +164,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Multi website selection for products | Multiple Websites per Category | Bulk website assign | Product Multiple Website",
@@ -162,7 +176,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Multi website selection for products | Multiple Websites per Category | Bulk website assign | Product Multiple Website",
@@ -173,7 +188,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Multi Barcode For Enterprise",
@@ -184,7 +200,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Multi Barcode For Enterprise",
@@ -195,7 +212,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Multi Barcode For Enterprise",
@@ -206,7 +224,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Multi Barcode For Enterprise",
@@ -217,7 +236,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Multiple Quantity of Product in Shop",
@@ -228,7 +248,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Multiple Quantity of Product in Shop",
@@ -239,7 +260,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Multiple Quantity of Product in Shop",
@@ -250,7 +272,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Website Quantity Min Max And Multiplier by INKERP",
@@ -261,7 +284,8 @@
         "is_offer": false,
         "offer_price": 20.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": "Top Selling"
     },
     {
         "name": "Website Quantity Min Max And Multiplier by INKERP",
@@ -272,7 +296,8 @@
         "is_offer": false,
         "offer_price": 20.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": "Top Selling"
     },
     {
         "name": "Website Quantity Min Max And Multiplier by INKERP",
@@ -283,7 +308,8 @@
         "is_offer": false,
         "offer_price": 20.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": "Top Selling"
     },
     {
         "name": "Quick Preview Sale Order",
@@ -294,7 +320,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Sale Order",
@@ -305,7 +332,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Sale Order",
@@ -316,7 +344,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Project",
@@ -327,7 +356,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Project",
@@ -338,7 +368,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Project",
@@ -349,7 +380,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Invoice",
@@ -360,7 +392,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Invoice",
@@ -371,7 +404,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Invoice",
@@ -382,7 +416,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Purchase Order",
@@ -393,7 +428,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Purchase Order",
@@ -404,7 +440,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Purchase Order",
@@ -415,7 +452,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Delivery Order",
@@ -426,7 +464,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Delivery Order",
@@ -437,7 +476,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview Delivery Order",
@@ -448,7 +488,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Hide Out Of Stock Products In Website",
@@ -459,7 +500,8 @@
         "is_offer": false,
         "offer_price": 5.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Hide Out Of Stock Products In Website",
@@ -470,7 +512,8 @@
         "is_offer": false,
         "offer_price": 5.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Hide Out Of Stock Products In Website",
@@ -481,7 +524,8 @@
         "is_offer": false,
         "offer_price": 5.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Hide Out Of Stock Products In Website",
@@ -492,7 +536,8 @@
         "is_offer": false,
         "offer_price": 5.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview CRM Lead",
@@ -503,7 +548,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview CRM Lead",
@@ -514,7 +560,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Preview CRM Lead",
@@ -525,7 +572,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Multi-level Sales",
@@ -536,7 +584,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Multi-level Sales",
@@ -547,6 +596,7 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     }
 ]

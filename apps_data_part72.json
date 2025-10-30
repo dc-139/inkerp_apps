@@ -8,7 +8,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Multiple Website",
@@ -19,7 +20,8 @@
         "is_offer": false,
         "offer_price": 25.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Multiple Website",
@@ -30,7 +32,8 @@
         "is_offer": false,
         "offer_price": 25.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Multiple Website",
@@ -41,7 +44,8 @@
         "is_offer": false,
         "offer_price": 25.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Product Multiple Website",
@@ -52,7 +56,8 @@
         "is_offer": false,
         "offer_price": 25.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Import Product & Variant Stock from Excel",
@@ -63,7 +68,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Import Product & Variant Stock from Excel",
@@ -74,7 +80,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Import Product & Variant Stock from Excel",
@@ -85,7 +92,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Import Product & Variant Stock from Excel",
@@ -96,7 +104,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale line Description on MRP-Workorder and Picking",
@@ -107,7 +116,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale line Description on MRP-Workorder and Picking",
@@ -118,7 +128,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale line Description on MRP-Workorder and Picking",
@@ -129,7 +140,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale Order Compare",
@@ -140,7 +152,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale Order Compare",
@@ -151,7 +164,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale Order Compare",
@@ -162,7 +176,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale Order Compare",
@@ -173,7 +188,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Journal Restriction",
@@ -184,7 +200,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Journal Restriction",
@@ -195,7 +212,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Journal Restriction",
@@ -206,7 +224,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Website Birthday Discount",
@@ -217,7 +236,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Website Birthday Discount",
@@ -228,7 +248,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Website Birthday Discount",
@@ -239,7 +260,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Website Birthday Discount",
@@ -250,7 +272,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order Template Product",
@@ -261,7 +284,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order Template Product",
@@ -272,7 +296,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order Template Product",
@@ -283,7 +308,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order Price Compare",
@@ -294,7 +320,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order Price Compare",
@@ -305,7 +332,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order Price Compare",
@@ -316,7 +344,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Purchase Order Price Compare",
@@ -327,7 +356,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "WhatsApp Custom Template",
@@ -338,7 +368,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "WhatsApp Custom Template",
@@ -349,7 +380,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "WhatsApp Custom Template",
@@ -360,7 +392,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "WhatsApp Custom Template",
@@ -371,7 +404,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "WhatsApp Custom Template",
@@ -382,7 +416,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "WhatsApp Custom Template",
@@ -393,7 +428,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "WhatsApp Custom Template",
@@ -404,7 +440,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Search",
@@ -415,7 +452,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Search",
@@ -426,7 +464,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Quick Search",
@@ -437,7 +476,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Activity Management",
@@ -448,7 +488,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Activity Management",
@@ -459,7 +500,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Dynamic Approve for PO",
@@ -470,7 +512,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Dynamic Approve for PO",
@@ -481,7 +524,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Dynamic Approve for PO",
@@ -492,7 +536,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Dynamic Approve for PO",
@@ -503,7 +548,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Dynamic Approve for PO",
@@ -514,7 +560,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Dynamic Approve for PO",
@@ -525,7 +572,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Dynamic Approve for PO",
@@ -536,7 +584,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Dynamic Approve for PO",
@@ -547,6 +596,7 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     }
 ]

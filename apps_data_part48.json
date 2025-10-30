@@ -8,7 +8,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Number of Days in User",
@@ -19,7 +20,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Number of Days in User",
@@ -30,7 +32,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Number of Days in User",
@@ -41,7 +44,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Number of Days in User",
@@ -52,7 +56,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Number of Days in User",
@@ -63,7 +68,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Number of Days in User",
@@ -74,7 +80,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Number of Days in User",
@@ -85,7 +92,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Requisitions Material Stock and Purchase by Employees",
@@ -96,7 +104,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Requisitions Material Stock and Purchase by Employees",
@@ -107,7 +116,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Requisitions Material Stock and Purchase by Employees",
@@ -118,7 +128,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Requisitions Material Stock and Purchase by Employees",
@@ -129,7 +140,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Requisitions Material Stock and Purchase by Employees",
@@ -140,7 +152,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Requisitions Material Stock and Purchase by Employees",
@@ -151,7 +164,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sales Terms & Conditions",
@@ -162,7 +176,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sales Terms & Conditions",
@@ -173,7 +188,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sales Terms & Conditions",
@@ -184,7 +200,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sales Terms & Conditions",
@@ -195,7 +212,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sales Terms & Conditions",
@@ -206,7 +224,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sales Terms & Conditions",
@@ -217,7 +236,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sales Terms & Conditions",
@@ -228,7 +248,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -239,7 +260,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -250,7 +272,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -261,7 +284,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -272,7 +296,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -283,7 +308,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -294,7 +320,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -305,7 +332,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -316,7 +344,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "POS A4 Ticket",
@@ -327,7 +356,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Account partner auto reconcile",
@@ -338,7 +368,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Account partner auto reconcile",
@@ -349,7 +380,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Account partner auto reconcile",
@@ -360,7 +392,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Account partner auto reconcile",
@@ -371,7 +404,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
@@ -382,7 +416,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
@@ -393,7 +428,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
@@ -404,7 +440,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
@@ -415,7 +452,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in PO",
@@ -426,7 +464,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in PO",
@@ -437,7 +476,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in PO",
@@ -448,7 +488,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in PO",
@@ -459,7 +500,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in SO & PO",
@@ -470,6 +512,7 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     }
 ]

@@ -8,7 +8,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "POS Cancel Order History",
@@ -19,7 +20,8 @@
         "is_offer": false,
         "offer_price": 20.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Stock Barcode for Odoo Community",
@@ -30,7 +32,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Stock Barcode Pro",
@@ -41,7 +44,8 @@
         "is_offer": false,
         "offer_price": 499.0,
         "actual_price": 499.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Stock Barcode Pro",
@@ -52,7 +56,8 @@
         "is_offer": false,
         "offer_price": 499.0,
         "actual_price": 499.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Stock Barcode Pro",
@@ -63,7 +68,8 @@
         "is_offer": false,
         "offer_price": 499.0,
         "actual_price": 499.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Stock Barcode Pro",
@@ -74,7 +80,8 @@
         "is_offer": false,
         "offer_price": 499.0,
         "actual_price": 499.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Stock Barcode Pro",
@@ -85,7 +92,8 @@
         "is_offer": false,
         "offer_price": 499.0,
         "actual_price": 499.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Direct Print report",
@@ -96,7 +104,8 @@
         "is_offer": false,
         "offer_price": 10.0,
         "actual_price": 15.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Direct Print report",
@@ -107,7 +116,8 @@
         "is_offer": false,
         "offer_price": 10.0,
         "actual_price": 15.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Direct Print report",
@@ -118,7 +128,8 @@
         "is_offer": false,
         "offer_price": 10.0,
         "actual_price": 15.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Direct Print report",
@@ -129,7 +140,8 @@
         "is_offer": false,
         "offer_price": 10.0,
         "actual_price": 15.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Direct Print report",
@@ -140,7 +152,8 @@
         "is_offer": false,
         "offer_price": 10.0,
         "actual_price": 15.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Employee Training Management",
@@ -151,7 +164,8 @@
         "is_offer": false,
         "offer_price": 35.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Employee Training Management",
@@ -162,7 +176,8 @@
         "is_offer": false,
         "offer_price": 35.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Employee Training Management",
@@ -173,7 +188,8 @@
         "is_offer": false,
         "offer_price": 35.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in SO",
@@ -184,7 +200,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in SO",
@@ -195,7 +212,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in SO",
@@ -206,7 +224,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Advance Product Search in SO",
@@ -217,7 +236,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Transport Management",
@@ -228,7 +248,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Transport Management",
@@ -239,7 +260,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Transport Management",
@@ -250,7 +272,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Transport Management",
@@ -261,7 +284,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Transport Management",
@@ -272,7 +296,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "POS Fix Discount",
@@ -283,7 +308,8 @@
         "is_offer": false,
         "offer_price": 20.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "POS Fix Discount",
@@ -294,7 +320,8 @@
         "is_offer": false,
         "offer_price": 20.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Custom Fields In Product",
@@ -305,7 +332,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Custom Fields In Product",
@@ -316,7 +344,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Custom Fields In Product",
@@ -327,7 +356,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Employee Checklist",
@@ -338,7 +368,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Employee Checklist",
@@ -349,7 +380,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Employee Checklist",
@@ -360,7 +392,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Employee Checklist",
@@ -371,7 +404,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Remove/Hide Taxes",
@@ -382,7 +416,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Remove/Hide Taxes",
@@ -393,7 +428,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Remove/Hide Taxes",
@@ -404,7 +440,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Remove/Hide Taxes",
@@ -415,7 +452,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale order multiple pricelist",
@@ -426,7 +464,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale order multiple pricelist",
@@ -437,7 +476,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale order multiple pricelist",
@@ -448,7 +488,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale order multiple pricelist",
@@ -459,7 +500,8 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     },
     {
         "name": "Sale order multiple pricelist",
@@ -470,6 +512,7 @@
         "is_offer": false,
         "offer_price": 0.0,
         "actual_price": 0.0,
-        "is_free": false
+        "is_free": false,
+        "special_category": false
     }
 ]
