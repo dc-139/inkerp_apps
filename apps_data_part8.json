@@ -9,7 +9,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Import Sale Order",
@@ -21,7 +22,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Import Sale Order",
@@ -33,7 +35,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Import Sale Order",
@@ -45,7 +48,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Fast Move Product for POS",
@@ -57,7 +61,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Fast Move Product for POS",
@@ -69,7 +74,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Fast Move Product for POS",
@@ -81,7 +87,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Fast Move Product for POS",
@@ -93,7 +100,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Customer Image",
@@ -105,7 +113,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Customer Image",
@@ -117,7 +126,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Customer Image",
@@ -129,7 +139,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Customer History",
@@ -141,7 +152,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Customer History",
@@ -153,7 +165,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Customer History",
@@ -165,7 +178,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Customer History",
@@ -177,7 +191,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Custom Discount",
@@ -189,7 +204,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Custom Discount",
@@ -201,7 +217,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Custom Discount",
@@ -213,7 +230,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Custom Discount",
@@ -225,7 +243,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Home Delivery",
@@ -237,7 +256,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Home Delivery",
@@ -249,7 +269,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Home Delivery",
@@ -261,7 +282,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Home Delivery",
@@ -273,7 +295,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS to Purchase",
@@ -285,7 +308,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS to Purchase",
@@ -297,7 +321,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS to Purchase",
@@ -309,7 +334,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS to Purchase",
@@ -321,7 +347,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Create Product",
@@ -333,7 +360,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Create Product",
@@ -345,7 +373,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Create Product",
@@ -357,7 +386,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Create Product",
@@ -369,7 +399,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Complimentary Items ",
@@ -381,7 +412,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Complimentary Items ",
@@ -393,6 +425,7 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     }
 ]

@@ -9,7 +9,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "All in one views",
@@ -21,7 +22,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "All-in-One Helpdesk",
@@ -33,7 +35,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "All-in-One Helpdesk",
@@ -45,7 +48,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "All-in-One Helpdesk",
@@ -57,7 +61,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "All-in-One Helpdesk",
@@ -69,7 +74,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "All-in-One Helpdesk",
@@ -81,7 +87,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "All-in-One Helpdesk",
@@ -93,7 +100,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Amount In Words",
@@ -105,7 +113,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Amount In Words",
@@ -117,7 +126,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Amount In Words",
@@ -129,7 +139,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Amount In Words",
@@ -141,7 +152,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "POS Amount to Word",
@@ -153,7 +165,8 @@
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Aramex Shipping Connector",
@@ -165,7 +178,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Aramex Shipping Connector",
@@ -177,7 +191,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Aramex Shipping Connector",
@@ -189,7 +204,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Aramex Shipping Connector",
@@ -201,7 +217,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Attendance Auto Checkout",
@@ -213,7 +230,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Attendance Auto Checkout",
@@ -225,7 +243,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Attendance Auto Checkout",
@@ -237,7 +256,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Attendance Auto Checkout",
@@ -249,7 +269,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Parts Base",
@@ -261,7 +282,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Parts Base",
@@ -273,7 +295,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Parts Base",
@@ -285,7 +308,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Parts Base",
@@ -297,7 +321,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Parts Base",
@@ -309,7 +334,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Section In Sale Order",
@@ -321,7 +347,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Section In Sale Order",
@@ -333,7 +360,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Section In Sale Order",
@@ -345,7 +373,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Auto Section In Sale Order",
@@ -357,7 +386,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Automated Sale Order",
@@ -369,7 +399,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Automated Sale Order",
@@ -381,7 +412,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Automated Sale Order",
@@ -393,7 +425,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Blanket Purchase Order",
@@ -405,7 +438,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Blanket Purchase Order",
@@ -417,7 +451,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Blanket Purchase Order",
@@ -429,7 +464,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Blanket Sale Order",
@@ -441,7 +477,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Blanket Sale Order",
@@ -453,7 +490,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Blanket Sale Order",
@@ -465,7 +503,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Blanket Sale Order",
@@ -477,7 +516,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bom Structure and Cost Excel Report",
@@ -489,7 +529,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bom Structure and Cost Excel Report",
@@ -501,7 +542,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bom Structure and Cost Excel Report",
@@ -513,7 +555,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bom Structure and Cost Excel Report",
@@ -525,7 +568,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bulk Cancel Quotations",
@@ -537,7 +581,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bulk Cancel Quotations",
@@ -549,7 +594,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bulk Cancel Quotations",
@@ -561,6 +607,7 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     }
 ]

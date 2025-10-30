@@ -9,7 +9,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Operation Type for User",
@@ -21,7 +22,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Operation Type for User",
@@ -33,7 +35,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Operation Type for User",
@@ -45,7 +48,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Operation Type for User",
@@ -57,7 +61,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Operation Type for User",
@@ -69,7 +74,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Operation Type for User",
@@ -81,7 +87,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Operation Type for User",
@@ -93,7 +100,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Operation Type for User",
@@ -105,7 +113,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Stock Location",
@@ -117,7 +126,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Stock Location",
@@ -129,7 +139,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Stock Location",
@@ -141,7 +152,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Stock Location",
@@ -153,7 +165,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Stock Location",
@@ -165,7 +178,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Stock Location",
@@ -177,7 +191,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Stock Location",
@@ -189,7 +204,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Stock Location",
@@ -201,7 +217,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Category",
@@ -213,7 +230,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Category",
@@ -225,7 +243,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Category",
@@ -237,7 +256,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Category",
@@ -249,7 +269,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Category",
@@ -261,7 +282,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Category",
@@ -273,7 +295,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Category",
@@ -285,7 +308,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Category",
@@ -297,7 +321,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Stock Move Report",
@@ -309,7 +334,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Stock Move Report",
@@ -321,7 +347,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Stock Move Report",
@@ -333,7 +360,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Stock Move Report",
@@ -345,7 +373,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Stock Move Report",
@@ -357,7 +386,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Stock Move Report",
@@ -369,7 +399,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Stock Move Report",
@@ -381,7 +412,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Stock Move Report",
@@ -393,7 +425,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Customer Vendor Fields",
@@ -405,7 +438,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Customer Vendor Fields",
@@ -417,7 +451,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Customer Vendor Fields",
@@ -429,7 +464,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Customer Vendor Fields",
@@ -441,7 +477,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Customer Vendor Fields",
@@ -453,7 +490,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Salesperson Own Contact",
@@ -465,7 +503,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Salesperson Own Contact",
@@ -477,7 +516,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Salesperson Own Contact",
@@ -489,7 +529,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Salesperson Own Contact",
@@ -501,7 +542,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Salesperson Own Contact",
@@ -513,7 +555,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Salesperson Own Contact",
@@ -525,7 +568,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Salesperson Own Contact",
@@ -537,7 +581,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Salesperson Own Contact",
@@ -549,7 +594,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Users Login History",
@@ -561,7 +607,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Users Login History",
@@ -573,7 +620,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Users Login History",
@@ -585,7 +633,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Users Login History",
@@ -597,6 +646,7 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     }
 ]

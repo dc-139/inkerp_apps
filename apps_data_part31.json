@@ -9,7 +9,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Manufacturing Category",
@@ -21,7 +22,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Manufacturing Category",
@@ -33,7 +35,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -45,7 +48,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -57,7 +61,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -69,7 +74,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -81,7 +87,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -93,7 +100,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -105,7 +113,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -117,7 +126,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -129,7 +139,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product weight in Delivery Order",
@@ -141,7 +152,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -153,7 +165,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -165,7 +178,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -177,7 +191,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -189,7 +204,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -201,7 +217,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -213,7 +230,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -225,7 +243,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -237,7 +256,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Receipt Status on Purchase order",
@@ -249,7 +269,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Sale Order Detail",
@@ -261,7 +282,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Sale Order Detail",
@@ -273,7 +295,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Sale Order Detail",
@@ -285,7 +308,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Sale Order Detail",
@@ -297,7 +321,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Sale Order Detail",
@@ -309,7 +334,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -321,7 +347,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -333,7 +360,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -345,7 +373,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -357,7 +386,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -369,7 +399,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -381,7 +412,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -393,7 +425,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -405,7 +438,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Task Category",
@@ -417,7 +451,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -429,7 +464,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -441,7 +477,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -453,7 +490,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -465,7 +503,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -477,7 +516,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -489,7 +529,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -501,7 +542,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -513,7 +555,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Today Yesterday filter in SO",
@@ -525,7 +568,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Unique Purchase Alert",
@@ -537,7 +581,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Unique Purchase Alert",
@@ -549,7 +594,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Unique Purchase Alert",
@@ -561,7 +607,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Unique Purchase Alert",
@@ -573,7 +620,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Unique Purchase Alert",
@@ -585,7 +633,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Unique Purchase Alert",
@@ -597,6 +646,7 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     }
 ]

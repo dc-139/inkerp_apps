@@ -9,7 +9,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product Sale Price History",
@@ -21,7 +22,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product Sale Price History",
@@ -33,7 +35,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product Sale Price History",
@@ -45,7 +48,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Product Sale Price History",
@@ -57,7 +61,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Team in project and task",
@@ -69,7 +74,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Team in project and task",
@@ -81,7 +87,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Team in project and task",
@@ -93,7 +100,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Project Team in project and task",
@@ -105,7 +113,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -117,7 +126,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -129,7 +139,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -141,7 +152,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -153,7 +165,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Smart Dashboard",
@@ -165,7 +178,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Smart Dashboard",
@@ -177,7 +191,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Smart Dashboard",
@@ -189,7 +204,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Smart Dashboard",
@@ -201,7 +217,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Partner Ledger",
@@ -213,7 +230,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Partner Ledger",
@@ -225,7 +243,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Partner Ledger",
@@ -237,7 +256,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Partner Ledger",
@@ -249,7 +269,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Partner Ledger",
@@ -261,7 +282,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Asset Management",
@@ -273,7 +295,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Asset Management",
@@ -285,7 +308,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Asset Management",
@@ -297,7 +321,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Asset Management",
@@ -309,7 +334,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Asset Management",
@@ -321,7 +347,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Asset Management",
@@ -333,7 +360,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Asset Management",
@@ -345,7 +373,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Asset Management",
@@ -357,7 +386,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Shopify Integration",
@@ -369,7 +399,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Shopify Integration",
@@ -381,7 +412,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Shopify Integration",
@@ -393,7 +425,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Shopify Integration",
@@ -405,7 +438,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Cancel Stock Moves",
@@ -417,7 +451,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Cancel Stock Moves",
@@ -429,7 +464,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Cancel Stock Moves",
@@ -441,7 +477,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Cancel Stock Moves",
@@ -453,7 +490,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Cancel Stock Moves",
@@ -465,7 +503,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Cancel Stock Moves",
@@ -477,7 +516,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Cancel Stock Moves",
@@ -489,7 +529,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Cancel Stock Moves",
@@ -501,7 +542,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Product Creation",
@@ -513,7 +555,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Product Creation",
@@ -525,7 +568,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Product Creation",
@@ -537,7 +581,8 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     },
     {
         "name": "Restriction on Product Creation",
@@ -549,6 +594,7 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": false,
+        "app_description": false
     }
 ]
