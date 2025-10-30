@@ -57,7 +57,7 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": "Top Selling"
     },
     {
         "name": "Customer Discount",
@@ -69,7 +69,7 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": "Top Selling"
     },
     {
         "name": "Customer Discount",
@@ -81,7 +81,7 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": "Top Selling"
     },
     {
         "name": "Customer Discount",
@@ -93,7 +93,7 @@
         "offer_price": 0.0,
         "actual_price": 0.0,
         "is_free": false,
-        "special_category": false
+        "special_category": "Top Selling"
     },
     {
         "name": "POS Customer Image",
