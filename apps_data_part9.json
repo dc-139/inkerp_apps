@@ -6,7 +6,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Complimentary Items ",
@@ -15,7 +16,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Cancel Order History",
@@ -24,7 +26,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Cancel Order History",
@@ -33,7 +36,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Cancel Order History",
@@ -42,7 +46,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Auto Discount",
@@ -51,7 +56,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Auto Discount",
@@ -60,7 +66,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Auto Discount",
@@ -69,7 +76,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Auto Discount",
@@ -78,7 +86,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Amount to Word",
@@ -87,7 +96,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Amount to Word",
@@ -96,7 +106,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Amount to Word",
@@ -105,7 +116,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Amount to Word",
@@ -114,7 +126,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS A4 Ticket",
@@ -123,7 +136,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS A4 Ticket",
@@ -132,7 +146,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS A4 Ticket",
@@ -141,7 +156,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS A4 Ticket",
@@ -150,7 +166,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Direct Note",
@@ -159,6 +176,7 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     }
 ]

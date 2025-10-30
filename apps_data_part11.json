@@ -6,7 +6,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Purchase Barcode",
@@ -15,7 +16,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Purchase Barcode",
@@ -24,7 +26,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Purchase Barcode",
@@ -33,7 +36,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Barcode",
@@ -42,7 +46,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Barcode",
@@ -51,7 +56,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Barcode",
@@ -60,7 +66,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Barcode",
@@ -69,6 +76,7 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     }
 ]

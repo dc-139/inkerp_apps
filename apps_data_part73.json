@@ -6,7 +6,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "All In One Barcode",
@@ -15,7 +16,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "All In One Barcode",
@@ -24,7 +26,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "BOM Barcode",
@@ -33,7 +36,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "BOM Barcode",
@@ -42,7 +46,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "BOM Barcode",
@@ -51,7 +56,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice and invoice product barcode in report",
@@ -60,7 +66,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 5.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Scrap Barcode",
@@ -69,7 +76,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Scrap Barcode",
@@ -78,7 +86,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Scrap Barcode",
@@ -87,7 +96,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Barcode Lite",
@@ -96,7 +106,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Barcode Lite",
@@ -105,7 +116,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Barcode Lite",
@@ -114,7 +126,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Employee Resignation",
@@ -123,7 +136,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Employee Resignation",
@@ -132,7 +146,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Employee Resignation",
@@ -141,7 +156,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Odoo Studio Lite For Stock Location",
@@ -150,7 +166,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Odoo Studio Lite For Stock Location",
@@ -159,7 +176,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Odoo Studio Lite For Stock Location",
@@ -168,7 +186,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Odoo Studio Lite For Stock Location",
@@ -177,7 +196,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Membership Subscription Plans",
@@ -186,7 +206,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Membership Subscription Plans",
@@ -195,7 +216,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Membership Subscription Plans",
@@ -204,7 +226,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Woocommerce Integration",
@@ -213,7 +236,8 @@
         "category": "eCommerce",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Price list Packaging",
@@ -222,7 +246,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Price list Packaging",
@@ -231,7 +256,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Price list Packaging",
@@ -240,7 +266,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Price list Packaging",
@@ -249,7 +276,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "User Access Template",
@@ -258,7 +286,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 25.0,
-        "actual_price": 25.0
+        "actual_price": 25.0,
+        "is_free": false
     },
     {
         "name": "User Access Template",
@@ -267,7 +296,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 25.0,
-        "actual_price": 25.0
+        "actual_price": 25.0,
+        "is_free": false
     },
     {
         "name": "User Access Template",
@@ -276,7 +306,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 25.0,
-        "actual_price": 25.0
+        "actual_price": 25.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields in Lead",
@@ -285,7 +316,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields in Stock",
@@ -294,7 +326,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields In Mrp",
@@ -303,7 +336,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields In Project",
@@ -312,7 +346,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields In Task",
@@ -321,7 +356,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product QR Generator5",
@@ -330,7 +366,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields in Accountv",
@@ -339,7 +376,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields in Employee",
@@ -348,7 +386,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields In Users",
@@ -357,7 +396,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields In Partner",
@@ -366,7 +406,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields In Product",
@@ -375,7 +416,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields in Purchase",
@@ -384,7 +426,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Fields in Sale",
@@ -393,7 +436,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Customer Code",
@@ -402,7 +446,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 5.0,
-        "actual_price": 10.0
+        "actual_price": 10.0,
+        "is_free": false
     },
     {
         "name": "Product Customer Code",
@@ -411,7 +456,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 5.0,
-        "actual_price": 10.0
+        "actual_price": 10.0,
+        "is_free": false
     },
     {
         "name": "Product Customer Code",
@@ -420,7 +466,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 5.0,
-        "actual_price": 10.0
+        "actual_price": 10.0,
+        "is_free": false
     },
     {
         "name": "Product Customer Code",
@@ -429,7 +476,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 5.0,
-        "actual_price": 10.0
+        "actual_price": 10.0,
+        "is_free": false
     },
     {
         "name": "Product Customer Code",
@@ -438,6 +486,7 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 5.0,
-        "actual_price": 10.0
+        "actual_price": 10.0,
+        "is_free": false
     }
 ]

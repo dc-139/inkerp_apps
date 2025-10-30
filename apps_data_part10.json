@@ -6,7 +6,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Direct Note",
@@ -15,7 +16,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Direct Note",
@@ -24,7 +26,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Eg Sale Order Extended",
@@ -33,7 +36,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Eg Sale Order Extended",
@@ -42,7 +46,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Eg Sale Order Extended",
@@ -51,7 +56,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Eg Sale Order Extended",
@@ -60,6 +66,7 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     }
 ]

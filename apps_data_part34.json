@@ -6,7 +6,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -15,7 +16,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -24,7 +26,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -33,7 +36,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -42,7 +46,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -51,7 +56,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -60,7 +66,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -69,7 +76,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -78,7 +86,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Read Only Unit Price",
@@ -87,7 +96,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -96,7 +106,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -105,7 +116,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -114,7 +126,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -123,7 +136,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -132,7 +146,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -141,7 +156,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -150,7 +166,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -159,7 +176,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Purchase Order",
@@ -168,7 +186,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -177,7 +196,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -186,7 +206,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -195,7 +216,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -204,7 +226,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -213,7 +236,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -222,7 +246,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -231,7 +256,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -240,7 +266,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Tax Amount on Vendor Bill",
@@ -249,7 +276,8 @@
         "category": "Manufacturing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Taxes to Vat in Sales, Purchase, Invoice, Bills Reports and View",
@@ -258,7 +286,8 @@
         "category": "PurchasesSales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Taxes to Vat in Sales, Purchase, Invoice, Bills Reports and View",
@@ -267,7 +296,8 @@
         "category": "PurchasesSales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Taxes to Vat in Sales, Purchase, Invoice, Bills Reports and View",
@@ -276,7 +306,8 @@
         "category": "PurchasesSales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Taxes to Vat in Sales, Purchase, Invoice, Bills Reports and View",
@@ -285,7 +316,8 @@
         "category": "PurchasesSales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -294,7 +326,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -303,7 +336,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -312,7 +346,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -321,7 +356,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -330,7 +366,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -339,7 +376,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -348,7 +386,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -357,7 +396,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Unique Project Task Alert",
@@ -366,7 +406,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "User Specific Product",
@@ -375,7 +416,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "User Specific Product",
@@ -384,7 +426,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "User Specific Product",
@@ -393,7 +436,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "User Specific Product",
@@ -402,7 +446,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "User Specific Product",
@@ -411,7 +456,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Users Last Login Date",
@@ -420,7 +466,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Users Last Login Date",
@@ -429,6 +476,7 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     }
 ]

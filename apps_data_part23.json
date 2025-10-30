@@ -6,7 +6,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Picking Edit Done Date",
@@ -15,7 +16,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Picking Edit Done Date",
@@ -24,7 +26,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Picking Edit Done Date",
@@ -33,7 +36,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Picking Edit Done Date",
@@ -42,7 +46,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Picking Edit Done Date",
@@ -51,7 +56,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Dynamic Approve in Account",
@@ -60,7 +66,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Dynamic Approve in Account",
@@ -69,7 +76,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Dynamic Approve in Account",
@@ -78,7 +86,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Dynamic Approve in Account",
@@ -87,7 +96,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Dynamic Approve in Account",
@@ -96,7 +106,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Dynamic Approve in Account",
@@ -105,7 +116,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Dynamic Approve in Account",
@@ -114,7 +126,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Dynamic Approve in Account",
@@ -123,7 +136,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Woocommerce Integration",
@@ -132,7 +146,8 @@
         "category": "eCommerce",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Woocommerce Integration",
@@ -141,7 +156,8 @@
         "category": "eCommerce",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Woocommerce Integration",
@@ -150,7 +166,8 @@
         "category": "eCommerce",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Checklist of CRM Lead",
@@ -159,7 +176,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Checklist of CRM Lead",
@@ -168,7 +186,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Checklist of CRM Lead",
@@ -177,7 +196,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Checklist of CRM Lead",
@@ -186,7 +206,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Checklist of CRM Lead",
@@ -195,7 +216,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Checklist of CRM Lead",
@@ -204,7 +226,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Checklist of CRM Lead",
@@ -213,7 +236,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Checklist of CRM Lead",
@@ -222,7 +246,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "CRM Lead Document",
@@ -231,7 +256,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "CRM Lead Document",
@@ -240,7 +266,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "CRM Lead Document",
@@ -249,7 +276,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "CRM Lead Document",
@@ -258,7 +286,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "CRM Lead Document",
@@ -267,7 +296,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "CRM Lead Document",
@@ -276,7 +306,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "CRM Lead Document",
@@ -285,7 +316,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "CRM Lead Document",
@@ -294,7 +326,8 @@
         "category": "Marketing",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Receipt Report",
@@ -303,7 +336,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Receipt Report",
@@ -312,7 +346,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Receipt Report",
@@ -321,7 +356,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Receipt Report",
@@ -330,7 +366,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Receipt Report",
@@ -339,7 +376,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Receipt Report",
@@ -348,7 +386,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Receipt Report",
@@ -357,7 +396,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Receipt Report",
@@ -366,7 +406,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "On Hand Qty on Sale Order",
@@ -375,7 +416,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "On Hand Qty on Sale Order",
@@ -384,7 +426,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "On Hand Qty on Sale Order",
@@ -393,7 +436,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "On Hand Qty on Sale Order",
@@ -402,7 +446,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "On Hand Qty on Sale Order",
@@ -411,7 +456,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "On Hand Qty on Sale Order",
@@ -420,7 +466,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Approval",
@@ -429,7 +476,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Approval",
@@ -438,7 +486,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Approval",
@@ -447,6 +496,7 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     }
 ]

@@ -6,7 +6,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Generate Barcode for Employee",
@@ -15,7 +16,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Generate Barcode for Employee",
@@ -24,7 +26,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Generate Barcode for Employee",
@@ -33,7 +36,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Generate Barcode for Employee",
@@ -42,7 +46,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Generate Barcode for Employee",
@@ -51,7 +56,8 @@
         "category": "Human Resources",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Tag",
@@ -60,7 +66,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Tag",
@@ -69,7 +76,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Tag",
@@ -78,7 +86,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Tag",
@@ -87,7 +96,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Tag",
@@ -96,7 +106,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Tag",
@@ -105,7 +116,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Tag",
@@ -114,7 +126,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Invoice Tag",
@@ -123,7 +136,8 @@
         "category": "Accounting",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Lock Price",
@@ -132,7 +146,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Lock Price",
@@ -141,7 +156,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Lock Price",
@@ -150,7 +166,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Lock Price",
@@ -159,7 +176,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Lock Price",
@@ -168,7 +186,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Lock Price",
@@ -177,7 +196,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Lock Price",
@@ -186,7 +206,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Lock Price",
@@ -195,7 +216,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Scrap",
@@ -204,7 +226,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Scrap",
@@ -213,7 +236,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Scrap",
@@ -222,7 +246,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Scrap",
@@ -231,7 +256,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Product Scrap",
@@ -240,7 +266,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Purchase Order Product Weight Information",
@@ -249,7 +276,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Purchase Order Product Weight Information",
@@ -258,7 +286,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Purchase Order Product Weight Information",
@@ -267,7 +296,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Purchase Order Product Weight Information",
@@ -276,7 +306,8 @@
         "category": "Purchases",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Quotation Date",
@@ -285,7 +316,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Quotation Date",
@@ -294,7 +326,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Quotation Date",
@@ -303,7 +336,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Quotation Date",
@@ -312,7 +346,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Quotation Date",
@@ -321,7 +356,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Quotation Date",
@@ -330,7 +366,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Quotation Date",
@@ -339,7 +376,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Sale Quotation Date",
@@ -348,7 +386,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Today Yesterday Filter in DO",
@@ -357,7 +396,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Today Yesterday Filter in DO",
@@ -366,7 +406,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Today Yesterday Filter in DO",
@@ -375,7 +416,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Today Yesterday Filter in DO",
@@ -384,7 +426,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Today Yesterday Filter in DO",
@@ -393,7 +436,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Today Yesterday Filter in DO",
@@ -402,7 +446,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Today Yesterday Filter in DO",
@@ -411,7 +456,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Today Yesterday Filter in DO",
@@ -420,7 +466,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Confirm Sale Person in Sale",
@@ -429,7 +476,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Confirm Sale Person in Sale",
@@ -438,7 +486,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Confirm Sale Person in Sale",
@@ -447,6 +496,7 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     }
 ]

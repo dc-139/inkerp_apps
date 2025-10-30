@@ -6,7 +6,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Sequence",
@@ -15,7 +16,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Sequence",
@@ -24,7 +26,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Sequence",
@@ -33,7 +36,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Pack",
@@ -42,7 +46,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Pack",
@@ -51,7 +56,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Pack",
@@ -60,7 +66,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Pack",
@@ -69,7 +76,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Multi Variant",
@@ -78,7 +86,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Multi Variant",
@@ -87,7 +96,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Multi Variant",
@@ -96,7 +106,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Multi Variant",
@@ -105,7 +116,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Detail",
@@ -114,7 +126,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 15.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Detail",
@@ -123,7 +136,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 15.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Detail",
@@ -132,7 +146,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 15.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Product Detail",
@@ -141,7 +156,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 15.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Payment Image",
@@ -150,7 +166,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Payment Image",
@@ -159,7 +176,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Payment Image",
@@ -168,7 +186,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Payment Image",
@@ -177,7 +196,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Orderline Image",
@@ -186,7 +206,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Orderline Image",
@@ -195,7 +216,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Orderline Image",
@@ -204,7 +226,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Orderline Image",
@@ -213,7 +236,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Type",
@@ -222,7 +246,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Type",
@@ -231,7 +256,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Type",
@@ -240,7 +266,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Type",
@@ -249,7 +276,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Customization",
@@ -258,7 +286,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Customization",
@@ -267,7 +296,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Customization",
@@ -276,7 +306,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Barcode Receipt",
@@ -285,7 +316,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Barcode Receipt",
@@ -294,7 +326,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Barcode Receipt",
@@ -303,7 +336,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "POS Order Barcode Receipt",
@@ -312,6 +346,7 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     }
 ]

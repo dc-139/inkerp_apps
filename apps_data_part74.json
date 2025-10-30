@@ -6,7 +6,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 75.0,
-        "actual_price": 70.0
+        "actual_price": 70.0,
+        "is_free": false
     },
     {
         "name": "Costing Management",
@@ -15,7 +16,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 75.0,
-        "actual_price": 70.0
+        "actual_price": 70.0,
+        "is_free": false
     },
     {
         "name": "Costing Management",
@@ -24,7 +26,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 75.0,
-        "actual_price": 70.0
+        "actual_price": 70.0,
+        "is_free": false
     },
     {
         "name": "Costing Management",
@@ -33,7 +36,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 75.0,
-        "actual_price": 70.0
+        "actual_price": 70.0,
+        "is_free": false
     },
     {
         "name": "Costing Management",
@@ -42,7 +46,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 75.0,
-        "actual_price": 70.0
+        "actual_price": 70.0,
+        "is_free": false
     },
     {
         "name": "Costing Management",
@@ -51,7 +56,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 75.0,
-        "actual_price": 70.0
+        "actual_price": 70.0,
+        "is_free": false
     },
     {
         "name": "Generic Import",
@@ -60,7 +66,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -69,7 +76,8 @@
         "category": "Discuss",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -78,7 +86,8 @@
         "category": "Discuss",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -87,7 +96,8 @@
         "category": "Discuss",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -96,7 +106,8 @@
         "category": "Discuss",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -105,7 +116,8 @@
         "category": "Discuss",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -114,7 +126,8 @@
         "category": "Discuss",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "MRP Custom Product Label",
@@ -123,7 +136,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 15.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "MRP Custom Product Label",
@@ -132,7 +146,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 15.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "MRP Custom Product Label",
@@ -141,7 +156,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 15.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "On Hand Qty on Sale Order",
@@ -150,7 +166,8 @@
         "category": "Sales",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Hospital Management",
@@ -159,7 +176,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Hospital Management",
@@ -168,7 +186,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Hospital Management",
@@ -177,7 +196,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Hospital Management",
@@ -186,7 +206,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Hospital Management",
@@ -195,7 +216,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Hospital Management",
@@ -204,7 +226,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Hospital Management",
@@ -213,7 +236,8 @@
         "category": "Extra Tools",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Barcode for Odoo Community",
@@ -222,7 +246,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Barcode for Odoo Community",
@@ -231,7 +256,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Stock Barcode for Odoo Community",
@@ -240,7 +266,8 @@
         "category": "Warehouse",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Smart Dashboard",
@@ -249,7 +276,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Smart Dashboard",
@@ -258,7 +286,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Smart Dashboard",
@@ -267,7 +296,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Smart Dashboard",
@@ -276,7 +306,8 @@
         "category": "",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Direct Print report",
@@ -285,7 +316,8 @@
         "category": "Productivity",
         "is_offer": false,
         "offer_price": 10.0,
-        "actual_price": 15.0
+        "actual_price": 15.0,
+        "is_free": false
     },
     {
         "name": "PoS Cash Control",
@@ -294,7 +326,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 0.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "PoS Cashier Image",
@@ -303,7 +336,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "PoS Custom Order no",
@@ -312,7 +346,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "PoS Customer Require",
@@ -321,7 +356,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "PoS Default Customer3",
@@ -330,7 +366,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "PoS Enlarge Image3",
@@ -339,7 +376,8 @@
         "category": "Point of Sale",
         "is_offer": false,
         "offer_price": 20.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Product Label",
@@ -348,7 +386,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 1.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Product Label",
@@ -357,7 +396,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 1.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Custom Product Label",
@@ -366,7 +406,8 @@
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
         "offer_price": 1.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Project Management System",
@@ -375,7 +416,8 @@
         "category": "Project",
         "is_offer": false,
         "offer_price": 49.0,
-        "actual_price": 0.0
+        "actual_price": 0.0,
+        "is_free": false
     },
     {
         "name": "Payment Method Restriction",
@@ -384,6 +426,7 @@
         "category": "eCommerceWebsite",
         "is_offer": false,
         "offer_price": 15.0,
-        "actual_price": 30.0
+        "actual_price": 30.0,
+        "is_free": false
     }
 ]
