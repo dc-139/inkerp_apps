@@ -10,7 +10,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Invoice From Picking",
@@ -23,7 +24,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS to Purchase",
@@ -36,7 +38,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Single invoice",
@@ -49,7 +52,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Single invoice",
@@ -62,7 +66,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Single invoice",
@@ -75,7 +80,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Single invoice",
@@ -88,7 +94,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Task From CRM-Lead",
@@ -101,7 +108,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Task From CRM-Lead",
@@ -114,7 +122,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Task From CRM-Lead",
@@ -127,7 +136,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Create Task From CRM-Lead",
@@ -140,7 +150,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Crm Lead Lifetime",
@@ -153,7 +164,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Crm Lead Lifetime",
@@ -166,7 +178,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Crm Lead Lifetime",
@@ -179,7 +192,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Mrp",
@@ -192,7 +206,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Mrp",
@@ -205,7 +220,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Mrp",
@@ -218,7 +234,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Partner",
@@ -231,7 +248,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Partner",
@@ -244,7 +262,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Partner",
@@ -257,7 +276,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Project",
@@ -270,7 +290,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Project",
@@ -283,7 +304,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Project",
@@ -296,7 +318,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Task",
@@ -309,7 +332,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Task",
@@ -322,7 +346,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Task",
@@ -335,7 +360,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Users",
@@ -348,7 +374,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Users",
@@ -361,7 +388,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields In Users",
@@ -374,7 +402,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Accountv",
@@ -387,7 +416,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Accountv",
@@ -400,7 +430,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Accountv",
@@ -413,7 +444,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Employee",
@@ -426,7 +458,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Employee",
@@ -439,7 +472,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Employee",
@@ -452,7 +486,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Lead",
@@ -465,7 +500,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Lead",
@@ -478,7 +514,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Lead",
@@ -491,7 +528,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Purchase",
@@ -504,7 +542,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Purchase",
@@ -517,7 +556,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Purchase",
@@ -530,7 +570,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Sale",
@@ -543,7 +584,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Fields in Sale",
@@ -556,6 +598,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     }
 ]

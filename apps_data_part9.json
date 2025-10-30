@@ -10,7 +10,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Complimentary Items ",
@@ -23,7 +24,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Cancel Order History",
@@ -36,7 +38,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Cancel Order History",
@@ -49,7 +52,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Cancel Order History",
@@ -62,7 +66,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Auto Discount",
@@ -75,7 +80,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Auto Discount",
@@ -88,7 +94,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Auto Discount",
@@ -101,7 +108,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Auto Discount",
@@ -114,7 +122,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Amount to Word",
@@ -127,7 +136,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Amount to Word",
@@ -140,7 +150,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Amount to Word",
@@ -153,7 +164,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Amount to Word",
@@ -166,7 +178,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS A4 Ticket",
@@ -179,7 +192,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS A4 Ticket",
@@ -192,7 +206,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS A4 Ticket",
@@ -205,7 +220,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS A4 Ticket",
@@ -218,7 +234,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "POS Direct Note",
@@ -231,6 +248,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     }
 ]

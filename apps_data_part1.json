@@ -10,7 +10,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": "Free",
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Purchase Order from Sale Order",
@@ -23,7 +24,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": "Free",
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Purchase Order from Sale Order",
@@ -36,7 +38,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": "Free",
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Purchase Order from Sale Order",
@@ -49,7 +52,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": "Free",
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Sale/Quotation Reports",
@@ -62,7 +66,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Sale/Quotation Reports",
@@ -75,7 +80,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Sale/Quotation Reports",
@@ -88,7 +94,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Sale/Quotation Reports",
@@ -101,7 +108,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bill of Material (BOM) Cost Price",
@@ -114,7 +122,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bill of Material (BOM) Cost Price",
@@ -127,7 +136,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bill of Material (BOM) Cost Price",
@@ -140,7 +150,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bill of Material (BOM) Cost Price",
@@ -153,7 +164,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bill of Material (BOM) Cost Price",
@@ -166,7 +178,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Cancel Quotations",
@@ -179,7 +192,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Cancel Quotations",
@@ -192,7 +206,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Cancel Quotations",
@@ -205,7 +220,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Cancel Quotations",
@@ -218,7 +234,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -231,7 +248,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -244,7 +262,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -257,7 +276,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -270,7 +290,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -283,7 +304,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Remove Internal Reference(SKU) From Product Name",
@@ -296,7 +318,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Remove Internal Reference(SKU) From Product Name",
@@ -309,7 +332,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Remove Internal Reference(SKU) From Product Name",
@@ -322,7 +346,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Remove Internal Reference(SKU) From Product Name",
@@ -335,7 +360,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Remove Internal Reference(SKU) From Product Name",
@@ -348,6 +374,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     }
 ]

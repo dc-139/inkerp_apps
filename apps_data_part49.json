@@ -10,7 +10,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Advance Product Search in SO & PO",
@@ -23,7 +24,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Advance Product Search in SO & PO",
@@ -36,7 +38,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All Contact Approval",
@@ -49,7 +52,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All Contact Approval",
@@ -62,7 +66,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All Contact Approval",
@@ -75,7 +80,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All Contact Approval",
@@ -88,7 +94,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All In One Digital Signature",
@@ -101,7 +108,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All In One Digital Signature",
@@ -114,7 +122,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All In One Digital Signature",
@@ -127,7 +136,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All In One Digital Signature",
@@ -140,7 +150,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Eg All In One Excel Report",
@@ -153,7 +164,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Eg All In One Excel Report",
@@ -166,7 +178,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Eg All In One Excel Report",
@@ -179,7 +192,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Eg All In One Excel Report",
@@ -192,7 +206,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Eg All In One Excel Report",
@@ -205,7 +220,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All In One Purchase Reports",
@@ -218,7 +234,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All In One Purchase Reports",
@@ -231,7 +248,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All In One Purchase Reports",
@@ -244,7 +262,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All In One Purchase Reports",
@@ -257,7 +276,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -270,7 +290,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -283,7 +304,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -296,7 +318,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -309,7 +332,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in One Receipt report",
@@ -322,7 +346,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in One Receipt report",
@@ -335,7 +360,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in One Receipt report",
@@ -348,7 +374,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in One Receipt report",
@@ -361,7 +388,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in One Tags",
@@ -374,7 +402,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in One Tags",
@@ -387,7 +416,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in One Tags",
@@ -400,7 +430,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in One Tags",
@@ -413,7 +444,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one Sale reports",
@@ -426,7 +458,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one Sale reports",
@@ -439,7 +472,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one Sale reports",
@@ -452,7 +486,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one Sale reports",
@@ -465,7 +500,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one Sale reports",
@@ -478,7 +514,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one Sale reports",
@@ -491,7 +528,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one Sale reports",
@@ -504,7 +542,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one views",
@@ -517,7 +556,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "All in one views",
@@ -530,6 +570,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     }
 ]

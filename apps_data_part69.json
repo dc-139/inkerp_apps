@@ -10,7 +10,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Picking/Delivery Slip Reports",
@@ -23,7 +24,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
@@ -36,7 +38,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
@@ -49,7 +52,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
@@ -62,7 +66,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
@@ -75,7 +80,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Sale/Quotation Reports",
@@ -88,7 +94,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Sale/Quotation Reports",
@@ -101,7 +108,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Sale/Quotation Reports",
@@ -114,7 +122,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "User Signature in Sale/Quotation Reports",
@@ -127,7 +136,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Vendor Purchase Order History",
@@ -140,7 +150,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Vendor Purchase Order History",
@@ -153,7 +164,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Vendor Purchase Order History",
@@ -166,7 +178,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Vendor Purchase Order History",
@@ -179,7 +192,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "eg_warehouse_average_costing",
@@ -192,7 +206,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "eg_warehouse_average_costing",
@@ -205,7 +220,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "eg_warehouse_average_costing",
@@ -218,7 +234,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Activity Management",
@@ -231,7 +248,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The Activity Management app enhances activity tracking by offering detailed insights, role-based access, and customizable filters for better organization and control."
+        "app_description": "The Activity Management app enhances activity tracking by offering detailed insights, role-based access, and customizable filters for better organization and control.",
+        "offer_date": ""
     },
     {
         "name": "Invoice and invoice product barcode in report",
@@ -244,7 +262,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The Invoice Product Barcode In Report module shows barcodes in various Invoice reports like invoices and bills. It's beneficial for speeding up processes and quickly reading invoice details using a barcode scanner."
+        "app_description": "The Invoice Product Barcode In Report module shows barcodes in various Invoice reports like invoices and bills. It's beneficial for speeding up processes and quickly reading invoice details using a barcode scanner.",
+        "offer_date": ""
     },
     {
         "name": "Invoice and invoice product barcode in report",
@@ -257,7 +276,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The Invoice Product Barcode In Report module shows barcodes in various Invoice reports like invoices and bills. It's beneficial for speeding up processes and quickly reading invoice details using a barcode scanner."
+        "app_description": "The Invoice Product Barcode In Report module shows barcodes in various Invoice reports like invoices and bills. It's beneficial for speeding up processes and quickly reading invoice details using a barcode scanner.",
+        "offer_date": ""
     },
     {
         "name": "Category Multiple Website",
@@ -270,7 +290,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "This module gives access to add multiple websites to the Category.By default, all categories are shown in the shop section, but this module gives the ability to show that particular category on selected particular websites.\nMainly, by default functionality is to select only one, but by using our module, you can select multiple websites for a single product.Also, our module has functionality to mass update the category's website, which helps to save time and fast productivity."
+        "app_description": "This module gives access to add multiple websites to the Category.By default, all categories are shown in the shop section, but this module gives the ability to show that particular category on selected particular websites.\nMainly, by default functionality is to select only one, but by using our module, you can select multiple websites for a single product.Also, our module has functionality to mass update the category's website, which helps to save time and fast productivity.",
+        "offer_date": ""
     },
     {
         "name": "Category Multiple Website",
@@ -283,7 +304,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "This module gives access to add multiple websites to the Category.By default, all categories are shown in the shop section, but this module gives the ability to show that particular category on selected particular websites.\nMainly, by default functionality is to select only one, but by using our module, you can select multiple websites for a single product.Also, our module has functionality to mass update the category's website, which helps to save time and fast productivity."
+        "app_description": "This module gives access to add multiple websites to the Category.By default, all categories are shown in the shop section, but this module gives the ability to show that particular category on selected particular websites.\nMainly, by default functionality is to select only one, but by using our module, you can select multiple websites for a single product.Also, our module has functionality to mass update the category's website, which helps to save time and fast productivity.",
+        "offer_date": ""
     },
     {
         "name": "Category Multiple Website",
@@ -296,7 +318,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "This module gives access to add multiple websites to the Category.By default, all categories are shown in the shop section, but this module gives the ability to show that particular category on selected particular websites.\nMainly, by default functionality is to select only one, but by using our module, you can select multiple websites for a single product.Also, our module has functionality to mass update the category's website, which helps to save time and fast productivity."
+        "app_description": "This module gives access to add multiple websites to the Category.By default, all categories are shown in the shop section, but this module gives the ability to show that particular category on selected particular websites.\nMainly, by default functionality is to select only one, but by using our module, you can select multiple websites for a single product.Also, our module has functionality to mass update the category's website, which helps to save time and fast productivity.",
+        "offer_date": ""
     },
     {
         "name": "Multi Website in odoo",
@@ -309,7 +332,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Multi Website in odoo",
@@ -322,7 +346,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Multi Website in odoo",
@@ -335,7 +360,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Employee Late Check-in Report",
@@ -348,7 +374,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Employee Late Check-in Report",
@@ -361,7 +388,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Employee Late Check-in Report",
@@ -374,7 +402,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Odoo Studio For community",
@@ -387,7 +416,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Odoo Studio For community",
@@ -400,7 +430,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Odoo Studio For community",
@@ -413,7 +444,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Advance Multiple Branch Management",
@@ -426,7 +458,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Meeting Room Booking",
@@ -439,7 +472,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Meeting Room Booking",
@@ -452,7 +486,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Meeting Room Booking",
@@ -465,7 +500,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Website Product And Category Description From Backend",
@@ -478,7 +514,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Website Product And Category Description From Backend",
@@ -491,7 +528,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Website Product And Category Description From Backend",
@@ -504,6 +542,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     }
 ]

@@ -10,7 +10,8 @@
         "actual_price": 70.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Costing Management",
@@ -23,7 +24,8 @@
         "actual_price": 70.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Costing Management",
@@ -36,7 +38,8 @@
         "actual_price": 70.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Costing Management",
@@ -49,7 +52,8 @@
         "actual_price": 70.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Costing Management",
@@ -62,7 +66,8 @@
         "actual_price": 70.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Costing Management",
@@ -75,7 +80,8 @@
         "actual_price": 70.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Generic Import",
@@ -88,7 +94,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -101,7 +108,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -114,7 +122,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -127,7 +136,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -140,7 +150,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -153,7 +164,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -166,7 +178,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "MRP Custom Product Label",
@@ -179,7 +192,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The MRP Custom Product Label module lets you print barcode labels in custom sizes directly from Odoo. It supports multiple formats including A4 (57x35mm) and Dymo (50x38mm). Ideal for adapting labels to your production and inventory needs."
+        "app_description": "The MRP Custom Product Label module lets you print barcode labels in custom sizes directly from Odoo. It supports multiple formats including A4 (57x35mm) and Dymo (50x38mm). Ideal for adapting labels to your production and inventory needs.",
+        "offer_date": ""
     },
     {
         "name": "MRP Custom Product Label",
@@ -192,7 +206,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The MRP Custom Product Label module lets you print barcode labels in custom sizes directly from Odoo. It supports multiple formats including A4 (57x35mm) and Dymo (50x38mm). Ideal for adapting labels to your production and inventory needs."
+        "app_description": "The MRP Custom Product Label module lets you print barcode labels in custom sizes directly from Odoo. It supports multiple formats including A4 (57x35mm) and Dymo (50x38mm). Ideal for adapting labels to your production and inventory needs.",
+        "offer_date": ""
     },
     {
         "name": "MRP Custom Product Label",
@@ -205,7 +220,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The MRP Custom Product Label module lets you print barcode labels in custom sizes directly from Odoo. It supports multiple formats including A4 (57x35mm) and Dymo (50x38mm). Ideal for adapting labels to your production and inventory needs."
+        "app_description": "The MRP Custom Product Label module lets you print barcode labels in custom sizes directly from Odoo. It supports multiple formats including A4 (57x35mm) and Dymo (50x38mm). Ideal for adapting labels to your production and inventory needs.",
+        "offer_date": ""
     },
     {
         "name": "On Hand Qty on Sale Order",
@@ -218,7 +234,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Hospital Management",
@@ -231,7 +248,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Hospital Management",
@@ -244,7 +262,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Hospital Management",
@@ -257,7 +276,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Hospital Management",
@@ -270,7 +290,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Hospital Management",
@@ -283,7 +304,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Hospital Management",
@@ -296,7 +318,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Hospital Management",
@@ -309,7 +332,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Stock Barcode for Odoo Community",
@@ -322,7 +346,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Stock Barcode for Odoo Community",
@@ -335,7 +360,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Stock Barcode for Odoo Community",
@@ -348,7 +374,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Smart Dashboard",
@@ -361,7 +388,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Smart Dashboard",
@@ -374,7 +402,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Smart Dashboard",
@@ -387,7 +416,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Smart Dashboard",
@@ -400,7 +430,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Direct Print report",
@@ -413,7 +444,8 @@
         "actual_price": 15.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "PoS Cash Control",
@@ -426,7 +458,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "PoS Cashier Image",
@@ -439,7 +472,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "PoS Custom Order no",
@@ -452,7 +486,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "PoS Customer Require",
@@ -465,7 +500,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "PoS Default Customer3",
@@ -478,7 +514,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "PoS Enlarge Image3",
@@ -491,7 +528,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     },
     {
         "name": "Custom Product Label",
@@ -504,7 +542,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The Custom Product Label module lets you print barcode labels for products and variants in Odoo. It includes ready-to-use templates for A4 (57x35mm) and Dymo (50x38mm) formats. Easily generate labels from product or variant views."
+        "app_description": "The Custom Product Label module lets you print barcode labels for products and variants in Odoo. It includes ready-to-use templates for A4 (57x35mm) and Dymo (50x38mm) formats. Easily generate labels from product or variant views.",
+        "offer_date": ""
     },
     {
         "name": "Custom Product Label",
@@ -517,7 +556,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The Custom Product Label module lets you print barcode labels for products and variants in Odoo. It includes ready-to-use templates for A4 (57x35mm) and Dymo (50x38mm) formats. Easily generate labels from product or variant views."
+        "app_description": "The Custom Product Label module lets you print barcode labels for products and variants in Odoo. It includes ready-to-use templates for A4 (57x35mm) and Dymo (50x38mm) formats. Easily generate labels from product or variant views.",
+        "offer_date": ""
     },
     {
         "name": "Custom Product Label",
@@ -530,7 +570,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The Custom Product Label module lets you print barcode labels for products and variants in Odoo. It includes ready-to-use templates for A4 (57x35mm) and Dymo (50x38mm) formats. Easily generate labels from product or variant views."
+        "app_description": "The Custom Product Label module lets you print barcode labels for products and variants in Odoo. It includes ready-to-use templates for A4 (57x35mm) and Dymo (50x38mm) formats. Easily generate labels from product or variant views.",
+        "offer_date": ""
     },
     {
         "name": "Project Management System",
@@ -543,7 +584,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "Effortlessly manage your projects, tasks, teams, and workflows \u2013 all within Odoo.\n\nThe Project Management System app is a comprehensive solution built to streamline how your organization handles projects and tasks. Whether you manage a small team or large-scale operations, this app brings structure, automation, and visibility to every phase of your project lifecycle.\n\nDesigned with flexibility and usability in mind, it empowers your team with the tools they need to deliver projects efficiently, stay aligned, and maintain full control over responsibilities."
+        "app_description": "Effortlessly manage your projects, tasks, teams, and workflows \u2013 all within Odoo.\n\nThe Project Management System app is a comprehensive solution built to streamline how your organization handles projects and tasks. Whether you manage a small team or large-scale operations, this app brings structure, automation, and visibility to every phase of your project lifecycle.\n\nDesigned with flexibility and usability in mind, it empowers your team with the tools they need to deliver projects efficiently, stay aligned, and maintain full control over responsibilities.",
+        "offer_date": ""
     },
     {
         "name": "Payment Method Restriction",
@@ -556,6 +598,7 @@
         "actual_price": 30.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": false,
+        "offer_date": ""
     }
 ]
