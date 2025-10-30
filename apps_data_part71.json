@@ -543,7 +543,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": "This module enables you to hide out-of-stock products in the website shop. By default, this feature is not available in Odoo. After installing the module, the feature is initially disabled, and users can enable it with a simple setting. Once activated, out-of-stock products will be automatically hidden from the website, ensuring customers only see available items.\n"
     },
     {
         "name": "Hide Out Of Stock Products In Website",
@@ -556,7 +556,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": "This module enables you to hide out-of-stock products in the website shop. By default, this feature is not available in Odoo. After installing the module, the feature is initially disabled, and users can enable it with a simple setting. Once activated, out-of-stock products will be automatically hidden from the website, ensuring customers only see available items.\n"
     },
     {
         "name": "Hide Out Of Stock Products In Website",
@@ -569,7 +569,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": "This module enables you to hide out-of-stock products in the website shop. By default, this feature is not available in Odoo. After installing the module, the feature is initially disabled, and users can enable it with a simple setting. Once activated, out-of-stock products will be automatically hidden from the website, ensuring customers only see available items.\n"
     },
     {
         "name": "Hide Out Of Stock Products In Website",
@@ -582,7 +582,7 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false
+        "app_description": "This module enables you to hide out-of-stock products in the website shop. By default, this feature is not available in Odoo. After installing the module, the feature is initially disabled, and users can enable it with a simple setting. Once activated, out-of-stock products will be automatically hidden from the website, ensuring customers only see available items.\n"
     },
     {
         "name": "Quick Preview CRM Lead",
