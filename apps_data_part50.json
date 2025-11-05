@@ -10,7 +10,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -24,7 +25,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -38,7 +40,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -52,7 +55,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -66,7 +70,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -80,7 +85,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -94,7 +100,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -108,7 +115,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -122,7 +130,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -136,7 +145,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -150,7 +160,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -164,7 +175,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -178,7 +190,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -192,7 +205,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -206,7 +220,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -220,7 +235,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -234,7 +250,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -248,7 +265,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -262,7 +280,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -276,7 +295,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -290,7 +310,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -304,7 +325,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -318,7 +340,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -332,7 +355,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -346,7 +370,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -360,7 +385,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -370,11 +396,12 @@
         "odoo_version": "15.0",
         "category": "Sales",
         "is_offer": false,
-        "offer_price": 0.0,
+        "offer_price": 19.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": "The \"Auto Section in Sale Order\" app allows users to define product sections and automatically assign sale order lines to these sections. This feature enhances the organization of products within sale orders, improving workflow efficiency. Additionally, the invoice structure reflects the same sections as the sale order, maintaining consistency between the order and invoice.\n        \n        Key Features:\n        1) **Section Management in Product and Sale Order Menus**:\n           - Define sections for products and create new sections directly from the sale order section menu.\n        \n        2) **Sectioned Sale Order Lines**:\n           - Group products in sale orders under defined sections for better organization.\n        \n        3) **Auto Section Creation**:\n           - Automatically create sections in the sale order lines based on product definitions, eliminating manual setup.\n        \n        4) **Consistency Between Sale Order and Invoice**:\n           - Ensure that the invoice structure mirrors the same sections as the sale order, maintaining consistency across documents.\n        \n        This app automates the sectioning of sale order lines, providing a smooth and organized experience from order creation to invoicing.",
+        "summary": "\tAutomatically assign sale order lines to product sections in Odoo, ensuring seamless organization and matching invoice structure. , Automatic Sale Order Sections, Group Sale Order Lines by Section, Product Section Management in Sales, Section-Based Sale Orders, Organized Sale Order Line Items, Invoice Sections Matching Sale Orders, Auto Sections for Product Organization, Sale Order Line Automation, Predefined Sections in Sale Orders, Dynamic Sale Order Sections, Streamlined Sale Order Organization, Sectioned Invoices for Sales, Product Grouping in Sale Orders, Sale Order Section Workflow, Automated Section Creation for Sales.",
         "offer_date": ""
     },
     {
@@ -384,11 +411,12 @@
         "odoo_version": "16.0",
         "category": "Sales",
         "is_offer": false,
-        "offer_price": 0.0,
+        "offer_price": 19.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": "The \"Auto Section in Sale Order\" app allows users to define product sections and automatically assign sale order lines to these sections. This feature enhances the organization of products within sale orders, improving workflow efficiency. Additionally, the invoice structure reflects the same sections as the sale order, maintaining consistency between the order and invoice.\n        \n        Key Features:\n        1) **Section Management in Product and Sale Order Menus**:\n           - Define sections for products and create new sections directly from the sale order section menu.\n        \n        2) **Sectioned Sale Order Lines**:\n           - Group products in sale orders under defined sections for better organization.\n        \n        3) **Auto Section Creation**:\n           - Automatically create sections in the sale order lines based on product definitions, eliminating manual setup.\n        \n        4) **Consistency Between Sale Order and Invoice**:\n           - Ensure that the invoice structure mirrors the same sections as the sale order, maintaining consistency across documents.\n        \n        This app automates the sectioning of sale order lines, providing a smooth and organized experience from order creation to invoicing.",
+        "summary": "\tAutomatically assign sale order lines to product sections in Odoo, ensuring seamless organization and matching invoice structure. , Automatic Sale Order Sections, Group Sale Order Lines by Section, Product Section Management in Sales, Section-Based Sale Orders, Organized Sale Order Line Items, Invoice Sections Matching Sale Orders, Auto Sections for Product Organization, Sale Order Line Automation, Predefined Sections in Sale Orders, Dynamic Sale Order Sections, Streamlined Sale Order Organization, Sectioned Invoices for Sales, Product Grouping in Sale Orders, Sale Order Section Workflow, Automated Section Creation for Sales.",
         "offer_date": ""
     },
     {
@@ -398,11 +426,12 @@
         "odoo_version": "17.0",
         "category": "Sales",
         "is_offer": false,
-        "offer_price": 0.0,
+        "offer_price": 19.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": "The \"Auto Section in Sale Order\" app allows users to define product sections and automatically assign sale order lines to these sections. This feature enhances the organization of products within sale orders, improving workflow efficiency. Additionally, the invoice structure reflects the same sections as the sale order, maintaining consistency between the order and invoice.\n        \n        Key Features:\n        1) **Section Management in Product and Sale Order Menus**:\n           - Define sections for products and create new sections directly from the sale order section menu.\n        \n        2) **Sectioned Sale Order Lines**:\n           - Group products in sale orders under defined sections for better organization.\n        \n        3) **Auto Section Creation**:\n           - Automatically create sections in the sale order lines based on product definitions, eliminating manual setup.\n        \n        4) **Consistency Between Sale Order and Invoice**:\n           - Ensure that the invoice structure mirrors the same sections as the sale order, maintaining consistency across documents.\n        \n        This app automates the sectioning of sale order lines, providing a smooth and organized experience from order creation to invoicing.",
+        "summary": "\tAutomatically assign sale order lines to product sections in Odoo, ensuring seamless organization and matching invoice structure. , Automatic Sale Order Sections, Group Sale Order Lines by Section, Product Section Management in Sales, Section-Based Sale Orders, Organized Sale Order Line Items, Invoice Sections Matching Sale Orders, Auto Sections for Product Organization, Sale Order Line Automation, Predefined Sections in Sale Orders, Dynamic Sale Order Sections, Streamlined Sale Order Organization, Sectioned Invoices for Sales, Product Grouping in Sale Orders, Sale Order Section Workflow, Automated Section Creation for Sales.",
         "offer_date": ""
     },
     {
@@ -412,11 +441,12 @@
         "odoo_version": "18.0",
         "category": "Sales",
         "is_offer": false,
-        "offer_price": 0.0,
+        "offer_price": 19.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": "The \"Auto Section in Sale Order\" app allows users to define product sections and automatically assign sale order lines to these sections. This feature enhances the organization of products within sale orders, improving workflow efficiency. Additionally, the invoice structure reflects the same sections as the sale order, maintaining consistency between the order and invoice.\n        \n        Key Features:\n        1) **Section Management in Product and Sale Order Menus**:\n           - Define sections for products and create new sections directly from the sale order section menu.\n        \n        2) **Sectioned Sale Order Lines**:\n           - Group products in sale orders under defined sections for better organization.\n        \n        3) **Auto Section Creation**:\n           - Automatically create sections in the sale order lines based on product definitions, eliminating manual setup.\n        \n        4) **Consistency Between Sale Order and Invoice**:\n           - Ensure that the invoice structure mirrors the same sections as the sale order, maintaining consistency across documents.\n        \n        This app automates the sectioning of sale order lines, providing a smooth and organized experience from order creation to invoicing.",
+        "summary": "\tAutomatically assign sale order lines to product sections in Odoo, ensuring seamless organization and matching invoice structure. , Automatic Sale Order Sections, Group Sale Order Lines by Section, Product Section Management in Sales, Section-Based Sale Orders, Organized Sale Order Line Items, Invoice Sections Matching Sale Orders, Auto Sections for Product Organization, Sale Order Line Automation, Predefined Sections in Sale Orders, Dynamic Sale Order Sections, Streamlined Sale Order Organization, Sectioned Invoices for Sales, Product Grouping in Sale Orders, Sale Order Section Workflow, Automated Section Creation for Sales.",
         "offer_date": ""
     },
     {
@@ -430,7 +460,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -444,7 +475,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -458,7 +490,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -472,7 +505,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -486,7 +520,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -500,7 +535,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -514,7 +550,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -528,7 +565,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -542,7 +580,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -556,7 +595,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -570,7 +610,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -584,7 +625,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -598,7 +640,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -612,7 +655,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -626,7 +670,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -640,7 +685,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -654,7 +700,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     }
 ]

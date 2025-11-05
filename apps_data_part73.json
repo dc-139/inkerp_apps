@@ -10,7 +10,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -24,7 +25,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -38,7 +40,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -52,7 +55,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -66,7 +70,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -80,7 +85,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -94,7 +100,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": "The Invoice Product Barcode In Report module shows barcodes in various Invoice reports like invoices and bills. It's beneficial for speeding up processes and quickly reading invoice details using a barcode scanner.",
+        "description": "The Invoice Product Barcode In Report module shows barcodes in various Invoice reports like invoices and bills. It's beneficial for speeding up processes and quickly reading invoice details using a barcode scanner.",
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -108,7 +115,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -122,7 +130,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -136,7 +145,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -150,7 +160,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -164,7 +175,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -178,7 +190,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -192,7 +205,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -206,7 +220,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -220,7 +235,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -234,7 +250,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -248,7 +265,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -262,7 +280,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -276,7 +295,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -290,7 +310,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -304,7 +325,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -318,7 +340,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -332,7 +355,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -346,7 +370,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -360,7 +385,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -374,7 +400,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -388,7 +415,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -402,7 +430,8 @@
         "actual_price": 25.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -416,7 +445,8 @@
         "actual_price": 25.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -430,7 +460,8 @@
         "actual_price": 25.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -444,7 +475,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -458,7 +490,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -472,7 +505,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -486,7 +520,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -500,7 +535,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -514,7 +550,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -528,7 +565,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -542,7 +580,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -556,7 +595,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -570,7 +610,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -584,7 +625,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -598,7 +640,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -612,7 +655,8 @@
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -626,7 +670,8 @@
         "actual_price": 10.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -640,7 +685,8 @@
         "actual_price": 10.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -654,7 +700,8 @@
         "actual_price": 10.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -668,7 +715,8 @@
         "actual_price": 10.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     },
     {
@@ -682,7 +730,8 @@
         "actual_price": 10.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "description": false,
+        "summary": false,
         "offer_date": ""
     }
 ]
