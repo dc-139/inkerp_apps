@@ -10,7 +10,7 @@
         "actual_price": 0.0,
         "is_free": true,
         "special_category": false,
-        "app_description": false,
+        "app_description": "Test Description",
         "offer_date": ""
     },
     {
@@ -24,7 +24,7 @@
         "actual_price": 0.0,
         "is_free": true,
         "special_category": false,
-        "app_description": false,
+        "app_description": "Test Description",
         "offer_date": ""
     },
     {
@@ -38,7 +38,7 @@
         "actual_price": 0.0,
         "is_free": true,
         "special_category": false,
-        "app_description": false,
+        "app_description": "Test Description",
         "offer_date": ""
     },
     {

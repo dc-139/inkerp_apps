@@ -117,13 +117,13 @@
         "technical_name": "eg_pos_customer_image",
         "odoo_version": "15.0",
         "category": "Point of Sale",
-        "is_offer": false,
+        "is_offer": true,
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
-        "offer_date": ""
+        "app_description": "eg_pos_customer_image Description",
+        "offer_date": "2025-11-08"
     },
     {
         "name": "POS Customer Image",
@@ -131,13 +131,13 @@
         "technical_name": "eg_pos_customer_image",
         "odoo_version": "16.0",
         "category": "Point of Sale",
-        "is_offer": false,
+        "is_offer": true,
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
-        "offer_date": ""
+        "app_description": "eg_pos_customer_image Description",
+        "offer_date": "2025-11-08"
     },
     {
         "name": "POS Customer Image",
@@ -145,13 +145,13 @@
         "technical_name": "eg_pos_customer_image",
         "odoo_version": "17.0",
         "category": "Point of Sale",
-        "is_offer": false,
+        "is_offer": true,
         "offer_price": 20.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
-        "offer_date": ""
+        "app_description": "eg_pos_customer_image Description",
+        "offer_date": "2025-11-08"
     },
     {
         "name": "Customer Sale Order History",
