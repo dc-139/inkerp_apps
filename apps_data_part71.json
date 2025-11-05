@@ -286,11 +286,11 @@
         "odoo_version": "16.0",
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
-        "offer_price": 0.0,
+        "offer_price": 25.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "app_description": "eg_website_shop_qty Description",
         "offer_date": ""
     },
     {
@@ -300,11 +300,11 @@
         "odoo_version": "17.0",
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
-        "offer_price": 0.0,
+        "offer_price": 25.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "app_description": "eg_website_shop_qty Description",
         "offer_date": ""
     },
     {
@@ -314,11 +314,11 @@
         "odoo_version": "18.0",
         "category": "PurchasesSalesWarehouse",
         "is_offer": false,
-        "offer_price": 0.0,
+        "offer_price": 25.0,
         "actual_price": 0.0,
         "is_free": false,
         "special_category": false,
-        "app_description": false,
+        "app_description": "eg_website_shop_qty Description",
         "offer_date": ""
     },
     {
