@@ -23,7 +23,7 @@
         "description": false,
         "summary": "Cancel selected quotations and sale orders at once.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Bulk Confirm Quotations",
@@ -49,7 +49,7 @@
         "description": "The Bulk Confirm Quotations module for Odoo simplifies the sales workflow by allowing users to confirm multiple quotations in just one click. Instead of processing quotations individually, sales teams can save time and effort by converting several quotations into sale orders at once, making it ideal for businesses handling high volumes of daily quotations. The module integrates seamlessly with the Odoo Sales app, ensuring confirmed quotations automatically follow the standard workflow for deliveries and invoicing. With user access controls, error handling, and notifications, this solution improves efficiency, reduces manual work, and accelerates the overall sales process.",
         "summary": "Bulk Confirm Quotations Odoo, Odoo Bulk Quotation Approval, Mass Confirm Sale Orders Odoo, Odoo Sales Automation, Confirm Multiple Quotations Odoo, Odoo Sales Quotation Workflow, Bulk Sales Confirmation Odoo, Odoo Quotation to Sales Order, Multi-Quotation Approval Odoo, Odoo Bulk Sales Process, Sales Efficiency Odoo Module, Odoo Confirm All Quotations, Quotation Management Odoo, Odoo Fast Quotation Conversion, Bulk Quote Approval Odoo, Odoo Sales Workflow Automation, Sales Process Optimization Odoo, Odoo High Volume Quotation Handling, Odoo ERP Quotation Control, Bulk Order Confirmation Odoo, Odoo Multi-Quotation Management, Sales Confirmation Shortcut Odoo, Odoo Fast Sales Workflow, Sales Team Productivity Odoo, Odoo Confirm Quotation Batch, Odoo Sales Batch Processing, Bulk Sales Order Generation Odoo, Odoo Sales Speed Boost, Quotation Automation Odoo, Odoo Multi-Order Confirmation, Odoo ERP Sales Module Extension, Mass Quotation Confirmation Odoo, Odoo Simplified Sales Workflow, Quotation Approval Efficiency Odoo, Odoo Rapid Sales Order Conversion, Odoo Sales Module Productivity, Sales Team Automation Odoo, Odoo Confirm Quotes Together, Odoo ERP Sales Quotation Control, Multiple Sales Confirmation Odoo, Odoo Business Sales Automation, Odoo High Volume Sales Management, Mass Action Quotation Odoo, Odoo Smart Sales Order Process, Odoo Multi-Record Sales Action, Sales Confirmation Shortcut Odoo ERP, Batch Confirm Sales Orders Odoo, Odoo Quick Sales Conversion.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Remove Internal Reference(SKU) From Product Name",
@@ -75,7 +75,7 @@
         "description": false,
         "summary": "Remove Internal Reference From Product Name Remove SKU from Product Name Odoo Odoo hide internal reference Odoo product name cleanup Odoo SKU remover Odoo product display customization Odoo product name filter Odoo product catalog cleanup Odoo product name management Odoo ecommerce product name fix Odoo ERP product name Odoo hide SKU from website Odoo internal reference control Odoo remove product code Odoo clean product display Odoo inventory product name Odoo product customization Odoo product naming tool Odoo inventory module enhancement Odoo product data management Odoo SKU management Odoo product list cleanup Odoo sales product name fix Odoo website product name customization Odoo internal reference hide Odoo inventory optimization Odoo product name improvement Odoo stock management tool Odoo ecommerce optimization Odoo product visibility enhancement Odoo remove SKU prefix Odoo remove SKU suffix Odoo product title cleaner Odoo catalog presentation improvement Odoo webshop product name adjustment Odoo ERP product optimization Odoo product label management Odoo product display enhancement Odoo POS product name cleanup Odoo stock keeping unit control Odoo database cleanup module Odoo inventory data improvement Odoo simplified product names Odoo clean product catalog Odoo better product naming",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "All Orders in Point of sale",
@@ -95,7 +95,7 @@
         "description": false,
         "summary": "All Orders in Point of Sale Odoo POS all orders view Odoo POS order history Odoo POS order management Odoo point of sale order list Odoo POS order tracking Odoo view all POS orders Odoo POS backend orders Odoo POS sales overview Odoo POS order details Odoo POS dashboard Odoo POS reporting Odoo POS sales records Odoo POS control panel Odoo POS sales data Odoo POS user order access Odoo POS receipts Odoo POS analytics Odoo point of sale customization Odoo POS history module Odoo POS extension Odoo POS module for community edition Odoo sales management tool Odoo retail POS module Odoo POS performance monitoring Odoo multi user POS Odoo POS cashier management Odoo POS order analysis Odoo POS data management Odoo POS transaction list Odoo POS sales report Odoo ERP POS integration Odoo POS business analytics Odoo advanced POS reporting Odoo POS manager tool Odoo store order management Odoo POS total sales Odoo POS improve visibility Odoo POS operations optimization",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Customer Sale Order History",
@@ -121,7 +121,7 @@
         "description": "The Customer Sale Order History module for Odoo provides businesses with a quick and organized view of each customer\u2019s past sale orders directly within the customer profile or sales screen. With this feature, sales teams can easily track order history, review previously purchased products, monitor order frequency, and identify buying patterns to improve customer relationship management. It helps in upselling, cross-selling, and offering personalized services while ensuring better decision-making with accessible order insights.",
         "summary": "Odoo Customer Sale Order History, Customer Order Tracking Odoo, Odoo Sales History Management, Previous Orders by Customer Odoo, Odoo Customer Purchase Records, Odoo CRM Sales Integration, Track Customer Orders Odoo, Customer Order Insights Odoo, Odoo Sales Order Review, Customer Order Frequency Odoo, Odoo Order History Dashboard, Sales Order Tracking Odoo, Odoo Customer Relationship Sales, Odoo Sales Data Analysis, Odoo Sales History Lookup, Customer Buying Pattern Odoo, Odoo Repeat Orders Tracking, Sales Order Archive Odoo, Odoo Customer Order Overview, Odoo Sales History Reports, Past Order Details Odoo, Odoo Customer Insights for Sales, Odoo Personalized Sales, Customer Order List Odoo, Odoo Sales Optimization, Customer Purchase Timeline Odoo, Odoo Customer Sales Tracking, Sales Performance Odoo CRM, Odoo Customer Repeat Sales, Order Management Odoo ERP.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Point of Sale Carry Bag",
@@ -147,7 +147,7 @@
         "description": "This app will add a carry bag to an order with just one click.Whether you offer plastic bags, paper bags, eco-friendly totes, or branded shopping bags, this module makes it effortless to manage and sell them at checkout. It works seamlessly in supermarkets, clothing stores, bookshops, pharmacies, and other retail outlets where carry bags are often sold alongside purchases.",
         "summary": "The POS Carry Bag module for Odoo introduces a seamless and convenient feature that allows cashiers to add a carry bag to an order with just one click. This not only enhances customer convenience but also creates opportunities for incremental sales at checkout. Once installed, the POS interface displays a dedicated \u201cCarry Bag\u201d button. Whether you offer plastic bags, paper bags, eco-friendly totes, or branded shopping bags, this module makes it effortless to manage and sell them at checkout. When tapped, a popup showcases all available bag options by type. The cashier can simply select the appropriate bag, and it\u2019s instantly added to the order as a product line. The bag also appears on the printed receipt with pricing details if applicable, ensuring transparency. This module works seamlessly across supermarkets, clothing stores, bookshops, pharmacies, boutiques, convenience stores, and other retail outlets where carry bags are commonly offered. One-click carry bag addition from the POS interface, Popup with multiple bag options (plastic, paper, eco-friendly, branded), Automatically adds bag as a product line in the order, Dedicated bag category for backend organization and POS visibility, Bag details (price, product info) appear on printed receipts, Helps track and report bag sales accurately, Boosts incremental sales and average order value, POS carry bag button, Add bag to order POS, Instant bag addition POS, POS bag selection, POS bag popup, POS bag order line, POS convenience feature, POS add-on bag sale, Quick add bag POS, POS accessory product addition, Odoo POS carry bag module, Odoo POS bag category, Odoo POS bag integration, Odoo add bag in POS, Odoo POS receipt bag entry, Odoo POS extra product addition, Odoo POS bag popup, Odoo POS upsell bag, Odoo POS accessory product, Odoo bag charge POS, POS incremental sale feature, Bag charges in POS, Boost bag revenue POS, Add convenience products POS, POS impulse purchase bag, Increase average order value POS, POS product upsell add-on, Convenient bag addition POS, POS accessory upsell, Add bag sale POS, Retail POS carry bag, Grocery POS bag option, Bookstore POS bag addition, Boutique POS bag sale, Pharmacy POS carry bag, Convenience store POS bag, Fashion POS accessory sale, Supermarket POS bag integration, Mall POS bag feature",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Product Brand in Odoo",
@@ -172,7 +172,7 @@
         "description": false,
         "summary": "Product Brand in Odoo Odoo product brand management Odoo brand module Odoo product branding Odoo brand integration Odoo product manufacturer Odoo product brand setup Odoo product brand filter Odoo brand list Odoo brand logo management Odoo ecommerce brand Odoo inventory brand Odoo sales brand filter Odoo brand visibility Odoo brand attribute Odoo brand customization Odoo POS brand display Odoo brand on invoice Odoo product category brand Odoo product classification Odoo product label brand Odoo ERP brand management Odoo brand selection Odoo manage product brands Odoo supplier brand Odoo product differentiation Odoo product marketing tool Odoo product catalog brand Odoo brand search Odoo ecommerce product brand Odoo webshop brand filter Odoo brand management system Odoo brand logo on product Odoo brand identification Odoo brand hierarchy Odoo product organization Odoo product brand association Odoo brand dashboard Odoo product brand reporting Odoo stock brand control Odoo product branding automation Odoo brand analytics Odoo product master data brand Odoo product branding enhancement Odoo brand tag in Odoo Odoo marketplace brand Odoo brand customization module",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Product Image in Invoice/Vendor Bill Line and Reports",
@@ -198,7 +198,7 @@
         "description": false,
         "summary": "Product Image in Invoice Vendor Bill Line and Reports Odoo product image in invoice Odoo product image in vendor bill Odoo invoice product image Odoo vendor bill image Odoo product image report Odoo show product image in invoice Odoo image on invoice line Odoo image on vendor bill line Odoo invoice customization Odoo invoice report enhancement Odoo product photo in invoice Odoo vendor bill customization Odoo product image PDF report Odoo product thumbnail in invoice Odoo product image accounting report Odoo product image in sale invoice Odoo invoice layout improvement Odoo vendor bill layout Odoo purchase bill with product image Odoo sales invoice with image Odoo accounting product image Odoo ERP product image on invoice Odoo document customization Odoo report template customization Odoo product image for reporting Odoo printable invoice with image Odoo product visualization in reports Odoo product photo display Odoo product images in financial reports Odoo professional invoice design Odoo vendor bill improvement Odoo better invoice presentation Odoo product image automation Odoo PDF report customization Odoo brand invoice layout Odoo product catalog invoice Odoo invoice template with product image Odoo report designer tool Odoo custom invoice layout",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Product Image in Purchase Order Line and Reports",
@@ -224,7 +224,7 @@
         "description": false,
         "summary": "Product Image in Purchase Order Line and Reports Odoo product image in purchase order Odoo purchase order image Odoo purchase report with product image Odoo product image in reports Odoo purchase document customization Odoo show product image in purchase order Odoo product image in purchase PDF Odoo image in purchase order line Odoo vendor purchase image Odoo product image on PO Odoo purchase order layout customization Odoo product photo in purchase Odoo procurement image Odoo supplier purchase order image Odoo PO line product image Odoo printable purchase order with images Odoo purchase report enhancement Odoo vendor communication improvement Odoo purchase visualization tool Odoo product display in purchase report Odoo purchase management improvement Odoo product image in vendor document Odoo purchase report template customization Odoo ERP purchase order image module Odoo professional purchase document Odoo purchase image integration Odoo product thumbnail in purchase order Odoo purchase document printing Odoo purchase order presentation Odoo supplier document enhancement Odoo purchase reporting tool Odoo image enabled purchase report Odoo purchase management automation Odoo supplier invoice image display Odoo purchase order form customization Odoo purchase product image visibility Odoo purchase report designer Odoo visual purchase report Odoo ERP purchase image support Odoo PO customization tool Odoo product photo on purchase report",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Product Image in Sale Order Line and Reports",
@@ -250,7 +250,7 @@
         "description": false,
         "summary": "Product Image in Sale Order Line and Reports Odoo product image in sale order Odoo sales report with product image Odoo sale order image Odoo product image in reports Odoo product photo in quotation Odoo show image in sale order Odoo sale order PDF with image Odoo product image quotation Odoo sales document customization Odoo sale report enhancement Odoo product thumbnail in sale order Odoo product image on quotation line Odoo sales report template customization Odoo image in sale order report Odoo professional quotation layout Odoo product visualization in sales Odoo product photo on sale report Odoo sale document with images Odoo image enabled quotation Odoo ERP sales report customization Odoo custom sale order layout Odoo product display in sale reports Odoo quotation image display Odoo printable quotation with image Odoo sale report improvement Odoo sales presentation enhancement Odoo sale order design customization Odoo quotation with product pictures Odoo product visualization in quotation Odoo product image printing Odoo product image in customer quotation Odoo product catalog in quotation Odoo product photo display Odoo ERP sales document layout Odoo quotation PDF enhancement Odoo sale module customization Odoo product image integration Odoo customer quotation improvement Odoo visual sales report Odoo professional quotation design",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Product Purchase Price History",
@@ -276,7 +276,7 @@
         "description": false,
         "summary": "Product Purchase Price History Product Purchase Price History Odoo purchase price history Odoo product price history Odoo supplier price tracking Odoo purchase cost history Odoo product cost analysis Odoo vendor price history Odoo purchase order price record Odoo price comparison tool Odoo product price tracking Odoo historical purchase price Odoo cost trend analysis Odoo procurement analytics Odoo vendor management Odoo product pricing tool Odoo purchase management improvement Odoo price fluctuation analysis Odoo purchase report history Odoo vendor negotiation support Odoo product cost tracking Odoo product purchase report Odoo purchase audit tool Odoo ERP purchase price analysis Odoo product procurement insight Odoo supplier cost variation Odoo product cost transparency Odoo purchase order insights Odoo product pricing dashboard Odoo cost monitoring Odoo price history per product Odoo vendor purchase analytics Odoo purchase performance analysis Odoo supplier purchase record Odoo purchase trend visualization Odoo product price log Odoo procurement optimization Odoo cost management module Odoo vendor performance analysis Odoo inventory price control Odoo product cost intelligence Odoo purchase KPI tool Odoo data-driven procurement Odoo historical supplier pricing",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Product Sale Price History",
@@ -302,7 +302,7 @@
         "description": false,
         "summary": "Product Sale Price History Odoo sale price history Odoo product sale history Odoo customer price tracking Odoo sales price record Odoo price history tracking Odoo product pricing history Odoo sales analysis Odoo sale order price history Odoo product sale analytics Odoo historical sale price Odoo price comparison Odoo sales trend analysis Odoo sales report enhancement Odoo sales management tool Odoo customer deal history Odoo ERP sale price tracking Odoo product profitability analysis Odoo sales data insights Odoo price variation tracking Odoo sales performance report Odoo sale history module Odoo CRM integration with sales Odoo customer pricing history Odoo product sales report Odoo sales performance analytics Odoo sales data management Odoo pricing trend analysis Odoo product price intelligence Odoo business sales analytics Odoo revenue tracking tool Odoo price management module Odoo product sales optimization Odoo sale price monitoring Odoo quotation price tracking Odoo order price tracking Odoo discount history Odoo sales revenue dashboard Odoo sale price insights Odoo sales management optimization Odoo customer pricing analytics Odoo product sale performance",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Purchase Order from Manufacturing Order",
@@ -328,7 +328,7 @@
         "description": false,
         "summary": "Purchase Order from Manufacturing Order Odoo purchase from manufacturing Odoo MRP to purchase Odoo auto purchase order from MO Odoo manufacturing procurement Odoo manufacturing purchase integration Odoo MO to PO Odoo create purchase order from manufacturing Odoo manufacturing material procurement Odoo manufacturing supply chain Odoo purchase automation Odoo raw material purchase from MO Odoo manufacturing workflow automation Odoo purchase request from manufacturing Odoo BOM material purchase Odoo MRP purchase link Odoo automatic purchase creation Odoo purchase order generation Odoo MRP and purchase integration Odoo manufacturing supply planning Odoo production purchase sync Odoo procurement automation Odoo material planning Odoo Odoo manufacturing optimization Odoo stock replenishment from MO Odoo production to purchase workflow Odoo supply chain module Odoo production material purchase Odoo MRP procurement tool Odoo manufacturing efficiency Odoo vendor order from manufacturing Odoo manufacturing material control Odoo purchase integration app Odoo ERP manufacturing procurement Odoo purchase planning tool Odoo make to order automation Odoo MRP auto procurement Odoo vendor material management Odoo production order purchase creation Odoo supply order automation Odoo manufacturing cost control Odoo automatic vendor purchase from MO",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Stock Barcode for Odoo Community",
@@ -354,7 +354,7 @@
         "description": false,
         "summary": "Barcode Scan to show a Stock Order.Odoo Barcode Scanner, Location Barcode Scan, Operation Barcode, Transfer Barcode (Receipt, Delivery Order), Product Barcode, Inventory Management, Warehouse Location Scan, Stock Operation Barcode, Real-Time Stock Update, Add Product via Barcode, Sales Order Barcode, Warehouse Automation, Barcode Integration, Product Quantity Update, Efficient Barcode Workflow, Streamlined Inventory Control, Manufacturing Barcode, Logistics Barcode, Retail Barcode Solution, E-commerce Barcode System, Inventory Transfer Barcode, Automatic Product Entry, Warehouse Management Tool.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "User Signature in Invoice/Bill Reports",
@@ -380,7 +380,7 @@
         "description": false,
         "summary": "Shows User Signature in Invoice/Bill Reports",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "User Signature in Picking/Delivery Slip Reports",
@@ -406,7 +406,7 @@
         "description": false,
         "summary": "Shows User Signature in Picking/Delivery Slip Reports User Signature in Picking Delivery Slip Reports Odoo user signature in delivery slip Odoo picking slip signature Odoo delivery report signature Odoo warehouse signature module Odoo stock picking signature Odoo delivery order signature Odoo user sign in delivery report Odoo digital signature delivery slip Odoo authorized signature delivery Odoo warehouse report customization Odoo picking report signature Odoo stock report signature Odoo employee signature in delivery Odoo manager signature in delivery Odoo delivery document authorization Odoo delivery validation signature Odoo delivery note signature Odoo delivery order report customization Odoo stock operation signature Odoo logistics signature Odoo inventory delivery signature Odoo digital approval in delivery Odoo ERP warehouse report Odoo signed delivery reports Odoo automated signature on picking Odoo warehouse document management Odoo stock movement signature Odoo inventory report enhancement Odoo delivery workflow automation Odoo professional delivery documents Odoo signature-enabled delivery slip Odoo delivery authentication Odoo picking confirmation signature Odoo internal transfer signature Odoo shipping document signature Odoo user-based signature in warehouse Odoo custom delivery slip Odoo PDF report signature Odoo delivery order authorization module Odoo ERP signature management",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "User Signature in RFQ/Purchase Order Reports",
@@ -432,7 +432,7 @@
         "description": false,
         "summary": "User Signature in RFQ Purchase Order Reports Odoo user signature in purchase order Odoo signature in RFQ Odoo purchase report signature Odoo digital signature purchase order Odoo request for quotation signature Odoo user sign on PO Odoo PO signature automation Odoo buyer signature Odoo purchase manager signature Odoo authorized signature purchase Odoo purchase order approval Odoo RFQ report customization Odoo purchase report customization Odoo vendor PO signature Odoo supplier RFQ signature Odoo approval workflow Odoo signature-enabled purchase reports Odoo ERP signature integration Odoo purchase order validation Odoo PDF report signature Odoo purchase document authorization Odoo buyer identity Odoo procurement signature Odoo PO print with signature Odoo digital approval system Odoo procurement workflow automation Odoo purchase management tool Odoo vendor communication Odoo supplier document enhancement Odoo custom PO report Odoo purchase agreement signature Odoo ERP approval system Odoo report signature module Odoo RFQ PDF report signature Odoo purchase process automation Odoo vendor trust improvement Odoo purchase document authenticity Odoo purchase workflow control Odoo digital document verification Odoo purchase report enhancement Odoo user signature automation",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Vendor Purchase Order History",
@@ -458,7 +458,7 @@
         "description": false,
         "summary": "Vendor Purchase History from Last Purchase Orders & Reorder Product Lines from Last Purchase Orders.Vendor Purchase Order History Odoo vendor purchase history Odoo supplier order history Odoo vendor transaction history Odoo purchase history by vendor Odoo supplier purchase records Odoo vendor order tracking Odoo purchase report by supplier Odoo purchase order log Odoo vendor purchase analytics Odoo supplier management Odoo purchase tracking system Odoo vendor performance tracking Odoo vendor history module Odoo purchase order summary Odoo purchase report enhancement Odoo procurement history Odoo supplier data tracking Odoo vendor purchase report Odoo vendor purchase overview Odoo supplier purchase details Odoo vendor relationship management Odoo vendor purchase insights Odoo vendor purchase trends Odoo supplier statistics Odoo vendor transaction overview Odoo vendor comparison Odoo supplier spend analysis Odoo purchase data management Odoo procurement optimization Odoo ERP purchase tracking Odoo purchase document history Odoo supplier performance report Odoo vendor management tool Odoo purchase order management Odoo historical purchase data Odoo vendor purchase analytics module Odoo procurement dashboard Odoo vendor order monitoring Odoo purchase data visualization Odoo purchase activity log Odoo supplier purchase tracking Odoo procurement reporting Odoo vendor purchase list Odoo vendor purchase history report",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "POS Fix Discount",
@@ -484,7 +484,7 @@
         "description": "This app will enable order-based discounts instead of product-based either in the percentage or in amount. Till now with default functionality, users can only apply discounts on products which can be time-consuming.",
         "summary": "The POS Order Discount module for Odoo allows you to apply discounts on the entire order instead of individual products. Discounts can be applied either as a percentage or a fixed amount, saving time and simplifying the checkout process. This feature streamlines discount management and improves efficiency for businesses running Odoo POS. Simplify discount management in your Odoo Point of Sale with the POS Fix Discount Module. By default, Odoo only supports product-level discounts, which can be time-consuming for cashiers. This module enhances the checkout experience by allowing order-level discounts, enabling staff to apply discounts to the entire order either as a percentage or a fixed amount. With its intuitive interface, cashiers can apply discounts quickly and accurately, ensuring a faster checkout and a smoother sales process. Whether used for promotions, loyalty rewards, or special offers, this module eliminates repetitive work and provides a flexible discounting solution for your business. Seamlessly integrated into Odoo POS, it boosts sales efficiency, reduces errors, and improves customer satisfaction, making it ideal for retail stores, supermarkets, and restaurants. Apply order-wide discounts in Odoo POS, Support for fixed amount or percentage-based discounts, Faster and more efficient checkout process, Simple and user-friendly POS interface, Fully integrated with Odoo Point of Sale, Ideal for promotions, loyalty programs, and special offers, Odoo POS order discount, Odoo POS fix discount module, Apply discount on total order Odoo, Odoo POS order-level discount, Odoo POS flat discount, Odoo POS percentage discount on order, Odoo POS checkout discount, Auto-apply discount Odoo POS, Order value discount Odoo POS, Odoo POS promotion tool, Odoo POS loyalty discount, Odoo POS order discount, Apply discount on total order POS, Percentage discount Odoo POS, Fixed amount discount POS Odoo, Order-based discount module Odoo, POS discount management Odoo, Retail discount automation POS, Odoo Point of Sale order discount",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "POS Global Suggested Product",
@@ -510,7 +510,7 @@
         "description": "The Global Product Suggestions feature for the Point of Sale system empowers businesses to increase sales by displaying a curated list of suggested products during the checkout process. These products are strategically selected and shown on the payment screen, allowing sales associates to offer additional items to customers as they complete their purchase.",
         "summary": "The Global Product Suggestions feature for the Point of Sale system is designed to enhance the sales process by strategically displaying a curated list of recommended products to customers during checkout. These suggestions are tailored to encourage sales associates to offer complementary or additional items, increasing the likelihood of upselling or cross-selling. By incorporating these suggested products on the POS payment screen, businesses can enhance the customer experience by making relevant recommendations in real time. This feature is especially valuable in retail environments, restaurants, and service industries where customers may be interested in adding related items or services. As a result, businesses can increase their average order value, streamline the purchasing process, and ultimately drive more sales while providing a more personalized shopping experience. Point of Sale product suggestions, PoS upselling feature, Cross-selling in PoS, Increase sales with PoS suggestions, POS system product recommendations, Boost sales at checkout, Suggested products PoS system, PoS global product list, Customer upsell suggestions, Real-time product recommendations, POS checkout upsell tools, Automated product suggestions PoS, Enhance sales with PoS recommendations, Personalized shopping experience PoS, Retail sales suggestions PoS system, Point of Sale upselling tools, Product recommendation at checkout, PoS system sales boosting feature, Sales suggestion feature POS, POS system cross-selling tools, POS Global Suggested Product, Suggested Product in Odoo, Suggested Product in POS,  Global Suggested Product, Odoo POS Global Suggested Product",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "POS Cart Item Count",
@@ -536,7 +536,7 @@
         "description": "This add on automatically calculates and displays the total number of items in the current order both on the POS screen and on printed customer receipts.",
         "summary": "The POS Item Count Module for Odoo automatically calculates and displays the total number of items in the current order, both on the POS screen and on printed customer receipts. This simple yet effective add-on helps cashiers process transactions more efficiently and with fewer errors. It seamlessly integrates with the Odoo POS system, making it an ideal solution for retail stores, cafes, restaurants, and supermarkets. The POS Item Count Module for Odoo is a valuable extension designed to enhance the functionality of the Odoo Point of Sale (POS) system. This module adds a simple yet essential feature: it automatically calculates and displays the total number of items in the current order in real-time, both on the POS screen and on printed customer receipts. Perfect for retail stores, supermarkets, cafes, and restaurants, this lightweight add-on seamlessly integrates with the existing Odoo POS framework, requiring no additional configuration after installation. By showing the total item count during the transaction, this module helps cashiers work more efficiently and accurately, reducing errors in order processing. The POS Item Count Module not only benefits cashiers by improving the checkout process but also enhances customer satisfaction. Printed receipts now show the total number of items in the order, providing customers with clearer information about their purchases. Odoo POS Item Count, Odoo Point of Sale Quantity Counter, POS Order Item Count Module, Odoo POS Enhancements, POS Receipt Item Count, Odoo Retail POS Addon, Odoo Point of Sale Extension, Odoo POS Customer Receipt Customization, Odoo Point of Sale Improvement, Odoo POS Features, Odoo POS Customization, Odoo Retail Management Tools, Odoo Supermarket POS Module, Real-Time Item Count for POS, Improve Odoo POS Efficiency",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "POS Membership Card",
@@ -562,7 +562,7 @@
         "description": "With the help of this app, The user can create the category of cards such as gold or silver and can define category-based discounts so whenever such customer shows his card to the cashier he will get a discount on the whole order based on his category.",
         "summary": "This app lets you create customer card categories such as Gold or Silver and set category-based discounts. When a customer presents their card, the system automatically applies the discount to their entire order based on their category. Simplify loyalty management, reward customers, and boost sales with ease. With the help of this app, users can create categories of membership cards such as Gold, Silver, or Bronze, and define category based discounts. Whenever a customer presents their membership card to the cashier, the system automatically applies the discount to the entire order based on their category. The POS Membership Card module for Odoo empowers your Point of Sale system with a loyalty-driven discount mechanism through digital membership cards. Retailers can assign customers to different membership tiers (e.g., Gold, Silver, Bronze) and apply fixed discounts accordingly. This feature simplifies loyalty reward execution, streamlines checkout, and encourages repeat business by offering exclusive, tier-based pricing. Define membership card categories with specific discount levels, Assign cards to customers for personalized loyalty experiences, Boost average spend with incentivized discounts, POS membership card, POS loyalty card discounts, POS tier-based discounts, POS membership tiers, Customer loyalty program POS, POS discount card system, POS membership category discount, Membership card POS module, Odoo POS membership card, Odoo POS membership discount, Odoo membership tiers POS, Odoo POS customer card, Odoo membership card extension, Odoo POS membership categories, Increase repeat sales POS, Upsell via membership discounts, Customer retention POS tool, Loyalty promotion module, VIP customer POS discount ",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "POS Optional Product",
@@ -588,7 +588,7 @@
         "description": "With the help of this app, users can configure suggested or Optional products inside the Product. So Whenever POS users add products to the cart it will suggest related products which lead to high sales of related products. Example Accessories with Mobile Phone.",
         "summary": "This feature enables upselling and cross-selling directly within the POS interface, helping increase the average order value without slowing down checkout. Suggested items appear instantly, allowing cashiers to recommend them on the spot and giving customers the opportunity to add them with a single click. With this module, users can configure related or optional products for any item. Whenever a POS user adds a product to the cart, suggestions are automatically displayed, enabling quick add-to-cart for related items and encouraging customers to buy more. This significantly increases sales and boosts the average transaction value while maintaining a smooth checkout experience. Configure related or optional products for any item, utomatically display suggestions when adding a product to the cart, Quick add-to-cart for related or complementary items, Perfect for upselling and cross-selling in POS, Increases sales and average transaction value, POS product suggestions, POS related products popup, Add accessories in POS, POS optional items, Upsell complementary products in POS, POS accessory recommendations, POS cross-sell feature, POS upsell feature, POS suggested items, POS complementary products, POS add-on sales, POS sales booster, Odoo POS upsell, Odoo POS cross-sell, Odoo POS suggested products, Odoo POS related product configuration, Odoo POS accessory sales, Odoo optional products POS, Odoo POS add-on recommendations, Odoo POS product popup, Odoo upsell automation in POS, Odoo cross-selling POS module, Cross-sell related items, , Boost sales with product suggestions, Increase average basket size, Increase revenue POS, Checkout upsell prompts, Retail product suggestion tool",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "POS Order Reprint",
@@ -609,7 +609,7 @@
         "description": false,
         "summary": "This app will allow users to reprint past order\u2019s receipts without leaving the Point of Sale screen for easy process.1111111111111111111111111111111111111111111111111",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "POS Quantity Selector",
@@ -634,7 +634,7 @@
         "description": "Enhance your Odoo Point of Sale with the POS Quantity Selector! This intuitive module allows users to quickly increase or decrease product quantities during checkout with just a tap",
         "summary": "Enhance your Odoo Point of Sale with the POS Quantity Selector module. This intuitive tool lets cashiers quickly increase or decrease product quantities during checkout with a simple tap. Improve checkout speed, reduce errors, and deliver a smoother retail experience with this user-friendly Odoo POS extension. Enhance your Odoo Point of Sale with the POS Quantity Selector module \u2014 an intuitive tool that lets cashiers quickly increase or decrease product quantities during checkout with a simple tap. This improves checkout speed, reduces errors, and delivers a smoother retail experience. The module requires no complex setup or configuration, making it easy to install and deploy. Once activated, it enhances the checkout flow by allowing one-tap quantity adjustments, ensuring that staff can serve customers quickly while maintaining transaction accuracy. With plus/minus quantity buttons and a mobile-friendly interface, the POS Quantity Selector makes it easy to adjust product quantities without manual entry. This saves time, reduces mistakes, and ensures a more efficient checkout process. Add or decrease product quantity with one tap, Plus/minus buttons for easy adjustment during checkout, Fast, mobile-friendly, and responsive interface, Speeds up checkout and improves cashier efficiency, Reduces manual entry errors for accurate transactions, Works seamlessly across desktop, tablet, and mobile POS devices, Simple setup with no configuration required, Ideal for retail, grocery, restaurants, and high-volume businesses, Odoo POS quantity selector, Odoo POS add product quantity, POS quantity buttons Odoo, Increase product quantity in Odoo POS, Product quantity adjustment Odoo, Mobile-friendly Odoo POS extension, Odoo POS user-friendly module, Fast checkout for Odoo POS, Odoo POS plugin for quantity control, Odoo retail POS enhancement, POS Quantity Selector, Responsive UI, Quantity Buttons, One-tap quantity adjustment",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Salesperson Report",
@@ -660,7 +660,7 @@
         "description": "Empower sales team with actionable insights using the Sale Person Report app for Odoo. This module provides a comprehensive overview of each salesperson\u2019s performance, helping managers track sales activities, revenue generation, and customer engagement with precision.",
         "summary": "Empower sales team with actionable insights using the Sale Person Report app for Odoo. This module provides a comprehensive overview of each salesperson\u2019s performance, helping managers track sales activities, revenue generation, and customer engagement with precision, salesperson report odoo odoo sales report odoo sales team performance odoo sales analytics odoo sales tracking odoo crm report odoo sales dashboard odoo sales insights odoo sales export excel odoo sales activity report odoo sales manager tools odoo sales performance report odoo sales data analysis odoo sales report module odoo sales report app odoo sales engagement report odoo sales revenue report odoo salesperson productivity odoo sales report customization odoo sales report filter options, sale report, sale order report, quotation report.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Purchase Report Printed Check",
@@ -686,7 +686,7 @@
         "description": "This module enhances your RFQ and Purchase Order management by introducing a smart boolean indicator that tracks PDF report printing activity. When a user prints the RFQ or Purchase Order report, the corresponding boolean field (Print RFQ or Print Purchase) is automatically checked no manual updates needed.Purchase Report printed check and filter Printed Report",
         "summary": "This module enhances your RFQ and Purchase Order management by introducing a smart boolean indicator that tracks PDF report printing activity. When a user prints the RFQ or Purchase Order report, the corresponding boolean field (Print RFQ or Print Purchase) is automatically checked no manual updates needed.Purchase Report printed check and filter Printed Report, purchase report printed check RFQ print tracker purchase order print status auto check print RFQ auto check print PO PDF print activity tracker boolean field print status RFQ report print indicator PO report print indicator automated print tracking smart print check module purchase report automation RFQ PDF print log PO PDF print log print status boolean field no manual print update purchase module print tracker RFQ PO print monitor print report status automation purchase order PDF tracking, Purchase Report printed check and filter Printed Report, purchase report printed check, RFQ print tracker, purchase order print status, auto check print RFQ, auto check print PO, PDF print activity tracker, boolean field print status, RFQ report print indicator, PO report print indicator, automated print tracking, smart print check module, purchase report automation, RFQ PDF print log, PO PDF print log, print status boolean field, no manual print update, purchase module print tracker, RFQ PO print monitor, print report status automation, purchase order PDF tracking, purchase auto report",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Product Variant Price System",
@@ -708,7 +708,7 @@
         "description": "  \n    The Product Variant Price System module in Odoo helps businesses manage pricing for product variants based on attribute values. This module supports both fixed extra price adjustments and percentage-based coefficients, allowing flexible and dynamic pricing strategies.  \n\n    **Key Features:**  \n    1) **Attribute-Based Pricing:**  \n       - Define variant prices based on attributes for automated pricing adjustments.  \n\n    2) **Multiplicative Adjustments:**  \n       - Modify product prices dynamically using percentage-based variations.  \n\n    3) **Dynamic Variant Management:**  \n       - Automatically adjust variant prices based on attribute changes.  \n\n    4) **Instant Sale Price Adjustments:**  \n       - The sale price updates in real-time based on attribute settings.  \n\n    5) **Compatibility Across Odoo Modules:**  \n       - Seamlessly integrates with Odoo Sales, E-commerce, and Point of Sale (POS).  \n\n    6) **Advanced Pricing Formula:**  \n       - Calculate final prices based on a structured formula, combining fixed extra prices and coefficient-based variations.  \n\n    **Use Cases:**  \n    - **E-commerce & Online Stores:** Set dynamic pricing for configurable products based on customer selections.  \n    - **Manufacturing & Custom Orders:** Automate pricing adjustments based on raw material costs and product variations.  \n    - **Retail & Wholesale:** Offer custom pricing structures based on attributes such as size, color, and features.  \n\n    **Supported Views:**  \n    - **Navigation:** Product \u2192 Attributes & Variants \u2192 Configure Attribute Price  \n    - **Navigation:** Sales \u2192 Product Configurator \u2192 Set Variant Pricing  \n    - **Navigation:** Inventory \u2192 Products \u2192 Define Extra Pricing  \n    ",
         "summary": "The Product Variant Price System module in Odoo enables businesses to manage product variant pricing based on attribute values. It supports both additive and multiplicative price adjustments, allowing flexible and automated pricing for variants. With dynamic attribute-based pricing, instant sale price adjustments, and integration with Odoo Sales, E-commerce, and Point of Sale (POS), this module enhances pricing accuracy and efficiency. Odoo Variant Pricing, Odoo Product Attribute Pricing, Odoo Extra Price for Variants, Odoo Variant Coefficient Pricing, Odoo Product Configurator Pricing, Odoo Automated Variant Pricing, Odoo Dynamic Price Calculation, Odoo Product Customization Price, Odoo Multiplicative Price Adjustments, Odoo Product Pricing Strategy, Odoo Attribute-Based Price Management, Odoo Price Adjustment System, Odoo Flexible Variant Pricing, Odoo Custom Pricing Formulas, Odoo Variant Price Calculator, Odoo Real-Time Price Update, Odoo Sales Price Adjustment, Odoo E-commerce Pricing, Odoo POS Variant Pricing, Odoo Pricing Automation, Odoo Price Variation by Attributes, Odoo Product Configuration Price Management, Odoo Industry-Specific Pricing, Odoo Advanced Product Price Management, Odoo Variant Price Template, Odoo Product Price Modifiers, Odoo ERP Pricing System, Odoo Product Variant Pricing Engine, Odoo Manufacturing Price Management, Odoo Cost and Sale Price Automation, Odoo Wholesale & Retail Price Management, Odoo Marketplace Product Pricing, Odoo B2B Product Pricing, Odoo Pricing for Customizable Products, Odoo Variant-Based Discount System, Odoo Real-Time Cost Price Update, Odoo Competitive Pricing Management, Odoo Retail & Wholesale Price Management, Odoo Custom Price Rules, Odoo Attribute-Based Price Rules, Odoo ERP Dynamic Pricing, Odoo Price Synchronization, Odoo Multi-Channel Pricing Strategy, Odoo Complex Price Calculation, Odoo Variant-Based Pricing Formula, Odoo Enterprise Price Management, Advance Variant Price, variant price system, attribute based price, variant price, price variant, extra price, Odoo Sales and Pricing Optimization.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Purchase Order Product Weight Information",
@@ -734,7 +734,7 @@
         "description": false,
         "summary": "Total Weight of the Purchase Order Products Purchase Order Product Weight Information Odoo product weight in purchase order Odoo purchase weight management Odoo product weight tracking Odoo PO product weight Odoo purchase order weight details Odoo purchase report with weight Odoo supplier order weight Odoo procurement weight calculation Odoo purchase product weight Odoo total weight in purchase order Odoo product logistics weight Odoo purchase weight analysis Odoo purchase weight tracking module Odoo purchase product details Odoo product dimension tracking Odoo purchase document enhancement Odoo purchase order customization Odoo product measurement module Odoo product shipping weight Odoo purchase order logistics Odoo warehouse weight tracking Odoo material purchase data Odoo vendor order with weight Odoo supply chain tracking Odoo procurement optimization Odoo PO report customization Odoo weight field in purchase order Odoo purchase management tool Odoo product info in purchase report Odoo purchase order enhancement Odoo vendor purchase weight Odoo ERP logistics management Odoo product tracking module Odoo purchase quantity and weight Odoo supplier shipment weight Odoo order summary with product weight Odoo vendor purchase tracking Odoo detailed purchase report Odoo purchase process visibility Odoo weight-based purchase planning Odoo purchasing workflow improvement Odoo procurement reporting tool",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Purchase Order from Bill of Material",
@@ -760,7 +760,7 @@
         "description": "This Odoo module helps manufacturers and procurement teams to automate the creation of Purchase Orders based on the components listed in a Bill of Material (BoM). Instead of manually identifying and ordering raw materials, this app simplifies the workflow by converting BoM requirements into actionable purchase orders with just a few clicks.",
         "summary": "This Odoo module helps manufacturers and procurement teams to automate the creation of Purchase Orders based on the components listed in a Bill of Material (BoM). Instead of manually identifying and ordering raw materials, this app simplifies the workflow by converting BoM requirements into actionable purchase orders with just a few clicks. purchase order from bill of material bill of material purchase integration bom to purchase order generate purchase order from bom bom linked purchase order material planning purchase order automated purchase order from bom bom purchase workflow bom purchase button bom purchase order view bom to po automation bom po creation bom po mapping bom po system bom po app This module help you to create purchase order from bill of materials | Purchase materials from bom | Create PO from BOM | Create RFQ from BoM.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "One Click Create Manufacture Order",
@@ -786,7 +786,7 @@
         "description": "This Odoo app enables users to instantly generate Manufacturing Orders directly from both Product Templates and Product Variants, no need to navigate through multiple screens or manually enter data. Whether you're managing configurable products or handling variant-specific production, this tool streamlines the process with a single click. Ideal for high-volume operations or teams seeking workflow simplicity, it saves time, minimizes errors, and boosts manufacturing efficiency.",
         "summary": "This Odoo app enables users to instantly generate Manufacturing Orders directly from both Product Templates and Product Variants, no need to navigate through multiple screens or manually enter data. Whether you're managing configurable products or handling variant-specific production, this tool streamlines the process with a single click. Ideal for high-volume operations or teams seeking workflow simplicity, it saves time, minimizes errors, and boosts manufacturing efficiency.mo from po, manufacturing order automation, one click manufacturing, instant production order, quick manufacturing workflow, smart factory app, manufacturing process software, create production order fast, manufacturing ERP tool, production scheduling app, manufacturing management system, automated order creation, digital manufacturing solution, factory order app, manufacturing software India, production order generator, one click ERP, manufacturing order system, fast manufacturing app, production planning tool, manufacturing execution software, manufacturing app for SMEs, create production order from template,product template to order,create manufacturing order from variant, product variant to production order, quick production order creation, mo from prodcut , mo from product template.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Manufacturing  Order from Sale Order",
@@ -812,7 +812,7 @@
         "description": "This module is bridge between sales and manufacturing.Designed for businesses that rely on make-to-order processes, this module creates Manufacturing Orders (MOs) directly from confirmed Sale Orders saving time, reducing manual errors, and ensuring seamless operations.This Application helps to create MO order from SO order.",
         "summary": "This module is bridge between sales and manufacturing.Designed for businesses that rely on make-to-order processes, this module creates Manufacturing Orders (MOs) directly from confirmed Sale Orders saving time, reducing manual errors, and ensuring seamless operations.This Application helps to create MO order from SO order .Manufacturing order from sale order make to order automation create MO from SO sales to manufacturing integration manufacturing order app sale order to MO converter automate MO creation ERP manufacturing module sales-driven production manufacturing workflow optimization order-based manufacturing seamless MO generation reduce manual MO errors manufacturing order software sale order processing MO from confirmed SO manufacturing app for ERP production order from sales sales to production bridge manufacturing order generator streamline manufacturing process MO automation tool sales order manufacturing link make to order ERP solution manufacturing order integration manufacturing from sales order MO creation module sales order to production order manufacturing order management ERP MO automation, Create Manufacturing Order from Sale Order.This apps helps you to  Create Manufacturing Order from Sale Order  Manufacturing order from Sale Order Quick Sale Order To Manufacturing Order Create MO from SO Create Sale Order to Manufacturing Order easy to Create Sale Orders to Manufacturing Order Sales Create Manufacturing Order.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Manufacturing  Order From Delivery Order",
@@ -838,7 +838,7 @@
         "description": "This Odoo module helps businesses save time by letting them generate Manufacturing Orders directly from Delivery Orders, streamlining workflows and reducing manual coordination between sales and manufacturing teams.",
         "summary": "This Odoo module helps businesses save time by letting them generate Manufacturing Orders directly from Delivery Orders, streamlining workflows and reducing manual coordination between sales and manufacturing teams.odoo create mo from do, auto manufacturing order odoo, delivery to production odoo, odoo manufacturing automation, generate mo from delivery, odoo delivery workflow, odoo manufacturing integration, delivery based mo creation, odoo logistics to production, odoo manufacturing shortcut, odoo delivery trigger mo, odoo supply chain module, odoo warehouse to manufacturing, odoo production from delivery, odoo mo creation tool, manufacture order from delivery order app, manufacture from delivery, auto generate manufacture, mo from stock picking, mo from picking, manufacture order from stock picking. mo from do",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     },
     {
         "name": "Bulk Confirm Manufacturing Order",
@@ -862,6 +862,6 @@
         "description": "Streamline production workflows with the Confirm Bulk Manufacturing Order app for Odoo. This powerful module empowers users to confirm multiple manufacturing orders with a single click, saving time and minimizing manual effort. Designed for businesses handling high-volume production, it eliminates repetitive tasks and enhances operational efficiency.Fully integrated with Odoo\u2019s Manufacturing module, the app ensures seamless batch processing while maintaining data accuracy and traceability. Whether the user operates in manufacturing, assembly, or fabrication, this tool simplifies order management and keeps the focus on what matters most delivering quality products faster.",
         "summary": "Confirm Bulk Manufacturing Order. Streamline your production workflow with the Confirm Bulk Manufacturing Order app for Odoo. This powerful module enables users to confirm multiple manufacturing orders in one click, saving time and reducing manual effort. Ideal for businesses managing high-volume production, it eliminates repetitive tasks and boosts operational efficiency. Fully integrated with Odoo\u2019s Manufacturing module, the app ensures smooth batch processing while maintaining data accuracy and traceability. Whether you're in manufacturing, assembly, or fabrication, this tool simplifies your order management and helps you stay focused on what matters delivering quality products faster, bulk conform mo, mo confirm bulk, confirm production order, manufacturing order automation, batch order confirmation, mo processing tool, bulk mo approval, factory order scheduler, production order manager, manufacturing workflow tool, erp mo confirm, bulk order system, automated manufacturing order, confirm mo app, manufacturing batch confirm, bulk production scheduling, manufacturing order system, mo confirmation software, streamline mo process, bulk mo handler, mass confirm mo, mass confirm Manufacturing Order, all in one bulk confirm, auto confirm mo, automatic confirm mo, auto confirm manufacturing order, mass confirm draft mo, mass confirm draft Manufacturing Order, confirm multiple mo, confirm multiple Manufacturing Order, confirm multiple manufacture order, bulk confirm manufacture order.",
         "offer_date": "",
-        "odoo_type": ""
+        "odoo_type": []
     }
 ]
