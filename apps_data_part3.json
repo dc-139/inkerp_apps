@@ -24,7 +24,7 @@
         "summary": "Easily manage your production with one-click cancellations. This Odoo module lets you cancel multiple Manufacturing Orders (MOs) at once, right from the action menu. No need to navigating through individual records, just click and you're done. cancel bulk manufacturing order odoo, odoo cancel multiple mo, bulk mo cancellation odoo, odoo manufacturing order cancel, cancel mo from action menu, odoo production order cancel, odoo manufacturing workflow, odoo mass cancel mo, cancel mo list view odoo, odoo manufacturing management, odoo production module enhancement, odoo cancel draft mo, cancel confirmed mo odoo, odoo manufacturing cleanup, odoo bulk action cancel mo, odoo manufacturing efficiency tool, all in one cancel, mo cancel, multiple mo cancel.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -52,7 +52,7 @@
         "summary": "Invoice Post Confirmation",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -80,7 +80,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -108,7 +108,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -133,7 +133,7 @@
         "summary": "User can easily edit number field.Sales Purchase Warehouse and Accounting Edit Sequence Number Odoo edit sequence number Odoo sequence number customization Odoo document numbering Odoo edit invoice sequence Odoo sales order sequence Odoo purchase order sequence Odoo stock picking sequence Odoo accounting sequence management Odoo change sequence number Odoo modify document number Odoo reorder sequence Odoo custom numbering Odoo sequence editor Odoo reset sequence number Odoo sequence configuration Odoo flexible numbering system Odoo document numbering tool Odoo adjust order sequence Odoo purchase sequence editor Odoo invoice number editing Odoo warehouse sequence control Odoo sales numbering system Odoo ERP sequence customization Odoo manage document numbers Odoo numbering format control Odoo sequence correction Odoo accounting sequence correction Odoo warehouse sequence setup Odoo purchase order numbering Odoo invoice reference control Odoo edit stock picking number Odoo document sequence settings Odoo sequence management module Odoo document order control Odoo numbering flexibility Odoo custom invoice reference Odoo PO sequence editing Odoo sales order number editing Odoo journal entry sequence management Odoo numbering accuracy Odoo ERP document management Odoo order tracking Odoo record sequence adjustment Odoo numbering automation Odoo accounting document number control",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -161,7 +161,7 @@
         "summary": "Show product images in Delivery Line(Move Line), Enhance your warehouse efficiency and accuracy with the Product Image On Picking Line app for Odoo. This smart module displays real-time product images directly on the picking interface, helping warehouse staff quickly identify items, reduce picking errors, and streamline order fulfillment. Whether you're managing high-volume logistics or detailed inventory operations, visual confirmation speeds up the process and improves accuracy. Seamlessly integrated with Odoo\u2019s stock and warehouse modules, this app ensures that every picker sees exactly what they need no confusion, no delays. Ideal for e-commerce, retail, and distribution businesses looking to boost productivity and customer satisfaction. product picking line image, warehouse product image, automated picking system photo, product sorting line visual, inventory picking image, conveyor product snapshot, real-time picking line image, product tracking photo, warehouse automation image, order fulfillment line image, industrial picking process photo, product scan image, logistics picking line image, ecommerce warehouse image, smart picking system photo, product identification image, supply chain picking image, warehouse line camera, product image capture, picking line monitoring,delivery line product image, real-time delivery photo, product dispatch image, logistics line snapshot, automated delivery system photo, warehouse delivery image, order shipment photo, product tracking image, delivery conveyor image, last mile delivery photo, package delivery line visual, inventory dispatch image, delivery process photo, product scan on delivery, supply chain delivery image, delivery line monitoring, shipment line image, product image capture delivery, smart delivery system photo, ecommerce delivery line image",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -189,7 +189,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -217,7 +217,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -245,7 +245,7 @@
         "summary": "The Delivery Order Confirmation module enhances inventory workflow security and control by restricting access to the \"Mark as Todo\" button on delivery orders. With this module, only users with Inventory Admin privileges can initiate delivery confirmation, ensuring that critical logistics actions are performed by authorized person only.delivery order confirmation odoo hide mark as todo button restrict delivery confirmation odoo inventory admin access control odoo inventory workflow delivery order security odoo odoo inventory permissions confirm delivery order admin only odoo delivery button restriction odoo inventory role-based access hide delivery action odoo odoo inventory user limit odoo delivery order module secure delivery process odoo odoo inventory customization odoo delivery order access mark as todo visibility control odoo inventory admin rights delivery confirmation restriction odoo odoo inventory user roles hide confirm order button from delivery order",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -273,7 +273,7 @@
         "summary": "This module automatically generates unique, structured Stock Keeping Units (SKUs) for your products. auto generate internal reference, auto generate default code, auto generate SKU, automatic product reference, auto SKU generator, default code automation, internal reference generator, auto code assignment, product code auto-fill, auto-generated identifiers, inventory reference automation, Odoo internal code, default product code, auto reference field, smart code generation, auto item code, internal ID automation, auto-fill product reference, default SKU generator, auto product tagging, seamless code generation, odoo sku generator, automatic sku creation, inventory sku automation, product sku module, structured sku odoo, unique sku generator, odoo inventory management, auto stock keeping unit, sku app for odoo, odoo product identifier, streamline sku entry, auto sku assignment, inventory tracking odoo, sku generation tool, odoo inventory optimization, no manual sku, smart sku system, auto product code, sku automation odoo, generate internal transfer, generate barcode, sale internal reference generate",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -296,7 +296,7 @@
         "summary": "The POS Signature module for Odoo 18 enhances your Point of Sale workflow by introducing secure and convenient digital signature capture. It eliminates the need for paper-based confirmations and improves accountability across your sales and service processes. Designed for retailers, restaurants, and service providers, this app ensures that every transaction can be validated with a legally binding digital signature. Once installed, the module integrates seamlessly into Odoo\u2019s POS system without requiring complicated setup. Administrators can configure signature options under Point of Sale - Settings, where toggles allow you to enable User Signature, Signature with Name, and Signature Display on Receipts. These flexible settings allow you to tailor the feature to your operational needs, whether you want signatures for every transaction or only for specific cases. During a transaction, cashiers can quickly access the Add Signature button in the POS interface. A smooth, user-friendly signature pad pops up, enabling customers or users to draw their signature and enter their name directly on the screen. This interactive step adds a professional touch to your checkout process while ensuring that all approvals are properly documented. Odoo POS Signature, Odoo Point of Sale Signature, Digital signature for Odoo POS, POS signature capture Odoo, Electronic signature Odoo, ustomer signature on POS receipt, Signature pad integration Odoo, Odoo POS customer verification, Add signature to Odoo Point of Sale, Paperless POS signature solution, Odoo POS, POS Signature, Digital Signature, Electronic Signature, Signature Capture, ",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -319,7 +319,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -342,7 +342,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -369,7 +369,7 @@
         "summary": "Make your Odoo Point of Sale smarter and more professional with the POS Receipt with Product Images Module. This powerful extension automatically prints product images directly on POS receipts, providing customers with clear, visual confirmation of their purchases. Ideal for retail shops, supermarkets, restaurants, cafes, and service-based businesses, this module enhances both customer trust and store branding. By displaying product images on receipts, businesses reduce disputes, improve product recognition, and deliver a modern, customer-friendly checkout experience. Not only does it boost clarity, but it also allows businesses to reinforce their brand identity with visually appealing, customized receipts. Perfect for retail stores, supermarkets, restaurants, cafes, and other customer-facing businesses, this module makes receipts more informative and customer-friendly by combining functionality with design. With visual product verification at checkout, customers gain more confidence in their purchases while businesses benefit from reduced disputes, improved trust, and stronger branding opportunities. Automatically print product images on POS receipts, Improve product recognition & reduce disputes, Add a modern, professional look to customer receipts, Support store branding with visual customization, Fully integrated into Odoo POS workflow, Odoo POS image printing, Print product image on receipt Odoo, Odoo POS Receipt with Product Images, POS receipt template customization, POS product image on receipt, Customer-friendly POS receipts Odoo, Product image integration in Odoo POS, Odoo POS UI enhancement, Professional POS receipts Odoo, Branded POS receipts with images, Visual receipts Odoo POS, Seamless product image integration Odoo POS.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -396,7 +396,7 @@
         "summary": "This app enhances the Point of Sale (POS) system by displaying the product category on the receipt. It automatically categorizes items purchased, making it easy for customers to identify the types of products they\u2019ve bought. By adding a clear product category label, the receipt becomes more informative and organized, improving the overall customer experience. By categorizing items at the point of sale, the app not only helps customers easily identify their purchased products but also provides businesses with better record-keeping capabilities. The clear categorization of items improves the overall transaction experience, as receipts become more user-friendly and transparent. For businesses, this feature is essential for streamlining inventory management, tracking sales data by category, and improving overall customer service. This feature is especially useful for businesses with diverse inventories, offering clarity and better record-keeping. This app is designed to improve the functionality of a Point of Sale (POS) system by automatically displaying the product category on customer receipts. By categorizing items at the time of purchase, the app ensures that each receipt is organized and includes a clear label for the type of products bought. This feature is particularly beneficial for businesses that sell a wide range of items, from electronics and clothing to groceries and accessories, as it helps both customers and store staff easily identify product categories. POS receipt product categories, POS system with category display, Product category on receipt, Point of Sale app for receipts, Receipt categorization feature, Organized POS receipts, Customer-friendly POS receipts, Categorized receipt generation, POS software for product categories, Customizable POS receipts, Business receipt categorization, POS receipt clarity, Product categorization for stores, ",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -423,7 +423,7 @@
         "summary": "This module introduces Quick Payment buttons in Odoo POS, allowing cashiers to process payments with a single click. Administrators can configure predefined amounts and link them to a specific Cash or Bank journal. The buttons appear directly on the POS payment screen, helping cashiers complete transactions faster, minimize errors, and improve the customer checkout experience.. The POS Quick Payment module enhances the Point of Sale system by introducing one-click payment buttons for predefined amounts. Instead of manually entering payment values, cashiers can simply tap a button (e.g. 5, 50, 100, 200) to instantly add that amount to the order. This feature is ideal for fast-moving retail, supermarkets, and restaurants, where speed and accuracy are critical. Quick payments reduce cashier errors, improve customer experience, and streamline the checkout process. Odoo POS Quick Payment, Odoo POS one click payment, Fast checkout in Odoo POS, Odoo Point of Sale quick pay buttons, Odoo POS predefined payment amounts, Odoo POS cash payment shortcut,  Odoo POS payment automation, Quick pay Odoo module, Odoo retail POS fast payment, Odoo restaurant POS quick checkout, Odoo POS speed up billing, POS cash journal payment Odoo, Easy checkout Odoo POS, Odoo POS cashier efficiency, Quick payment buttons Odoo, Odoo POS fast payment solution, Odoo Point of Sale quick checkout, Odoo POS smart payment buttons, Odoo POS faster transaction addon, POS quick cash payment Odoo, Odoo POS easy checkout, Odoo POS cashier speed booster, Retail store POS Odoo module, Fast billing Odoo POS module, Quick pay button Odoo app, Odoo POS retail automation, Odoo POS payment shortcut addon, Cash handling Odoo POS, Odoo POS quick transaction.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -446,7 +446,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -473,7 +473,7 @@
         "summary": "This app will allow users to configure the sequence of products and based on that sequence product will be loaded to the Point of Sale screen. This way the sales team can decide which needs to be shown at first and which needs to be shown at last. The POS Product Sequence module is designed to give you full control over how products are displayed in your Odoo Point of Sale. By default, Odoo lists products without any specific order, which can make the POS screen cluttered and harder to use when dealing with many items. This app solves that problem by allowing you to assign a custom sequence number to each product, so you can decide exactly where it should appear in the POS interface. Once enabled from the POS settings, every product gains a Product Sequence field under the Point of Sale tab. You can assign a number like \u201c1\u201d for the first position, \u201c2\u201d for the second, and so on. Products with sequence numbers are shown in order, while those left at \u201c0\u201d are automatically pushed to the bottom. This ensures your best-selling or frequently used products always appear at the top, saving time and making checkout faster. Odoo POS product sequence, Odoo product sorting in POS, POS product order customization, Odoo Point of Sale product arrangement, Sort products in Odoo POS, Custom product display order Odoo, Product priority in POS screen, Odoo POS product sequence number, Organize products in POS, Odoo POS product display control, Odoo POS fast-moving products, POS sequence field in product, Odoo POS improve product search, Arrange POS products by sequence, Odoo POS custom product layout, POS sequence, Product sequence, POS order, Product order, POS sorting.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -496,7 +496,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -519,7 +519,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -545,7 +545,7 @@
         "summary": "The POS Product Details Feature for Odoo enhances the Point of Sale experience by allowing cashiers and sales staff to instantly view important product information directly within the POS interface. After enabling the feature from Settings a convenient info icon appears next to each product in the order line. By clicking this icon, users can access a detailed popup window displaying all essential product information without leaving the POS screen. By providing this data directly in the POS, the app helps staff answer customer queries faster, confirm product availability in real time, and make informed sales decisions without leaving the POS screen. This reduces operational delays, enhances transparency, and leads to a better checkout experience. The app is easy to configure, supports multiple POS sessions or stores, and integrates seamlessly with the existing Odoo POS workflow. It is ideal for businesses looking to improve their POS operations with quick product insights and a more efficient sales process. Odoo POS Product Details, Odoo Point of Sale customization, Product info popup Odoo POS, Odoo POS quick product information, Odoo POS app for product details, Real-time product details in Odoo POS, POS product information popup module, View product stock in Odoo POS, Odoo POS sales margin and cost display, Improve customer service in Odoo POS, POS product detail integration for Odoo, Quick product lookup for Odoo POS, Odoo POS extension for product details, Odoo POS sales enhancement, Odoo POS product detail viewer, Odoo POS info popup",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -568,7 +568,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -595,7 +595,7 @@
         "summary": "Enhance your Odoo POS with the Product Image in Cart & Receipt module. This extension displays product images directly in the order cart (order lines) and also includes them on printed POS receipts. It improves order accuracy, makes checkout more intuitive, and enhances the customer experience with clear visual confirmation of purchased items. Upgrade your Odoo Point of Sale system with the POS Orderline Image Module, a powerful tool designed to improve product visibility and customer experience. This module displays product images directly in the order cart (order lines) and also includes them on printed POS receipts, making every transaction more transparent, accurate, and visually appealing. Perfect for retail stores, supermarkets, grocery shops, and food services, this module reduces cashier mistakes, speeds up checkout, and improves customer confidence by ensuring that the right product is selected and billed. Seamlessly integrated into Odoo\u2019s POS workflow, the POS Orderline Image module enhances both staff efficiency and customer satisfaction, delivering a modern and professional checkout experience. Display product images directly in the POS order cart (order lines), Print product images on POS receipts for added transparency, Improve product identification and reduce cashier errors, Streamline checkout with a clear and intuitive interface, Enhance customer trust and experience with visual receipts, Odoo POS orderline image, Odoo POS product image display, POS receipt with product image, Odoo POS image printing module, Odoo Point of Sale customization, Product images in Odoo POS cart, Odoo retail POS improvement, Customer receipt with product photo, Odoo POS visual receipt, Odoo POS user experience module, Odoo POS accuracy tool, Odoo product image receipt, Odoo POS product visibility, Retail POS image display module.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -622,7 +622,7 @@
         "summary": "The Order Type in Point of Sale module is designed to enhance the functionality of Odoo\u2019s POS system by introducing the ability to categorize and manage sales orders based on their type. Businesses such as restaurants, retail outlets, and service providers often need to distinguish between different sales flows like Dine-In, Takeaway, Delivery, or Service. This module provides a simple yet powerful solution to streamline that process. With this app, administrators can create and configure multiple order types directly from the backend. Once enabled for a POS session, cashiers and sales staff can conveniently select the appropriate order type using a dedicated Order Type button in the POS interface. The module ensures that the chosen order type is consistently applied throughout the sales process: it appears on the POS screen for quick reference, is included on printed customer receipts, and is stored in the backend order records. By improving clarity, reducing miscommunication, and offering better tracking, the Order Type in Point of Sale module helps businesses deliver a smoother and more reliable customer experience while strengthening internal operations. Odoo POS order types, Odoo Point of Sale order management, POS dine-in takeaway delivery module, Odoo POS delivery and takeaway, POS order categorization Odoo, Order type selection in POS Odoo, Odoo POS retail customization, Odoo POS customer receipt order type, Odoo POS pickup and delivery, Manage POS orders by type Odoo, Odoo POS food service management, POS order tracking Odoo backend, Odoo POS order type configuration, Odoo POS order type filter, Odoo POS order type button, Odoo POS custom order type, Odoo POS order type popup, POS order classification Odoo",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -644,7 +644,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -668,7 +668,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -692,7 +692,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -720,7 +720,7 @@
         "summary": "This module automatically highlights your best-selling items on the POS screen, displaying them in the first row with customizable colors for quick visibility. Cashiers can easily identify and select top sellers, improving efficiency and enhancing the customer experience. Seamlessly integrates with your existing Odoo POS setup and is simple to configure. The Fast-Moving & Top-Selling Products Highlight App for Odoo POS allows you to configure and showcase your most popular products directly on the POS screen. With this module, selected fast-moving items are automatically displayed on the first row of the product list and can be highlighted with a custom background color for quick identification. This app helps businesses boost sales efficiency by giving instant visibility to their most important products. Instead of scrolling through a long product list, cashiers can quickly identify fast-moving items displayed prominently on the first row of the POS product screen. With this app, you can configure which products are considered fast-moving and set a distinct background color for them, making them stand out visually. This not only saves time for POS operators but also helps in upselling and reducing checkout delays. Odoo POS fast-moving products, Odoo POS top-selling products, Highlight fast-selling items in POS, Odoo POS product highlight  module, Display most selling products Odoo POS, Odoo Point of Sale quick access products, Quick product selection in POS, Boost POS sales efficiency, Better customer experience in Odoo POS, Easy POS navigation for cashiers, Odoo POS product color highlight, Odoo POS module for best-selling products, Odoo POS customization for sales, Odoo POS display popular items, Improve checkout speed Odoo POS, POS product sorting and prioritization, Retail POS fast-selling items Odoo.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -747,7 +747,7 @@
         "summary": "The EG POS Customer Image Module for Odoo brings personalization and efficiency to your Point of Sale system by displaying customer images directly on the POS screen. This feature allows businesses to easily recognize customers, improve loyalty program management, and deliver a more personalized shopping experience. This feature makes it easier for staff to recognize customers, offer personalized service, and create a more engaging in-store experience. Perfect for businesses that value customer relationships and want to add a personal touch at checkout. By showing customer photos at checkout, staff can quickly identify repeat buyers, apply discounts more accurately, and provide tailored service. This not only enhances customer satisfaction but also strengthens long-term relationships and trust. Seamlessly integrated with Odoo\u2019s POS workflow, the Customer Image Display Module adds a professional and modern touch to your retail operations, making transactions smoother and more efficient. Display customer images directly on the POS interface, Help cashiers quickly identify repeat customers, Improve loyalty program management and discount accuracy, Enhance personalized customer service at checkout, Reduce errors and speed up the sales process, Simple customer image upload and management, Fully integrated with Odoo Point of Sale, Odoo POS customer image, Display customer photo in POS, Odoo personalized POS experience, Customer profile image Odoo POS, POS customer identification module, Odoo Point of Sale customer image, Personalized customer service POS, Odoo POS loyalty integration, POS customer recognition, Odoo retail customer experience, Odoo hospitality POS module, Odoo member identification POS.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -775,7 +775,7 @@
         "summary": "Enhance your Odoo Point of Sale with the Customer History feature that allows instant access to past orders directly from the POS screen. With a single click, cashiers can view complete order details including reference, date, session, purchased products, and total amount. This helps businesses speed up reorders, improve customer service, and deliver a more personalized sales experience. The POS Customer History module is a powerful extension for the Odoo Point of Sale system, designed to give businesses deeper insights into their customer transactions directly from the POS interface. With this app, POS users can view a customer\u2019s complete purchase history within just a few clicks. From the POS session, the cashier can select a customer and instantly retrieve all previous orders, including order reference, session details, date, and total amount. This ensures fast, efficient, and informed customer interactions, enabling businesses to provide a more personalized sales experience. By streamlining access to customer history, the app reduces wait times, improves operational efficiency, and helps build stronger customer relationships. Businesses can leverage the purchase history to understand customer preferences, recognize loyal clients, and make data-driven recommendations, ultimately boosting customer satisfaction and loyalty. Odoo POS Customer History, Odoo POS Order History, Odoo POS Purchase History, Odoo Point of Sale Customer Tracking, Odoo POS Customer Order Records, Odoo POS Sales History, Odoo POS Customer Management, Odoo POS Transaction History, Odoo POS Customer Past Orders, View Customer Orders in Odoo POS, Track Customer Purchases Odoo POS, Odoo POS Returning Customers, Odoo POS Customer Insights, Odoo POS Order Lookup.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -803,7 +803,7 @@
         "summary": "The POS Custom Discount app for Odoo is a powerful and user-friendly extension designed to give businesses more flexibility and control over discount management within their Point of Sale operations. Standard POS modules typically provide fixed promotional discounts, but they often lack the ability to create customized offers that meet specific business needs. This app bridges that gap by introducing a Custom Discount feature, allowing POS users to create, apply, and track both predefined and custom discounts directly from the POS interface. With this app, administrators can enable the Custom Discount option from the Odoo backend under the POS settings. Once activated, the POS interface will display a dedicated \u201cCustom Discount\u201d button, alongside any existing discount schemes like seasonal promotions (e.g., \u201cChristmas Offer\u201d) or store milestones (e.g., \u201cShop 6-Year Completion\u201d). This empowers cashiers or sales staff to either apply predefined discounts to selected order lines or the entire order, or create new custom discounts instantly during checkout. The process is straightforward: after selecting products in the POS cart, the cashier can open the discount dialog to choose from available offers or click on the Custom Discount button to create a new one. The system prompts the user to enter a discount percentage and a reason, ensuring that every custom discount is not only applied correctly but also documented for transparency. Discounts can be applied to individual items (Selected Line) or the entire order (All Line). This ensures maximum flexibility, whether the business wants to promote specific products or reward loyal customers with special order-wide deals. Odoo POS Custom Discount, POS Discount Management, Odoo Point of Sale Discounts, Create Custom Discounts in POS, Odoo POS Promotions, Flexible POS Discounts, Odoo Discount Reason Tracking, POS Order Line Discounts, Customizable Discounts in Odoo POS, Odoo Retail Discount Module, Odoo Sales Discounts, Discount Reasons in Odoo POS, Odoo POS Offers and Promotions, Custom Discount Button in POS, Easy discounts in POS, Custom offers in Odoo, Flexible POS promotions, Simple discount feature for Odoo, Personalized POS discounts, Odoo app for discounts.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     }
 ]

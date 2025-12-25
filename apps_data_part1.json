@@ -25,7 +25,7 @@
         "summary": "Easily Create a Purchase Order from the Sale Order",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -55,7 +55,7 @@
         "odoo_type": [
             "Community"
         ],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": true
     },
     {
@@ -83,7 +83,7 @@
         "summary": "Calculate BOM Cost Price, Total Cost Price, and Final Cost Price.Bill of Material Cost Price, Odoo BOM cost, Odoo manufacturing cost, Odoo product cost calculation, Odoo cost price management, Odoo MRP cost, Odoo production costing, Odoo manufacturing module, Odoo material cost analysis, Odoo cost structure, Odoo BOM price calculation, Odoo component cost, Odoo manufacturing expense, Odoo MRP enhancement, Odoo production planning, Odoo product valuation, Odoo cost estimation, Odoo manufacturing optimization, Odoo BOM management, Odoo production efficiency, Odoo MRP customization, Odoo cost automation, Odoo inventory cost tracking, Odoo raw material pricing, Odoo factory cost calculation, Odoo BOM report, Odoo cost analysis, Odoo ERP manufacturing tool, Odoo real cost tracking, Odoo unit cost computation",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     }
 ]

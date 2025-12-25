@@ -20,7 +20,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -45,7 +45,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -70,7 +70,7 @@
         "summary": "one click action odoo, odoo sale order shortcut, odoo purchase order fast action, so po quick button, odoo confirm order with one click, sale order mass action, purchase order mass button odoo, one click confirm sale, one click cancel po odoo, one click print sale order, odoo sale email one click, po print button odoo, sale duplicate odoo button, purchase duplicate record odoo, quick action buttons odoo, smart so po buttons odoo, odoo quick sales workflow, po faster processing odoo, odoo sale order shortcut button, odoo po single click actions, one tap order confirmation odoo, streamline sale orders odoo, speed up purchase workflow, easy access order actions odoo, odoo quick operation buttons, odoo bulk action so po, list view action odoo, quick approve order odoo, batch sale order confirmation odoo, odoo productivity sale po, odoo fast order processing, shortcut action buttons odoo, single step sales action odoo, purchase approval button odoo, quick menu so po odoo, fast document handling odoo, one click email po odoo, odoo minimal click order, sales process optimization odoo, order action booster odoo",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -94,7 +94,7 @@
         "summary": "Restrict user access to specific stock picking types, blocking unauthorized creation or editing of operation types for enhanced security. , Operation Type Restriction Odoo, Stock Picking Type Restriction Odoo, User Access Control Odoo, Operation Type Security Odoo, Restrict Inventory Operations Odoo, Role-Based Access Control Odoo, Operation Type Permissions Odoo, Block Unauthorized Access Odoo, Limit Operation Visibility Odoo, Operation Type Edit Restriction Odoo, Operation Type Creation Restriction Odoo, Error on Unauthorized Action Odoo, Inventory Security Odoo, Manage Operation Types Odoo, Stock Picking Type Visibility Odoo, User Group Permissions Odoo, Admin Access Control Odoo, Operation Management Odoo, Secure Inventory Operations Odoo, Block Unauthorized Operation Creation Odoo, Odoo Operation Type Restriction, Inventory Operation Restriction Odoo, Restrict Operation Type Odoo, Odoo Stock Operation Access Control, Warehouse Operation Restriction Odoo, Odoo Picking Type Restriction, Limit Operation Types Odoo, User-Specific Operation Restriction, Odoo Role-Based Operation Type Access, Secure Stock Operations Odoo, Odoo Operation Permissions, Warehouse Workflow Security Odoo, Operation Type Assignment Odoo, Odoo Internal Transfer Restriction, Delivery Order Restriction Odoo, Receipt Operation Restriction Odoo, Multi-Warehouse Operation Restriction Odoo, Odoo Inventory Access Rules, Restricted Operation Visibility Odoo, Controlled Inventory Workflow Odoo, Odoo Secure Warehouse Operations, Odoo Stock Picking Restriction, Warehouse Governance Odoo, Odoo User Operation Type Assignment, Warehouse Role Management Odoo, Inventory Access Control Odoo, Odoo Operation Type Configuration, Odoo Controlled Inventory Movements, Restricted Picking Type Odoo, Odoo ERP Operation Security, Stock Operation Authorization Odoo, Odoo Operation Workflow Restriction, Odoo Inventory Security Management.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -119,7 +119,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -142,7 +142,7 @@
         "summary": "parking management odoo, vehicle parking management, parking booking odoo, book parking slot odoo, employee parking odoo, odoo car parking module, odoo parking allocation, parking slots odoo, parking space reservation, parking for office odoo, parking guest visitor, parking slot system odoo, smart parking odoo, manage parking odoo, parking automation odoo, parking slots by branch odoo, multi location parking odoo, vehicle slot tracking odoo, parking history log odoo, odoo smart park, visitor parking reservation, odoo parking map, parking workflow odoo, odoo daily parking booking, manage office parking, odoo employee vehicle parking, odoo parking security, parking slot alerts odoo, odoo parking request module, parking report odoo, odoo daily vehicle tracking, parking management erp, parking solution for odoo, odoo building parking management, odoo parking time tracker, parking shift scheduler odoo, parking dashboard odoo, odoo auto parking assign\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -169,7 +169,7 @@
         "summary": "Control access to pricelists by restricting viewing, creation, and editing for specific users. , Pricelist Restriction Odoo, Odoo Pricelist Access Control, User-Specific Pricelist Restriction Odoo, Block Pricelist Creation Odoo, Pricelist Edit Restriction Odoo, Odoo Pricelist Permissions, Controlled Pricelist Management Odoo, Restrict Pricelist Editing Odoo, Odoo Pricelist Visibility Restriction, Pricelist Management Control Odoo, Odoo Pricelist Restriction, Pricelist Access Control Odoo, Restrict Pricelist Odoo, Pricelist Security Odoo, Odoo Sales Pricelist Control, Pricelist User Restriction, Odoo Group Pricelist Access, Role-Based Pricelist Restriction Odoo, Odoo Pricelist Permissions, Secure Sales Pricelist Odoo, Odoo Pricing Rules Restriction, Pricelist Assignment Odoo, Pricelist Control by User Odoo, Multi-Company Pricelist Restriction, Sales Team Pricelist Restriction Odoo, Odoo Pricelist Workflow Control, Prevent Unauthorized Discounts Odoo, Odoo Pricelist Security Management, Pricelist Authorization Odoo, Controlled Pricelist Access Odoo, Odoo Pricelist Governance, Sales Restriction Pricelist Odoo, Odoo Restrict Price Access, Pricelist Role Management Odoo, Odoo Secure Pricing Policy, Odoo Pricelist Visibility Control, Limit Pricelist Access Odoo, Pricelist Rights Management Odoo, Odoo Pricelist Customization, Controlled Pricing Odoo, Odoo Sales Price Restriction, Odoo Pricelist Assignment Rules, Pricelist Usage Restriction Odoo.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -193,7 +193,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -217,7 +217,7 @@
         "summary": "View all pricelists linked to a product in one place for better pricing management. , Product All Pricelist Odoo, Odoo Product Pricing Overview, Product Pricing Tab Odoo, View All Pricelists in Product Odoo, Odoo Product Price Management, Consolidated Pricing View Odoo, Pricing Levels for Product Odoo, Product-Based Pricelist Access Odoo, Product Pricing Information Odoo, Odoo Pricing Tab in Product Form.\nproduct all pricelist, odoo view product all pricelists, compare product price in all pricelists, odoo pricelist overview, product price by customer group, odoo pricelist checker, odoo pricelist table, sales pricelist comparison, multi pricelist viewer odoo, product pricing matrix odoo, product pricelist report odoo, odoo show all pricelist prices, pricelist audit odoo, view prices across pricelists, odoo price by customer tier, odoo sales price lookup, odoo customer pricelist viewer, odoo pricelist per product, view product price in multiple pricelists, odoo pricing control tool, odoo all prices in one view, multi-currency pricelist odoo, odoo variant price list, odoo smart tab pricelist, ecommerce pricelist overview odoo, product pricing dashboard odoo, compare product price across rules, quantity pricing odoo view, customer specific price odoo, odoo pricelist breakdown, sales price matrix odoo, price calculator odoo pricelist, audit product pricelist odoo, odoo pricing rules checker, see prices in all pricelists, all pricelists in one place odoo, product price across tiers odoo, odoo pricelist integration, odoo price by partner, backend pricelist view, odoo multiple customer prices, odoo multi pricelist calculation, odoo sales price audit, odoo price comparison module, odoo price view from pricelist\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -240,7 +240,7 @@
         "summary": "This module will help to give style, size, color and brand configuration in products. This will help in searching as well. You can easily filter and search for products by style, size, color and brand.Enhance product management in Odoo with the Product Attributes Manager module. Configure and manage product styles, sizes, colors, and brands effortlessly. Improve search functionality and filter products easily by attributes for a streamlined shopping or inventory experience. Product Attributes Manager Odoo Product Attribute Management Odoo Manage Product Variants Odoo Attribute Configuration Odoo Attribute Value Manager Odoo Product Variant Tool Odoo Product Attribute Editing Odoo Attribute Bulk Update Odoo Product Variant Creation Odoo Product Attribute Templates Odoo Product Data Management Odoo eCommerce Attribute Manager Odoo Product Setup Tool Odoo Variant Combination Manager Odoo Attribute Management Dashboard Odoo Product Variant Generator Odoo Multi Company Product Attributes Odoo Attribute Customization Odoo Product Attribute Control Odoo Inventory Attribute Sync Odoo Sales Attribute Integration Odoo Purchase Attribute Integration Odoo Product Variant Automation Odoo Product Value Editor Odoo Product Attribute Simplifier Odoo Product Catalog Configuration Odoo Attribute Template Manager Odoo Attribute and Variant Tool Odoo Product Configuration Enhancement Odoo Product Attribute Bulk Management Odoo Attribute Update Tool Odoo Product Master Data Management Odoo eCommerce Product Variant Management Odoo Product Feature Configuration Odoo Attribute Manager for Odoo Odoo Variant Setup Simplification Odoo Manage Attributes and Variants Odoo Attribute Value Updater Odoo Product Customization Tool Odoo Attribute Workflow Automation",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -264,7 +264,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -287,7 +287,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -310,7 +310,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -335,7 +335,7 @@
         "summary": "The POS Product List View module enhances the Odoo Point of Sale interface by replacing the traditional image-based product grid with a streamlined list view. Instead of displaying large product tiles with images, this module presents items in a structured text-based list, showing product names and prices in a compact layout. This approach significantly improves usability for businesses that manage large product catalogs or do not rely heavily on product images. Cashiers and sales staff can easily scroll through products, search faster, and select items more efficiently. By reducing visual clutter and focusing on product details, the module provides a more user-friendly interface that saves time during checkout. This module replaces the default image-based product section in the Odoo POS interface with a clean and structured list view. By displaying products in a text-based layout, it allows cashiers to browse and select items more quickly without relying on images. The simplified view improves navigation, speeds up checkout, and is especially useful for businesses with large product catalogs or those that do not maintain product images. Odoo POS product list view, Odoo POS product layout, Odoo POS list instead of grid, Odoo Point of Sale product list, Odoo POS product display customization, Odoo POS fast product search, Odoo POS no product images, Odoo POS structured product view, Odoo POS user-friendly interface, Odoo POS cashier productivity, Odoo POS product selection speed, Odoo POS module for large catalogs, Odoo retail POS product list",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -358,7 +358,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -383,7 +383,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -406,7 +406,7 @@
         "summary": "Show vendor product codes in purchase order and RFQ lines, with automatic updates and inclusion in reports. , Vendor Product Codes in PO, RFQ Vendor Product Codes, Vendor Codes in Purchase Orders, Track Vendor Product Codes, Vendor-Specific Product Codes, Manage Product Codes by Vendor, Auto-Update Vendor Product Codes, Purchase Order Vendor Code Management, Vendor Codes in RFQ Reports, Search Products by Vendor Code, Vendor Product Code in PDF Reports, Streamline Purchase Orders with Vendor Codes, Custom Product Codes for Vendors, Purchase Order Product Code Integration, Vendor Product Code Tracking.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -431,7 +431,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -459,7 +459,7 @@
         "summary": "WhatsApp All in One Integration Odoo WhatsApp Integration Odoo WhatsApp Connector Odoo Send WhatsApp Messages Odoo WhatsApp CRM Integration Odoo WhatsApp Sales Module Odoo WhatsApp Communication Tool Odoo WhatsApp Chat Integration Odoo WhatsApp Notification Odoo WhatsApp Message Template Odoo Multi Company WhatsApp Integration Odoo WhatsApp Purchase Order Odoo WhatsApp Invoice Sending Odoo WhatsApp Marketing Tool Odoo WhatsApp for Business Integration Odoo WhatsApp Automation Odoo WhatsApp Customer Communication Odoo WhatsApp Two Way Chat Odoo WhatsApp CRM Chat Odoo WhatsApp API Integration Odoo WhatsApp Notifications Automation Odoo Send PDF on WhatsApp Odoo Send Invoice on WhatsApp Odoo WhatsApp Contact Integration Odoo WhatsApp Quotation Sending Odoo WhatsApp Integration App Odoo WhatsApp Vendor Communication Odoo WhatsApp Multi User Integration Odoo WhatsApp Chat History Odoo WhatsApp Chatter Integration Odoo WhatsApp Order Updates Odoo WhatsApp Integration for ERP Odoo WhatsApp Business API Odoo WhatsApp Lead Communication Odoo WhatsApp Automated Message Odoo WhatsApp Support Chat Odoo WhatsApp Workflow Automation Odoo Send Message from Odoo Odoo WhatsApp Quick Reply Odoo WhatsApp Notification System Odoo WhatsApp Purchase Integration Odoo WhatsApp Payment Confirmation Odoo WhatsApp Delivery Update Odoo WhatsApp Reminder Odoo WhatsApp Message Scheduler Odoo WhatsApp Real Time Chat ",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -484,7 +484,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -507,7 +507,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -532,7 +532,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -557,7 +557,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -582,7 +582,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -607,7 +607,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -635,7 +635,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -659,7 +659,7 @@
         "summary": "Effortlessly create and manage multiple revisions of purchase orders, with each revision linked to the main purchase order for easier tracking and management. , Purchase Order Revision Odoo, Manage PO Revisions Odoo, Purchase Order Versioning Odoo, Track Purchase Order Revisions Odoo, Main Purchase Order Linking Odoo, Purchase Order Updates Odoo, Revision Tracking Odoo, Multiple Purchase Order Versions Odoo, Purchase Order Management Odoo, Streamlined PO Revisions Odoo, Link Revisions to Main PO Odoo, Purchase Order Editing Odoo, Enhanced Purchase Tracking Odoo, Odoo PO Revision Creation, Effortless Revision Management Odoo, PO Revision Workflow Odoo, Versioned Purchase Orders Odoo, Revision History Odoo, Purchase Order Process Updates Odoo, Odoo Revision Navigation.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -682,7 +682,7 @@
         "summary": " multi lot selection, at time more then one lot selection, po multi lot selection, The Purchase Order Multi Lot Selection module allows users to select multiple lot numbers directly in the purchase order line. This feature enhances inventory management by enabling the tracking of multiple lots for a single product Purchase Order Multi Lots Selection Odoo Multi Lot Selection in Purchase Order Odoo Multiple Lot Management Odoo Lot Assignment in Purchase Odoo Lot Selection Tool Odoo Purchase Order Lots Odoo Lot Management Module Odoo Purchase Lot Control Odoo Multi Lot Functionality Odoo Select Multiple Lots Odoo Purchase Lot Tracking Odoo Inventory Lot Tracking Odoo Batch Number Management Odoo Serial Number Management Odoo Lot Selection in Purchase Workflow Odoo Stock Lot Integration Odoo Purchase Lot Automation Odoo Multi Lot Purchase Tool Odoo Lot Control System Odoo Lot Traceability Odoo Warehouse Lot Management Odoo Supplier Lot Control Odoo MRP Lot Integration Odoo Purchase Order with Batch Numbers Odoo Quality Control Lots Odoo Purchase Lot Selection Interface Odoo Auto Lot Assignment Odoo Multi Company Lot Support Odoo Multi Warehouse Lot Tracking Odoo Lot History Tracking Odoo Inventory Lot Traceability Odoo Purchase Order Traceability Odoo Barcode Lot Selection Odoo Lot Number Management Odoo Purchase and Stock Lot Integration Odoo Product Batch Tracking Odoo Procurement Lot Management Odoo Stock Batch Management Odoo Purchase Lot Feature",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -706,7 +706,7 @@
         "summary": "Automatically updates product prices in the sale order line when the pricelist is changed, ensuring accurate pricing and streamlining order management. , Auto Update Pricelist Odoo, SO Line Pricelist Update Odoo, Sale Order Pricelist Change Odoo, Real-Time Pricelist Adjustment Odoo, Accurate Pricing in Sales Orders Odoo, Dynamic Pricelist Update Odoo, Pricelist Management Odoo, Streamlined Pricing Workflow Odoo, Automated Pricing Odoo, Quick Pricelist Adjustment Odoo, Sale Order Line Pricing Odoo, Update Product Prices in SO Odoo, Sales Order Pricelist Automation Odoo, Pricelist Change Update Odoo, Sales Order Line Price Update Odoo, Sales Workflow Optimization Odoo, Odoo Pricing Tool, Real-Time Sale Order Prices Odoo, Discount Pricelist in SO Odoo, Pricelist Real-Time Changes Odoo, Odoo Quick Update Pricelist, Order Line Pricelist Update, Odoo Sales Pricelist Update, Purchase Pricelist Update, Pricelist Recalculation Odoo, Update Order Lines Odoo, Mass Update Pricelist Odoo, Quick Price Update Odoo, Pricelist Management Odoo, Odoo Order Line Reprice, Sales Order Pricelist Automation, Purchase Order Pricelist Automation, Update Quotation Prices Odoo, Auto Update Prices Odoo, Odoo Pricelist Adjustment, Recalculate Order Line Prices Odoo, Pricelist Consistency Odoo, Pricing Policy Automation Odoo, Odoo Price Accuracy, Fast Pricelist Update Odoo, Bulk Pricelist Update Odoo, Pricelist Change Management, Efficient Order Line Pricing, Odoo Sales Price Update Tool, Odoo Purchase Price Update Tool, Update Prices in SO PO, Pricelist Error Prevention Odoo, Automated Pricelist Workflow Odoo, Seamless Pricelist Updates Odoo, Odoo Pricelist Integration.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -730,7 +730,7 @@
         "summary": "This app allows your Sales team / CRM Team to add products / Items on CRM Opportunity and create sales quotes using it. Quotation from CRM Opportunity Odoo Create Quotation from Opportunity Odoo CRM to Quotation Odoo CRM Quotation Integration Odoo CRM Sales Workflow Odoo Opportunity to Quotation Odoo CRM Quotation Button Odoo CRM Sales Automation Odoo Create Quotation in CRM Odoo Convert Opportunity to Quotation Odoo CRM Sales Integration Odoo Quotation Management in CRM Odoo CRM to Sales Bridge Odoo CRM Quote Generator Odoo CRM Quotation Creation Odoo Sales Quotation Workflow Odoo CRM Lead to Quote Odoo CRM Opportunity Quoting Odoo Quotation Tracking in CRM Odoo CRM Workflow Automation Odoo Quote Directly from CRM Odoo CRM to Sales Module Odoo Sales Productivity Tool Odoo CRM Quotation History Odoo Multi Company Quotation Odoo CRM Quotation Template Odoo CRM Email Quotation Odoo Lead Quotation Creation Odoo CRM Customer Quote Odoo Quotation from CRM App Odoo CRM Auto Quotation Creation Odoo Quotation Generator Odoo CRM Opportunity Conversion Odoo Sales Opportunity Quotation Odoo CRM and Sales Integration Tool Odoo CRM Quotation Automation",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -755,7 +755,7 @@
         "summary": "Prevent sale orders from being confirmed when the ordered quantity exceeds available stock, ensuring accurate inventory management. , Restrict Sale Orders for Low Stock, Sale Order Stock Validation, Prevent Over-Selling in Sales, Insufficient Stock Alert for Sale Orders, Stock-Based Sale Order Restriction, Low Stock Highlight in Sale Orders, Inventory Management for Sales, Sale Configuration Stock Restriction, Stock Availability Check for Sales, Red Highlight for Low Stock Orders, Sale Order Confirmation Restrictions, Out-of-Stock Prevention in Sales, Manage Sale Orders with Stock Limits, Sale Order Stock Restriction Settings, Ensure Accurate Stock for Sales.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -778,7 +778,7 @@
         "summary": "The Sales Commission Target app enables users to allocate commissions to salespersons based on specific product targets and categories. Managers can set various targets for individual salespeople, allowing for commission calculations based on both monetary amounts and quantities. The app features an invoicing system for commissions.\nsales commission, sale target, sales incentive, sales commission odoo, odoo sale target, commission tracking, sales target tracking, commission calculation, odoo sales bonus, sales target goal, incentive management, commission structure, odoo sales commission module, target-based commission, sales reward system, odoo incentive app, sales performance tracking, monthly commission target, sales team commission, odoo crm commission, salesperson goal tracker, performance-based bonus, odoo incentive tracker, sales target module, odoo sales reporting, team commission, sales kpi, sales motivation app, odoo goal tracker, crm target, sales objective, sales team target, odoo commission rules, custom commission plan, sales pipeline bonus, lead to sale commission, sales reward automation, odoo bonus system, odoo sales force management, target incentive system, odoo sales goals, team target odoo, commission distribution, commission on invoice, sale order commission, odoo earnings tracker, odoo employee commission, odoo crm goals, monthly sales incentive, odoo target report, commission graph, odoo sales planner, salesperson earnings, revenue target, odoo smart commission, odoo sales achievement, odoo user target, bonus payout app, branch-wise commission, region-wise target, sales challenge module, odoo reward planner, salesperson target monitor, odoo performance incentive, goal vs achievement report, odoo smart incentive dashboard, salesperson quota tracker, odoo sales contest, odoo sales performance board, sales team ranking app, odoo sales leaderboard, multi-user commission, odoo enterprise commission, dynamic commission engine, odoo 17 sales bonus, odoo 16 sales tracker\n\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -801,7 +801,7 @@
         "summary": "The Sale Order Multiples Quantity module simplifies the process of managing product quantities in sales orders. Designed for businesses that sell products in multiples (such as packs of 6, 12, etc.), this module allows users to set easily and adjust quantities based on predefined multiples, enhancing efficiency and accuracy in sales transactions.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -826,7 +826,7 @@
         "summary": "The Sale Order Return module enables users to manage efficiently and track sale orders and their associated delivery returns. Users can initiate returns directly from the sale order without interacting with stock picking.\nSale Order Return Odoo Sales Return Odoo Return from Sale Order Odoo Product Return Management Odoo Sale Return Module Odoo Return Workflow Odoo Sale Order Refund Odoo Credit Note from Sale Order Odoo Return Process Odoo Return Picking Odoo Sale Order Return Tool Odoo Customer Product Return Odoo Sales Return Automation Odoo Partial Sale Order Return Odoo Full Sale Order Return Odoo Sales Return Tracking Odoo Return History Odoo Sales Refund Management Odoo Returned Product Management Odoo Sale Order Return Workflow Odoo Return Integration Odoo Inventory Return Automation Odoo Sale Return Stock Adjustment Odoo Return Quantity Management Odoo Refund Automation Odoo After Sales Return Odoo Customer Refund Tool Odoo Multi Warehouse Return Odoo Multi Company Return Odoo Sale Return Accounting Integration Odoo Return Order App Odoo Return Management Module Odoo Return Processing System Odoo Product Return Feature Odoo Easy Return in Sales Odoo Sales Return Credit Note Odoo Sale and Stock Return",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -850,7 +850,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -875,7 +875,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -901,7 +901,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -927,7 +927,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -950,7 +950,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -974,7 +974,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -998,7 +998,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1022,7 +1022,7 @@
         "summary": "Simplify timesheet management with streamlined submission, approval, and reporting., Timesheet Approval Odoo, Timesheet Submission Workflow Odoo, Bulk Approval and Rejection Odoo, Timesheet Analysis Odoo, Customizable Timesheet Reporting Odoo, Excel Timesheet Export Odoo, Timesheet Approval Workflow Odoo, Rejection with Reasons Odoo, Timesheet Tree View Approval Odoo, Manager Timesheet Control Odoo, Employee Timesheet Management Odoo, Timesheet Status Reporting Odoo, Odoo Timesheet Features, Revert Timesheet to Draft Odoo, Advanced Timesheet Reports Odoo, Timesheet Insights Odoo, Efficient Timesheet Management Odoo, Timesheet Project Filtering Odoo, Exportable Timesheet Data Odoo, Odoo Timesheet Approval, Employee Timesheet Validation Odoo, Timesheet Workflow Odoo, Timesheet Authorization Odoo, Manager Approval for Timesheet, Timesheet Control Odoo, Timesheet Review Odoo, Odoo Project Timesheet Approval, Payroll Timesheet Approval, Timesheet Compliance Odoo, Timesheet Monitoring Odoo, Odoo Timesheet Approval Workflow, Approve or Reject Timesheets, Timesheet Accuracy Odoo, Odoo HR Timesheet Approval, Employee Work Hours Approval Odoo, Timesheet Approval Process Odoo, Odoo Timesheet Validation Workflow, Timesheet Approval Notification Odoo, Odoo Timesheet Accountability, Timesheet Approval for Billing Odoo, Odoo Timesheet Reporting, Odoo Manager Timesheet Control, Timesheet Check Odoo, Project Costing Timesheet Approval, Timesheet Review & Audit Odoo, Odoo Timesheet Security, User-Specific Timesheet Approval, Multi-Level Timesheet Approval Odoo, Efficient Timesheet Workflow Odoo, Odoo Work Hours Validation, Timesheet Approval for Payroll Odoo, Odoo Timesheet Authorization System, Odoo HR Workflow Management.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1047,7 +1047,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1070,7 +1070,7 @@
         "summary": "Efficiently manage product costs across multiple warehouses in Odoo with warehouse-wise average costing. Warehouse-specific costing for products, Landed cost in transfers, Warehouse revaluation and purchase management in Odoo, Warehouse Costing Odoo, Average Costing by Warehouse, Inventory Valuation Odoo, Warehouse-wise Product Costing, Landed Cost Management, Internal Transfer Costing, Odoo Warehouse Management, Product Costing Table Odoo, Warehouse Revaluation Odoo, Costing Method Average Cost (AVCO), On-hand Quantity by Warehouse, Odoo Cost Price Update, Product Cost Tracking, Warehouse Selection for Purchases, Inventory Cost Management, Odoo Stock Adjustment, Warehouse Cost Reports, Warehouse-wise Landed Cost, Revaluation of Warehouse Inventory, Odoo Multi-Warehouse Costing, Warehouse-wise Purchase Costs, Warehouse Cost Adjustments, Odoo Internal Stock Transfer.average warehouse costing, warehouse average cost, odoo warehouse costing, per warehouse average cost, inventory cost management, costing by warehouse, warehouse-wise inventory value, odoo inventory valuation, warehouse stock costing, warehouse cost average, product cost by warehouse, warehouse pricing method, warehouse inventory cost tracking, stock average method odoo, warehouse valuation odoo, average costing per warehouse, warehouse-based cost method, inventory average cost, warehouse item costing, location average costing, average stock price odoo, warehouse average price management, product valuation warehouse wise, stock accounting odoo, multi warehouse average price, warehouse-specific cost price, inventory cost calculation odoo, stock cost by location, odoo multi warehouse inventory costing, average cost valuation odoo, warehouse product price logic, cost price method odoo, warehouse stock costing strategy, average stock cost report, odoo average price valuation, costing rules per warehouse, warehouse inventory pricing control, odoo warehouse stock valuation, product average price method, warehouse price per item, warehouse financial cost control, warehouse average inventory report, odoo multi-location costing, costing strategy odoo, inventory cost tracking by location, stock average report odoo, per warehouse product price, odoo inventory costing automation, odoo warehouse stock average, accounting average price odoo Average Costing Inventory  Manage Average Costing Warehouse Wise Manage Costing Warehouse Wise Average Costing Method Average Warehouse Wise Costing Method Warehouse Average Costing Calculate Stock Landed Cost On Average Costing Method Landed Cost Service Cost Manage Cost Price Warehouse Cost Price Product Costing Odoo Warehouse Based Costing Based Warehouse Costing Warehouse Wise Costing Stock Costing Product Costing Landed Cost On Costing Method ",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1093,7 +1093,7 @@
         "summary": "The Activity Management app enhances activity tracking, workflow automation, and task scheduling by providing advanced filters, role-based access, real-time monitoring, and multiple views such as graph, kanban, pivot, tree, and calendar. It streamlines activity planning, priority management, source document linking, deadline tracking, and document previews. Key features include activity logs, access rights management, manager-level controls, automated notifications, activity grouping, advanced search, assignee-based tracking, scheduled reminders, customizable tags, filter-based reporting, activity analytics, due activity tracking, source document navigation, dynamic activity states, pop-up editing, user-specific access, hierarchy-based permissions, audit trail, and visual data representation, improving overall productivity and efficiency, Odoo Activity Management, Task & Activity Tracking Odoo, Activity Scheduling Odoo, Manage CRM Activities Odoo, Sales Activity Tracker Odoo, Odoo Activity Dashboard, User Activity Monitoring Odoo, Odoo Daily Task Management, Activity Reminder Odoo, Automated Activity Alerts Odoo, Odoo Productivity Tool, Activity Assignment Odoo, Activity Workflow Odoo, Odoo Collaboration Module, Manage Employee Activities Odoo, Activity Status Tracking Odoo, Customer Activity Follow-up Odoo, Odoo Calendar Activities, Odoo Meeting Scheduler, Odoo Next Activities, Manage To-do List Odoo, Business Activity Planner Odoo, Streamlined Activity Management, Odoo Task Notifications, Activity Overview Odoo, Centralized Activity Management Odoo, Cross-Module Activity Tracking, Odoo Pending Activity Alerts, Activity Monitoring System Odoo, Efficient Task Scheduling Odoo, Odoo Workflow Activities, Multi-User Activity Management Odoo, Activity Log Odoo, Real-time Activity Tracking Odoo.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1115,7 +1115,7 @@
         "summary": "invoice barcode module, print product barcode, barcode in invoice, invoice report barcode, vendor bill barcode, customer invoice barcode, odoo barcode customization, barcode configuration, invoice barcode printing, invoice automation, invoice layout customization, barcode height width settings, custom barcode format, barcode scanning from invoice, product identification, invoice product barcode, bercode in invoice, quick barcode scan, barcode in customer invoice, invoice barcode report, barcode in vendor bill, invoice barcode setup",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {

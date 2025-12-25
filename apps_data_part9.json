@@ -24,7 +24,7 @@
         "summary": "bill status on purchase order, purchase order invoice status, track billing progress, purchase order payment tracking, vendor bill status, purchase invoice progress, PO billing overview, purchase order bill tracking, purchase order to bill status, vendor invoice status display, bill status monitoring, purchase billing report, purchase order invoice link, track vendor payment, bill completion status, purchase order billing summary, purchase invoice tracking tool, purchase order to vendor bill sync, billing progress in procurement, vendor bill monitoring, purchase order accounting status, payment status on purchase order, purchase bill tracking dashboard, procurement billing visibility, bill completion tracking, partial bill status, unpaid purchase order tracking, paid purchase order status, invoice tracking for purchase orders, purchase to bill workflow tracking, purchase billing report tool, vendor payment follow-up, purchase invoice progress status, real-time bill status update, invoice completion check, procurement payment control, purchase bill overview, bill status indicator, purchase to bill link view, accounting-friendly purchase order view, vendor bill progress indicator.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -52,7 +52,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -79,7 +79,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -106,7 +106,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -134,7 +134,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -162,7 +162,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -190,7 +190,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -216,7 +216,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -244,7 +244,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -272,7 +272,7 @@
         "summary": "sale order create restriction, restrict sales order creation odoo, block sale order creation, odoo prevent sales order creation, sales access control odoo, sale order permission odoo, restrict create button sales order, odoo create sale order rights, user access sale order odoo, odoo sales workflow restriction, restrict sales user create order, prevent unauthorized sales orders, odoo restrict sales order action, odoo disable create sale order, sale order creation rule odoo, odoo sale security module, sale order user role control, odoo permission sales create, odoo restrict new sale entry, group based sale access odoo, odoo disable sales order add, odoo sales user restriction, odoo sales module control, odoo prevent sale api call, odoo ui block sales creation, odoo create sales control, user right for sale order odoo, odoo permission on sale model, prevent button click sale order odoo, odoo access control sales order, hide create sale button odoo, restrict sale by role odoo, secure sale workflow odoo, odoo team restriction sales order, odoo create sale rule, limit sale creation odoo, restrict sales by department odoo, odoo crm sales create restriction, odoo sales approval start, odoo sales entry block, stop sales creation odoo, odoo group right sales order, role based access sales odoo\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -300,7 +300,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -325,7 +325,7 @@
         "summary": "Never miss out on a product again! Website Product Stock Notification is a smart, easy-to-use notification system that alerts customers when out-of-stock or upcoming products become available again.\n\nCustomers can simply subscribe to any product they\u2019re interested in, and they\u2019ll receive an instant notification via email or in-app message as soon as it\u2019s restocked or released. No more checking back or missing out due to low inventory!\n\nFor business managers, the app provides a clear view of which products are in high demand through a dedicated sale request dashboard. This helps with better inventory planning and customer service. Managers can also send automated or manual restock notifications to keep customers engaged and improve sales.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -353,7 +353,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -381,7 +381,7 @@
         "summary": "customer maximum discount limit, discount control for customers, restrict customer discounts, set max discount for customer, discount limit management, sales discount restriction, customer-specific discount cap, prevent excessive discounts, enforce discount rules, discount approval process, sales price protection, discount policy enforcement, customer discount validation, sales margin protection, per-customer discount limit, maximum discount per customer, sales discount monitoring, limit discounts in sales orders, sales transaction discount control, prevent over-discounting, discount control tool, discount limit setup, discount restriction in sales workflow, customer pricing protection, discount control automation, sales order discount restriction, invoice discount limit, pricing control for customers, discount management software, limit sales discounts, sales rule enforcement, discount compliance, discount cap per customer, real-time discount check, sales discount alert, customer-specific pricing limit, prevent profit loss discounts, sales margin safeguard, maximum discount enforcement, discount control for business, per-client discount rule.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -409,7 +409,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -437,7 +437,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -465,7 +465,7 @@
         "summary": "delivery order restriction, restrict delivery orders, delivery control rules, block unauthorized deliveries, prevent unapproved shipping, delivery restriction management, delivery workflow control, prevent delivery without payment, shipping restriction tool, limit delivery confirmation, delivery order blocking, delivery rule enforcement, prevent premature shipments, sales to delivery restriction, delivery approval process, restrict delivery confirmation, order shipping control, prevent shipment before approval, delivery compliance tool, block delivery for unpaid orders, delivery stock check, prevent delivery errors, delivery approval workflow, sales and delivery restriction, shipment confirmation rules, delivery process restriction, block delivery until invoice paid, delivery authorization tool, delivery compliance software, shipment restriction control, prevent delivery without stock, delivery workflow automation, delivery rule setup, control delivery process, delivery management restriction, delivery blocking feature, restrict delivery per customer, delivery order safeguard, stop unauthorized shipment, delivery business rules, prevent shipment without clearance, delivery approval automation, delivery process control system, delivery restriction configuration, enforce shipping rules.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -490,7 +490,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -518,7 +518,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -546,7 +546,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -574,7 +574,7 @@
         "summary": "Number of Days in Employee",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -602,7 +602,7 @@
         "summary": "purchase order create restriction, restrict po creation odoo, prevent unauthorized purchase orders, odoo purchase access control, block purchase order creation odoo, hide create purchase order odoo, disable create button po, odoo restrict purchase order creation, purchase permission control odoo, group based purchase access odoo, restrict po by user odoo, odoo purchase security module, purchase order workflow restriction, odoo user right purchase order, stop po creation odoo, purchase module access odoo, prevent po creation script odoo, odoo limit purchase by group, block create po odoo backend, odoo purchase create permission, purchase entry restriction odoo, restrict purchase process odoo, role based purchase permission odoo, odoo purchase order restriction rule, purchase create block odoo, odoo procurement user rights, prevent vendor order creation, limit user access to po odoo, odoo restrict create in purchase, odoo po creation block, secure purchase order entry odoo, restrict po by role odoo, access control for po odoo, approval restriction odoo purchase, odoo purchase security control, group based procurement access, odoo disable purchase order add, odoo create po restriction, prevent user purchase entry, limit purchase user access odoo, odoo block unauthorized purchases, purchase control rules odoo, odoo hide po button, odoo prevent duplicate po entry, odoo multi level purchase permission, purchase user group restriction\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -628,7 +628,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -655,7 +655,7 @@
         "summary": "\tproduct discount control, maximum discount limit, product discount restriction, sales discount cap, discount percentage limit, price control for products, restricted product discount, product discount policy, discount prevention system, sales price protection, margin safeguard, product discount limit per item, sales restriction tool, discount validation, price rules for products, sales discount monitoring, restricted markdowns, product price enforcement, sales team discount control, product discount percentage control, business discount rules, product-specific discount limit, order discount restriction, limit product markdown, sales discount enforcement, price guard for products, product price compliance, order price protection, discount limit enforcement, pricing discipline tool, product margin protection.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -683,7 +683,7 @@
         "summary": "Odoo Product Restriction on Customer, Customer-Specific Products Odoo, Restrict Products by Customer Odoo, Odoo Customer Product Control, Assign Products to Customers Odoo, Odoo Product Category Restriction, Customer-Based Product Access Odoo, Odoo Product Eligibility Rules, Product Limitation per Customer Odoo, Odoo Restricted Sales Products, Customer Product Mapping Odoo, Odoo Sales Restriction Module, Product Visibility by Customer Odoo, Odoo Customer Catalog Restriction, Allowed Products for Customer Odoo, Odoo Customer-Specific Sales, Product Access Control Odoo, Odoo Regional Product Restriction, Restricted Product Catalog Odoo, Odoo B2B Product Restriction, Limit Products for Customers Odoo, Odoo Sales Order Restriction, Product Access per Customer Odoo, Odoo Customer-Based Product Management, Odoo Distributor Product Control, Sales Restriction by Customer Odoo, Odoo Partner Product Restriction, Odoo Customer-Specific Catalog, Restricted Product Sales Odoo, Odoo Custom Product Permissions, Customer-Linked Product Categories Odoo, Odoo Wholesale Product Restriction, Odoo Retail Product Restriction, Odoo Customer Product Assignment, Restrict Quotations by Customer Odoo, Odoo Partner-Specific Products, Odoo Multi-Company Product Restriction, Customer Product Access Workflow Odoo, Odoo ERP Product Restriction, Product Availability per Customer Odoo, Odoo Channel Partner Product Restriction, Odoo Controlled Product Access, Assign Categories to Customers Odoo, Odoo Customer-Based Sales Control, Odoo Restrict Items by Customer, Product Access Rights Odoo, Odoo Secure Customer Product Mapping, Odoo Compliance Product Restriction, Sales Workflow Restriction Odoo.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -711,7 +711,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -739,7 +739,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -767,7 +767,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -793,7 +793,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -821,7 +821,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -849,7 +849,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -877,7 +877,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -905,7 +905,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -933,7 +933,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -961,7 +961,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -989,7 +989,7 @@
         "summary": "low stock alert, low inventory notification, stock shortage warning, minimum stock alert, inventory threshold alert, product stock monitoring, warehouse stock shortage, branch stock monitoring, reorder alert system, product restock reminder, critical stock notification, real-time stock shortage alert, low quantity product alert, inventory shortage management, item quantity monitoring, out-of-stock prevention, product minimum quantity warning, stock control alert, low inventory tracking, stock shortage dashboard, inventory planning tool, warehouse inventory shortage, product availability alert, supply chain stock alert, reorder point notification, stockout prevention system, stock level monitoring, low inventory dashboard, inventory shortage tracker, minimum quantity inventory check, critical inventory alert, restock management system, shortage detection tool.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1016,7 +1016,7 @@
         "summary": "manufacturing order edit restriction, MO edit prevention, restrict changes in manufacturing, production order lock, prevent MO modification, manufacturing process control, MO security, block MO editing, manufacturing order approval restriction, production data lock, prevent production changes, MO user permission, restricted manufacturing edit, edit lock for MO, secure manufacturing workflow, production record protection, manufacturing change approval, stop unauthorized manufacturing edits, locked production order, prevent accidental MO changes, restricted manufacturing modification, MO access control, manufacturing security settings, edit restriction manufacturing system, MO modification approval, production order editing restriction, controlled manufacturing access, manufacturing integrity protection, manufacturing order lock system, MO workflow security, restricted access production orders, MO change prevention system, secured MO process, no-edit manufacturing rule, lock confirmed manufacturing order.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1044,7 +1044,7 @@
         "summary": "The Manufacture Order Creation Restriction app allows administrators to restrict certain users from creating manufacturing orders in Odoo. By enabling a specific setting, the app ensures that only authorized users with admin rights can generate new manufacturing orders, helping maintain process control and security over production workflows. Key features include user-specific restrictions, customizable access control, and error pop-ups for restricted users attempting unauthorized actions. This enhances workflow integrity, user role management, manufacturing process security, access control, and order creation oversight, Odoo Manufacture Order Restriction, Restrict MO Creation Odoo, Odoo Manufacturing Access Control, MO User Restriction Odoo, Odoo Production Security, Manufacturing Workflow Restriction Odoo, Controlled MO Creation Odoo, Odoo MRP User Permissions, Role-Based MO Creation Odoo, Manufacturing Authorization Odoo, Odoo Restricted Production Orders, Secure Manufacturing Operations Odoo, Odoo Production Order Access, Manufacturing Approval Restriction Odoo, Odoo ERP MO Restriction, Manufacturing User Rights Odoo, Odoo Manufacturing Compliance, Prevent Unauthorized Manufacturing Orders Odoo, Odoo Manufacturing Workflow Control, Multi-Company MO Restriction Odoo, Odoo MRP Security Management, Controlled Manufacturing in Odoo, Odoo Manufacturing Assignment Rules, Manufacturing Governance Odoo, Odoo MO Visibility Restriction, Production Planning Control Odoo, Odoo Secure MRP Module, Odoo Limited Manufacturing Access, Manufacturing Permissions Odoo, Restrict Production Workflow Odoo, Odoo Factory Operations Restriction, Secure Production Entries Odoo, Odoo ERP Manufacturing Control.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1072,7 +1072,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1099,7 +1099,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1127,7 +1127,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1154,7 +1154,7 @@
         "summary": "user sequence, auto-generate user ID, unique user code, sequential user numbering, system-generated user ID, automatic user numbering, unique ID for users, user sequence generator, custom user sequence, user code prefix, user code suffix, user numbering rules, user identification number, user code generator, assign user ID automatically, user record numbering, user sequence format, auto numbering users, sequential ID for staff, unique code for employees, automatic user reference, system-assigned user ID, user tracking ID, user code management, user ID generator, user code system, unique user reference number, sequential user account IDs, user sequence setup, user record sequence, auto-generate staff ID, user code automation, user ID numbering system, unique identifier for users, user number generator.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1182,7 +1182,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1210,7 +1210,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -1238,7 +1238,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     }
 ]

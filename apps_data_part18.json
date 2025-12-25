@@ -19,7 +19,7 @@
         "summary": "Once installed and configured, products linked to a Bill of Materials (BoM) can be set to auto-manufacture upon sale. This means that the moment a cashier sells a configured product, an MRP order is instantly created in the backend without manual intervention. The system also supports product variants and the use of multiple raw materials defined in the BoM. Additionally, the module provides the option to mark manufacturing orders as \u201cdone\u201d right from the POS interface. This significantly shortens the sales-to-production workflow, improves inventory accuracy, and eliminates the need for manual MRP order creation. This module is ideal for made-to-order businesses, restaurants, bakeries, custom product retailers, and any operation where production is triggered directly by sales transactions. Auto-create Manufacturing Orders (MRP) from POS sales, Supports product variants and Bills of Materials (BoM), Option to instantly mark orders as \u201cdone\u201d from POS, Reduces manual work and streamlines sales-to-production workflows,Ensures real-time inventory and production accuracy ,Ideal for businesses with made-to-order or custom products, This app allows users to automatically create manufacturing (MRP) orders directly from the POS interface whenever a product is sold. It supports product variants, handles Bills of Materials (BoM), and gives the flexibility to mark manufacturing orders as done instantly. Create MRP Orders from POS in Odoo, Odoo Manufacturing from Point of Sale, POS to Manufacturing Workflow Odoo, Odoo MRP Automation App, Odoo POS Auto Manufacturing, Odoo Manufacturing Order from POS, POS Integrated with Manufacturing Odoo, Manufacturing Order Done from POS, POS to MRP automation, POS auto manufacturing, POS production order, POS to manufacturing workflow, Auto-generate MRP orders POS, POS sales trigger manufacturing, POS production process automation, POS manufacturing order completion, Odoo POS manufacturing module, Odoo manufacturing from POS, Odoo auto MRP from POS, Odoo point of sale production, Odoo POS custom product production, Odoo POS MTO (make to order), Odoo manufacturing automation, Odoo POS product variants MRP",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -44,7 +44,7 @@
         "summary": "The Service Box Snippets module provides a collection of pre-designed layouts to showcase key services, features, or benefits in a structured, visually appealing format ,service box snippets, content box layout, pre-designed service modules, feature showcase boxes, benefits display templates, structured content sections, visual service highlights, responsive service blocks, website service layout, content showcase widget, key feature display, business service snippets, modular content design,Content Box Snippet, Content Box Snippets, Content Box Block, Content Box Blocks,Website Snippets, Content Box Snipet, Box Snippets Odoo, dashboard snippet ",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -66,7 +66,7 @@
         "summary": "This simple but powerful app lets you set a minimum order amount that customers must reach before they can checkout. It\u2019s perfect for store owners who want to avoid low-value orders, increase average cart size, or set up bulk buying rules.\nWhether you run a retail or wholesale shop, this tool helps you boost profits and keep your business running smoothly \u2013 no coding needed!\nminimum order amount app, set minimum purchase amount, minimum checkout limit, eCommerce minimum order plugin, shopping cart minimum total, minimum spend for checkout, enforce minimum order value, online store order limit, checkout restriction app, how to set a minimum order in my shop, prevent small orders in online store, increase average order value, bulk order requirement tool, eCommerce sales booster plugin, minimum cart value setting, checkout rules for online stores , avoid low-value orders, online store profit optimization, restrict checkout under certain amount",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -89,7 +89,7 @@
         "summary": "multi branch project, project per branch odoo, odoo multi branch task, multi branch odoo, task per branch odoo, project and task by branch, branch-specific projects, odoo task management branches, odoo multiple branches, odoo branch project tracking, branch task access control, odoo branch wise project view, multi location project tracking, odoo task branch control, odoo multi unit project, odoo task filtering by branch, branch assigned projects odoo, odoo branch based project, project visibility by branch odoo, multi branch team collaboration, odoo project segregation, odoo project branch hierarchy, multi branch odoo extension, project assignment per branch, odoo project branch automation, odoo department branch projects, branch isolated project system, branch assigned task users odoo, odoo task branch-level filtering, separate task pipeline per branch, odoo multi org project manager, cross-branch task blocker odoo, per branch project access odoo, odoo task assignment rule, odoo branch control in project, odoo restricted task visibility, project team by branch odoo, multiple branch access odoo, odoo project and task filter, branch-level reports odoo, odoo branch project summary, odoo task by region/branch, odoo user branch-based project",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -112,7 +112,7 @@
         "summary": "Product Label Preview offers a fast and reliable way to visualize labels before printing. Designed for product packaging, shipping tags, and custom labeling, this tool ensures correct layout, consistent design, and proper formatting. Real-time previews help reduce printing errors and enhance the overall quality of label presentation.\nlabel preview app, label printing software, print label preview tool, product label designer, packaging label software, custom label printing solution, shipping label preview app, barcode label preview tool, label maker app with preview, professional label printing app, real-time label preview, accurate label formatting, label layout preview, consistent label design, error-free label printing, label customization tool, print-ready label templates",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -136,7 +136,7 @@
         "summary": "This module allows to track all users operations performed on data models such as create, read, write and delete. You can track every users activity on all the objects of the system. You can group by audit logs with different dimensions like user, object & type. The log view contains details about each operation like date, record id, record object name, user name, type, old and new values of each modified field, etc.User Audit, User Activity Audit ,Follow Users Traces,Audit Trail,User Log,Log Report, Record Log,Record Information,User Activity log, Record History,Log History,User Activity Audit Log,Manage Audit Logs,Track every Users Operation,Delete Log,audit user activity Odoo,User Activity Log, User Activity Audit,  Session Management, Record Log, Activity Traces, Login Notification, User Activity Record, Record History, Login History, Login location, Login IP ,Monitor and audit user actions with ease. Features include User Activity Logs, Session Management, and Complete Record Tracking. Stay informed with Activity Traces, Login Notifications, and a full history of User Actions. Track Login Locations and IP Addresses for enhanced security and accountability.Security Master, User Login Security Master , Advanced User Audit , User Logs , User Activity Audit , Odoo Security Master , Security Dashboard , Session Management , Login Alert, user history ",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -159,7 +159,7 @@
         "summary": "A smart and scalable idea management system designed to simplify idea submission and review across teams. Enable structured collaboration with a built-in idea approval , customizable workflows, and automated approval notifications. Track every stage of innovation from idea rejection and confirmation to final execution using a complete feedback and idea tracking solution that supports employee idea management, innovation workflows, and decision-making.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -184,7 +184,7 @@
         "summary": "This module is a great way to make your webpage more attractive by adding stylish comparison snippets. It allows you to easily showcase important links, call-to-action buttons, images, and text all without needing any technical skills. You can effortlessly update links, change images, or edit text to suit your needs. It\u2019s especially useful for highlighting key areas or sections of your website. To see how it works in action, just check out the demo video and discover how simple it is to enhance your site\u2019s design,  Comparison Snippets, Comparison Snippet, Comparison Blocks, Comparison Block, Website Snippet, Comparison Snipet, Comparison Content Box, Comparison Box Odoo,  website comparison module, responsive comparison tables, drag-and-drop comparison UI, no-code comparison builder, stylish comparison blocks, feature comparison layout, pricing table snippet, product comparison widget, comparison table for landing pages, SEO-friendly comparison tables, customizable comparison section, visual comparison snippet, comparison table for call-to-action, editable comparison content, comparison snippet for non-tech users, comparison table demo, comparison table design tool, comparison snippet plugin, comparison table for important links.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -207,7 +207,7 @@
         "summary": "Set a minimum order amount in your POS system to optimize checkout and streamline operations. When the order total is below the set threshold, the payment button is automatically disabled, preventing incomplete transactions. Once the order exceeds the minimum value, the payment option becomes available, ensuring compliance with your business policies and improving efficiency. This feature helps enhance profitability and maintain smooth operations for both customers and staff. Implementing a minimum order amount in your POS system is an effective way to streamline checkout and ensure smoother operations. By setting a threshold, the payment button is automatically disabled for orders below the minimum, preventing customers from completing transactions that don't meet your business\u2019s requirements. Once the total exceeds the minimum order value, the payment option is enabled, allowing customers to finalize their purchases. This feature not only enforces order policies but also reduces small or low-margin sales that can strain resources. It helps maintain profitability while creating a seamless experience for both customers and staff. Additionally, it can be adjusted based on business needs, making it a flexible tool for better control over orders. Minimum order amount POS, POS system payment options, Automated payment button disable, POS system order policies, Set minimum order limit POS, POS payment threshold, Enforce minimum order value, POS system checkout optimization, Payment option for minimum order, Streamline POS transactions, Increase profitability with POS system, POS system for order restrictions, POS system minimum order feature, Boost sales with POS order policies, POS system order management",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -232,7 +232,7 @@
         "summary": "Effortlessly enhance your web presence with ready-to-use social media blocks designed for clarity, consistency, and conversion. This module lets you embed beautifully styled social icons and action snippets (Instagram, YouTube, Facebook, Twitter, etc.) directly into your Odoo website or apps no code, no clutter, social media snippets, odoo social media module, add social icons odoo, embed instagram odoo, embed facebook odoo, embed twitter odoo, embed youtube odoo, no-code social blocks, drag-and-drop social media, responsive social icons, seo social media snippets, odoo website snippets, conversion-driven social blocks, minimal social media plugin, consistent social branding, easy social media embed, odoo no-code integration, stylish social icons odoo, mobile-friendly social media blocks, odoo website enhancement, link snippet, social link snippet, social media UI snippets, social snippet ,Snippet designer Website insta story snippet Whatsapp status snippet website snippet Story snippet editor Multi platform snippet builder Snippet creator Social Media Snippet builder Status Snippet Instagram Story maker mutliple image snippet.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -254,7 +254,7 @@
         "summary": "Website Payment Extra Fee is a simple and flexible tool that helps you add extra charges to your website's checkout process. You can easily apply fixed fees or percentage-based charges based on your needs. It\u2019s perfect for covering things like payment gateway fees, service costs, or handling charges. The app is easy to set up, with no coding skills required, and works smoothly with your existing payment system. Improve your customer experience with clear, transparent pricing every time they check out.payment extra fee plugin , add fees at checkout , website checkout extra charges , extra charges plugin for website , fixed fee checkout plugin , percentage-based checkout fee , online store extra charges tool , payment gateway fee addon , ecommerce fee management , checkout surcharge app , apply service charges online , dynamic checkout fee plugin , flexible fee calculator for website , conditional checkout fee , auto add handling charges , website payment surcharge tool , transaction fee addon , custom checkout fees , ecommerce handling charges plugin , automated fee application , Shopify extra fee app , WooCommerce checkout fee tool , Magento payment surcharge , online store checkout optimization , payment processing fee addon , stripe surcharge integration , PayPal fee recovery plugin , credit card fee add-on , no-code checkout plugin , easy fee addon for websites , plug and play payment fee tool , simple setup surcharge plugin , beginner-friendly fee plugin , user-friendly ecommerce tool , transparent pricing at checkout , improve checkout clarity , boost trust with transparent fees , reduce cart abandonment , clear pricing plugin , extra charges visibility tool , how to add payment fees on website checkout , plugin to add extra charges to online store , apply conditional fees based on payment method , online payment fee calculator plugin , customizable checkout fee plugin",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -279,7 +279,7 @@
         "summary": "A timeline is a visual representation of events arranged in chronological order. It typically features a horizontal or vertical bar marked with dates, alongside key milestones or actions. This layout helps users quickly grasp the history or progression of an organization, project, or idea. This module lets you add beautiful, interactive timeline snippets to your website no coding required.timeline snippets, website timeline module, interactive timeline builder, company history timeline, project timeline layout, chronological event display, timeline design for websites, drag and drop timeline, no-code timeline editor, visual timeline block, milestone tracker, timeline UI snippet, timeline bar with dates, timeline snippet for Odoo, responsive timeline module, timeline snippet template, timeline snippet customization, timeline snippet demo, timeline snippet HTML, timeline snippet CSS, timeline snippet SEO, timeline snippet widget, timeline snippet block, timeline snippet layout, timeline snippet design, timeline snippet module, timeline snippet builder, timeline snippet editor, timeline snippet integration, timeline snippet showcase, timeline snippet history, timeline snippet events, timeline snippet milestones, timeline snippet visual, timeline snippet responsive, timeline snippet easy, timeline snippet modern, timeline snippet clean, timeline snippet drag-drop, timeline snippet no-code,Timeline ContentBox, Timeline Box,Website Snippets",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -302,7 +302,7 @@
         "summary": "Equipment Maintenance with Purchase and Stock Management, equipment maintenance, maintenance requests, inventory management, stock tracking, purchase requisitions, internal transfers, automated procurement, maintenance workflow, warehouse management, equipment repair, location-based stock allocation, Odoo maintenance module, downtime prevention, manufacturing maintenance, logistics maintenance, facilities management, healthcare equipment maintenance, stock maintenance, purchase maintenance, spare parts management, asset management, preventive maintenance, maintenance scheduling, repair management, procurement automation, inventory replenishment, maintenance tracking.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -325,7 +325,7 @@
         "summary": "Invoice Custom Product Label is designed to simplify the way businesses handle product labeling. Instead of creating labels manually, this tool automatically pulls product details from each invoice and generates ready-to-print labels for every item sold. This reduces the chances of human error, ensures label accuracy, and saves time especially during busy operations.\nproduct label printing, invoice-based label generator, custom product labels, barcode label software, retail label printing, automatic label creation, invoice item labels, label generator for invoices, product labeling solution, POS label printing, billing label software, inventory label system, SKU label generator, print labels from invoice, product tag printing, labeling automation tool, retail labeling app, product barcode printing, invoice to label tool, packaging label software, smart labeling software, label printing automation, custom label creator, invoice product tag, i.nvoice label maker",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -350,7 +350,7 @@
         "summary": "Highlight your team with beautifully crafted, responsive snippets that bring personality and professionalism to your Odoo website. The Team Member Snippets module makes it effortless to present your organization\u2019s talent with clean layouts, customizable profiles, and SEO-friendly markup. Team Snippets, Team Snippet, Team Block, Team Blocks, Website Snippet, Team Snipet, Team Box, Team Content Box, odoo app allow website Snippets for team, My team snippets, Team buiding snippets, website our team snippets, team member website snippet, all snippet team, all in one snippet team.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -373,7 +373,7 @@
         "summary": "Optimize your stock picking and delivery process with the Stock Picking Section app. Effortlessly categorize inventory into stock sections such as Electronics, Furniture, Apparel, and more. Add custom sections and notes to streamline the picking process and improve organization. Generate informative stock receipts with clear sections and handling instructions. Boost warehouse efficiency, simplify inventory management, and enhance the customer delivery experience.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -398,7 +398,7 @@
         "summary": "User Profile Snippets is a sleek, customizable module that lets you display profiles with professional polish and responsive design. Perfect for company websites, portfolios, or community platforms, this snippet-based tool makes it easy to highlight individuals with engaging layouts and SEO-friendly markup, profile display module, responsive profile layout, customizable profile widget, company team showcase, portfolio profile tool, community member profiles, professional profile snippet, SEO profile markup, profile snippet plugin, team member showcase, profile card generator, profile layout builder, profile snippet design, profile snippet SEO, profile snippet responsive, profile snippet customizable, profile snippet integration, profile snippet for websites, profile snippet for portfolios, profile snippet for communities.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -420,7 +420,7 @@
         "summary": "Detailed Operations, Stock picking Detailed Operation, lot and serial detail.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -443,7 +443,7 @@
         "summary": "The pos_disable_payments module for Odoo provides a robust solution for businesses looking to enhance Point of Sale (POS) security and improve staff control. This module allows administrators to restrict or completely disable specific POS features such as payments, discounts, price and quantity edits, order line deletions, and customer selection. Permissions are highly customizable, enabling control on a per-user or per-employee basis.\nWith this module, businesses can ensure that sensitive POS functions are only accessible by authorized personnel, reducing the risk of errors, fraud, or unauthorized actions. Features like disabling the numpad and +/- buttons, along with blocking changes to prices and discounts, prevent accidental or malicious alterations.\nIdeal for retail stores, restaurants, and any business with multiple cashiers or sensitive POS operations, the pos_disable_payments module enhances accountability by providing a clear audit trail for user actions. This granular control makes it easier to maintain a secure, efficient, and reliable POS environment for your team and customers.Disable payments Odoo,POS user permissions,Control POS features,Restrict POS access,Disable discounts POS,Point of Sale security,User-based POS controls,Odoo retail module,Prevent POS fraud,POS staff management,Disable order editing in POS,Odoo POS cashier restrictions,POS user access control,POS permissions management,restrict discounts,retail management,Odoo POS customization,Point of Sale security.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -466,7 +466,7 @@
         "summary": "Appointment Management Schedule, Track & Invoice Appointments Effortlessly Boost efficiency and customer satisfaction with our Appointment Management module, designed for salons, repair services, consultants, healthcare providers, and all service-based businesses. Easily schedule appointments, manage time slots, prevent double bookings, and store customer details in one centralized system. Enjoy real-time location tracking, auto-fill client notes, and instant invoice generation to streamline operations. Whether you\u2019re managing multiple services, tracking appointment statuses, this all-in-one solution makes appointment scheduling, tracking, and billing faster, simpler, and more accurate. Perfect for improving workflow, saving time, and growing your business.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -491,7 +491,7 @@
         "summary": "quote box snippets, testimonial display module, inspirational quote snippet, drag-and-drop quote box, customizable quote widget, website quote showcase, stylish quote layout, key message snippet, quote highlight tool, odoo quote module, quote box for websites, testimonial snippet odoo, inspirational text box, quote section builder, elegant quote presentation, quote snippet design, impactful message display, quote UI component, quote box drag and drop, quote snippet customization, website snippet, website quote box snippet, content box snippet, website snippet team all snippet all in one snippet website team.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -514,7 +514,7 @@
         "summary": "Easily assign sales representatives to each order directly from your Odoo Point of Sale system. This feature automatically updates the order records, ensuring that the assigned salesperson is tracked in the backend. The salesperson\u2019s name is also displayed on customer receipts and real-time sales displays, providing transparency and accurate sales tracking. This streamlined process enhances performance monitoring and ensures that all sales are properly attributed for reporting and commission management. The Odoo POS Salesperson module is a powerful tool designed to streamline the process of assigning a salesperson to each order, enhancing sales tracking, and improving reporting accuracy. This module allows cashiers to easily select a salesperson directly from the POS interface, ensuring that the system automatically links the selected salesperson to the corresponding POS order, both in the backend and on customer-facing receipts. With this feature, businesses can maintain an accurate record of who processed each sale, providing valuable insights into individual performance. The salesperson\u2019s name is prominently displayed on receipts, providing transparency to customers and helping businesses maintain a clear record of their transactions. Odoo POS Salesperson, Assign Salesperson in POS Odoo, POS Salesperson on Receipt Odoo, Odoo POS Sales Tracking, POS Salesperson Management, Odoo POS Salesperson, Assign Salesperson in Odoo POS, POS Sales Representative Odoo, POS Order Salesperson Odoo, Salesperson on Receipt Odoo POS, Track Sales by Salesperson Odoo, Manage Sales Staff Odoo POS, POS Sales Performance Odoo, Odoo Salesperson Add, POS Salesperson Add",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -537,7 +537,7 @@
         "summary": "eCommerce Discount Per Product is a versatile tool designed to help admins apply custom discounts to individual products, enhancing customer engagement and driving sales. With the ability to add personalized discount messages, this feature allows for targeted promotions tailored to specific products, perfect for seasonal offers or limited-time sales. The user-friendly interface simplifies discount management, making it easy for administrators to apply and update promotions in real-time. Customizable discount types, along with bulk and time-sensitive discount options, provide flexibility for various promotional strategies. Additionally, the integration of sales analytics helps businesses track the effectiveness of product-specific discounts. This powerful tool enables you to offer personalized deals, improving customer loyalty and increasing conversions. By streamlining the process of applying targeted discounts, eCommerce Discount Per Product helps maximize your eCommerce store's potential and boost overall sales performance.\neCommerce discount tool, product-specific discounts, custom discount messages, admin discount management, personalized product promotions, targeted eCommerce offers, real-time discount updates, bulk discount application, eCommerce sales optimization, discount management system, seasonal product discounts, time-sensitive offers, customer-specific discounts, sales analytics for eCommerce, easy discount administration, online store discount features, increase eCommerce conversions, product promotion management, tailored product discounts, exclusive eCommerce deals.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -560,7 +560,7 @@
         "summary": "eCommerce Discount On Total Amount is a smart discount app for online stores that applies automatic discounts based on total cart value. It supports both fixed and percentage-based discount options. Easily configurable rules help boost average order value and sales. Seamless integration with major eCommerce platforms ensures smooth functionality. No coding skills are required for setup or management. Ideal for creating promotional offers that drive customer purchases. A perfect solution to enhance user engagement and increase revenue.ecommerce discount app, discount on total cart amount, cart value discount, automatic cart discount, order total discount, fixed discount on order, percentage discount on cart, cart-based promotions, total amount discount plugin, ecommerce promotional tool, increase average order value, boost ecommerce sales, online store romotion app, upsell discount feature, encourage larger orders, conversion optimization tool, improve customer retention, enhance shopping experience, revenue growth tool, smart discount solution, sales-driven discount system, marketing automation for ecommerce, discount integration tool, Discount On Total Amount, website Discount On Total Amount",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -583,7 +583,7 @@
         "summary": "Website Product Attribute Image is a powerful app designed to improve the online shopping experience by visually displaying product attribute images directly on e-commerce websites. Users can effortlessly view images representing various product features such as color, size, style, and more. This tool helps customers make more informed purchasing decisions by providing clear and accurate visual representations of product attributes. With a user-friendly interface and seamless integration, the app enhances website functionality and optimizes user experience. By offering detailed visual context, Website Product Attribute Image reduces confusion, boosts customer confidence, and increases conversion rates. Designed for businesses looking to elevate their e-commerce platforms, the app ensures that users have a smooth and engaging shopping journey.\nProduct Attribute Images, Visual Product Attributes, E-commerce Attribute Image Tool, Enhance Online Shopping Experience, Product Image Viewer, Interactive Product Features, Attribute Visualization for E-commerce, Product Image Display App, Improve Conversion Rates E-commerce, Online Shopping Visual Tool, E-commerce User Experience Enhancer, Product Feature Images, Product Attribute Visualization Tool, Visual Product Selection, User-Friendly Shopping App, Increase Sales with Product Images, Seamless Shopping Experience, Boost E-commerce Sales with Images, Visual Shopping Experience, E-commerce Conversion Optimization",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -606,7 +606,7 @@
         "summary": "quick unlink record odoo, unlink button odoo, quick delete record odoo, mass delete records odoo, bulk unlink odoo, fast record removal odoo, instant delete odoo, record unlink module odoo, record cleanup odoo, database cleanup odoo, odoo fast unlink, quick unlink tool, delete multiple records odoo, odoo record delete, record maintenance odoo, odoo utilities module, unlink any model odoo, odoo admin cleanup tool, remove unwanted records odoo, data management odoo, odoo quick cleanup, easy record delete odoo, delete duplicate records odoo, delete test data odoo, odoo developer tool unlink, odoo fast record cleaner, odoo record batch unlink, quick record cleanup odoo, simplify record deletion odoo, unlink entries odoo, remove demo data odoo, odoo power unlink, unlink crm record odoo, unlink sale order odoo, unlink purchase order odoo, unlink invoice odoo, unlink stock record odoo, unlink hr record odoo, unlink accounting record odoo, unlink product record odoo, unlink partner record odoo, bulk delete odoo records, odoo system cleaner, odoo admin utility, fast unlink action odoo, unlink multiple entries odoo, odoo data cleaner module, smart unlink odoo, unlink records quickly odoo, safe unlink odoo, unlink record automation odoo, easy unlink button odoo, unlink record batch process, quick unlink wizard odoo, unlink shortcut odoo, one click unlink odoo, remove records instantly odoo, odoo instant record deletion, unlink duplicate entries, unlink customer record odoo, unlink supplier record odoo, unlink employee record odoo, unlink journal record odoo, unlink move line odoo, unlink bank statement odoo, unlink inventory adjustment odoo, unlink bill odoo, unlink credit note odoo, unlink transfer odoo, unlink picking odoo, unlink quotations odoo, unlink opportunities odoo, unlink tickets odoo, unlink tasks odoo, unlink timesheets odoo, all in one quick delete record, quick delete odoo app, bulk delete records odoo, delete multiple records odoo, quick delete tool odoo, record deletion app odoo, delete unwanted records odoo, odoo mass delete, record cleanup odoo, delete records quickly, delete entries in odoo, odoo delete records module, remove records odoo, all in one record delete app, fast record deletion odoo, delete invoices odoo, delete sale orders odoo, delete purchase orders odoo, delete stock records odoo, delete crm records odoo, delete timesheet records odoo, delete hr records odoo, delete website records odoo, delete pos records odoo, quick delete sales purchase records, delete accounting records odoo, bulk remove records odoo, odoo record delete tool, delete master data odoo, delete duplicate records odoo, odoo record cleanup module, all in one record cleaner odoo, quick delete customer records, delete supplier records odoo, delete product records odoo, remove unnecessary records odoo, delete transactions odoo, odoo fast delete module, record management cleanup odoo, delete unwanted entries odoo, record delete automation odoo, odoo quick record cleanup, odoo all in one delete tool, record delete utility odoo, delete multiple entries odoo, odoo bulk record remover, clean odoo records app, remove data odoo app, odoo admin delete tool, quick data cleanup odoo, delete database records odoo, odoo record delete extension",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -629,7 +629,7 @@
         "summary": "Job Cost Estimates, Job Estimates, Job Estimation, Cost Estimation, Job Estimating Tool, Job Estimate Management, Estimate to Quotation, Sales Quotation from Estimate, Job Cost Breakdown, Materials Cost Estimation, Labour Cost Estimates, Overhead Cost Estimation, Estimate Approval Process, Job Estimate Tracking, Estimate PDF Reports, Estimate Email Communication, Job Estimate Analysis, Kanban Job Estimates, Job Estimate Calendar View, Job Estimate Pivot Tables, Job Estimate Graphs, Job Estimate Reporting, Job Estimate Activity Tracking",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -652,7 +652,7 @@
         "summary": "Hide On Hand & Forecast Quantity is a custom Odoo module designed to improve inventory visibility control. It allows you to hide the \u201cOn Hand Quantity\u201d and \u201cForecast Quantity\u201d buttons on the product form based on user access rights. With this feature, you can easily manage who can view sensitive stock information.\nAdministrators can assign specific roles to users, ensuring only authorized personnel can access real-time inventory data. This helps reduce clutter for restricted users and simplifies the product interface. The module is fully integrated with Odoo\u2019s security settings for seamless configuration.\nOdoo inventory button hide, Hide On Hand Quantity Odoo, Hide Forecast Quantity Odoo, Odoo inventory access control, Odoo product form customization, Odoo stock visibility, Odoo user access rights, Inventory security Odoo, Odoo button visibility control, Product form button hide Odoo, Odoo inventory permissions, Odoo custom module inventory, Restrict inventory access Odoo, Odoo stock quantity control, Hide product buttons Odoo, Odoo user role restrictions, Odoo product visibility settings, Odoo access-based UI control, , Odoo inventory data protection, , Custom inventory module Odoo, , Odoo interface simplification, , Inventory management Odoo module, , Stock visibility settings Odoo, , User-specific inventory view Odoo, Odoo group-based access , Hide stock buttons Odoo, , Secure inventory view Odoo, , Odoo ERP inventory customization, , Odoo product page permissions, , Role-based access Odoo inventory",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -675,7 +675,7 @@
         "summary": "inter warehouse transfer odoo, warehouse transfer odoo, stock transfer odoo, inventory transfer odoo, odoo multi warehouse, odoo stock movement, odoo internal transfer, move stock between warehouses, warehouse logistics odoo, odoo inventory tool, warehouse stock shift, product transfer odoo, warehouse operations odoo, multi location odoo, transfer goods odoo, stock relocation odoo, odoo inventory control, inter company stock transfer, inventory management odoo, warehouse movement odoo, warehouse stock balance, odoo warehouse automation, warehouse transfer report, odoo warehouse tracking, warehouse transfer order, transfer order odoo, warehouse request odoo, warehouse transfer approval, multi warehouse inventory odoo, warehouse logistics management, odoo warehouse connector, inter location transfer, warehouse delivery odoo, stock availability odoo, odoo transfer request, stock transit odoo, inventory optimization odoo, warehouse request workflow, inter branch stock transfer, warehouse issue request, warehouse product allocation, warehouse item movement, stock replenishment odoo, warehouse demand planning, warehouse resource allocation, warehouse operations optimization, inter site stock transfer, odoo warehouse planning, product movement report odoo, stock usage odoo, warehouse request note, warehouse internal delivery, stock reallocation odoo, warehouse move tracking, odoo multi-location inventory, inventory stock adjustment, odoo stock operations, stock redistribution odoo, warehouse demand supply odoo, warehouse return odoo, inventory flow management odoo, warehouse allocation odoo, odoo product logistics, optimize warehouse transfers.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -698,7 +698,7 @@
         "summary": "This Odoo app enables users to apply discounts on Purchase Orders and Vendor Bills using two flexible methods: Fixed Discount and Percentage Discount. Once installed, the selected discount type and amount are automatically displayed on the default Odoo reports for Purchase Orders and Supplier Invoices. However, it's important to note that this module does not generate accounting entries for the discount amount. purchase global discount, purchase discount, invoice discount on line percentage based discount fixed discount on purchase order line purchase invoice discount vendor bill discount on invoice line vendor bill discount All in one Discount sale invoice discount, purchase discount odoo, vendor bill discount odoo, odoo purchase order discount, supplier invoice discount odoo, odoo fixed discount, odoo percentage discount, discount on vendor bills, odoo procurement discount, odoo PO discount module, vendor invoice discount, odoo purchase workflow, odoo accounting discount, odoo purchase app, supplier discount odoo, odoo discount integration, odoo purchase customization, odoo vendor bill enhancement, odoo discount feature, odoo purchase management, odoo invoice discount tool, all in one discount purchase",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -721,7 +721,7 @@
         "summary": "Vehicle Service & Repair Management App is a complete workshop management solution for auto repair shops, garages, car service centers, and fleet management companies. The app helps you easily manage vehicle repairs, track service work orders, schedule maintenance, assign mechanics, and monitor spare parts inventory in one place. With smart tools like vehicle tracking by plate number, service templates, mechanic Kanban view, automated customer notifications, invoices, and detailed reporting, you can streamline garage operations, improve efficiency, and boost customer satisfaction. Perfect for businesses looking for a modern car workshop management app, garage management system, or auto repair shop software to grow faster and work smarter.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -744,7 +744,7 @@
         "summary": "The Limit Product Sales in POS module for Odoo helps businesses prevent overselling and manage product scarcity by setting maximum purchase quantities per customer. With product-wise or category-wise limits, you can restrict how many units can be sold in each transaction. If the limit is exceeded, the POS system automatically blocks the order and displays a warning message. This ensures fair distribution, better inventory control, and compliance with sales policies directly within your POS system. This module is especially useful for managing scarce items, promotional products, and regulated goods where strict purchase limits are required. Whenever a cashier tries to sell more than the configured limit, the system automatically validates the order and prevents it from being confirmed, displaying a clear warning message on the POS screen. By applying these restrictions, businesses can maintain better inventory management, ensure fair distribution of high-demand items, and avoid compliance issues related to overselling. With this feature, you can easily define maximum sales quantities per product or product category, ensuring that no customer can purchase more than the allowed amount during a transaction. Odoo POS product quantity limit, Odoo POS sales restriction, Odoo Point of Sale limit product sales, Odoo POS prevent overselling, Odoo POS purchase quantity control, Odoo POS product sales limit module, Odoo POS maximum product limit, Odoo POS restricted sales, Odoo Point of Sale inventory control, Odoo POS product sale restriction tool, Limit purchases in Odoo POS, Odoo POS transaction validation, Odoo POS order restriction, Odoo POS sales limit, Odoo Point of Sale product restriction, Odoo POS product sales control, Odoo POS quantity validation",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -767,7 +767,7 @@
         "summary": "Dynamic Registration Fields Custom User Signup for Odoo Website lets you create a fully customizable user registration form without writing a single line of code. With this module, Odoo admins can easily add custom signup fields such as text inputs, dropdowns, checkboxes, dates, and more all from the backend.\n\nIt\u2019s perfect for collecting additional user details during registration, whether you're running a B2B portal, membership site, or online store. The added fields are seamlessly integrated into the website signup page and user records.\nMake your user onboarding smarter, more personalized, and aligned with your business needs \u2014 directly on your Odoo website.Dynamic Registration Fields, Odoo custom registration fields, Odoo website signup customization, Odoo dynamic user registration, Odoo custom signup form, Odoo website registration module, Odoo user registration extension, Odoo registration form builder, Odoo website user onboarding, Odoo custom fields on signup, Odoo website user form customization, Odoo B2B registration form, Odoo partner onboarding customization, Odoo extended signup fields, Personalized user registration Odoo, Odoo membership registration form, Flexible registration form Odoo, Collect user data in Odoo, Odoo customer registration extension, No-code form builder for Odoo, Easy registration form Odoo, Odoo signup customization module, Website user form Odoo, Advanced registration for Odoo, Odoo form builder for website",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -790,7 +790,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -813,7 +813,7 @@
         "summary": "The Pixel is a user-friendly application that enables businesses to customize their ERP system    without requiring extensive programming knowledge. It provides a drag-and-drop interface, allowing users to create and modify fields and views, adjust workflows, and tailor functionalities to suit their specific business    needs. With Pixel, users can add custom fields, edit field properties, and hide fields from views,    streamlining data management and automation without the need for complex coding. Additionally, it provides    control over view access permissions, allowing users to modify create, edit, delete, and duplicate settings for    records, ensuring precise control over data accessibility. By offering flexibility and ease of customization,    Pixel empowers users to personalise their ERP experience efficiently and effectively, custom field.Pixel , pixel , Pixel community, pixel for community , field customisation, edit field, Odoo field creation, field editing, field add, add field, create field, custom field, extra field,  no code odoo customization, odoo community pixel, custom fields without code, drag and drop odoo, modify views odoo, odoo access control, no code erp, customize odoo interface, Pixel alternative, field creation odoo, hide fields odoo, manage field permissions odoo, odoo customization tool, Pixel app, Odoo view editor, Odoo drag and drop customization, Odoo no code customization, Odoo custom field creator, Odoo dashboard editor, access control plugin, create custom fields without coding, UI customization, interface editor, ERP customization, access rights control, dashboard customization, module development, Customize Odoo without coding, Drag and drop Odoo editor,\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -836,7 +836,7 @@
         "summary": "eCommerce Product Search by Synonyms makes product discovery faster and smarter by connecting related words to items in the catalog. When synonyms are added by the admin, search results become more flexible, ensuring that different terms still lead to the right products. This eliminates the problem of missed results when shoppers use varied keywords. With accurate synonym mapping, the catalog stays more accessible and easy to browse. Products appear under multiple relevant search terms, giving better visibility across the store. A smoother search experience keeps visitors engaged and helps them find what they are looking for with ease. By improving keyword coverage, this feature enhances user satisfaction and supports higher conversions. It is a simple yet powerful way to create a smarter product search system for any eCommerce platform. eCommerce product search, product search synonyms, synonym-based search, advanced product search, smart product search, improved product discovery, product search optimization, product search enhancement, synonym mapping for products, flexible product search, accurate product results, intelligent product search, synonym search functionality, better product visibility, keyword-based product search ,multiple keyword product search, enhanced shopping experience, advanced search filter, product search tool, product search feature, optimized eCommerce search, synonym search integration, product catalog search smart search for eCommerce, keyword coverage in search, powerful product discovery, admin-managed synonyms product findability, catalog search optimization, synonym-based catalog browsing, boost product search results, eCommerce search improvement, higher product conversions, user-friendly product search, multi-term product search",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -859,7 +859,7 @@
         "summary": "Contract contract management contract approval approval contract sales contract purchase contract vendor contract customer contract service contract supplier contract project contract contract workflow approval workflow approval process approval rules approval team multi-level approval contract validation contract creation contract renewal contract expiration contract closure automated contract recurring contract contract lifecycle contract invoice create invoice from contract billing automation vendor bill invoice approval workflow automation contract settings contract visibility role-based access access rights audit log compliance tracking document management contract tracking contract templates multi-company contract multi-currency contract team-based approval approval stages workflow configuration secure contract management contract operations Contract Management software helps businesses streamline the entire contract lifecycle with smart approval workflows, automated invoices, and renewal tracking. Easily create, validate, and approve contracts with unlimited approval steps, organize by teams, and ensure compliance with audit-ready logs. Use contract templates to generate customer invoices or vendor bills, while automated expiration alerts, renewals, and closure features improve efficiency. With full support for multi-company and multi-currency environments, this solution delivers powerful workflow automation, visibility controls, and secure role-based access for faster, more accurate, and easier contracts management.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     }
 ]

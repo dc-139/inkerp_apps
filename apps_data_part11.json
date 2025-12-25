@@ -20,7 +20,7 @@
         "summary": "Streamline journal entry management with batch cancellation and drafting., Cancel Multiple Journal Entries Odoo, Draft Journal Entries in Bulk Odoo, Batch Reposting of Draft Entries Odoo, Journal Entry Management Odoo, Efficient Accounting Processes Odoo, Multi-Posted Journal Actions Odoo, Journal Entry Revert to Draft Odoo, Cancel and Draft Accounting Entries Odoo, Simplify Journal Entry Workflow Odoo, Batch Accounting Entry Management Odoo, Journal Entry Status Update Odoo, Bulk Journal Entry Workflow Odoo, Advanced Journal Entry Features Odoo, Post Draft Entries Odoo, Cancel Accounting Entries Odoo, Draft-to-Posted Conversion Odoo, Flexible Journal Entry Processing Odoo.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -45,7 +45,7 @@
         "summary": "change vendor, update vendor, modify vendor, purchase order vendor, purchase order fix, edit purchase order vendor, purchase vendor change, validated PO vendor edit, odoo vendor correction, update confirmed purchase, odoo vendor update, purchase fix tool, vendor replace app, odoo po vendor update, supplier correction, vendor mistake fix, odoo purchase update, supplier change, correct vendor odoo, change supplier odoo, change purchase vendor odoo, purchase management, vendor mistake, edit supplier odoo, odoo confirm purchase order edit, odoo supplier tool, odoo procurement fix, wrong vendor correction, supplier replacement, odoo purchase vendor issue, update vendor in PO, fix validated order, vendor patch odoo, vendor editor app, po update module, editable vendor odoo, odoo fix vendor error, odoo change vendor after confirm, editable supplier field, correct supplier on po, vendor repair tool, purchase admin tools, odoo fix data entry, procurement vendor fix, change supplier after approval, odoo purchase vendor edit tool, editable vendor post validation, purchase vendor switch, odoo confirmed order update, po vendor modification, odoo supplier field editable, correct purchase supplier, mistake vendor odoo, update approved purchase, change supplier after PO, odoo po vendor field, vendor override, wrong supplier fix, vendor amendment tool, po vendor field change, odoo vendor history log, procurement clean-up, odoo admin purchase tool, odoo confirm po vendor, fix vendor post-confirm, odoo vendor control module, smart vendor change, purchase document vendor update\n\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -69,7 +69,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -92,7 +92,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -116,7 +116,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -140,7 +140,7 @@
         "summary": "create task from lead, crm to project, crm lead task, lead to task odoo, crm project integration, crm task automation, crm to-do, crm task management, convert lead to task, crm linked task, crm task creation, task from crm, crm action item, crm task planning, crm execution task, crm lead action, crm workflow to project, odoo crm task, crm lead integration, sales to project task, crm task tracking, crm to task mapping, crm operational link, lead follow-up task, lead to project, odoo task crm link, task assignment crm, auto task crm, crm lead tracker, crm automation, crm task tools, crm team task, crm work assignment, task creation automation, crm to project flow, crm project workflow, sales task crm, crm to project task, crm activities to project, odoo crm enhancement, crm sales to task, crm lead handler, crm task assign, crm lead execution, crm action tracking, lead task assignment, crm action point, crm convert to task, odoo lead task, crm lead followup, sales process task, crm quick task, odoo sales to project, lead activity tracker, lead progress crm, crm to project module, lead-to-project automation, crm ops integration, crm project coordination, crm process flow, crm project sync, task generator from crm, odoo crm task link",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -163,7 +163,7 @@
         "summary": "crm lead lifetime, lead duration, crm timing, lead lifecycle, lead analytics, crm time tracking, lead time to close, lead lifetime report, odoo crm timer, crm efficiency, sales duration, crm response time, crm performance tool, crm speed, lead closing time, lead timing analysis, crm insight tool, crm reporting, crm metrics, lead tracking odoo, crm lead timeline, sales pipeline duration, crm workflow monitor, odoo crm insights, lead to deal time, sales lead monitoring, lead tracking module, time to conversion, crm lifetime stats, odoo crm report, crm deal duration, crm sales efficiency, crm lifetime analytics, sales team tracking, time based lead filter, odoo crm duration, crm lead data, crm average time, lead timing dashboard, crm improvement tools, crm benchmark, sales time to close, crm lifecycle report, crm lifetime chart, lead conversion timeline, crm automation, crm slow leads, odoo crm tracking, crm process time, lead behavior tool, crm decision tool, crm close time tool, odoo deal timeline, crm lead efficiency, lead flow tracking, time audit crm, crm daily duration, crm lag time, crm sales speed, crm aging report, odoo crm timing, crm lag tracking, lead metrics odoo, crm stages tracker, crm progress tracker, crm lead tracker, crm monitor tool, crm conversion clock, crm deal tracker,CRM Stage Change History\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -187,7 +187,7 @@
         "summary": "custom fields in MRP, Odoo MRP customization, manufacturing order extra fields, add fields to MO, custom BoM fields, BoM extension Odoo, work order custom fields, dynamic MRP fields, custom field manufacturing module, technical data in MRP, user-defined fields in MRP, MRP notes field, manufacturing instructions field, extend manufacturing forms, MRP custom attributes, configurable fields in MO, Odoo production customization, tailor work orders Odoo, Odoo BoM enhancement, manufacturing form extension, flexible MRP setup, extra fields in manufacturing, Odoo MRP flexibility, custom data in MRP records, personalize manufacturing module",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -211,7 +211,7 @@
         "summary": "custom fields in partner, Odoo partner customization, add fields to customer, add fields to vendor, contact custom fields, partner model extension Odoo, dynamic partner fields, editable partner fields, user-defined fields in partner, extend contact form Odoo, custom attributes in partner, customer profile enhancement, vendor information extension, partner data customization, flexible partner form Odoo, Odoo contact extra fields, CRM partner extension, partner info management, custom contact fields, custom partner metadata, partner view enhancement, personalize partner form, partner master customization, Odoo customer vendor extension",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -235,7 +235,7 @@
         "summary": "custom fields in project, Odoo project customization, add fields to project, project form extension, dynamic project fields Odoo, editable project fields, project metadata fields, custom attributes in project, user-defined fields project, extend project model Odoo, project view enhancement, project information customization, custom data in project, project form builder Odoo, project-specific details, Odoo project module extension, flexible project fields, tailor project records, advanced project tracking, project master customization, personalized project form, Odoo project configuration, extra fields in project module, project form layout control",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -259,7 +259,7 @@
         "summary": "custom fields in task, Odoo task customization, task extra fields, project task extension, add fields to task, task form customization Odoo, dynamic task fields, task metadata Odoo, user-defined fields in tasks, project task form fields, customize task form, extend task details, custom attributes in tasks, Odoo project task enhancement, task notes field, additional task info Odoo, project management customization, flexible task tracking, personalize task workflow, Odoo task data extension, task field manager, advanced task configuration, custom fields for team tasks, project customization module, tailor task information",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -283,7 +283,7 @@
         "summary": "custom fields in users, Odoo user customization, add fields to users, user model extension Odoo, dynamic user fields, user profile customization, extend user form Odoo, editable user fields, user metadata Odoo, user-defined fields in users, user configuration extension, custom attributes in user, personalize user form, extra fields in user record, user role notes, internal user data fields, manage user info Odoo, custom user data, flexible user management, user view customization, Odoo user profile enhancement, additional fields for users, user tag field, user preferences field, admin user info extension",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -307,7 +307,7 @@
         "summary": "custom fields in account, Odoo accounting customization, add fields to invoice, custom fields in bills, dynamic accounting fields, custom journal entry fields, extend account model Odoo, editable fields in invoices, user-defined fields in accounting, additional fields in invoice, personalize accounting forms, invoice extra fields Odoo, accounting metadata extension, accounting data flexibility, tailor journal entries, invoice tagging system, finance module customization, Odoo account field editor, custom payment terms field, approval reference field, custom attributes accounting, Odoo invoice form customization, add fields to financial records, flexible accounting forms Odoo",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -331,7 +331,7 @@
         "summary": "custom fields in employee, Odoo employee customization, add fields to employee, employee model extension, HR custom fields, dynamic fields in employee form, employee data customization, editable employee fields, extra fields in HR module, extend employee profile Odoo, HRIS flexibility, employee personal details, user-defined fields employee, customize employee view, HR record extension Odoo, custom employee attributes, flexible employee management, emergency contact field, employee code field Odoo, Odoo HR form customization, tailor employee form, additional employee info, HR data capture, employee metadata Odoo",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -355,7 +355,7 @@
         "summary": "CRM Custom Fields CRM Dynamic Field CRM New Field Lead Dynamic Field Opportunity Custom Field Assign Custom Fields Lead Custom Fields Opportunity Dynamic Fields Odoo, Easily add and manage custom fields in Odoo CRM, enabling enhanced lead and pipeline customization. Custom Fields CRM App Odoo, Add Fields to CRM Pipelines, CRM Field Customization, Lead Customization Odoo, CRM Widget Integration, Many2many Fields CRM Odoo, CRM Field Attributes Odoo, Custom Field Placement in CRM.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -379,7 +379,7 @@
         "summary": "Add PO New Field Make RFQ Dynamic Fields Create Purchase Order New Field Assign Custom Fields Update Request For Quotation Custom Field Purchase Order Custom Field Request For Quotation Custom Fields Odoo, Create and manage custom fields in the purchase process with ease, including setting widgets, attributes, and specific field placement. , Custom Fields in Purchase Odoo, Purchase Order Customization Odoo, Add Custom Fields in Purchase Odoo, Custom Field Attributes Odoo, Dynamic Purchase Fields Odoo, Create Fields in RFQ Odoo, Purchase Field Types Odoo, Custom Purchase Fields Odoo, Set Widgets in Purchase Fields Odoo, Purchase Field Positioning Odoo, Tailored Fields for Purchase Orders Odoo, Purchase Field Management Odoo, Many2many Fields in Purchase Odoo, Purchase Customization Features Odoo, Purchase Order Field Configuration Odoo.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -403,7 +403,7 @@
         "summary": "Sale Order Custom Fields Odoo SO Dynamic Field Add Quotation New Field Make SO Dynamic Fields Create Sale Order New Field Assign Custom Fields Update SO Custom Field Edit SO Custom Field Odoo, Create and manage custom fields in the sales process with flexibility to tailor forms and capture additional information for business needs. , Custom Fields in Sale Odoo, Odoo Sale Customization, Add Sale Fields Odoo, Custom Fields Sale Odoo, Sale Field Attributes Odoo, Odoo Sale Widgets, Dynamic Sale Fields Odoo, Create Fields in Sale Odoo, Sale Management Odoo, Sale Field Types Odoo, Sale Customization Odoo.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -427,7 +427,7 @@
         "summary": "Easily create and manage custom fields in the Odoo Stock module, with options for field types, attributes, widgets, and specific placement to enhance inventory management. Custom Fields Stock App Odoo, Add Fields to Inventory Odoo, Stock Field Customization, Odoo Inventory Custom Fields, Stock Widget Integration, Many2many Fields Stock Odoo, Inventory Field Attributes Odoo, Custom Field Placement Odoo Inventory.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -451,7 +451,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -475,7 +475,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -499,7 +499,7 @@
         "summary": "employee advance expense, employee advance request, employee advance payment, staff advance expense, staff advance request, staff advance payment, worker advance request, worker advance expense, worker advance payment, advance expense tracking, advance expense approval, advance payment approval, advance payment tracking, employee advance settlement, staff advance settlement, worker advance settlement, employee expense settlement, staff expense settlement, worker expense settlement, manage employee advances, track employee advances, monitor employee advance payments, company advance expense, corporate advance expense, payroll advance expense, HR advance expense, HR advance payment, HR expense settlement, advance fund request, advance cash request, cash advance tracking, cash advance settlement, petty cash advance, advance expense report, advance payment report, expense with advance link, advance payment record, employee advance control, manage staff advances, staff advance payment record, employee finance tracking, advance payment reconciliation.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -524,7 +524,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -548,7 +548,7 @@
         "summary": "employee expense limit, odoo expense restriction, expense cap per employee, odoo employee budget control, maximum expense limit odoo, restrict expense amount, odoo employee claim limit, odoo expense submission control, expense type limit odoo, department-wise expense limit, expense approval policy odoo, odoo restrict overspending, odoo expense cap per role, job position expense rules, monthly expense limit odoo, odoo travel expense cap, block over limit expense odoo, odoo warn expense over limit, real-time expense validation odoo, odoo employee finance policy, odoo employee spending limit, expense rule engine odoo, odoo employee claim max value, odoo restrict expense value, expense threshold odoo, dynamic expense control odoo, odoo per category expense limit, odoo warning expense limit, odoo budget control employee, finance policy tool odoo, employee expense blocker, odoo manager approval expense, odoo expense override rule, limit reimbursement odoo, expense policy automation odoo, odoo expense limits per category, restrict expenses by department, odoo custom expense rule, restrict expense by user odoo, odoo role based expense rules, configurable expense cap, odoo monthly expense reset, approval rule for large expense, odoo smart expense control, expense over limit rejection odoo, odoo reimbursement rules, prevent fraud expense odoo\n",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -575,7 +575,7 @@
         "summary": "employee monthly attendance report, monthly attendance report xls, monthly attendance report excel, attendance report excel export, employee attendance tracking, staff monthly attendance, worker monthly attendance, employee attendance sheet, attendance sheet excel, attendance data export, monthly attendance summary, monthly attendance excel format, HR monthly attendance report, HR attendance tracking, HR attendance excel, attendance report for employees, attendance analysis excel, attendance monitoring excel, attendance sheet for HR, late check-in report excel, leave report excel, absence report excel, attendance record excel, attendance pattern report, attendance management excel, attendance register excel, company attendance sheet, attendance reporting tool, attendance export tool, employee time report excel, work attendance report excel, monthly work attendance excel, staff attendance report excel, employee presence report, HR presence tracking, monthly timesheet excel, monthly check-in report, monthly work hours report, employee work record excel, attendance report generation, attendance reporting automation, download attendance report excel.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -599,7 +599,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -621,7 +621,7 @@
         "summary": "overtime, hr overtime, hr overtime odoo, hr overtime management, employee overtime, overtime approval, staff overtime, work overtime, odoo overtime, employee overtime request, overtime request app, overtime manager, hr overtime tracker, hr overtime approval, overtime application, overtime workflow, overtime schedule, overtime hours, overtime reports, track overtime, overtime control, overtime portal, extra working hours, overtime module, odoo overtime request, odoo hr extension, overtime recordkeeping, overtime calendar, overtime log, timesheet overtime, work hour extension, odoo hr overtime app, employee hours tracking, team overtime, hr overtime control, auto overtime calculation, overtime payroll, overtime rules odoo, weekend overtime, night shift overtime, holiday overtime, hr overtime policy, odoo hr overtime rules, work hours management, employee time extension, overtime on holidays, hr overtime form, hr overtime structure, hr attendance extension, department-wise overtime, employee timesheet overtime, overtime entry, working hour extension, overtime submission, hr overtime interface, odoo overtime dashboard, hr overtime customization, hr app extension, attendance with overtime, overtime balance, overtime analytics, odoo employee overtime, advanced overtime tracking, employee workload tracking, extra duty hours, monthly overtime tracking, shift-based overtime, flexible overtime rules, dynamic overtime approvals, department overtime summary, overtime limits, odoo hr automation, overtime rejection reason, employee overtime alerts, email notifications for overtime, timesheet extended, hr overtime module, working hours approval, late hour tracking, automated overtime, manual overtime entry, hr overtime enhancements, odoo hr overtime tracker, branch-wise overtime, hr overtime multi-user, odoo 16 overtime, odoo 17 overtime, odoo enterprise hr overtime, hr overtime planning",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -644,7 +644,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -668,7 +668,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -692,7 +692,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -716,7 +716,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -741,7 +741,7 @@
         "summary": "This app will predict future requirement of stock quantity in advance based on past sold stock quantity.  stock report , advance report , advance stock report , ai inventory , ai stock , Advance Reordering , Purchase Reorder , Inventory Management , Stock Planner , Inventory Scheduler , Supply Forecasting , Stock Optimization , Inventory Planning Tool , Demand Forecasting , Inventory Forecasting , Stock Control , Inventory StrategyIt helps to manage customer demand with the right level of inventory by placing Purchase Order or replenishing inventories using inter company or inter warehouse , inventory management technique , inventory coverage ratio , Advance reorder , order points , reordering rule , advance purchase ordering , sales forecast , inter company transfer , inter warehouse transfer , stock replenishment , demand , inventory , advance inventory , out of stock , over stock , order point , supply chain management , accurate inventory ",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -765,7 +765,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -788,7 +788,7 @@
         "summary": "Generate detailed inventory valuation reports in Excel and PDF formats to track quantities and values of products. , Odoo Inventory Valuation Report, Inventory Valuation Excel PDF Odoo, Track Inventory Valuation Odoo, Odoo Inventory Report by Category, Inventory Valuation Multi-Warehouse Odoo, Odoo Product Valuation Report, Inventory Valuation Costing Methods Odoo, Sales and Purchases Inventory Report Odoo, Internal Movements Inventory Valuation Odoo, Inventory Valuation Report with Adjustments Odoo, Ending Stock Inventory Report Odoo, Odoo Inventory Tracking by Category, Excel PDF Inventory Valuation Report Odoo, Odoo Report Group by Category, Odoo Warehouse Inventory Valuation, Filter and Group Inventory Report Odoo, Odoo Valuation Report Features.\ninventory valuation report odoo, stock valuation odoo, warehouse valuation report, product cost report odoo, inventory accounting integration odoo, stock report with value, odoo inventory cost analysis, inventory value calculation odoo, stock balance sheet odoo, inventory financial report odoo, product valuation report odoo, warehouse cost analysis odoo, inventory report by product category, odoo stock accounting, inventory ledger odoo, inventory audit report odoo, real-time stock valuation odoo, inventory report export odoo, odoo inventory financial management, stock accounting transparency odoo.",
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -812,7 +812,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -837,7 +837,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -864,7 +864,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -888,7 +888,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -914,7 +914,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -939,7 +939,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -963,7 +963,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     },
     {
@@ -988,7 +988,7 @@
         "summary": false,
         "offer_date": "",
         "odoo_type": [],
-        "live_test_url": false,
+        "live_test_url": "",
         "is_enterprise": false
     }
 ]
