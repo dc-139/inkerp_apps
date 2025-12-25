@@ -19,7 +19,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS to Purchase",
@@ -41,7 +43,9 @@
         "description": "This app allows POS users to directly create a purchase order from the Point of Sale interface in Odoo. It simplifies stock replenishment by enabling on-the-spot purchasing decisions based on customer demand, low stock alerts, or out-of-stock items.",
         "summary": "point of sale purchase order, pos to purchase order, pos po generation, odoo pos create purchase order, purchase order from pos, auto purchase from pos, generate po from point of sale, pos based procurement, real time pos purchase order, create po from pos interface, pos to po odoo, po request from pos, purchase order link to pos, pos order stock replenish, odoo purchase from pos, purchase order suggestion pos, vendor order from pos, restock from pos, stock out po from pos, odoo point of sale purchase, buy from pos, po button in pos, vendor purchase pos, smart pos po, odoo shop po generator, pos inventory order, direct purchase from sale, quick purchase from pos, instant po from pos, odoo procurement from pos, purchase request pos, po creation interface pos, stock control pos po, pos to purchase module, pos vendor order app, odoo module po from pos, shop to purchase order, quick replenish pos, create restock po pos, customer demand purchase, odoo auto buy pos, low inventory pos order, purchase order shortcut pos, smart restock pos, realtime po pos odoo, out of stock solution pos, odoo sales to purchase, shop assistant po trigger, cashier creates po, pos po automation, vendor po request pos, draft purchase order from pos, create vendor order pos, odoo point sale procurement, po creation sale screen, odoo stock link pos, shop linked purchase order, sales linked procurement pos, pos purchasing workflow, smart pos supply order\n\n",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Create Product",
@@ -62,7 +66,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Complimentary Product",
@@ -87,7 +93,9 @@
         "description": "This module enhances Point of Sale by enabling automatic addition of complimentary products to orders. It simplifies promotional offers by linking free items with selected products, reducing manual effort at checkout.",
         "summary": "The POS Complimentary Products module enhances Odoo\u2019s Point of Sale by automating promotional offers with complimentary (free) items. Instead of relying on cashiers to manually add free products during checkout, the app automatically applies them whenever the defined rules are met. With flexible configuration options, businesses can enable the feature in POS settings and assign complimentary products directly from the product form. Quantity thresholds and offer limits provide greater control, making promotions like \u201cBuy 5, Get 1 Free\u201d simple to manage. Complimentary products are clearly displayed in POS order lines and on printed receipts, ensuring full visibility and transparency for customers. This automation not only improves the customer experience but also saves cashier time, reduces errors, and guarantees consistent application of promotional campaigns. The module is ideal for retailers, supermarkets, and restaurants looking to run Odoo POS promotions such as free products, loyalty offers, or buy-one-get-one deals. By automating promotional items in POS, businesses can boost sales, strengthen customer loyalty, and simplify their marketing efforts. Odoo POS complimentary products, Odoo POS free product module, Buy one get one free Odoo POS, Odoo POS promotional products, Auto add free product in Odoo POS, Odoo POS marketing promotions, Odoo Point of Sale gift product, Free item in POS order Odoo, Odoo POS receipt with complimentary items, Odoo POS loyalty offers, Odoo POS discount and free items, Odoo retail POS promotions, Odoo POS free sample product, Odoo supermarket POS promotions, Odoo POS upsell and cross-sell, Odoo POS bonus product feature, Odoo POS customer rewards, Promotional offers in Odoo POS, Odoo Point of Sale sales booster",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Cancel Order History",
@@ -113,7 +121,9 @@
         "description": "Enhance your Odoo Point of Sale with the ability to cancel orders by providing a reason. Keep a detailed history of all canceled orders for better tracking, accountability, and manager control.",
         "summary": "Enhance your Odoo Point of Sale with a smart cancellation workflow. This module allows cashiers to cancel orders only by providing a valid reason, ensuring every cancellation is properly documented. A dedicated history menu gives managers full visibility into canceled orders, including details such as who canceled, when, and why. With this added control, businesses can improve accountability, reduce errors, and maintain a transparent POS environment. The POS Cancel Order History module for Odoo 18 solves this problem by introducing a smart and transparent workflow for order cancellations in the Point of Sale system. Whenever a cashier cancels an order, the system prompts them to enter a cancellation reason through a popup window. This ensures that every cancellation is properly documented. A dedicated Cancel Order History menu allows managers and administrators to view all canceled orders in one place. From this menu, you can quickly access details such as the order reference, the responsible user, the cancellation reason, and the exact date and time of cancellation. This functionality brings much-needed accountability and operational control to your POS operations. odoo pos cancel order, pos cancel order history, odoo pos order cancellation, pos order cancel reason, cancel pos order with reason, odoo pos cancel order, odoo pos canceled orders tracking, pos order history log, pos cancel order audit trail, odoo pos order reversal, track canceled pos orders, pos order cancellation report, odoo point of sale cancel order, pos cancel order manager, odoo pos control and tracking, odoo pos cancel order extension, odoo pos management module, ,cancel order history, cancel history module, history of cancel order",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Auto Discount",
@@ -139,7 +149,9 @@
         "description": "This App will auto apply already configured product discount in POS cart for user convenient and faster process.",
         "summary": "The EG POS Auto Discount module for Odoo automatically applies pre-configured product discounts in the POS cart. This saves time for cashiers, ensures consistent pricing, and speeds up the checkout process, providing a smoother and more convenient experience for both staff and customers. Make discounts effortless with the POS Auto Discount Module for Odoo. This smart extension automatically applies pre-configured product discounts directly in the POS cart, eliminating the need for manual input by cashiers. Customers instantly see their savings at checkout, creating a transparent, rewarding, and smooth shopping experience. Designed for promotions, seasonal sales, or loyalty programs, the module ensures that discounts are consistently and correctly applied, reducing errors and saving valuable time during high-volume transactions. By automating discount management, it enhances cashier efficiency, checkout speed, and customer satisfaction. Seamlessly integrated with Odoo\u2019s POS workflow, this module provides a user-friendly, automated discount solution for any business running regular promotions. Auto-apply discounts on eligible products in POS, Show instant savings directly in the POS cart, Eliminate manual discount entry for cashiers, Ideal for promotions, seasonal offers, and loyalty discounts, Reduce errors and ensure consistent discount application, Fully integrated with Odoo POS for smooth operations, Odoo POS auto discount, Auto apply discount in Odoo POS, POS cart discount automation, Odoo POS product discount auto apply, Faster checkout Odoo POS, User-friendly POS discount module, Quick checkout discount Odoo, Automated discount in Odoo POS, Odoo POS promotion discount, Odoo POS auto discount, Automatic discount in POS cart, Odoo POS discount automation, Pre-configured product discount Odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Amount to Word",
@@ -165,7 +177,9 @@
         "description": "This will show amount in word and amount in digit in receipt for customer and user convenient.",
         "summary": "This will show amount in word and amount in digit in receipt for customer and user convenient.,Amount in Words and Numbers,Dual Format Billing,Receipt with Amount in Words,Numeric and Text Value Display,Customer-Friendly Receipt Format,Readable Invoicing,Digit and Word Amount Display,User-Friendly Invoice Design,Invoice Total in Words and Figures,Detailed Receipt for Transparency,Receipt Format for Easy Understanding,Bilingual Price Display (Figures + Text). The EG POS Amount to Word module for Odoo is designed to enhance the point of sale (POS) experience by displaying amounts in both numeric and textual formats on customer receipts. This feature provides improved clarity and transparency, making invoices and receipts more user-friendly for both customers and internal users. It caters to businesses that want to improve customer satisfaction by ensuring that amounts are displayed in a dual format, helping avoid misunderstandings. By using this module, businesses can offer dual-format billing, where the total amount due is shown in both digits and words, which is particularly useful in regions where legal or formal documents require amounts to be written in words for verification purposes. This readable invoicing system promotes clearer communication and makes the receipt much easier to understand, particularly for customers who may not be familiar with complex numeric figures. EG POS Amount to Word, Dual Format Billing for Receipts, Amount in Words and Digits Odoo, Customer-Friendly Receipt Odoo, Clear Transaction Receipts, Amount in Text and Figures Odoo, POS Amount in Words Module, Odoo POS Receipt Customization, Odoo Receipt with Amount in Words, Invoice Total in Words and Figures, User-Friendly Invoice Design Odoo, POS Amount to Word Integration, Transparent Customer Billing, Odoo POS Detailed Receipt, Digital and Textual Invoice Amount Display",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS A4 Ticket",
@@ -187,7 +201,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Discount Limit Manager",
@@ -208,7 +224,9 @@
         "description": "This module enhances Odoo Point of Sale by adding flexible discount control features. It allows managers to configure discount limits at both the product level and order level, ensuring discounts stay within defined business rules.",
         "summary": "This module enhances Odoo Point of Sale by introducing advanced discount control features. It enables managers to configure discount limits at both the product level and order level, ensuring that discounts never exceed defined business rules. By enforcing minimum price thresholds and validating discount eligibility in real time, it helps businesses protect profit margins, prevent misuse by cashiers, and maintain consistent pricing policies. The POS Discount Limitation App for Odoo enhances the standard Point of Sale functionality by introducing advanced discount control mechanisms. This app is designed for businesses that want to allow discounts but still need to protect profit margins, enforce pricing rules, and prevent misuse of discounts by cashiers. With this module, managers can configure both Product Price Discount Limits and Order Price Discount Limits directly from the POS settings. Once configured, these rules are automatically enforced in the POS interface, ensuring discounts are only applied under the right conditions. Odoo POS Discount Limit, Odoo Point of Sale Discount Control, Odoo POS Discount Restriction, Odoo POS Discount Manager, POS Discount Rules Odoo, Odoo POS Price Limit, Secure Discounts in Odoo POS, Protect Profit Margin in POS, Smart POS Discount Manager, Limit Discounts in Retail POS, Safe Discount Control for POS, Odoo POS Pricing Policy Control, Cashier Discount Restriction in Odoo, Odoo POS Product Discount Limit, Odoo POS Order Discount Limit, Prevent Excessive Discounts in POS, Odoo POS Global Discount Control, Odoo POS Line Discount Rules, Odoo POS Discount Validation, Restrict Discounts in Odoo Point of Sale, Odoo POS Discount Approval Rules.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Direct Note",
@@ -234,7 +252,9 @@
         "description": "Add custom notes to products for seamless order management and improved customer service.  Notes appear on orders and receipts, ensuring clear communication and efficient service.",
         "summary": "The Product Notes Integration for Point of Sale app enhances your POS system by allowing users to seamlessly add customizable notes to individual products. These notes are automatically reflected in both the order and the customer receipt, ensuring that essential product details such as special instructions, warnings, or any other important information are always visible to both staff and customers. This easy-to-configure feature streamlines communication between team members, preventing mistakes and ensuring that customers receive the most accurate and complete information about their purchases. The app is designed to improve efficiency in retail and service environments by eliminating the need for manual note entry during transactions, saving valuable time and reducing errors. Whether you're handling special customer requests, offering product-specific warnings, or providing additional details on a product, the app ensures these notes are consistently visible at the point of sale. The automatic inclusion of product notes in receipts ensures customers are also kept in the loop, enhancing their experience with your business. Product Notes, Point of Sale Integration, POS System Features, Product Information, Customizable Notes, Receipt Notes, Product Notes for Point of Sale, POS Product Information Integration, Automatic Product Notes in POS, Customizable Notes for Retail POS, Product Notes in Receipts, POS System Features for Retailers, Product Specific Instructions in POS, POS Integration for Notes, Efficient POS System for Retail, POS Customization for Product Notes, Point of Sale Note Management, Retail POS Notes Feature, Enhance Customer Service POS, POS App for Special Product Instructions, POS Automatic Note Display, POS Receipt Notes Integration, Improve POS Efficiency with Notes, Product Notes for Retail Business, POS App for Product Warnings",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Order Cost Validation",
@@ -255,7 +275,9 @@
         "description": "The POS Order Cost Validation module helps retailers protect profitability by preventing sales below cost price in Odoo Point of Sale system. It automatically checks each product\u2019s selling price against its standard cost and alerts cashiers if a price is set too low. Business owners can configure the app to either warn staff or block such transactions entirely.",
         "summary": "This module prevents sales below cost by alerting cashiers when a selling price is lower than the products standard cost. Ensure accurate pricing, protect your margins, and maintain full control over discounting in your retail operations. The POS Order Cost Validation module for Odoo helps businesses protect their profits by preventing sales below cost price in the Point of Sale system. With this app, cashiers and sales staff will automatically receive a warning whenever they attempt to sell a product at a price lower than its standard cost. By automatically loading product cost prices into the POS session, the module can validate every price input in real time. Business owners can choose whether to simply warn cashiers or block below-cost sales completely. With this safeguard in place, companies can enforce pricing rules, control discount policies, and ensure consistent profitability across all retail operations. Odoo POS validation, Odoo POS cost validation, Odoo POS prevent sales below cost, Odoo POS margin protection, Odoo POS validate selling price, Odoo POS cost price control, Odoo POS pricing rules, Odoo POS discount control, Odoo POS sales validation module, Odoo POS profitability safeguard, Odoo POS addons, Odoo POS cashier validation, Odoo POS business profit protection, Odoo POS prevent below cost sales, Odoo POS profit protection, Odoo POS avoid loss in sales, Odoo POS sales profitability, Odoo POS margin control module, ",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Cashier Image",
@@ -277,7 +299,9 @@
         "description": "This app will show cashier image in POS screen. So that staff member can easily identify who is working on this session right now.The POS Cashier Image Display module for Odoo enhances your Point of Sale system by showing the cashier\u2019s photo directly on the POS screen. With this feature, staff and managers can instantly identify who is operating the current session, improving accountability and transparency in daily operations.",
         "summary": "POS Cashier Image Display is a smart utility module that shows the logged-in cashier\u2019s photo directly on the POS screen. The POS Cashier Image Display module for Odoo is a smart utility designed to enhance transparency and accountability in your Point of Sale system. With this feature, the logged-in cashier\u2019s photo is displayed directly on the POS screen, allowing managers, team members, and customers to immediately identify who is operating the current session. This visual enhancement helps businesses improve user accountability, staff identification, and session transparency ideal for multi user retail environments, restaurants, and salons using Odoo Point of Sale.Ideal for retail stores, restaurants, cafes, salons, and other multi-user POS environments, this module simplifies staff identification and prevents confusion when multiple cashiers work on the same terminal. By making cashier information visible, businesses can build trust, encourage accountability, and streamline session management. Display the cashier\u2019s photo on the POS screen in real time to promote transparency, improve staff accountability, and make it easier for managers and team members to identify who is operating the session, Odoo POS cashier photo, Show user image in POS screen, Odoo POS staff identification, Cashier image display in POS, Odoo Point of Sale user photo, POS screen user display, POS session staff photo, Staff Identification, Improved Team Management, Odoo POS cashier image, Odoo POS show user photo, POS cashier photo display Odoo, Odoo POS staff identification, Show cashier picture in POS screen, Odoo Point of Sale cashier photo, Odoo POS user image display, Cashier photo in POS session, Odoo POS staff photo display, POS user image in Odoo, Odoo POS cashier profile picture, Display user photo in Odoo POS, POS cashier identity Odoo, Odoo POS multi user cashier image, Display cashier photo on POS screen Odoo, Odoo POS identify cashier by photo, POS session cashier photo Odoo, Odoo POS user profile photo on screen, Show employee photo in Odoo POS, Odoo Point of Sale cashier image, Odoo POS cashier identification system, Odoo POS cashier identification with profile picture, Odoo POS staff identification with images",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Customer Require",
@@ -299,7 +323,9 @@
         "description": "This app will make setting up customer mandatory in Point of Sale so that users can not place orders without choosing or adding customer. Make customer selection mandatory in Odoo POS to ensure accurate order tracking, improve sales analytics, and enhance customer accountability.\t\t\t\t\n",
         "summary": "Ensure accurate customer tracking and smoother transactions with this innovative Point of Sale app. By making customer selection or addition mandatory before placing orders, it enhances accountability, improves order management, and streamlines sales processes. A must-have for retail businesses aiming for operational precision and better customer service. By enforcing mandatory customer selection, the app significantly improves the accuracy and consistency of customer data, ensuring that every sale is linked to a valid customer record. This is particularly beneficial for businesses looking to enhance customer relationship management (CRM), refine sales reporting, and comply with legal or tax requirements where identifiable customer information is necessary for invoicing. Retailers and service providers benefit from improved order management, enhanced accountability, and more reliable sales analytics. The module also supports better post-sale support, targeted marketing, and loyalty programs, as all transaction data becomes traceable to individual customers. Additionally, it helps reduce checkout errors, ensuring a smoother and more professional sales process. This module is ideal for industries that rely on detailed customer insights and want to avoid cash-based, anonymous sales. It is an essential tool for businesses seeking to increase operational efficiency, compliance, and customer service quality. Enforces mandatory customer selection before order confirmation, Improves data accuracy and ensures every transaction is customer-linked, Enhances CRM integration for better relationship management, Supports legal/tax compliance by linking invoices to valid customers, Strengthens accountability and prevents anonymous transactions, Enables targeted marketing, loyalty programs, and customer insights, Improves sales reporting and analytics with reliable customer data, Reduces errors during checkout and ensures smoother operations",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Enlarge Image",
@@ -321,7 +347,9 @@
         "description": "Some time due to variants and similar product availability it is hard for the user to choose the exact product. With the help of this app, users can enlarge the product image just by clicking enlarge button near to product image.",
         "summary": "The POS Product Image Enlarge module for Odoo helps users easily identify the right product during checkout. With just a click on the enlarge button next to a product, cashiers and customers can view a bigger product image. This feature is especially useful for products with variants or similar appearances, ensuring accurate selection and a smoother POS experience. Make product selection easier and more accurate in Odoo POS with the POS Product Image Enlarge module. This user-friendly extension allows cashiers and customers to instantly enlarge product images with a simple click on the enlarge button displayed next to each product. Perfect for businesses dealing with multiple product variants or similar-looking items, this feature improves product visibility, reduces selection errors, and speeds up checkout. Whether in retail stores, supermarkets, restaurants, or fashion boutiques, the module enhances the overall POS experience for both staff and customers. By providing a clear, zoomed-in product view, the module ensures accurate product identification, minimizes mistakes during checkout, and boosts customer satisfaction. Enlarge product images in POS with a single click, Quickly identify variants or similar-looking products, Speed up the product selection process, Improve customer experience and cashier efficiency, Odoo POS enlarge image, Odoo POS product image zoom, Odoo point of sale image enlarge module, Odoo POS product visibility, Enlarge product photo in Odoo POS, Odoo POS product selection module, Odoo POS product image magnifier, Odoo POS image zoom for retail, Odoo POS image enlarge app, Odoo POS variants product image zoom, product image zoom Odoo, Odoo POS image zoom module, Odoo POS product clarity, POS product image popup, Odoo marketplace POS product zoom.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Return Valid Days for POS",
@@ -342,7 +370,9 @@
         "description": "Enhance customer clarity and reduce return disputes with automatic return validity display on POS Orderline and Receipts.",
         "summary": "Enhance customer clarity and minimize disputes with the POS Return Validity module for Odoo. This smart extension automatically displays return validity information on both POS order lines and printed receipts, ensuring customers are always aware of return policies at the time of purchase. By clearly indicating which products are returnable and their respective return days, this module improves transparency, reduces return disputes, and builds stronger customer trust. It\u2019s especially valuable for businesses handling non-returnable products or applying different return policies per item. Seamlessly integrated with Odoo\u2019s Point of Sale, the module helps cashiers communicate return rules effectively, improves post-sale operations, and ensures policy compliance. Display return validity days per product directly in POS order lines, Automatically print return validity on POS receipts, Differentiate between returnable and non-returnable products, Support customized return policies for each item, \nEnsure clear communication of return policies at checkout, Fully integrated into Odoo Point of Sale workflow, Odoo POS return policy module, Odoo POS return validity display, Return days on POS receipt Odoo, Odoo POS return validation, POS product return control Odoo, Odoo POS non-returnable products, Odoo POS return valid days, Print return days per product in Odoo POS, POS return receipt module Odoo, Odoo POS product return rules, Odoo POS return and refund clarity, Manage returnable and non-returnable items Odoo POS, Odoo POS print return days, POS order line return info, Odoo POS return management, POS return policy automation Odoo, Odoo POS receipt transparency, Retail return management POS",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Report",
@@ -368,7 +398,9 @@
         "description": false,
         "summary": "Sale Order Report, Sales Order PDF, Sales Order XLS, Export Sales Orders, Sale Order Print, Sales Order Document, Customer Sale Order Report, Sales Order Export Tool, Generate Sale Order PDF, Generate Sale Order XLS, Sales Report by Order, Sale Order Excel Export, Sale Order PDF Export, Customer Sales Document, Order Report PDF, Order Report XLS, Sales Order Data Export, Sales Order Printing, Sales Order Management Report, Sales Order Sheet, Sales Order Table, Sales Order Summary Report, Sale Order Details Report, Sales Order Download PDF, Sales Order Download Excel, Order Data Export Tool, Order Report Printing, Sales Data PDF Report, Sales Data Excel Report, Sales Order Listing, Sales Order Records Export, Order PDF Creator, Order XLS Creator, Sales Order Statement, Sales Order Invoice Report, Sale Order File Download, Sales Report XLS PDF, Sales Document Export, Sales Order History Report, Customer Orders PDF, Customer Orders XLS, Sales Order Generator, Sales Records Sheet, Sales Order File Export, Order Summary PDF, Order Summary XLS, Sales Tracking Report, Sales Document Printing, Sales Order Ledger, Sale Order Book, Sales Order Details Sheet, Order Transaction Report.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Extended",
@@ -394,7 +426,9 @@
         "description": "\"Sale Order Extended\" is a powerful Odoo add-on designed to take your sales order management to the next level. It expands the default Sale Order module with additional fields, advanced workflow options, and enhanced tracking capabilities, giving your sales team the tools they need for maximum efficiency.",
         "summary": "sale order extended, Odoo sale order enhancement, sales order customization, advanced sales order, extended sales features, Odoo sales management, sales workflow customization, Odoo CRM sales order, extra sale order fields, improved sales order form, sales order automation, sales order enhancements Odoo, sales process optimization, extended sales dashboard, sales order flexibility, custom sales process, advanced order tracking, Odoo sales productivity, sales order reporting, sales order add-on, Odoo ERP sales extension, order management enhancement, sales order approvals, advanced quotation management, sales order improvements, sales team efficiency tool, sales order control, sales order customization module, Odoo sale extension, customer order management, order lifecycle tracking, sales order item details, sales order analysis, extended sales reporting, sales team productivity, improved sales workflow, sales order integration, advanced Odoo sales tool, sales order print customization, sales process automation, advanced sales forms, sales order enhancement tool, custom sales fields Odoo, Odoo sales form extension.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Status",
@@ -420,7 +454,9 @@
         "description": "Sale Order Status is an Odoo add-on designed to give sales teams, managers, and customers complete visibility into the progress of sales orders. It offers a clear, real-time view of each order\u2019s stage  from initial quotation to delivery and payment  ensuring smoother operations and improved communication.",
         "summary": "Sale Order Status, Sales Order Tracking, Order Status Display, Sales Order Progress, Sales Order Stage, Order Status Update, Sales Order State, Sales Order Workflow, Order Stage Tracker, Sales Order Progress Bar, Sales Order Monitoring, Sales Status Report, Order Status View, Sales Order Current Status, Sales Order Change Log, Sales Status Tracking, Sales Order Flow, Order Stage Progress, Sales Order Dashboard, Order Status Details, Sales Stage Report, Sales Workflow Status, Order Status Timeline, Sales Order Steps, Sales Status Overview, Sales Order Management Status, Order Processing Status, Sales Order Phase, Sales Order Tracker, Order State Change, Sales Status Indicator, Sales Order Status Report, Sales Status Flow, Order Status Display Tool, Sales Process Status, Sales Order Stages, Sales Status Monitoring, Order Status Sheet, Sales Order Summary Status, Sales Status Dashboard, Sales Order Live Status, Order Stage History, Sales Status Log, Sales Stage View, Sales Order Tracking Sheet, Order Processing Progress, Sales Order Change Status, Sales Order Review, Sales Workflow Tracker, Sales Status Panel, Sales Order Update Tool.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Edit Product Bulk",
@@ -446,7 +482,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Barcode",
@@ -472,7 +510,9 @@
         "description": "\"Purchase Barcode\" is a powerful Odoo add-on that brings barcode technology into your purchasing workflow. Instead of manually entering product details in purchase orders, simply scan the product barcode to add it instantly.",
         "summary": "purchase barcode, Odoo purchase barcode, barcode purchase order, scan purchase order Odoo, purchase order barcode scanning, Odoo barcode integration, purchase order automation, vendor barcode scanning, product barcode purchase, Odoo procurement barcode, purchase order barcode management, Odoo barcode purchase workflow, purchase order scanner, barcode enabled purchase orders, Odoo mobile barcode purchase, Odoo purchase extension, supplier barcode, Odoo inventory barcode, fast purchase entry, Odoo ERP barcode, barcode procurement tool, purchase efficiency barcode, Odoo vendor barcode scanning, bulk purchase barcode, purchase barcode labels, product barcode purchase order, Odoo purchase productivity, order scanning tool, Odoo purchase app extension, purchase barcode workflow automation, vendor invoice barcode, purchase order optimization, warehouse barcode purchase, Odoo purchase scanner, product barcode entry, barcode purchase module Odoo, streamline purchase orders, Odoo supplier barcode, real-time barcode scanning purchase.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Barcode",
@@ -498,7 +538,9 @@
         "description": "Sale Barcode is an Odoo add-on that simplifies sales order creation by enabling barcode scanning for products. Instead of manually searching for items in the sales order, sales teams can simply scan product barcodes to add them instantly to quotations or confirmed orders.",
         "summary": "sale barcode, Odoo sales barcode, barcode sales order, sales barcode scanning, Odoo barcode integration, sales order automation, scan sales order Odoo, Odoo sales barcode tool, sales workflow barcode, barcode quotation Odoo, barcode sales management, Odoo barcode sales extension, sales barcode entry, product barcode sales, sales order with barcode, Odoo sales optimization, sales invoice barcode, sales barcode workflow, Odoo ERP barcode sales, barcode-based sales, quick sales barcode, Odoo sales scanner, barcode-driven sales process, quotation barcode, barcode-enabled sales orders, sales POS barcode Odoo, Odoo barcode productivity, fast barcode sales entry, Odoo barcode automation, customer barcode sales, sales barcode tool Odoo, barcode for quotations, Odoo CRM barcode, product sales barcode integration, sales process barcode efficiency, barcode sales add-on Odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Message Base",
@@ -524,6 +566,8 @@
         "description": "Message Base is a centralized messaging management app for Odoo. It allows users to view, organize, and manage all types of internal and external messages (chats, notifications, SMS, etc.) across different modules in one unified interface. It\u2019s designed for teams who need fast communication tracking and improved visibility.",
         "summary": "Post Sms,message base odoo, odoo message app, odoo messaging system, chat manager odoo, centralized messages odoo, chatter tracking odoo, message dashboard odoo, notification center odoo, sms history odoo, odoo message overview, odoo chat viewer, message history odoo, track chatter messages odoo, odoo internal note view, odoo message logs, odoo unified messaging, view odoo sms, chatter note tracking, odoo notification tracker, odoo message management tool, chatter consolidation odoo, multi message view odoo, odoo team messaging, communication tracking odoo, sms message module odoo, chatter grouping odoo, odoo message interface, message hub odoo, all in one message tool odoo, message preview odoo, odoo internal communication, chatter notes odoo, odoo message archive,",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     }
 ]

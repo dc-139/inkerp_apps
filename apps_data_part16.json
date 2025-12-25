@@ -18,7 +18,9 @@
         "description": "Enhance your HR workflow with the Quick Preview Employee app. This module allows users to instantly preview employee records from the Tree and Kanban views with a single click\u2014without navigating away from the current page. Save time and streamline your employee data review process with this fast, convenient popup preview feature.",
         "summary": "employee quick view, employee preview popup, odoo employee preview, quick employee detail, preview employee record, view employee from kanban, view employee from tree, employee kanban quick view, HR record quick preview, fast employee preview, employee detail popup, employee info on click, quick access employee data, instant employee preview, employee preview without page change ",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Quick Preview Product Template",
@@ -40,7 +42,9 @@
         "description": "Enhance your productivity by previewing product details instantly from the tree or kanban view without navigating away from your current screen. This app allows users to view complete product information in a popup with just one click, saving time and improving workflow efficiency.",
         "summary": "One-click product preview from tree and kanban views, Preview in a smart popup without page reload, Works seamlessly in Product and Product Variant views, Clean user-friendly interface, No need to open full product form view,Product Quick View, Product Preview, Odoo Product Popup, Quick Product Details, Tree View Product Preview, Kanban View Product Preview, Product Info Popup, One Click Product View, Fast Product Access, View Product Without Page Reload, Odoo Product View Enhancement, Product Modal View, Smart Product Preview, Quick Access Product Info, Odoo UI Improvement",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Stock Custom Product Labels With Direct Print",
@@ -61,7 +65,9 @@
         "description": "Print custom barcode labels directly from Odoo using our Stock Custom Product Label module. Supports popular formats like A4 (57x35mm) and Dymo (50x38mm).\t",
         "summary": "Easily print custom barcode labels from Odoo with our Stock Custom Product Label module. It supports popular label sizes like A4 (57x35mm) and Dymo (50x38mm) for hassle-free printing.\nOdoo barcode label printing, Custom product labels Odoo, Odoo stock label module, Barcode label generator Odoo, Print labels in Odoo, Odoo Dymo label support, Odoo A4 label printing, Barcode label customization Odoo Odoo barcode label printing, Print barcode labels in Odoo, Odoo product label generator, Custom barcode labels Odoo, Stock product labels Odoo, Odoo inventory label printing, Barcode label module for Odoo, Odoo label printing app, Custom labels for Odoo products, Odoo barcode module, A4 barcode labels Odoo, Dymo label printing Odoo, 57x35mm labels Odoo, 50x38mm barcode labels, Odoo Dymo printer support, Odoo label size configuration, Print Dymo labels Odoo, A4 sheet barcode printing, Odoo label customization, Custom product labels Odoo, Barcode generator Odoo module, Product barcode templates Odoo, Print shelf labels Odoo, Inventory barcode labels Odoo, Easy barcode printing Odoo, Odoo label template editor",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Employee Timesheet Entry Limit",
@@ -83,7 +89,9 @@
         "description": "Employee Timesheet Entry Limit helps organizations maintain accurate and compliant timesheet records by enforcing strict control over employee time entries.  With this app, you can configure the maximum number of working hours allowed per day or week. Employees will not be able to log timesheet entries that exceed these limits, ensuring that all records stay within company policy. Additionally, the app prevents timesheet entries on designated weekly off days, such as weekends or custom holidays.  This ensures time tracking is consistent, fair, and aligned with organizational rules reducing errors, misuse, and manual validations.",
         "summary": "employee timesheet limit, timesheet entry restriction,working hours limit,timesheet control app,daily work hour limit,weekly timesheet cap,Odoo timesheet hours limit,restrict timesheet entry,timesheet compliance.employee working hour control,prevent overtime entries,timesheet automation,time entry validation,employee time tracking rules,block timesheet on weekoff,HR timesheet management,employee attendance app,limit time entry in Odoo,enforce work hour policy,Odoo HR extension",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order & Sale Product Barcode In Report",
@@ -103,7 +111,9 @@
         "description": "The Sale Order & Sale Product Barcode In Report module shows barcodes in various Sales reports like sales order, quotation order, sale pro-forma invoice. It is beneficial for speeding up processes and quickly reading sales orders details using a barcode scanner.",
         "summary": "Sale Order & Sale Product Barcode In Reports,Sale Order & Sale Product Barcode In Report, sale barcode detail , barcodes,barcode detail,sale barcode report module, barcode in sales order report,odoo barcode sales report, barcode in quotation and invoice, customize barcode size odoo, barcode scanner sales report, odoo sales report with barcode, barcode height width setting, barcode in proforma invoice, odoo barcode printing module, sales barcode,odoo barcode, barcode report, barcode invoice, barcode order, barcode size, barcode scanner, odoo sales print, barcode module, barcode config,barcode, barcode in reports, all in one barcode",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Quick Preview Product Variant",
@@ -125,7 +135,9 @@
         "description": "this app helps user to preview Product Variant from tree view. This app enables users to preview Product Variants directly from the tree view. It enhances usability by providing a quick popup preview without navigating away from the main list. Additionally, users can edit Product Variant details directly from the preview popup.",
         "summary": "One-click product preview from tree and kanban views, Preview in a smart popup without page reload, Works seamlessly in Product and Product Variant views, Clean user-friendly interface, No need to open full product form view,Product Quick View, Product Preview, Odoo Product Popup, Quick Product Details, Tree View Product Preview, Kanban View Product Preview, Product Info Popup, One Click Product View, Fast Product Access, View Product Without Page Reload, Odoo Product View Enhancement, Product Modal View, Smart Product Preview, Quick Access Product Info, Odoo UI Improvement",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Display Selected Product To Guest",
@@ -147,7 +159,9 @@
         "description": "This module allows administrators to allow which product will display to guest users and which not.Admin can also perform this by mass update by using this module.\t",
         "summary": "This module enables administrators to control which products are visible to guest users and which are not. Additionally, administrators can apply these settings to multiple products at once using the mass update feature. Product display settings, Guest user product visibility, Mass update feature, eCommerce admin control, Bulk product management, SEO-friendly eCommerce module, Online store optimization, User-specific product display, eCommerce accessibility, Product visibility settings",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase order & Purchase Product Barcode In Report",
@@ -167,7 +181,9 @@
         "description": "The Purchase Order & Purchase Product Barcode In Report module shows barcodes in various Purchase reports like Purchase order and request for quotation. It's beneficial for speeding up processes and quickly reading purchase orders details using a barcode scanner.",
         "summary": "purchase barcode report module,Purchase Product Barcode In Report, barcode in purchase order report, odoo purchase barcode module, barcode in request for quotation, barcode scanner purchase report, odoo barcode in purchase documents, barcode in RFQ report, barcode printing in purchase order, odoo purchase report with barcode, barcode reader for purchase order, purchase barcode, odoo barcode, barcode report, barcode RFQ, barcode PO, barcode scanner, barcode module, odoo purchase print, barcode config, barcode reader,Sale Order & Sale Product Barcode In Report, purchase barcode in report ",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Quick Preview User",
@@ -189,7 +205,9 @@
         "description": "Easily preview user form views directly from the tree  with a single click without reloading the page! The Quick Preview User app enhances your Odoo experience by allowing instant access to user details in a smart popup. Designed for faster navigation and better productivity, this tool ensures a seamless, no-refresh workflow when managing user records.",
         "summary": "quick user preview, preview user form, user form popup, view user without refresh, odoo user preview, user kanban preview, user tree view popup, fast user access, instant user details, quick view user profile, odoo user interface, user info preview, smart popup user, user form shortcut, preview without reload, user quick view, odoo user quick access, form view popup, preview user record, open user form fast, smart view user, one-click user view, user profile popup, user form view shortcut, user details without loading, inline user view, view user record instantly, lightweight user preview, odoo UX enhancement, kanban user info, tree view user details, click to preview user, fast open user form, enhance user view, user record inspector, quick lookup user, user info modal, odoo preview tool, user preview button, popup form opener, no-refresh user form, fast odoo navigation, open user form modal",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Custom Product Label With Direct Print",
@@ -210,7 +228,9 @@
         "description": "This module allows users to print product labels directly from a sales order. Each label includes the product quantity as specified in the order line.",
         "summary": "This module provides users with the ability to print product labels directly from a sales order. When a sales order is created, each product listed in the order comes with a specified quantity. The module ensures that the printed label includes this quantity as recorded in the sales order line. This feature helps streamline inventory management, packaging, and order fulfillment by automatically generating labels that reflect the exact details of the sale.Sales order label printing, Automated product labeling, Sale management labels, Custom product labels, Barcode label generator, Product label printing software, Dynamic label printing, Product identification tags, Fast order labeling, Sales Product Labels",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All in one summary in customer",
@@ -231,7 +251,9 @@
         "description": "This module is useful to show summary information of sales, purchase, invoice, delivery, meeting, a task in a partner",
         "summary": "This module is useful to show summary information of sales, purchase,invoice, delivery, meeting, a task in a partner,partner summary, partner information , all in one partner view ,track partner , All in one summary in partner, customer info, partner detail, customer summary, business overview, sales tracking, purchase management, invoice monitoring, delivery tracking, meeting scheduler, task manager, partner activities, business interaction, unified dashboard, CRM integration, enterprise solutions, workflow automation, business insights, transaction history, client management, vendor tracking, business reporting, deal management, business intelligence,All in one summary in customer.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Stock Picking & Stock Picking Product Barcode In Report",
@@ -251,7 +273,9 @@
         "description": "The Stock Picking & Stock Picking Product Barcode In Report module shows barcodes in various Stock reports like delivery notes and picking tasks. It's beneficial for speeding up processes and quickly reading stock details using a barcode scanner.",
         "summary": "stock picking barcode, barcode in delivery report, barcode on picking slip, barcode module odoo, stock product barcode report, odoo stock barcode app, warehouse barcode scanner, barcode printing delivery note, odoo barcode stock report, improve picking speed, fast barcode inventory, stock report barcode integration, barcode visibility in stock, barcode scan stock report, delivery note barcode, picking task barcode,barcode in report, stock barcode in report, stock barcode, barcode , report barcode , product barcode ,Stock and Stock product barcode in reports, stock product barcode in report, picking product barcode in report",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Product Stock Warehouse/Location Wise",
@@ -272,7 +296,9 @@
         "description": "When a user adds a product to a sale order, this module displays the available stock across all internal locations and warehouses. The goal is to help salling personnel understand existing stock levels before ordering more ensuring smarter restocking and avoiding overstocking or understocking situations.",
         "summary": "Check Product Stock, Check Product Stock Warehouse/Location Wise , Warehouse Wise Stock, Location Wise Stock, Stock in Sale Order Line, Check Product in Sale Order, Stock Information in sale, Stock Information in sale Line,\nStock Detail on sale order, stock detail on sale order, stock information, display Stock in formation, Stock Detail",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Quick Preview Customer",
@@ -293,7 +319,9 @@
         "description": "Enhance your workflow in Odoo with the Quick Preview Customer app. This module allows you to instantly preview customer profiles directly from the Tree and Kanban views without navigating away from your current screen or refreshing the page. Improve productivity with a smart popup view that displays essential customer information at a glance, saving time and clicks.",
         "summary": "odoo crm quick view, customer mini profile, fast customer lookup, preview partner record, odoo partner preview, inline customer viewer, customer hover preview, odoo contact preview, view customer inline, odoo customer card view, quick contact details, instant customer panel, odoo crm efficiency, no redirect customer view, customer data popup, odoo smart contact view, odoo quick info display, contact card popup, odoo user profile preview, customer summary popup,quick customer view, customer preview popup, odoo customer preview, preview customer details, view customer without page reload, customer profile quick view, odoo smart preview, instant customer info, tree view customer popup, kanban view customer preview, odoo customer profile access, quick profile viewer, odoo customer info popup, no refresh customer view, odoo customer quick access\n\n",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Quick Preview Task",
@@ -314,7 +342,9 @@
         "description": "Quick Preview Task is a smart Odoo app that allows users to instantly preview task details from both tree and kanban views\u2014without reloading the page or navigating away. It saves time and enhances productivity by displaying essential task information in a sleek popup, helping project managers and team members stay focused and efficient.",
         "summary": "quick task preview, task popup view, odoo task quick view, preview task without page reload, task kanban popup, task tree view preview, odoo smart task view, task detail popup, instant task preview, project task quick view, task summary view, odoo task viewer, task info popup, view task inline, no redirect task view, odoo task card view, fast task lookup, quick task access, task detail on hover, productivity task preview, odoo project quick view, task mini profile, inline task viewer, odoo task popup module, view task without navigating, task quick panel, odoo agile task view, smart task inspector, odoo task info window, kanban task quick access, quick task review, task detail overlay, compact task viewer, task preview for project, one-click task view, odoo project enhancement, preview task flow, task viewer for teams, project task tooltip, odoo UX task improvement",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Customer Pricelist xls/pdf Report",
@@ -335,7 +365,9 @@
         "description": "Customer Pricelist XLS/PDF Report allows you to generate and export customer-specific pricelists in both Excel (XLS) and PDF formats directly from Odoo. With just a click, sales teams can share up-to-date pricing with customers in a clean, professional format ideal for quotations, catalogs, or pricing transparency. Supports product variants, multiple currencies, and custom templates.",
         "summary": "customer pricelist report, Odoo pricelist export, export pricelist PDF, export pricelist XLS, PDF pricelist for customer, Excel pricelist Odoo, print customer pricelist, pricelist download Odoo, sales pricelist report, generate product price report, product price list export, customer-specific pricing, Odoo report pricelist, custom pricelist template, price sheet PDF, export price list Excel, product pricing catalog, sales product report, pricelist for printing, product rate export Odoo, download pricelist as PDF, export customer price list, pricelist reporting tool, sales team pricelist export, multi-currency pricelist report,Customer Pricelist XLS Report, Customer Pricelist PDF Report, Pricelist Report for Customers, Export Customer Pricelist, Customer Product Pricelist Report, PDF Pricelist Export, XLS Pricelist Export, Customer Price Sheet, Price List Download, Customer Pricelist Document, Pricelist Excel Export, Pricelist PDF Export, Customer Price Data Report, Product Price Report for Customers, Export Product Pricelist, Generate Pricelist PDF, Generate Pricelist XLS, Customer Price Export Tool, Product Price Sheet Report, Customer Price Table, Pricelist Report Export, Product Price Export PDF, Product Price Export XLS, Customer Price Document, Export Customer Price Data, Customer Price List Generator, Product Pricing XLS Report, Product Pricing PDF Report, Price Export Feature, Customer Pricelist Management, Export Pricelist by Customer, Customer Pricing Report, Price List Printing, Pricelist Download PDF, Pricelist Download Excel, Product Price Report XLS PDF, Customer Price Export, Price Sheet XLS PDF Export, Product Pricing List Generator, Customer Pricelist Printing Tool, Price Export XLS PDF, Customer Price Book Report, Product Price Book Export, Pricelist PDF Creator, Pricelist Excel Creator, Customer Price Catalogue, Export Customer Pricing Sheet, Customer Pricelist Exporter, Product Price Listing Report, Price Table XLS PDF.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Multiple Quantity",
@@ -356,7 +388,9 @@
         "description": "Once this module is installed and 'POS multiple Quantity' is enabled, then you can use the functionality of this module.Functionality is that you can set a number of product quantity in POS. When Add product than add multiple product in orderline. Also you can set a number as multiple Quantity for all Products.",
         "summary": "The POS Multiple Quantity module for Odoo enables you to define product quantities that are automatically added to the order line in the Point of Sale. Once activated, you can set specific multiple quantities per product or apply a default quantity for all products. This feature helps speed up checkout, ensures consistent sales quantities, and simplifies retail operations. The POS Multiple Quantity module for Odoo enhances your Point of Sale system by enabling automatic product entry in predefined multiples. Instead of adding just one unit per click, the system adds a configured multiple quantity reducing repetitive input, minimizing errors, and speeding up checkout in high-volume sales environments. This feature is especially useful for wholesale, grocery stores, bakeries, restaurants, and retail chains, where items are commonly sold in packs, batches, or fixed multiples. Automatically add products in predefined multiples to POS orders, Supports per-product multiple quantity settings, Allows global multiple quantity setup for all POS products, Speeds up checkout and reduces manual clicks, Prevents errors during bulk sales and high-volume transactions, Ideal for wholesale, retail, grocery, packaged goods, and restaurants, Ensures order consistency and boosts cashier efficiency, Quick installation and seamless Odoo POS integration, POS multiple quantity, POS batch quantity, POS bulk sale automation, POS product multiplier, POS quantity shortcut, POS quick add multiple, Fixed quantity sales POS, POS pack sales, POS bulk order management, POS product quantity automation, Odoo POS module, Odoo POS extension, Odoo POS customization, Odoo bulk order POS, Odoo wholesale POS, Odoo retail checkout automation, Odoo point of sale tools, Odoo POS quantity control, Odoo POS quick entry, Odoo app for POS speed, POS Multiple Quantity",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Manufacturing Team In Manufacture Order",
@@ -377,7 +411,9 @@
         "description": "Manufacture Team is an Odoo module designed to streamline manufacturing operations by introducing team-based access control and automatic team assignment in manufacturing orders.With this app, you can assign users to manufacturing teams and restrict access to manufacturing orders based on team membership. When a user creates a new manufacturing order, the system automatically assigns the appropriate team based on the user's team assignment ensuring better collaboration, security, and accountability.",
         "summary": "manufacture team, manufacturing team, team in manufacture order, mo team assignment, assign team in manufacturing, restrict manufacturing order, team-based manufacturing, manufacturing team access, team control in mo, odoo mo team access, odoo manufacturing security, manufacturing order access, team-based mo workflow, mo user restriction, teamwise manufacturing order, manufacturing department access, manage mo by team, manufacturing team roles, odoo mrp team, odoo mo access control, restrict mo by team, mo team visibility, team filter in manufacturing, filter mo by team, team-based production orders, multi-team manufacturing, odoo manufacturing permissions, team assignment in mo, odoo team manufacturing, odoo mo restrictions, manufacturing team structure, assign users to manufacturing team, team control in production, odoo mrp team module, production team access, team-based mrp security, access control in manufacturing, teamwise mo tracking, production order permission, odoo access rules manufacturing, odoo manufacturing teams, mo access by team, manufacturing team manager, manufacturing visibility control, department-wise manufacturing, team restricted production order, odoo manufacturing workflow, auto team in mo, auto assign team manufacturing, odoo production team management, manage mrp team, production unit access control, team control for mrp, mrp workflow by team, control mo view access, odoo mo permission rules, team-specific manufacturing, manufacturing task segregation, odoo multi-team manufacturing, production floor access control\n",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Facility Management",
@@ -398,7 +434,9 @@
         "description": "Manage essential facility operations like office cleaning, asset maintenance, and data backups in Odoo.Ideal for small businesses to track recurring tasks efficiently.Easily customizable for various facility management needs.",
         "summary": "Simplify and streamline your facility operations with a centralized solution tailored for small to medium businesses. This powerful facility management tool helps you efficiently manage office cleaning, asset maintenance, equipment servicing, and data backups through automated scheduling and customizable task types. Whether you're managing recurring maintenance, cleaning routines, or special inspections, this system helps ensure nothing gets missed.Designed for companies with regular facility upkeep needs, it provides a clean interface to track all activities, extend asset life, and maintain a safe, productive workspace. Fully customizable to fit a wide range of use cases such as pest control, printer maintenance, safety checks,facility management .",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Product Stock Warhehouse/Location Wise",
@@ -419,6 +457,8 @@
         "description": "When a user adds a product to a purchase order, this module displays the available stock across all internal locations and warehouses. The goal is to help purchasing personnel understand existing stock levels before ordering more ensuring smarter restocking and avoiding overstocking or understocking situations.",
         "summary": "Check Product Stock, Check Product Stock Warehouse/Location Wise , Warehouse Wise Stock, Location Wise Stock, Stock in Purchase Order Line, Check Product in Purchase Order, Stock Information in purchase, Stock Information in purchase Line,\nStock Detail on purchase order, stock detail on purchase order, stock information, display Stock in formation",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     }
 ]

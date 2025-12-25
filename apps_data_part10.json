@@ -23,7 +23,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Count of Delivery Order in SO",
@@ -49,7 +51,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Delivery Order after Sale Confirm",
@@ -75,7 +79,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Last Active Date of User",
@@ -101,7 +107,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Last Update on Product",
@@ -127,7 +135,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Max Discount in Sale Order",
@@ -153,7 +163,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Number of Days in Partner",
@@ -179,7 +191,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Number of days in Product",
@@ -205,7 +219,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Quotation number",
@@ -231,7 +247,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Receipt by Date",
@@ -257,7 +275,9 @@
         "description": false,
         "summary": "purchase receipt by date, purchase receipt filter, purchase receipt report by date, purchase receipt date filter, purchase receipt by period, purchase receipt date wise, purchase receipt report odoo, filter purchase receipts by date, purchase receipt odoo app, purchase receipt reporting tool, vendor receipt by date, supplier receipt by date, odoo purchase receipt by date, purchase receipt report odoo module, filter receipts by date odoo, purchase receipts date filter app, purchase receipt management, date filter for purchase receipts, purchase receipt automation, purchase receipt report generator, receipt by date odoo, supplier receipts report odoo, odoo purchase receipt filter, vendor receipt filter app, purchase receipt date wise report, purchase receipt pdf by date, filter vendor receipts by date, purchase receipt custom filter, purchase receipt reporting solution, supplier invoice by date odoo, purchase document by date, odoo purchase receipt automation, purchase receipt time filter, vendor purchase receipt by date, odoo app purchase receipt filter, odoo module purchase receipt date, supplier receipt reporting tool, purchase receipt analytics odoo, purchase order receipt by date, odoo purchase date filter, receipt tracking by date, odoo vendor receipt report, filter purchase orders by date, supplier invoice receipt by date, odoo vendor receipt automation, purchase reporting odoo app, odoo purchase receipt tracking, odoo filter receipts by period, date wise purchase receipts odoo, receipt search by date odoo, purchase receipt advanced filter.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Today yesterday filter in mails",
@@ -281,7 +301,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Warehouse Creation Restriction",
@@ -307,7 +329,9 @@
         "description": "\n    The Warehouse Creation Restriction app is designed for administrators and managers who need to control which users have permission to create new warehouses within Odoo. By activating this feature, managers can easily prevent unauthorized users from adding new warehouses, ensuring that warehouse configurations remain controlled and organized. \n\n    Key Features:  \n    1) **Warehouse Creation Restriction:**  \n       - Restrict users from creating new warehouses unless authorized by the restriction manager.  \n       \n    2) **Boolean Configuration:**  \n       - Use a simple boolean toggle (\"Stock Warehouse Creation Restriction\") to enable or disable warehouse creation restrictions for users.  \n\n    3) **Error Notification:**  \n       - When a restricted user attempts to create a warehouse, an error message is shown, preventing unauthorized warehouse creation.  \n\n    Use Cases:  \n    - Maintain control over warehouse setup by limiting warehouse creation to authorized users only.  \n    - Prevent unapproved changes to warehouse configurations, ensuring better inventory and warehouse management.  \n    - Ideal for organizations that require strict permission control for warehouse-related actions to protect their data and workflows.\n\n    Supported Views:  \n    - Users \u2192 User View: The \"Stock Warehouse Creation Restriction\" boolean is available for managers to toggle and enforce warehouse creation restrictions.\n    ",
         "summary": "warehouse creation restriction, prevent warehouse creation, restrict warehouse creation, block unauthorized warehouse creation, warehouse creation control, user permission for warehouse creation, warehouse access control, warehouse creation limit, warehouse creation rules, disable warehouse creation, restrict adding new warehouses, warehouse security, warehouse management permission, warehouse record control, warehouse creation authorization, warehouse access restriction, secure warehouse setup, warehouse creation approval, warehouse duplication prevention, warehouse data control, restrict warehouse setup, warehouse entry restriction, warehouse creation rights, warehouse creation access, manage warehouse creation permission, secure warehouse creation, warehouse creation lock, limit warehouse creation, restrict warehouse management, warehouse creation safeguard, warehouse data protection, prevent duplicate warehouse records, warehouse role-based creation, control warehouse addition, user rights for warehouse creation.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Warehouse Edit Restriction",
@@ -333,7 +357,9 @@
         "description": "Warehouse Edit Restriction helps you control and restrict editing access to warehouse records in Odoo. Only authorized users or groups can modify warehouse details such as locations, addresses, and configuration settings. This ensures better data security, avoids accidental misconfiguration, and enforces warehouse management discipline.",
         "summary": "warehouse edit restriction, restrict warehouse editing, Odoo warehouse access control, warehouse configuration security, prevent warehouse modification, warehouse record locking, edit permission warehouse, warehouse admin rights, user-based warehouse access, warehouse restriction Odoo, control warehouse changes, limit warehouse update access, secure warehouse settings, warehouse field restriction, prevent unauthorized warehouse edit, Odoo inventory access control, warehouse record protection, group-based warehouse permissions, warehouse edit rights, inventory location restriction, warehouse management control, restricted warehouse configuration, warehouse user roles Odoo, Odoo warehouse edit block, editable warehouse control",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Lost opportunity reason",
@@ -359,7 +385,9 @@
         "description": "Lost Opportunity/Lead Reason allows you to define and assign specific reasons when marking a lead or opportunity as lost in Odoo CRM. This feature helps sales teams capture valuable insights on why deals are not closed, enabling better analysis, process improvements, and smarter decision-making. All reasons are stored and reportable for future review.",
         "summary": "lost opportunity reason, lost lead reason, Odoo CRM lost reason, reason for lost deals, sales lost reason tracking, opportunity lost analysis, CRM lead closure reason, failed deal reason, mark lead as lost with reason, sales pipeline lost insights, lead status tracking Odoo, capture lost deal data, reason dropdown in CRM, CRM lost report Odoo, Odoo sales feedback, opportunity loss reason list, customer drop reason, reason for lead failure, lead rejection reasons, lost opportunity reporting, sales analytics CRM, track why deals are lost, improve sales closure rate, sales conversion tracking, Odoo CRM reason module  crm lead lost reason opportunity lost reason lead loss reason opportunity loss reason",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Bulk validate Bills",
@@ -384,7 +412,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Delivery Date In Sale Order",
@@ -410,7 +440,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Inter Company Stock Transfer | Multi Company Stock Transfer",
@@ -432,7 +464,9 @@
         "description": "The Multi-Company Inventory Transfer app allows users to efficiently transfer stock between multiple companies, streamlining inventory management in a multi-company setup. \\n    With this app, users can facilitate stock transfers between different companies, ensuring products are available at the right locations. \\n    It also provides a feature to check product availability in source locations, ensuring smooth transfers. Additionally, the app helps manage delivery orders for both incoming and outgoing stock, \\n    providing better control over the entire inventory process across various companies.",
         "summary": "This app enables users to transfer stock across multiple companies efficiently, streamlining inventory management within a multi-company environment.Multi-Company Stock Transfer, Inter-Company Inventory Movement, Cross-Company Stock Management, Multi-Entity Inventory Transfer, Inter-Company Product Transfer, Company-to-Company Stock Transfer, Multi-Branch Inventory Handling, Inter-Company Warehouse Transfer, Multi-Company Logistics, Centralized Inventory Transfers, Inter Company Transfer | Auto Inter Company Transfer | Stock Inter Company Transfer | Product Inter Company Transfer | Return Product Inter Company Effect | Back-Order Inter Company Effect.,Enhance operational efficiency and improve inventory control with the Inter-Company Transfer and Inter-Warehouse Transfer applications for Odoo. These apps are tailored to businesses managing multiple entities and warehouses, ensuring seamless coordination and accuracy in stock movements. The Inter-Company Transfer app automates transactions between companies, eliminating manual data entry and ensuring precise accounting with synchronized sales and purchase orders. Meanwhile, the Inter-Warehouse Transfer app enables efficient stock movement between warehouses, helping you maintain optimal inventory levels and reduce downtime.Both applications integrate seamlessly with Odoo\\u2019s robust ERP ecosystem, offering real-time tracking, customizable workflows, and error-free documentation. Designed to scale with your business, these apps are the perfect solution for streamlining logistics, improving stock visibility, and optimizing your supply chain.Elevate your business operations with Odoo\\u2019s Inter-Company and Inter-Warehouse Transfer applications\\u2014your ultimate tools for smarter, faster inventory management.Inter-company transfer in Odoo,Automated inter-company transactions,Seamless inter-company inventory management,Inter-company accounting in Odoo,Odoo inter-company module,Multi-entity inventory transfers,Real-time inter-company tracking,Optimize inter-company operations,Inter-company purchase and sales automation,ERP solutions for inter-company transfers, ictInter-warehouse transfers in Odoo,Efficient warehouse inventory movement,Centralized warehouse management,Warehouse-to-warehouse stock transfer,Odoo inter-warehouse module,Automate warehouse transfer,Real-time warehouse stock updates,Multi-location inventory management,Optimize warehouse operations with Odoo,Error-free inter-warehouse logistics iwt, Multi Company Transfer, Intercompany Transfer, Odoo Multi-Company, Intercompany Transactions, Cross-Company Transfers,Multi-Company Transfer, Multi-Company Operations, Intercompany Stock Transfers, Multi-Company Accounting, Multi-Company Workflow, Odoo Intercompany, Automated Transfers, Centralized Management, Multi-Company Synchronization, Odoo Enterprise, Seamless Intercompany Transfers, multi transfer,Transfer, multi-company,multi company, inter-company,inter company, Inventory Transfer.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Number Of Days in SO",
@@ -458,7 +492,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Number of Days in Mail",
@@ -484,7 +520,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Category",
@@ -510,7 +548,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Order Timeline",
@@ -536,7 +576,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sales Confirm in bulk",
@@ -562,7 +604,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Today Yesterday Filter in User Login",
@@ -586,7 +630,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Item Count In Incoming shipment",
@@ -612,7 +658,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Note Print",
@@ -631,7 +679,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Number Of Days in DO",
@@ -657,7 +707,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Number of Days in MO",
@@ -683,7 +735,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Number of Days in User",
@@ -709,7 +763,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Requisitions Material Stock and Purchase by Employees",
@@ -733,7 +789,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sales Terms & Conditions",
@@ -757,7 +815,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Today Yesterday filter in PO",
@@ -783,7 +843,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Account partner auto reconcile",
@@ -805,7 +867,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Advance Partner Search by Phone/Mobile, Odoo Advance Partner Search",
@@ -827,7 +891,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Advance Product Search in SO & PO",
@@ -849,7 +915,9 @@
         "description": "This app enhances the product search functionality within Sale Order and Purchase Order lines in Odoo. Users can quickly find products using advanced filters such as internal reference, barcode, category, brand, tags, or custom fields speeding up the order creation process and reducing errors.",
         "summary": "advance product search odoo, product search sale order, product search purchase order, odoo product filter in SO, odoo product filter PO, odoo product quick search, smart search odoo product, barcode search sale order, odoo barcode product filter, product reference search odoo, search product by category odoo, internal reference search odoo, odoo order line smart search, odoo quick product lookup, odoo fast search in PO, fast product search sale order odoo, order line search enhancement, sale order product filter odoo, purchase order product search module, advanced odoo product selector, odoo dynamic product search, custom field product search odoo, predictive product search odoo, odoo product search optimization, filter products in order odoo, odoo multiple field search, odoo search by product code, search product by brand odoo, odoo advanced item search, sale order item filter odoo, odoo smart order line entry, purchase order item finder odoo, odoo quick item picker, product search enhancement odoo, odoo search product tags, order creation speedup odoo, barcode filter order odoo, advanced product filter in SO PO, quick search tool odoo, enhanced order form odoo, odoo multi criteria product search",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All Contact Approval",
@@ -871,7 +939,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All In One Digital Signature",
@@ -893,7 +963,9 @@
         "description": "\n      All In One Digital Signature\n      ============================\n\n      Overview\n      --------\n      The All In One Digital Signature module enables businesses to integrate digital signatures into purchase orders, invoices, and bills in Odoo. This module enhances document security, improves approval workflows, and simplifies the management of digitally signed documents.\n\n      Key Features\n      ------------\n      - Add digital signatures to purchase orders, invoices, and bills.\n      - Configure signature settings and input relevant details effortlessly.\n      - Streamline approval processes with secure and verifiable digital signatures.\n      - Generate and print reports with integrated digital signatures for record-keeping.\n      - Ensure the authenticity and integrity of documents with robust security.\n\n      How It Works\n      ------------\n      1. **Configuration**:  \n         Navigate to the configuration settings to enable and set up digital signature options.\n\n      2. **Apply Digital Signatures**:  \n         Add digital signatures to purchase orders, invoices, or bills during document creation or approval stages.\n\n      3. **Print Signed Reports**:  \n         Generate professional reports with embedded digital signatures for seamless sharing and documentation.\n\n      4. **Secure Workflow**:  \n         Maintain a secure and efficient approval process using digital signatures.\n\n      Navigation\n      ----------\n      - **Purchase Orders**: Apply and manage digital signatures for purchase orders.\n      - **Invoices**: Add secure digital signatures to invoices for enhanced security.\n      - **Bills**: Streamline bill approvals with integrated digital signatures.\n\n      Benefits\n      --------\n      - Reduce reliance on manual signatures and paperwork.\n      - Enhance the authenticity and security of financial documents.\n      - Simplify document sharing with professional, digitally signed reports.\n          ",
         "summary": "All In One Digital Signature Odoo Digital Signature Module Odoo Signature Integration Odoo Electronic Signature Odoo Document Signature App Odoo Sign Documents Digitally Odoo PDF Signature Odoo Auto Signature Module Odoo Multi Document Signature Odoo Signature for Sale Order Odoo Signature for Purchase Order Odoo Invoice Signature Odoo Delivery Slip Signature Odoo HR Document Signature Odoo Employee Contract Signature Odoo Payslip Signature Odoo CRM Signature Module Odoo Customer Signature Odoo Vendor Signature Odoo Report Signature Odoo Digital Sign on PDF Odoo Secure Signature Odoo eSignature Integration Odoo Auto Sign Documents Odoo Multi Company Signature Odoo Signature Workflow Odoo Digital Approval Signature Odoo Business Signature Tool Odoo Electronic Document Validation Odoo Signature on Reports Odoo Manager Signature Automation Odoo User Signature Field Odoo Signature Management Odoo Automatic Signature Odoo Signature Addon Odoo Sign PDF Automatically Odoo Signature Integration for Invoices Odoo Signature for Bills Odoo Signature Control Odoo Document Approval Signature Odoo Signature Tracking Odoo Audit Signature Odoo ERP Signature Solution Odoo Smart Signature Module",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All Taxes Information - Sale, Purchase, Accounting",
@@ -915,7 +987,9 @@
         "description": "\n        The All Taxes Information module enhances Odoo by simplifying tax calculations and providing detailed insights into tax-related fields for sales, purchases, and invoices. It enables businesses to easily find and print prices with or without taxes, tax amounts, percentages, and total amounts including taxes.\n\n        Key Features:\n        1) Detailed Tax Information:\n           - Easily determine product prices with or without tax, total tax amounts, tax percentages, and total amounts including tax.\n\n        2) Print Tax Details:\n           - Generate and print tax details in PDF reports for sales orders, purchase orders, invoices, credit notes, and refunds.\n\n        3) Intuitive Tax Calculation:\n           - Provides a clear understanding of tax calculations for customers, vendors, and other stakeholders.\n\n        Supported Views:\n        - Sales: Configure and display tax details in sales quotations and orders.\n        - Purchase: Configure and display tax details in purchase orders and RFQs.\n        - Invoicing: Configure and display tax details in invoices, vendor bills, credit notes, and refunds.\n\n        This module is a must-have for businesses looking to streamline their tax management process and ensure clarity in tax-related transactions.\n    ",
         "summary": "Simplify tax calculations with detailed product tax information and printable reports in Odoo. , Odoo Tax Calculation Module, Sales Tax Management in Odoo, Purchase Tax Calculation for Odoo, Invoice Tax Computation, Tax Details in PDF Reports, Unit Price Including Taxes in Odoo, Odoo Total Tax Percentage, Product Price with or Without Taxes, Simplified Tax Calculations in Odoo, Tax Configuration Settings, Vendor Tax Management in Odoo, Credit Note Tax Breakdown, Detailed Tax Insights for Odoo, Tax Reporting for Sales Orders, Odoo Tax Management Customization, Refund Tax Computation, Print Tax Details in Odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All in One Receipt report",
@@ -937,7 +1011,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All in One Tags",
@@ -959,7 +1035,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All in One Helpdesk",
@@ -985,7 +1063,9 @@
         "description": "\n        'The \"All-in-One Helpdesk\" app offers a robust solution for managing help desk operations effectively. '\n        'It provides tools for ticket creation, management, and resolution, enabling organizations to deliver superior customer service.\n\n'\n        'Key Features:'\n        '1) Access Rights:'\n        '   - Configure user-specific access rights for secure and role-based help desk functionality.'\n        '2) Helpdesk Tickets:'\n        '   - Create, manage, and resolve tickets with advanced search capabilities for quick issue resolution.'\n        '3) Helpdesk Teams:\n        '   - Form and manage teams to improve task organization and collaboration.'\n        '4) Ticket Types and Categories:'\n        '   - Define ticket types, categories, and priorities to classify and address customer issues efficiently.n'\n        '5) Customer Portal:'\n        '   - Provide a dedicated portal for customers to track and manage their tickets, enhancing communication.'\n        '6) Ticket Lifecycle Stages:'\n        '   - Configure ticket stages and automate notifications for timely updates to customers and team members.'\n        '7) Real-Time Collaboration:'\n        '   - Enable team members to communicate directly with customers through the ticket interface for instant support.'\n        '8) Automated Notifications:'\n        '   - Send automated email updates to customers and team members at different ticket stages.'\n        'Navigation:'\n        '   - Helpdesk \u2192 Tickets'\n        '   - Helpdesk \u2192 Configuration (for setting up teams, stages, categories, and other configurations)'\n        'This app streamlines help desk operations, ensuring improved collaboration and exceptional customer support.'\n    ",
         "summary": "customer helpdesk, helpdesk ticket from website, helpdesk document, customizable help desk, helpdesk whatsapp, helpdesk sub ticket, website ticket service, odoo support ticket system, helpdesk stage change history, flexible helpdesk, whatsapp helpdesk integration, manage repair order with helpdesk, helpdesk with stages, helpdesk solution, helpdesk sale order, create ticket from repair order, customer supporting, create repair order from helpdesk ticket, email helpdesk, helpdesk mass update tags, helpdesk invoice integration, helpdesk with chatter, helpdesk crm timesheet, product request on rfq, issue tracking system, helpdesk material requisition, email templates helpdesk, email alias helpdesk, customer helpdesk support ticket, repair order helpdesk, support ticket online, helpdesk due reminder, helpdesk whatsapp integration, helpdesk mass assign tickets, helpdesk ticket merge, purchase order with helpdesk, ticketing support, ticket tracking helpdesk, support system odoo, product request on tender, repair order from helpdesk ticket, helpdesk ticket management, helpdesk user notification, odoo ticketing system, helpdesk multi user, helpdesk tickets, create helpdesk ticket from repair order, helpdesk apps for purchase, helpdesk from website, product request on manufacturing order, helpdesk custom stages, ticketing system odoo, odoo support request form, service desk, helpdesk email alias, product requisitions request, helpdesk ticket system odoo, ticket management odoo, odoo helpdesk module, helpdesk whatsapp chat, customizable ticketing, customer support portal odoo, flexible helpdesk solution, helpdesk portal ticket, sale order with helpdesk, invoice with helpdesk, purchase material requisition, requisition for tender, requisition for manufacturing order, crm helpdesk integration, helpdesk whatsapp support, ticketing system for customer support, multi team helpdesk, website helpdesk ticket, customer support odoo, timesheet helpdesk odoo, whatsapp to helpdesk, helpdesk communication log, auto close helpdesk ticket, sla based helpdesk odoo, odoo repair ticket helpdesk, odoo customer support desk, helpdesk email templates, internal support ticketing, odoo portal ticket view, helpdesk ticket from website customer, odoo service desk, helpdesk notification system, helpdesk ticket escalation, auto assign ticket odoo, helpdesk ticket lifecycle, helpdesk tracking, odoo issue tracker, helpdesk ticket tagging, website helpdesk form, helpdesk team assignment, ticket creation from repair, odoo customer support tickets, odoo helpdesk with whatsapp,sale helpdesk,purchase helpdesk,crm helpdesk,invoice helpdesk,timesheet helpdesk,stock helpdesk,\n",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Attendance Auto Checkout",
@@ -1007,7 +1087,9 @@
         "description": "\n        The \"Attendance Auto Checkout\" app ensures that attendance records are accurate by automatically checking out employees who forget to do so. The app helps manage attendance with minimal manual intervention, improving overall tracking and ensuring timely records.\n        \n        Key Features:\n        1) **Auto-Checkout Activation**:\n           - Enable the automatic checkout functionality with a simple toggle.\n        \n        2) **Scheduled Checkout Time**:\n           - Configure the exact time for the system to perform the auto-checkout, typically aligned with the end of the workday.\n        \n        3) **Cron Checkout Indicator**:\n           - Easily identify auto-checkouts with a visual indicator showing that the system performed the checkout due to a missed manual action.\n        \n        This app reduces the risk of incomplete attendance data, streamlines the attendance process, and ensures all employees are checked out on time, even if they forget.\n    ",
         "summary": "auto attendance checkout, odoo auto checkout, automatic employee checkout, attendance auto sign out, odoo attendance automation, forget checkout fix odoo, auto logout attendance, odoo check out cron, automatic attendance end, max working hours cap odoo, auto check out for employees, odoo attendance correction, odoo smart attendance, odoo hr attendance tool, daily auto checkout odoo, attendance time limit odoo, odoo prevent overnight session, attendance cleanup odoo, odoo scheduled checkout, odoo employee logout, attendance check-out module, auto close attendance entry odoo, odoo missed checkout handler, auto complete attendance odoo, attendance session checker, auto close shift odoo, smart attendance closure odoo, attendance integrity tool, odoo employee time management, attendance hours limiter odoo, attendance policy automation, odoo hr automation, attendance safety net odoo, check-out attendance utility, odoo attendance fix tool, cron job attendance odoo, auto checkout policy, attendance closure script odoo, employee shift fixer odoo, hr auto checkout tool, employee log off automatic, odoo scheduled attendance closure, attendance limit module odoo, automatic shift end odoo, employee punch out automation, attendance fix overnight, checkout missed employees odoo\n",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Auto Parts Base",
@@ -1030,7 +1112,9 @@
         "description": "\n        The Vehicle Detail module provides an efficient way to manage auto parts by categorizing them based on vehicle make, model, type, and year. This module is ideal for businesses in the automotive parts industry, offering comprehensive access control, product management, and vehicle associations.\n\n        Key Features:\n        1) Access Rights Management:\n           - Easily assign user access rights for managing auto parts, with distinct roles for users and managers.\n\n        2) Group Auto Parts by Vehicle Attributes:\n           - Organize auto parts by vehicle make, model, year, and type for streamlined management.\n\n        3) Link Auto Parts to Vehicles:\n           - Associate specific auto parts with vehicles, simplifying inventory management and sales.\n\n        4) Vehicle Form View:\n           - Manage vehicle details and link them to associated auto parts in a structured form view.\n\n        5) Common Products for All Vehicles:\n           - Add universal auto parts that apply to all vehicles, ensuring consistency across the inventory.\n\n        6) Vehicle Detail PDF Report:\n           - Generate detailed PDF reports of vehicle information and associated parts for easy sharing and record-keeping.\n    ",
         "summary": "auto parts, spare parts, auto parts odoo, odoo spare parts, vehicle parts, automobile parts, workshop parts, car parts, parts management, auto inventory, auto stock management, garage parts, parts barcode, auto part system, multi branch auto parts, spare parts inventory, spare parts odoo app, odoo car parts, parts list, part number tracking, vehicle-part mapping, parts warranty, odoo garage, mechanic parts, auto repair inventory, parts label, car service parts, parts stock report, auto inventory control, spare parts branch, automotive warehouse, auto parts stock, auto warehouse, parts request, parts purchase, odoo service parts, garage parts odoo, auto parts sales, auto service stock, odoo multi branch parts, parts categorization, vehicle compatibility, automotive parts, car parts tracker, barcode for auto parts, fast-moving parts odoo, odoo parts integration, parts in repair orders, branch-wise parts, spare part manager, auto maintenance stock, auto supply chain, odoo for garages, spare stock analysis, part catalog odoo, inventory by vehicle, odoo parts barcoding, workshop stock app",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Auto Section In Sale Order",
@@ -1052,7 +1136,9 @@
         "description": "\n        The \"Auto Section in Sale Order\" app allows users to define product sections and automatically assign sale order lines to these sections. This feature enhances the organization of products within sale orders, improving workflow efficiency. Additionally, the invoice structure reflects the same sections as the sale order, maintaining consistency between the order and invoice.\n        \n        Key Features:\n        1) **Section Management in Product and Sale Order Menus**:\n           - Define sections for products and create new sections directly from the sale order section menu.\n        \n        2) **Sectioned Sale Order Lines**:\n           - Group products in sale orders under defined sections for better organization.\n        \n        3) **Auto Section Creation**:\n           - Automatically create sections in the sale order lines based on product definitions, eliminating manual setup.\n        \n        4) **Consistency Between Sale Order and Invoice**:\n           - Ensure that the invoice structure mirrors the same sections as the sale order, maintaining consistency across documents.\n        \n        This app automates the sectioning of sale order lines, providing a smooth and organized experience from order creation to invoicing.\n    ",
         "summary": "Automatically assign sale order lines to product sections in Odoo, ensuring seamless organization and matching invoice structure. , Automatic Sale Order Sections, Group Sale Order Lines by Section, Product Section Management in Sales, Section-Based Sale Orders, Organized Sale Order Line Items, Invoice Sections Matching Sale Orders, Auto Sections for Product Organization, Sale Order Line Automation, Predefined Sections in Sale Orders, Dynamic Sale Order Sections, Streamlined Sale Order Organization, Sectioned Invoices for Sales, Product Grouping in Sale Orders, Sale Order Section Workflow, Automated Section Creation for Sales.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Automated Sale Order",
@@ -1072,7 +1158,9 @@
         "description": false,
         "summary": "",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Blanket Purchase Order",
@@ -1093,7 +1181,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Blanket Sale Order",
@@ -1115,7 +1205,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Bom Structure and Cost Excel Report",
@@ -1137,7 +1229,9 @@
         "description": "\n            BOM Structure and Cost Excel Report\n            ====================================\n\n            The BOM Structure and Cost Excel Report module enables users to generate comprehensive Excel reports detailing the Bill of Materials (BOM) structure and associated costs. This tool provides valuable insights into the manufacturing process, ensuring better cost management and planning.\n\n            Key Features\n            ------------\n\n            1. **BOM Report Generation**  \n               Quickly create and download Excel reports with a complete BOM structure and cost breakdown.\n\n            2. **Well-Organized Structure**  \n               Present a parent-to-child relationship for the BOM structure in an easy-to-understand Excel format.\n\n            3. **Cost Analysis**  \n               Gain an itemized view of material costs directly from the Excel report for better financial insights.\n\n            4. **User-Friendly Interface**  \n               Access and generate reports effortlessly from the Manufacturing module.\n\n            For more guidance or support, contact us at team@inkerp.com\n            ",
         "summary": "bom structure excel report, bom cost excel export, bill of materials excel download, export bom to excel, bom cost analysis, bom structure report, product bom excel report, manufacturing bom excel export, bom cost breakdown, bom hierarchy excel export, multi-level bom excel report, bom component cost report, bom quantity excel report, manufacturing cost excel, bom analysis excel, bom report with cost, bom structure download, product cost excel report, bom excel sheet, bom export tool, bom cost calculation excel, bom component quantity report, bom cost summary excel, bom data export, bom excel generator, bom cost spreadsheet, bom structure spreadsheet, bom analysis tool, bom pricing excel, bom report export, manufacturing excel report, product manufacturing cost excel, bom sheet generator, bom cost estimation excel, bom multi-level export.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Bulk Import Pricelist in odoo",
@@ -1159,7 +1253,9 @@
         "description": "\n        The \"Import Pricelist\" module simplifies the process of importing pricing data into Odoo for Sale, Vendor, and Product Pricelists. It supports importing data via CSV or XLS files, making it easy to manage large sets of pricing information. Compatible with both Odoo Community and Enterprise Editions, this module streamlines the process of managing and updating pricelists across various entities.\n\n        Key Features:\n        1) Import Sale, Product, and Vendor Pricelists:\n           - Easily import pricing data for Sales, Products, and Vendors into Odoo.\n\n        2) Data Import via CSV or XLS:\n           - Supports importing data from both CSV and XLS file formats.\n\n        3) User-Friendly Interface:\n           - Simple interface for quick and accurate data imports.\n\n        This module saves time, reduces errors, and ensures accuracy when managing and updating pricelists across your business.\n    ",
         "summary": "Efficiently import Sale, Vendor, and Product Pricelists into Odoo using CSV or XLS files. , Odoo Import Pricelist, Import Sale Pricelist Odoo, Import Vendor Pricelist Odoo, Import Product Pricelist Odoo, Odoo Pricelist Import via CSV, Odoo Pricelist Import via XLS, Import Pricing Data into Odoo, Sale Pricelist Import Odoo, Product Pricelist Import Odoo, Vendor Pricelist Import Odoo, Odoo Price List Management, Odoo Import Tools for Pricing, Import Pricelists into Odoo Community, Odoo Pricelist Import Wizard, Bulk Import Pricelists Odoo, Manage Pricelists in Odoo, Streamline Pricelist Imports Odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "CRM Opportunity Purchase",
@@ -1181,7 +1277,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "CRM Opportunity Task",
@@ -1204,6 +1302,8 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     }
 ]

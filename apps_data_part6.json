@@ -23,7 +23,9 @@
         "description": "PostNL Shipping Connector is an Odoo module that integrates PostNL courier services into your Sales and Delivery workflow. With this connector, businesses can create Air Waybills (AWB), print shipping labels, and track shipments directly within Odoo, ensuring smooth and automated delivery management.",
         "summary": "PostNL odoo, PostNL shipping connector, Odoo PostNL integration, PostNL delivery odoo, PostNL courier connector, Odoo shipping carrier, PostNL API integration, Odoo logistics PostNL, PostNL parcel service odoo, PostNL order tracking, PostNL label printing odoo, PostNL AWB odoo, Odoo ecommerce PostNL, PostNL delivery orders, PostNL Netherlands odoo, Odoo carrier integration, PostNL return shipping odoo, Odoo sales PostNL delivery, automate PostNL shipping, Odoo multi-carrier connector, PostNL express odoo, Odoo Netherlands shipping, PostNL freight integration, Odoo inventory PostNL, PostNL customer delivery odoo, PostNL package management, Odoo delivery app PostNL, PostNL ERP connector, Odoo real-time tracking, PostNL business shipping odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Generic Import",
@@ -49,7 +51,9 @@
         "description": "Generic Import is an all-in-one Odoo module designed to simplify bulk record import across different Odoo applications. With this module, you can import Sales Orders, Purchase Orders, Invoices, Products, Customers, Vendors, and more using CSV or Excel files, saving hours of manual data entry.",
         "summary": "Odoo generic import, import tool odoo, import records odoo, mass import odoo, Odoo data upload, Odoo bulk import, generic import module, Odoo CSV import, Odoo Excel import, easy import odoo, Odoo flexible import, Odoo master data import, Odoo sales import, Odoo purchase import, Odoo invoice import, Odoo inventory import, bulk data upload odoo, Odoo custom import, import product list odoo, import customers odoo, Odoo vendor import, Odoo partner import, Odoo quick import, import templates odoo, Odoo migration tool, Odoo order import, Odoo data management, bulk record import odoo, Odoo integration import, Odoo upload tool",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Undelivered",
@@ -75,7 +79,9 @@
         "description": "Sale Order Undelivered is an Odoo module that helps businesses track pending and undelivered quantities in Sales Orders. It provides clear visibility into orders that are partially delivered, fully pending, or delayed, allowing sales teams to take timely action.",
         "summary": "sale order undelivered, odoo undelivered orders, odoo partial delivery, sale backorder tracking, undelivered products odoo, sale delivery pending, odoo sales backorder, odoo sale delivery status, sale order shipment pending, odoo sales fulfillment, undelivered qty odoo, odoo sale incomplete delivery, delivery shortfall odoo, sales order product not delivered, sale order delivery control, odoo logistics undelivered, sale order partial shipped, odoo stock undelivered, odoo sales delivery analysis, pending order items odoo, odoo order fulfillment report, sales order shortages, track undelivered orders odoo, odoo order discrepancy, odoo sales performance report, sale order delivery variance, Odoo incomplete shipment.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All In One Purchase Reports",
@@ -101,7 +107,9 @@
         "description": "All In One Purchase Reports is an advanced Odoo reporting module that provides complete insights into company purchases. It includes vendor-wise, product-wise, detailed, and summary reports, enabling businesses to analyze procurement trends, supplier performance, and purchase costs in one place.",
         "summary": "purchase reports odoo, all in one purchase odoo, odoo purchase analysis, purchase report module, supplier report odoo, vendor purchase report, odoo purchase analytics, purchase kpi odoo, purchase order report, purchase dashboard odoo, odoo procurement reports, odoo vendor analysis, odoo purchase summary, odoo purchase cost report, odoo detailed purchase report, odoo supplier ranking, purchase order summary, odoo multi-company purchase report, purchase reporting odoo, purchase order insights, supplier performance odoo, odoo purchase trend analysis, procurement dashboard, odoo business intelligence purchase, vendor invoice report odoo, odoo purchase statistics, odoo purchase comparison, supplier purchase summary, purchase insights odoo, odoo advanced reporting.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Remove/Hide Taxes",
@@ -127,7 +135,9 @@
         "description": "\n    The 'Remove Taxes' module allows users to hide or remove tax fields in various Odoo documents, including sales orders, purchase orders, customer invoices, and vendor bills. This module also removes tax information from related PDF reports, giving users the ability to streamline documents without showing tax details.\n\n    Features:\n    - Toggle the visibility of tax fields in sales orders, purchase orders, invoices, and vendor bills.\n    - Remove taxes from the generated PDF reports for sales, purchases, invoices, and bills.\n    - Quick and simple configuration to enable or disable tax visibility on specific document types.\n    \n    Benefits:\n    - Simplifies document presentation by removing tax fields when not needed.\n    - Provides flexibility in customizing documents and reports for different user needs.\n    - Allows easy configuration via settings for each document type (sales orders, purchase orders, invoices, and bills).\n    \n    Navigation:\n    - Users can enable or disable the tax visibility feature via the settings in Sales, Purchase, and Invoicing configurations.\n    - Once enabled, taxes will be hidden from the form views as well as from the generated PDF reports.\n",
         "summary": "remove tax odoo, hide taxes odoo, odoo tax control, disable tax odoo, tax free sales odoo, odoo hide tax lines, purchase order without tax, sales order without tax odoo, invoice no tax odoo, remove vat odoo, hide gst odoo, odoo exclude taxes, odoo hide tax report, hide taxes in quotation, hide taxes in invoice odoo, odoo accounting tax free, odoo tax setting, odoo tax visibility control, hide subtotal tax odoo, odoo display without tax, remove fiscal position odoo, odoo global tax disable, odoo purchase no tax, odoo sales no tax, hide price tax odoo, odoo business no tax, odoo retail no tax mode, odoo ecommerce hide tax",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Advance Product Search in SO",
@@ -153,7 +163,9 @@
         "description": "\n        The 'Advance Product Search and Selection in Sale Order' module provides an intuitive and efficient way to search and add products to sales orders in Odoo. It allows users to filter products based on multiple criteria and select multiple products in bulk. With seamless integration into Odoo's sales system, this module enhances productivity and streamlines the sales workflow.\n        \n        **Key Features:**\n        - Advanced filtering options for precise product search.\n        - Supports both product templates and variants.\n        - Add multiple products in one action with bulk product addition.\n        - Select specific products or all products from the search results.\n        - Efficient batch quantity management.\n        - User-friendly interface with smart filtering options.\n    ",
         "summary": "Streamline product search and selection for sales orders with advanced filtering, bulk addition, and seamless integration.Advance Product Search Odoo\n    Odoo Sales Order Management,\n    Product Selection in Sales Orders,\n    Advanced Product Filtering Odoo,\n    Bulk Product Addition Odoo,\n    Sales Order Automation Odoo,\n    Odoo Product Search and Filter,\n    Sales Order Product Selection,\n    Odoo Product Templates and Variants,\n    Sales Quotation Automation Odoo,\n    Efficient Product Selection Odoo,\n    Odoo Sales Order Customization,\n    Batch Product Addition Odoo,\n    Odoo Sales Workflow Efficiency,\n    Odoo Advanced Filtering Options,",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Advance Product Search in PO",
@@ -179,7 +191,9 @@
         "description": "Advance Product Search in PO is an Odoo module designed to make purchase order creation faster and more accurate by enhancing the product search functionality.",
         "summary": "advanced product search odoo, purchase order product search, odoo fast product search, odoo purchase smart search, product search by code odoo, search by internal reference odoo, vendor product search odoo, barcode search purchase order, odoo product filter purchase, quick product lookup odoo, purchase order add product fast, odoo smart purchase entry, multi field product search odoo, product name search purchase, odoo advanced lookup, supplier product code search odoo, odoo easy purchase entry, odoo purchase product autocomplete, faster PO entry odoo, advanced product selection odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Minimum/Maximum Product Price",
@@ -205,7 +219,9 @@
         "description": "Minimum/Maximum Product Price is an Odoo module that allows businesses to set price boundaries for products to prevent underpricing and overpricing.",
         "summary": "minimum product price odoo, maximum product price odoo, odoo price control, restrict product price odoo, odoo min price check, odoo max price limit, product price validation odoo, sale order price control, odoo pricing rules, prevent wrong pricing odoo, odoo discount limit, avoid underpricing odoo, odoo price restriction, odoo approval for pricing, product price boundaries odoo, odoo price safeguard, minimum selling price odoo, maximum selling price odoo, product price management odoo, prevent overpricing odoo, odoo sales price validation, purchase price restriction odoo, odoo ecommerce price control, product pricing protection odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Tender Management",
@@ -231,7 +247,9 @@
         "description": "Purchase Tender Management is an Odoo module designed to streamline the tendering and vendor bidding process for procurement teams.",
         "summary": "purchase tender odoo, tender management odoo, vendor bid comparison odoo, odoo RFQ tender, purchase bidding odoo, supplier quotation comparison odoo, odoo procurement tender, request for tender odoo, multi-vendor RFQ odoo, purchase quotation analysis odoo, odoo purchase tender workflow, vendor evaluation odoo, tender approval odoo, odoo bid management, supplier tender process odoo, purchase competitive bidding odoo, odoo procurement optimization, tender quotation report odoo, purchase tender tracking, odoo multiple vendor bids.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Email Notification",
@@ -252,7 +270,9 @@
         "description": "Sale Order Email Notification for Odoo automates customer communication by sending instant email alerts for quotations, order confirmations, directly from the Sales module. with dynamic order details, and seamless integration into Odoo\u2019s sales workflow, this module ensures customers are always informed without manual follow-ups. It improves engagement, builds trust, and saves time by keeping communication consistent and professional across single or multi-company environments.",
         "summary": "sale order email notification odoo, odoo sale order notification, sales confirmation email odoo, odoo quotation email, auto email sale order, order status email odoo, sale confirmation mail odoo, automatic email notification odoo, order tracking email odoo, odoo customer email alert, sale order approval mail, odoo sale communication, quotation approval email odoo, email automation odoo, customer notification odoo, sales workflow automation, odoo order email template, sale order mail reminder odoo, order follow-up email odoo, quotation confirmation odoo, odoo order workflow email, sales operation alert odoo, quotation auto email odoo, sales notification system odoo, client notification email odoo, odoo sale process email, order email update odoo, odoo auto email workflow, sale order alert system odoo, order confirmation workflow odoo, email trigger odoo sales, odoo crm sales email, odoo order communication automation, customer order alert odoo, quotation workflow odoo, order email confirmation odoo, odoo automatic mail trigger, sale order stage notification odoo, odoo customer engagement email, automated quotation email odoo, sale order status notification, odoo alert emails, sales auto email feature, email rule sales odoo, customer order acknowledgement odoo, odoo real-time email alerts, odoo workflow notifications, sales document email odoo, sales tracking notification odoo, customer alert system odoo, automated communication sales odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Leave Email Notification",
@@ -278,7 +298,9 @@
         "description": "This module helps to auto send leave approval email notification to manager and when manager approved leave so email send to employee.",
         "summary": "leave email notification odoo, odoo hr leave alert, time off notification odoo, odoo employee leave email, odoo leave approval mail, leave request notification odoo, hr leave workflow odoo, odoo absence alert, odoo vacation email notice, hr leave manager notification, odoo employee absence request, odoo time off approval email, odoo hr leave mail template, automatic leave notification odoo, leave request email odoo, odoo manager approval alert, hr leave tracking odoo, odoo leave workflow automation, odoo staff leave notice, employee holiday email odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Disable Update Quantity Feature",
@@ -304,7 +326,9 @@
         "description": false,
         "summary": "User can be hide update quantity feature",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Less Working Hour Notification",
@@ -330,7 +354,9 @@
         "description": "Less Working Hour Notification is an Odoo HR module that helps organizations ensure compliance with working hour policies by sending automatic alerts when employees log fewer hours than expected.",
         "summary": "less working hour odoo, employee timesheet notification odoo, attendance alert odoo, odoo hr working hours check, timesheet validation odoo, odoo attendance email alert, employee low working hour odoo, hr notification system odoo, minimum working hour alert odoo, odoo staff attendance tracking, overtime and undertime odoo, odoo timesheet monitoring, hr working hours compliance odoo, underworked hours email odoo, attendance approval workflow odoo, employee productivity alert odoo, hr compliance odoo, weekly working hours tracking odoo, odoo employee efficiency report, leave and timesheet integration odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Order Email Notification",
@@ -356,7 +382,9 @@
         "description": "This module helps to auto purchase order email notification to other, vendor,purchase representative",
         "summary": "purchase order email notification odoo, odoo purchase notification, supplier email alert odoo, purchase confirmation email odoo, odoo po approval mail, vendor email notification odoo, odoo purchase workflow alert, automatic purchase order email odoo, odoo procurement mail, po confirmation notification odoo, supplier communication odoo, odoo purchase approval workflow, email alert for purchase orders, odoo vendor notification system, purchase order tracking odoo, odoo procurement automation, odoo manager approval mail, purchase order workflow odoo, purchase request email odoo, odoo supplier management email",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order To Task",
@@ -382,7 +410,9 @@
         "description": "Sale Order To Task is an Odoo module that bridges the gap between Sales and Project Management.",
         "summary": "sale order to task odoo, odoo sales project integration, sales order task creation, odoo project from sale order, automatic task from sale order, odoo crm task link, sales workflow automation odoo, sale order project management odoo, convert sale order to task, sales order job tracking odoo, odoo project planning sales, order fulfillment task odoo, odoo sales productivity, odoo sales order workflow, project task automation odoo, sales to project mapping odoo, sales order execution odoo, odoo service sales task, odoo task assignment from sale, odoo project integration sales.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Request By Employees",
@@ -406,7 +436,9 @@
         "description": "Allow user or employee to request to purchase some products, The organization has their own stages to do that so we have made stage flow dynamic as you can create as you want, along with stages you need to define the related access group which will approve the stage.",
         "summary": "purchase request odoo, employee purchase request odoo, odoo requisition management, purchase requisition odoo, odoo procurement workflow, employee request to purchase, internal purchase request odoo, odoo purchase approval, odoo purchase request workflow, requisition approval odoo, employee procurement odoo, request to PO odoo, odoo purchase demand, odoo purchase order request, employee procurement request odoo, multi-level purchase request odoo, odoo internal procurement, odoo requisition approval, purchase demand request odoo, odoo purchase workflow management",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Amount In Words",
@@ -432,7 +464,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Mass Confirm Picking",
@@ -458,7 +492,9 @@
         "description": "This module provides functionality to validate all sale orders in a single click. The user has to select the sale orders from the list view and then validate all pickings. It shows notification in success & any issue in the validation. It shows a warning if not conformed sale orders.",
         "summary": "mass confirm picking odoo, bulk picking confirmation, odoo warehouse mass action, confirm multiple transfers odoo, odoo stock picking batch confirm, odoo delivery order mass confirm, odoo incoming shipment confirm, odoo inventory automation, batch confirm warehouse transfers, odoo stock operation confirmation, mass validate picking odoo, odoo bulk delivery confirmation, odoo picking process optimization, inventory workflow automation odoo, multi picking confirmation odoo, odoo logistics picking confirmation, odoo purchase receipt bulk confirm, odoo stock workflow tools, warehouse operation automation odoo, odoo mass picking validation",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Custom Checklist",
@@ -484,7 +520,9 @@
         "description": false,
         "summary": "This module helps to track the work of the checklist.also saw by percentage.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Partner Incoming Outgoing Emails",
@@ -510,7 +548,9 @@
         "description": "Partner Incoming Outgoing Emails is an Odoo module that provides complete visibility of all communication with customers and vendors by logging both incoming and outgoing emails directly inside partner records",
         "summary": "partner emails odoo, incoming outgoing emails odoo, odoo partner email tracking, customer vendor email history odoo, partner communication log odoo, odoo email integration, supplier customer email tracking, email conversation odoo partner, partner message tracking odoo, email thread odoo, odoo crm email tracking, odoo mail integration partners, vendor email management odoo, customer correspondence odoo, odoo incoming mail partner, odoo outgoing mail partner, partner email visibility odoo, centralize emails odoo, partner contact communication odoo, email archive odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Manually Weight in Delivery Order",
@@ -536,7 +576,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Order to Sale Order",
@@ -562,7 +604,9 @@
         "description": "Purchase Order to Sale Order is an Odoo module designed for companies that handle back-to-back ordering, trading, or drop-shipping workflows.",
         "summary": "purchase order to sale order odoo, convert po to so odoo, odoo procurement to sales, odoo po to so workflow, auto sale order from purchase order odoo, purchase to sales integration odoo, vendor to customer order odoo, odoo drop-shipping automation, link purchase order to sale order odoo, odoo po to quotation, odoo purchase sales bridge, supplier to customer order flow, auto generate sale order odoo, purchase to sales mapping odoo, odoo po so converter, reverse sales from purchase odoo, purchase-sales synchronization odoo, odoo trading workflow automation, wholesale distributor odoo, back-to-back order odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Invoiced Details",
@@ -588,7 +632,9 @@
         "description": "Sale Order Invoiced Details is an Odoo module that enhances the Sales workflow by showing complete invoice information directly on the Sale Order.",
         "summary": "sale order invoiced details odoo, invoice status on sale order odoo, odoo sales invoice tracking, sales order invoice history odoo, customer invoicing from sales odoo, invoice details on quotation odoo, odoo sale invoice monitoring, sales invoice reference odoo, invoice summary in sale order odoo, odoo sales billing integration, customer invoice visibility odoo, odoo sales accounting link, sale order invoice overview odoo, invoice tracking odoo sales, odoo invoice synchronization, sale to invoice link odoo, odoo sales order billing info, invoice progress in sale order odoo, sales order invoicing report odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Order Invoiced Details",
@@ -614,7 +660,9 @@
         "description": "This app provide to invoice details of purchase order like Total amount invoiced, due amount, paid, Amount, of total paid.",
         "summary": "purchase order invoiced details odoo, vendor bill tracking odoo, po invoice details odoo, purchase order invoice status odoo, odoo purchase billing integration, supplier invoice details odoo, vendor bills in purchase order odoo, purchase to invoice odoo, purchase order invoice history odoo, invoice references in purchase odoo, po invoiced amount odoo, odoo vendor billing management, purchase invoice monitoring odoo, invoice status in po odoo, purchase invoicing report odoo, odoo purchase accounting link, po invoice overview odoo, supplier billing transparency odoo, purchase invoicing progress odoo, vendor bills tracking odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Salesperson Own Customers",
@@ -640,7 +688,9 @@
         "description": "Salesperson Own Customers restricts access to customer records in Odoo based on the assigned salesperson. Each salesperson can only view and manage the customers they are responsible for, while managers or specific users can be granted broader access. This ensures better data privacy, improves focus, and enforces sales territory or team boundaries.",
         "summary": "salesperson customer restriction, salesperson own customers, restrict customer access Odoo, customer visibility by salesperson, customer record access control, Odoo customer filter by user, own customers only, Odoo CRM access control, sales team customer restriction, restrict customer view, salesperson customer ownership, private customer access Odoo, user-based customer access, salesperson customer privacy, customer rights per salesperson, limited customer access, CRM customer visibility rule, restrict contact access Odoo, salesperson assigned customers, Odoo customer territory control, Odoo sales team data restriction, hide customers from other salespeople, CRM user-based record rules, own contact access Odoo, salesperson-specific customer list, salesperson access control, customer access by owner, per-user customer filter, Odoo salesperson restriction, own customer view Odoo, customer ownership Odoo, Odoo CRM restriction, sales CRM customer limit, salesperson assigned contacts, Odoo user restriction module, CRM contact filter, private customers Odoo, salesperson-only customers, restrict customer list Odoo, Odoo sales user security, customer privacy Odoo, Odoo salesperson rights, sales CRM data protection, Odoo sales restriction app, user-specific contacts Odoo, Odoo CRM access rights, customer visibility restriction, Odoo record rules sales, salesperson private data, customer security Odoo, limited customer view, Salesforce style restriction Odoo, Odoo CRM security module, restrict contact edit Odoo, Odoo hide other customers, CRM assigned customers, contact filter for sales, sales user limited view, restrict CRM records Odoo, own record rule Odoo, contact ownership, sales team security Odoo, Odoo CRM privacy, contact restriction module, sales CRM user filter, Odoo sales user access, customer sharing restriction, Odoo contact permissions, own customers module Odoo, Odoo CRM team rules, user limited CRM view, hide contacts from sales, Odoo customer view filter, Odoo record access CRM, salesperson specific customers",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Salesperson Select",
@@ -661,7 +711,9 @@
         "description": "A powerful tool that lets you assign, change salespersons directly from the POS interface. Designed for speed and flexibility, this module allows assignment per order or per orderline with just one tap.",
         "summary": "The Advanced POS Salesperson Module for Odoo is a powerful tool that enables you to easily assign or change salespersons directly from the POS interface. With a focus on speed and flexibility, this module allows for salesperson assignments per order or even per order line with just a single tap. The Advanced POS Salesperson Module for Odoo is a powerful add-on designed to enhance sales operations and improve team performance by allowing businesses to assign or change salespeople directly from the POS interface. What sets this module apart is its flexibility to assign a salesperson at the order line level, offering granular control over sales transactions. With real-time tracking and detailed reporting, the module allows managers to get instant insights into individual salesperson performance, making it easier to monitor sales, evaluate team efforts, and make data-driven decisions. The Advanced POS Salesperson Module is designed for speed, simplicity, and efficiency, allowing businesses to enhance their POS operations, improve sales team productivity, and boost overall business performance. Odoo POS Salesperson Module, Assign Salesperson in Odoo POS, Odoo POS Salesperson by Code, Change Salesperson in Odoo POS, Odoo Salesperson Assignment Module, POS Salesperson Management for Odoo, Salesperson Assignment per Orderline, Odoo POS Reporting and Tracking, Odoo POS Sales Efficiency, Flexible Salesperson Assignment Odoo, Odoo POS Sales Team Management, Salesperson Tracking Odoo POS, Odoo POS Addon for Salespersons, POS Order Line Salesperson Assignment, Odoo POS Salesperson Performance, Manage Salesperson in Odoo POS, Multi-Salesperson POS Odoo, Salesperson Task Management Odoo POS",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "PoS Multi Category",
@@ -680,7 +732,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Order Customer Info",
@@ -701,7 +755,9 @@
         "description": "Easily capture and save customer details in POS orders, display them on receipts, and store them in the backend for better customer tracking.",
         "summary": "The POS Order Customer Info module enhances Odoo\u2019s Point of Sale system by enabling businesses to capture and manage customer details directly from the POS interface. This feature is especially useful for retail shops, restaurants, and service providers who want to record essential customer information at the time of sale. Once activated in the POS settings, a Customer Info button appears on the POS main screen. Cashiers can quickly open a popup form to input details such as customer name, address, city, and pincode. The entered information is then stored along with the POS order, ensuring accurate and organized customer records. The module also integrates seamlessly with receipts, printing the captured customer information alongside order details. This not only provides better traceability but also adds a personalized touch to customer interactions. Additionally, the data is saved in the backend and can be accessed from the respective POS order, making it valuable for reporting, after-sales support, and customer relationship management. POS customer info, Odoo POS customer details, Odoo POS customer information module, Add customer info in POS order, Customer details on POS receipt, Save customer info in POS order backend, Odoo POS customer tracking, POS order management Odoo, POS customer popup form, Capture customer details in POS, POS receipt with customer information, Odoo POS customer data entry, POS order customization Odoo, Customer info button in Odoo POS, Save customer information in POS, POS customer data collection, Customer info in POS receipts, POS order management, POS Order Customer Info.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Default Customer",
@@ -723,7 +779,9 @@
         "description": "Boost your point-of-sale efficiency with this powerful extension that automatically assigns a default customer as soon as a POS session starts. Designed for businesses with high volumes of walk-in clients, this module eliminates repetitive manual entry, speeds up transactions, and ensures a seamless checkout experience. Perfect for retail, hospitality, and service-based industries looking to optimize daily operations.",
         "summary": "Boost your Odoo POS efficiency with the Default Customer module. This smart extension automatically assigns a default customer when a POS session starts, saving time and eliminating repetitive manual entries. Ideal for businesses with high walk-in traffic, it streamlines transactions, speeds up checkout, and ensures a smooth customer experience perfect for retail, hospitality, and service industries. The POS Default Customer module for Odoo enhances your Point of Sale system by automatically assigning a predefined customer at the start of each session. This intelligent feature is perfect for high-traffic businesses such as retail shops, restaurants, cafes, salons, and service-based outlets where many walk-in customers are processed daily.\nBy eliminating repetitive manual customer selection, the module streamlines the checkout process, ensuring faster transactions and reducing cashier workload. Automatically assign a default customer at POS session start, Save time by eliminating repetitive customer selection, Improve checkout speed and efficiency, Ensure consistency in customer-linked transactions, Ideal for businesses with walk-in or non-registered clients, Boost cashier productivity and reduce errors, POS automation, default customer POS, retail POS optimization, fast checkout solution, point-of-sale efficiency, POS system for walk-in clients, service industry POS module, automatic customer assignment POS, Odoo POS default customer, Odoo POS automation, Odoo POS speed enhancement, Odoo retail POS extension, Odoo POS default customer, Assign default customer POS, Odoo POS automation module, POS quick checkout Odoo, Default customer assignment POS, Odoo POS retail efficiency, POS customer auto selection",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Custom Order Number",
@@ -745,7 +803,9 @@
         "description": "Customize your Point of Sale order and receipt numbers with your own sequence format.",
         "summary": "The POS Custom Order Number module lets you replace Odoo default POS order references with your own numbering format including custom prefixes, suffixes, padding, and date-based sequences. Whether you run a retail shop, restaurant, cafe, or wholesale outlet, you can create professional and brand-specific receipt numbers that improve order tracking, accounting accuracy, and customer experience. With the POS Custom Order Number module, you can create professional, unique order IDs that reflect your brand\u2019s identity and business needs. Easily configure custom prefixes, suffixes, and padding for seamless order tracking, accounting, and customer experience. Use date-based sequences to automatically incorporate the current year, month, or day into your order numbers, making it even easier to categorize and track sales over time. Say goodbye to the default Odoo order references and bring your own branding and consistency to printed receipts, invoices, and internal order management. Odoo POS custom order number, Odoo POS sequence customization, Custom POS receipt number Odoo, Odoo POS numbering format, Odoo POS custom reference, Odoo POS order prefix suffix, Custom sequence for POS orders Odoo, Odoo POS order numbering system, Custom invoice number Odoo POS, Odoo POS customization module, POS order sequence settings Odoo, Odoo POS print order reference, Odoo POS receipt customization, Odoo point of sale unique ID, Branding Odoo POS, POS system custom order reference, Odoo POS professional receipt printing, Odoo POS branding and order tracking, Odoo POS date-based order numbering, Professional POS receipt numbers, Odoo POS order ID prefix, Create custom order numbers Odoo POS",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Birthday Discount",
@@ -771,7 +831,9 @@
         "description": "This will auto Apply discount to the customer cart when its their birthday.",
         "summary": "The Birthday Discount in POS module is designed to enhance customer satisfaction and loyalty by providing special discounts automatically on customer birthdays. It integrates seamlessly with the Odoo Point of Sale system, ensuring that birthday-based promotions are applied smoothly without extra effort from cashiers. The module begins by allowing you to store and configure customer birthdates within their contact details. Once set, you can configure the rules for the birthday discount whether it should be a fixed percentage, a specific amount, or applied only under certain conditions. This flexibility gives businesses control over how generous or restrictive they want to be with the birthday reward system. The discount itself is applied automatically to the customer order. Cashiers don\u2019t have to remember or manually select discounts, which reduces mistakes and speeds up transactions. The system ensures that only eligible customers (those with birthdays) receive the discount, making the process efficient and reliable. Odoo POS Birthday Discount, Point of Sale Promotions, Automatic Discount on Birthday, Customer Loyalty in POS, Odoo POS Customer Rewards, Personalized Discounts Odoo, Happy Birthday Offer Odoo, \nOdoo Point of Sale Marketing, Special Day Discount in POS, Customer Experience Enhancement, Automatic POS Discounts Odoo, Odoo Birthday Reward System, Odoo POS Custom Promotions, Sales Receipt Birthday Discount, Retail Birthday Loyalty Program, Odoo POS birthday discount, Odoo birthday discount module, Point of Sale birthday promotion, Odoo birthday offer POS, Odoo POS customer birthday rewards, Automatic birthday discount Odoo, Increase sales with birthday offers Odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "PoS Cash Control",
@@ -789,7 +851,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Stock Barcode Pro for Odoo Community with Mobile Camera Scanning",
@@ -812,7 +876,9 @@
         "description": "This Odoo app enhances the efficiency of inventory management by enabling barcode scanning for various operations. It simplifies the process of managing transfers, receipts, delivery orders, and product quantities through seamless barcode integration",
         "summary": "Enhance inventory management with advanced barcode scanning capabilities., barcode, barcode scan, barcode pro, scan pro, barcode, scan,  Enable Barcode scanning functionality for stock operations in Odoo Community (V11 to V17) stock, barcode, barcode scanning.scan location, scan barcode, scan produt,stock barcode, barcode scanning for inventory, warehouse barcode management, barcode stock tracking, scan barcode in stock operations, inventory barcode system, product barcode scanning, warehouse automation with barcode, barcode for stock picking, barcode inventory control, quick stock update with barcode, barcode warehouse tracking, inventory barcode scanning, Odoo stock barcode, Odoo inventory barcode management, Odoo warehouse barcode tracking, Odoo barcode picking system, Odoo barcode scanner integration, Odoo stock movement with barcode, Odoo product barcode tracking, Odoo real-time barcode inventory, barcode scan,stock report , advance report , advance stock report , ai inventory , ai stock , Advance Reordering , Purchase Reorder , Inventory Management , Stock Planner , Inventory Scheduler , Supply Forecasting , Stock Optimization , Inventory Planning Tool , Demand Forecasting , Inventory Forecasting , Stock Control , Inventory StrategyIt helps to manage customer demand with the right level of inventory by placing Purchase Order or replenishing inventories using inter company or inter warehouse , inventory management technique , inventory coverage ratio , Advance reorder , order points , reordering rule , advance purchase ordering , sales forecast , inter company transfer , inter warehouse transfer , stock replenishment , demand , inventory , advance inventory , out of stock , over stock , order point , supply chain management , accurate inventory, Inventory forcast, inventory adjustment, inventory, scan, scan barcode, mobile scan, scan barcode with mobile, brcode scanner, connector,Responsive Inventory Management, Responsive Barcode Scanning, Responsive Warehouse Management, Responsive Odoo App, Real-Time Responsive Stock Control, Responsive UI for Barcode Scanning, Mobile Responsive Inventory App, Responsive Stock Transfer Management, Responsive Product Quantity Update, Responsive Inventory Adjustment, Seamless Responsive Inventory System, Adaptive Barcode Scanning Interface, Responsive Odoo Inventory Solution, Barcode Scanning with Responsive Design, Responsive Inventory Tracking, User-Friendly Responsive Inventory App, Efficient Responsive Stock Management. , Odoo Barcode Scanning App, Stock Barcode Management Odoo, Efficient Inventory Barcode Odoo, Barcode Scanning for Stock Picking, Barcode Scanning for Transfers Odoo, Product Barcode Update Odoo, Lot Barcode Scanning Odoo, Serial Number Tracking Odoo, Inventory Adjustment Barcode Odoo, Stock Operations with Barcode Odoo, Kanban View for Barcode Odoo, Ready Transfer Barcode Odoo, Delivery Order Barcode Odoo, Product Quantity Barcode Update Odoo, Internal Transfer Barcode Scanning Odoo, Receipt Operation Barcode Odoo, ZPL Barcode Printing Odoo, Odoo Barcode for Warehouse Management, Stock Barcode Features in Odoo, Streamlined Inventory Management Odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Direct Print report",
@@ -836,7 +902,9 @@
         "description": "This Odoo module enables users to print reports directly from the system without needing to download them as PDFs. With features like direct printing, customizable report settings, preview options, and compatibility with both community and enterprise editions, it streamlines the report printing process and eliminates unnecessary steps. The module does not require additional hardware like the Odoo IoT box, making it cost-effective and user-friendly.",
         "summary": "Instant Report Printing, Direct Print Functionality, One-Click Printing, Direct Print Popup, Automated Report Printing, Print Reports Directly, Seamless Direct Printing, Direct Printing Without Download, Quick Print Option, Print Report Popup Control, Direct print, print, auto print, advance print, Direct Print report, print report, report printing app, quick print reports, PDF report printer, document printing app, business report printing, office print tool, print on demand, fast print app, invoice printing app, report generator tool, print Excel reports, print PDF files, cloud print reports, wireless printing app, local network printer, seamless report printing",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Employee Training Management",
@@ -857,7 +925,9 @@
         "description": "This app helps HR teams efficiently manage employee training programs in Odoo. It allows you to schedule training sessions, assign employees or departments, track attendance, record completion, and gather feedback. With calendar views, certification tracking, and detailed training logs, organizations can enhance employee skills and monitor development over time. Fully integrated with Odoo's HR and Employee modules, this solution streamlines your training lifecycle from planning to performance evaluation.\n        Features:\n        - Simplified training application and management.\n        - Course and subject assignment for employees.\n        - Approval and task management for training.\n        - Track training progress from application to completion.\n        - Generate training reports in PDF format.\n    ",
         "summary": "\tEmployee training, Employee training management, Employee development, Employee learning management, Employee onboarding and training, Employee onboarding training, Employee performance improvement, Employee progress tracking, Employee re-skilling, Employee skill development, Employee skills enhancement tool, Employee training & development management, Employee training certificate management, Employee training history records, Employee training lifecycle, Employee training log, Employee training records, Employee training request, Employee training system, Employee upskilling, HR compliance training, HR learning tools, HR training, HR training app for employee growth, HR training planner, HR training schedule, HR training workflow, Human resource training, In-house training scheduler, Internal employee workshop manager, Internal knowledge sharing, Internal training management, Internal training, Learning & development, Learning management for employees, Learning session logs, Learning session manager, Manage employee sessions, Manage staff training, Course management, Education tool, Employee improvement, Employee skills, Employee training, HR growth tools, HR module training, HR skills, HR training app, HR training module, HR training planner, Learning insights, Learning record, Learning tracker, LMS, Staff development, Talent development, Training automation, Training calendar, Training feedback form, Training lifecycle, Training management, Training module, Training session, Upskill system, Online training record, Onboarding training tracker, Post-training review, Professional development, Schedule training programs, Skill improvement app, Skill upgrade module, Staff improvement tracker, Staff skill development, Staff training and progress tracking, Staff training manager, Staff training workflow, Team training management, Training approval flow, Training attendance, Training calendar, Training calendar view, Training certificate, Training completion tracking, Training course management, Training dashboard, Training document upload, Training engagement tool, Training evaluation, Training feedback form, Training feedback system, Training history, Training material management, Training module for HR, Training program management, Training request, Training schedule app, Training schedule and course management, Training session tracking, Training system, Workforce training automation, Workshop tool, Course assignment, Course participation tracker, Corporate training management solution, Corporate training, Career development, Department training, Training insights, Employee mentor program, odoo training management",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Transport Management",
@@ -880,7 +950,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Custom Fields In Product",
@@ -902,7 +974,9 @@
         "description": "Custom Fields in Product allows you to add and manage custom fields on product templates and product variants in Odoo without any coding. Whether it\u2019s technical specs, custom labels, tags, or industry-specific data, this app gives you the flexibility to tailor product information to your business needs. All custom fields are visible and editable in both form and list views.",
         "summary": "custom fields in product, Odoo product customization, add fields to product, product template custom fields, product variant extra fields, dynamic product fields Odoo, editable product fields, product field manager, extend product model, custom attributes in product, extra data in product, user-defined product fields, Odoo product form fields, product configuration fields, additional product info, custom specs in product, product technical data fields, custom field management, Odoo flexible product fields, add attributes to product, configurable product data, tailor product information Odoo, extend product details, advanced product fields, product master customization,odoo studio\n",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Employee Checklist",
@@ -924,6 +998,8 @@
         "description": "\n    Employee Checklist\n    ==================\n\n    This module provides a robust onboarding tracker for employees, showcasing their progress as a percentage. The checklist functionality allows HR or managers to set up and monitor specific tasks that need to be completed during an employee's entry process.\n\n    Key Features:\n    - Configurable Checklist:\n      Define and customize onboarding tasks under Employee > Configurations.\n\n    - Progress Tracking:\n      Real-time tracking of onboarding progress using a percentage progress bar.\n\n    - Multi-View Support:\n      Display progress in Form, Tree, and Kanban views for a comprehensive overview.\n\n    Navigation Highlights:\n    - **Checklist Configuration**:\n      Set up onboarding tasks under Employee \u27a1 Configurations.\n\n    - **Form View**:\n      Verify tasks in the employee checklist, with progress reflected as a percentage and progress bar.\n\n    - **Tree View**:\n      View checklist progress in list format with a progress bar for each employee.\n\n    - **Kanban View**:\n      Visualize employee onboarding progress in a Kanban-style layout with a progress bar.\n    ",
         "summary": "employee checklist, hr checklist, onboarding checklist, offboarding checklist, employee process tracker, employee task list, odoo hr checklist, odoo onboarding module, employee form checklist, hr workflow checklist, exit checklist, joining checklist, hr checklist template, odoo employee workflow, employee record checklist, checklist in employee form, hr checklist progress, employee checklist status, checklist tracker odoo, task checklist for hr, odoo employee onboarding, odoo employee exit process, employee task progress, hr onboarding steps, hr task checklist, checklist automation hr, employee checklist module, checklist management odoo, odoo hr templates, odoo joining checklist, exit process checklist, hr document checklist, employee task assignment, employee lifecycle management, checklist visibility hr, multiple checklist employee, odoo hr workflow automation, employee task verification, odoo employee task tracker, compliance checklist hr, odoo hr form checklist, training checklist employee, internal transfer checklist, employee milestone tracker, odoo process checklist, new hire checklist odoo, odoo hr integration, hr system checklist, audit checklist employee, employee onboarding tracker, odoo checklist for employees, employee training module\n",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     }
 ]

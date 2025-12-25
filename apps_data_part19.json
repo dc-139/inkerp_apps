@@ -18,7 +18,9 @@
         "description": "The Contact Extra Fields module enhances the res.partner model by adding more customizable fields to the contact form. It is designed for businesses that require detailed contact information management, ensuring all customer, vendor, and partner data is stored in one place.",
         "summary": "The Contact Extra Fields module extends Odoo\u2019s res.partner model with additional fields.Add details like fax, Skype ID, date of birth, department, and extra emails/phones.Easily search, filter, and manage contacts in Odoo CRM, Sales, and Contacts apps.Keep customer, vendor, and partner records complete in the partner master data.Seamless integration, no extra setup needed for improved contact management.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "CRM Extra Fields",
@@ -39,7 +41,9 @@
         "description": "The CRM Extra Field module for Odoo adds custom fields to CRM Leads and Opportunities, syncing seamlessly with Contacts. It tracks details like fax numbers, Skype IDs, date of birth, and more. With two-way syncing, any changes in leads or opportunities automatically update the corresponding contact record. This simplifies lead management and ensures accurate customer data across your CRM.",
         "summary": "The CRM Extra Field app allows businesses to extend their CRM functionality by adding custom fields to the CRM lead and opportunity forms in Odoo. Track extra details like fax, Skype ID, date of birth, home phone, extra emails, and more. This app improves lead management, enhances customer relationships, and makes CRM data more detailed and organized. With added search and filter capabilities, your team can easily segment leads based on additional customer information, making it perfect for businesses that need to capture more granular customer data.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Document / Attachment Version",
@@ -60,7 +64,9 @@
         "description": "The Document & Attachment Version Control app helps you keep your files organized by automatically managing multiple versions of the same document. When you upload a file with the same name and type, the system saves it as a new version instead of overwriting the original. This way, every update is preserved and can be accessed whenever needed. To make navigation simple, the app provides two smart buttons, Previous Version and Next Version, so you can quickly move back and forth through a document\u2019s history. With this streamlined process, your team can maintain accuracy, ensure traceability, and confidently manage documents without the risk of losing important information.",
         "summary": "The Document & Attachment Version Control app for Odoo makes it simple to manage documents, track versions, and organize attachments without losing data. Every file upload is saved as a new version, keeping a complete document history for accuracy and compliance. version doument version attachment version Users can quickly navigate between revisions with Previous Version and Next Version buttons, making document management, file tracking, and version control easier than ever. Ideal for businesses that need secure document storage, revision history, and reliable attachment management inside Odoo. The app supports document version control, attachment version control, file version management, and a comprehensive document versioning system with attachment versioning in Odoo. It enhances Odoo document version and Odoo attachment version handling through an efficient Odoo version control app designed for seamless document management in Odoo. Features include file version tracking, automatic document versioning, version history tracking, document revision tracking, and attachment version history. With file version navigation and previous and next version buttons, users experience secure document management, traceable document storage, and complete metadata tracking with a clear document change audit trail and Odoo version navigation. Administrators can configure version restriction configuration, document version restriction, restricted models for versioning, company-specific versioning rules, and model-specific document versioning under developer mode configuration and Odoo technical settings. Additional options include document version settings and attachment restriction config. Use cases cover invoice attachment versioning, sales order document control, contract version management, audit-ready document control, compliant file management, multi-company document management, and document versioning for accounting. With Odoo invoicing attachments, automatic file history in Odoo, and attachment smart buttons like previous version button and next version button, users can easily navigate through versions using the attachment form view and attachment list view. The system provides complete document version navigation, access via the attachment debug menu, and robust Odoo attachment management. It keeps a clear file upload history, supports duplicate file versioning, and helps prevent file overwrite through document storage optimization. Attachments remain record-linked as business document attachments, displayed in a centralized attachment view with version number tracking to ensure secure file version control across the organization.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "User Restriction on Product Access",
@@ -81,7 +87,9 @@
         "description": "The User Restriction on Product Access module for Odoo provides enhanced data security and controlled product visibility by allowing administrators to define which products each user or user group can view, access, or manage. This ensures that sensitive product information is only available to authorized personnel, prevents misuse of data, and streamlines workflows by showing users only the relevant products they need. Ideal for companies managing multiple product lines, departments, or business units, this module strengthens access control and compliance within Odoo.",
         "summary": "This app will restrict multiple Products for particular user, Odoo Product Access Restriction, Restrict Product Visibility Odoo, Product Security Odoo, User Product Access Control Odoo, Odoo Product Permission Management, Restrict Product Records Odoo, Odoo Product-Level Security, Product Access Governance Odoo, Odoo Secure Product Data, Limit Product Access Odoo, Product User Restriction Odoo, Odoo Controlled Product Access, Product Visibility Control Odoo, Odoo Role-Based Product Access, ERP Product Security Odoo, Odoo Multi-User Product Restriction, Product Confidentiality Odoo, Secure Product Records Odoo, Odoo Restricted Product Management, User Rights on Products Odoo, Odoo Access Rules for Products, Product Permission Workflow Odoo, Odoo Data Privacy Product Module, Restricted Product Listing Odoo, Product Access Policy Odoo, Odoo Multi-Company Product Restriction, Product Filtering by User Odoo, Odoo Product Access Configuration, Role-Based Product Restriction Odoo, Odoo Security Product Module, Product Access Limitation Odoo, Odoo Advanced Product Permissions, Odoo ERP Product Security Control, Product Authorization Odoo, Controlled Product Visibility Odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Age Verification Popup",
@@ -102,7 +110,9 @@
         "description": "The Age Verification Popup feature ensures compliance with age-restricted content and services by prompting users to confirm their age before logging in. Upon launch, users are presented with a clear verification message. If they select \"No\" or close the popup, they are automatically redirected to a predefined path, preventing access to restricted areas. This functionality helps maintain legal requirements, protect underage users, and enhance user trust.",
         "summary": "The Age Verification Popup is a simple and effective feature that checks a user\u2019s age before they log in. When the app opens, a popup asks the user to confirm if they meet the required age. If they click \"No\" or close the popup, they are instantly redirected to a set page, keeping them away from age-restricted content. This helps you follow legal rules, protect younger users, and create a safe, trustworthy experience.age verification popup, verify user age, age gate popup, underage content protection, age restriction popup, confirm your age, age verification before login, legal compliance popup, age restriction app feature, verify age before access, parental control popup, age verification system, user age confirmation, popup age check, age check before login, website age verification, app age verification, age restricted content block, GDPR age verification, COPPA compliant popup, safe browsing for minors, prevent underage access, digital age gate, age restriction compliance, pop up for age confirmation, secure age verification, content access restriction, age verification alert, protect underage users, age verification tool, adult content age check, popup age gate, confirm age to enter, app safety feature for minors",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Employee Promotion",
@@ -123,7 +133,9 @@
         "description": "The Employee Promotion module for Odoo streamlines the HR process of managing staff promotions by providing a structured workflow for tracking, approving, and recording promotions within the system. HR managers can define promotion criteria, update employee job positions, salary structures, and grades seamlessly while maintaining a transparent record of career growth. This module enhances employee satisfaction, ensures fair evaluation, and improves organizational efficiency by centralizing promotion management in Odoo.",
         "summary": "Odoo Employee Promotion, HR Promotion Workflow Odoo, Employee Career Growth Odoo, Odoo HR Module Extension, Staff Promotion Management Odoo, Employee Position Upgrade Odoo, Odoo HR Appraisal and Promotion, Automatic Promotion Update Odoo, Odoo Job Role Upgrade, Salary Increment Approval Odoo, HR Workflow Automation Odoo, Odoo Employee History Tracking, Promotion Process in Odoo HR, Career Development Odoo ERP, Odoo Employee Lifecycle Management, HR Promotion Approval Odoo, Odoo Human Resource Management, Employee Career Path Odoo, Odoo HR Automation Module, Promotion Request Workflow Odoo, Odoo Employee Growth Tracking, Position Upgrade Odoo ERP, HR Job Title Change Odoo, Odoo Employee Record Update, Odoo HR Compliance Management, Staff Promotion Tracking Odoo, HR Career Progression Odoo, Odoo Multi-Level HR Approval, Employee Salary Increment Odoo, HR Dashboard Promotion Odoo, Odoo Employee Record Management, Job Promotion Automation Odoo, Odoo HR Performance Evaluation, Employee Appraisal Integration Odoo, HR Growth Planning Odoo, Odoo Staff Workflow Automation, HR Role Upgrade Odoo, Odoo Employee Data Update, Promotion Notification Odoo, Odoo HR Security Workflow, Career Growth Management Odoo, Odoo ERP Employee Management, Automated Promotion Workflow Odoo, HR Department Efficiency Odoo, Odoo Staff Position Management, Employee Role Transition Odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Order Report Preview",
@@ -144,7 +156,9 @@
         "description": "The Purchase Order Report Preview feature provides users with the ability to view Purchase Orders and Requests for Quotation in a clear, structured, and printable format before final submission. This functionality is designed to enhance the accuracy of procurement processes by allowing stakeholders to thoroughly review all order details including supplier information, item descriptions, quantities, pricing, and terms before finalizing the document. By presenting the data in a professional layout, it becomes easier to detect and correct any potential errors or inconsistencies in advance. This helps reduce miscommunication with vendors, prevents costly mistakes, and ensures compliance with internal approval workflows. Overall, it supports a more controlled, transparent, and efficient purchasing process.",
         "summary": "Preview Purchase Orders and RFQs Before Finalizing \u2013 Avoid Costly Mistakes.Easily view and print your Purchase Orders and Requests for Quotation (RFQs) in a clear, professional format before confirming. The Purchase Order Report Preview feature helps you catch errors early, ensure all details are correct, and keep your documents consistent and accurate. Save time, reduce manual mistakes, and streamline your procurement process.\nPurchase Order Preview, RFQ Preview, Printable Purchase Order, Print RFQ Format, Procurement Order Review, Purchase Order Report, RFQ Report Format, PO Report Preview, Review Purchase Order Before Approval, Purchase Order Accuracy, RFQ Accuracy Check, Purchase Order Mistake Prevention, Preview Purchase Orders Before Sending, Purchase Order Confirmation Tool, Digital Purchase Order Format, Printable RFQ Document, Purchase Order Verification, Review Purchase Request, Procurement Document Preview, Purchase Workflow Accuracy, Purchase Order Automation Tool, RFQ Template Viewer, Purchase Order Consistency, PO Draft Preview, RFQ Draft Review, Procurement Process Optimization,Error-Free Purchase Orders\n, Clean PO Format. Procurement Preview Feature. Supplier Quotation Review. Purchase Order App. Procurement Accuracy Tool. Supply Chain Document Review. Purchase Request Validation. Quote Request Review Tool.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Contract Management",
@@ -165,7 +179,9 @@
         "description": "The Purchase Contract Management module helps you manage vendor contracts efficiently. It ensures that only approved contracts can be used to create purchase orders and vendor bills. You can set up single or multi-step approvals with email notifications and organize workflows using teams. Approved contracts can also serve as templates to speed up procurement tasks and reduce manual errors. Expired or completed contracts close automatically, keeping records up to date. The module supports multiple companies and currencies, making it flexible for any business. This way, your purchasing process becomes faster, more accurate, and well-organized.",
         "summary": "Purchase contract purchase contract management purchase contract approval approval purchase contract vendor contract supplier contract procurement contract purchase agreement contract for purchase order contract for procurement approval workflow approval process approval steps approval rules approval hierarchy team-based approval multi-step approval unlimited approval levels approval notifications contract validation automated approval contract to purchase order create purchase order from contract purchase order contract RFQ contract integration request for quotation contract apply contract to purchase order purchase contract linkage contract-based purchase order vendor bill vendor bill from contract vendor invoice automation contract invoice billing automation invoice from contract vendor invoice matching procurement billing workflow automated contract management contract lifecycle contract renewal contract closure contract expiration automated contract expiry contract performance tracking contract monitoring contract template reuse procurement workflow automation supplier compliance vendor compliance tracking procurement policy compliance approval hierarchy setup procurement process control audit log document management centralized contract repository multi-company contract multi-currency contract contract settings contract templates workflow configuration contract operations secure contract management vendor master data integration Purchase Contract Management, Vendor Contract Approval, Procurement Automation, Multi-Step Approval Workflow, Team-Based Approvals, Unlimited Approval Steps, Email Notifications, Contract Lifecycle Management, Automated Contract Expiry, Contract as Template, Purchase Order from Contract, Vendor Bill Automation, RFQ Contract Integration, Supplier Contract Compliance, Multi-Company Support, Multi-Currency Support, Procurement Workflow Optimization, Purchase Order Automation, Vendor Contract Management, Contract Approval Workflow, Digital Procurement System, Supplier Relationship Management, Vendor Compliance Tracking, Procurement Workflow Automation, Contract Monitoring, Approval Notifications, Contract Template Reuse, Purchase Agreement Automation, Vendor Invoice Matching, Procurement Process Control, Centralized Contract Repository, Purchase Contract Templates, Supplier Contract Tracking, Automated RFQ Management, Contract Performance Monitoring, Approval Hierarchy Setup, Procurement Policy Compliance, Vendor Master Data Integration, End-to-End Procurement, Contract Renewal Automation, Contract Closure Tracking.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Contract Management",
@@ -186,7 +202,9 @@
         "description": "The Sale Contract Management and Approval (Sale Submodule) helps you manage sales contracts easily in Odoo. It ensures that only approved contracts can be used to create quotations, sale orders, and customer invoices. You can set up single or multi-step approvals with email notifications and use contracts as templates to save time. Approved contracts can also generate invoices directly, while expired ones close automatically. The module supports multiple companies and currencies, making it suitable for any business. This way, your sales process becomes faster, more accurate, and well-controlled.",
         "summary": "Sale contract sales contract sales contract management sale contract management sales contract approval approval sales contract sales contract workflow contract approval for sales contract to sale order sale contract validation apply contract to quotation contract quotation contract to quotation sale order contract create sale order from contract quotation from contract contract in sales approved contract in sale order approval workflow multi-step approval approval process approval rules approval team automated approval sales workflow automation sales contract lifecycle automatic contract closure contract renewal contract expiration invoice from contract sales invoice from contract billing automation customer invoice vendor bill recurring billing invoice approval contract billing process multi-company contract multi-currency contract contract settings contract templates approval stages team-based approval secure contract management access rights document management compliance tracking Sale Contract Management System, Contract Approval Workflow Software, Odoo Contract Management, Sales Contract Automation Tool, Contract to Sale Orders Odoo, Invoice Generation from Contracts, Sales Order Creation from Contracts, Multi-Step Approval for Sales Contracts, Odoo Contract Management Features, Automatic Contract Expiry and Closure, Contract Templates for Sales Orders, Multi-Currency Contract Management, Odoo Sales Contract Module, Business Contract Approval Workflow, Sales Contract Template Reuse, Odoo Contract Management for Multiple Companies, Sales Process Automation, Sales Contract Validation Tool, Easily Create Sale Orders from Contracts, Track Sales Contracts in Odoo, Sales Order Management from Contracts, Odoo Invoicing from Contracts, Automated Sales Contract Expiration, Sales Quotation from Approved Contracts, Contract and Sale Order Integration ",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Report Preview",
@@ -207,7 +225,9 @@
         "description": "Sale Order Report Preview is a user-friendly app designed to enhance your workflow by allowing you to preview PDF versions of sale orders before printing or downloading them. This ensures accuracy and helps avoid errors by giving you a clear view of the final document. With an intuitive interface and seamless functionality, it streamlines the review process. Whether for internal checks or customer confirmations, this tool provides an efficient way to manage sale order reports with confidence.",
         "summary": "Sale Order Report Preview is a powerful yet easy-to-use tool that lets users view a PDF preview of their sale orders before printing or downloading. This feature helps ensure everything looks correct, reducing mistakes and saving time. With a clean and intuitive interface, it simplifies the process of reviewing and managing sales documents. Perfect for businesses that want to improve accuracy, streamline workflows, and deliver professional-looking reports with confidence.Sale order preview, PDF preview before print, Sale order PDF viewer, Print preview for sale orders, Order report preview app, PDF sale order generator, Sales document preview, Preview before printing, Order report PDF, Sales report viewer, Sales order print preview, View sale order PDF, PDF order preview tool, Sales report download, Printable sales report, Order report management, Sale order review, Sales document management, PDF report for sales, Sales order check tool, Sales report automation, Business sales report, Custom sale order preview, Sales PDF template preview, Accurate sales report preview, Sales workflow tool, Order summary PDF viewer, Sale order final check, Sales document preview app, Sales report preview software, Easy sales order preview, Reliable sales preview tool, Smart order preview system, Error-free sales report, Pre-download PDF preview, Print-ready sale order, Online sale order preview, Instant sales report viewer, Order confirmation PDF, Sales print preview tool",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Transaction Fee",
@@ -228,7 +248,9 @@
         "description": "POS Transaction Fee allows you to configure and apply transaction charges in Odoo Point of Sale. Charges can be defined as either fixed amounts (e.g., $2 per order) or percentage-based (e.g., 2% of the order total).",
         "summary": "POS Transaction Fee lets you easily configure and apply extra charges in Odoo Point of Sale. You can define fees as a fixed amount (e.g., $2 per order) or a percentage of the order total (e.g., 2%). The fee is automatically applied at checkout, clearly shown on the POS screen and customer receipt, and recorded in the backend and accounting for accurate reporting. POS Transaction Fee is a powerful Odoo module that enables businesses to automatically apply transaction charges during Point of Sale operations. Whether you want to recover payment gateway costs, bank charges, or service fees, this module helps you configure charges as either fixed amounts (e.g., $2 per order) or percentage-based (e.g., 2% of the order total). The module is highly flexible - you can apply fees to specific payment methods (like credit cards or mobile wallets) while excluding others (like cash). This ensures accurate, real-world handling of different payment scenarios. Once configured, the fee is automatically calculated and displayed on the POS payment screen, allowing cashiers and customers to see the breakdown before confirming the order. After validation, the fee is included in the customer receipt (printed or emailed), ensuring transparency at every step. Odoo POS Transaction Charges, Odoo POS Transaction Fee, Odoo POS Payment Charges, Odoo POS Payment Method Fee, Odoo POS Service Fee, Odoo POS Payment Surcharge, POS Extra Charges Odoo, Odoo POS Receipt with Charges, Odoo POS Payment Gateway Fees, Odoo POS Bank Charges , Odoo 18 POS Accounting Charges, Add extra charges in POS, Fixed or percentage fee in POS, Show charges on POS receipt, Apply charges per payment method, Automatic fee calculation at checkout, POS order with additional fee, Track transaction fee in POS backend, Transparent billing with receipt charges, Manage bank or card fees in POS.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Website Product Internal Reference(Default Code)",
@@ -249,7 +271,9 @@
         "description": "Website Product Internal Reference (Default Code) is a simple yet useful app that allows you to display the internal reference (default code) of products on your website shop. When the \"Display Internal Reference\" option is enabled in settings for specific website, customers can view the product code directly on product pages of that website. This feature is especially helpful for stores with large inventories or B2B sales, where product codes are essential for quick identification and ordering. The app integrates smoothly with the Odoo website without affecting the existing design.",
         "summary": "Website Product Internal Reference (Default Code) makes it easy to show product codes (SKUs) on your Odoo website shop. By enabling the \"Display Internal Reference\" setting, customers can quickly see product codes on each product page. This helps users find and identify products faster\u2014especially useful for large catalogs and B2B stores. The app is lightweight, easy to use, and blends perfectly with your existing website design.Odoo website, Odoo website shop, Odoo product display, Odoo product reference, Odoo default code, Odoo internal reference, Odoo eCommerce, Odoo shop customization, Odoo B2B shop, Odoo product SKU, Show product code, Display product SKU, Product internal reference, Product default code, Product identifier, Product details on website, Product code visibility, Product catalog management, Product reference on product page, Inventory product code, Toggle product code, Enable SKU on website, Display internal reference setting, Easy product identification, SKU visibility on website, Product info display, Add SKU to shop, Product reference field, B2B product catalog, Business-to-business ecommerce, Customer-friendly product info, Fast product lookup, Easy product navigation, Helpful for bulk orders, Shop with product codes, Improved product search, eCommerce product reference, Improve website usability, SEO product optimization, Better user experience, Website product enhancement, Easy-to-use Odoo app, Boost eCommerce efficiency, Streamlined shopping experience",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Stock Report Preview",
@@ -270,7 +294,9 @@
         "description": "Stock Report Preview is a simple and efficient app that lets users view PDF previews of their stock reports before printing. With a clean interface and fast performance, it ensures that you catch errors and formatting issues ahead of time. Save paper, save time, and print only what\u2019s necessary. Perfect for businesses and individuals managing inventory or financial reports.",
         "summary": "Stock Report Preview is a handy app that lets you check your stock report as a PDF before printing. This way, you can make sure everything looks correct and well-formatted. It helps you avoid printing errors and unnecessary paper waste. The app is simple to use, with a clean and easy-to-understand interface. Whether you're managing inventory or financial records, it's a great tool to preview and print reports with confidence.Stock report preview, PDF preview before printing, Print preview app, Stock report PDF viewer, Inventory report preview, Stock report print preview, Business report viewer, PDF stock report preview, Print-ready stock reports, Inventory management report, Stock inventory preview, Inventory PDF generator, Inventory report printing, Warehouse stock report, Stock summary preview, Stock control reports, Product stock report PDF, Retail inventory report viewer, Inventory print preview tool, PDF print preview, Print check before printing, PDF formatting preview, Report preview software, Printable report preview, Print report without errors, Print-friendly reports, Avoid printing mistakes, Report formatting checker, Print preview solution, Easy report preview app, Simple PDF preview tool, Clean interface PDF viewer, User-friendly print preview, Quick report preview, Error-free report printing, Save paper and print right, Accurate PDF preview, Pre-print PDF check, Document preview for printing, Print preview before final copy, Digital report checker",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Website Show Available Quantity",
@@ -291,7 +317,9 @@
         "description": "Website Show Available Quantity allows store admins to easily control the visibility of product stock levels on their website. With a simple toggle, you can choose to show or hide available quantities from customers. This helps manage buyer expectations and improves transparency of store and user experience. Perfect for inventory-sensitive businesses looking for flexible display options.",
         "summary": "Website Show Available Quantity is a powerful tool for displaying real-time product stock levels directly on the product page. Highlight low inventory with custom messages and eye-catching colors to create urgency and boost conversions. Set a minimum quantity threshold to trigger different messages based on stock availability. Easily customize both messages and styles to match any store design. Improve customer experience and drive more informed purchases with clear, visual inventory updates.\nshow product quantity, display stock level, product stock status, inventory quantity display, show available quantity, show product availability, low stock warning, stock quantity indicator, display inventory on product page, real-time stock display, eCommerce stock display app, Shopify show quantity app, WooCommerce product quantity plugin, Wix product inventory app, Magento show available stock, BigCommerce inventory message, online store quantity alert, display product stock eCommerce, show remaining stock on website, eCommerce low stock message, low stock alert, out of stock notice, scarcity marketing tool, urgency message app, increase conversion with stock alert, FOMO marketing plugin, limited stock notice, in-stock availability message, product availability badge, inventory urgency tool, custom stock message, color-coded stock display, product quantity with color, inventory label customization, display product stock with style, user-friendly quantity display, show available items visually, quantity threshold alert, dynamic stock message, customizable stock status, how to show quantity left on product page, add stock availability to product page, real-time inventory display Shopify, product availability plugin for online store, customizable quantity message app .",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Waiter Table Locking",
@@ -311,7 +339,9 @@
         "description": "The POS Waiter Lock Table app helps restaurants avoid confusion by making sure only one waiter can handle a table at a time. When a waiter opens a table, it gets locked for them until the order is finished or canceled.",
         "summary": "The POS Waiter Lock Table app is designed to streamline restaurant operations by ensuring that each table can only be managed by one waiter at a time. Once a waiter opens a table, it is automatically locked under their control, preventing others from making changes and avoiding confusion. The table remains locked until the order is completed, canceled, or transferred, ensuring smooth service and clear accountability. The POS Waiter Table Lock & Transfer app is designed to improve restaurant operations in Odoo Point of Sale (POS) system. It helps restaurants avoid confusion when multiple waiters manage the same tables, ensuring smooth service and accurate order handling. With this app, tables can be locked to the waiter currently handling them, preventing other staff from accidentally adding items or modifying orders. This reduces mistakes, avoids conflicts, and improves accountability among staff. At the same time, the app provides flexible options to transfer or merge orders between tables when needed, supporting real-life dining situations like customers changing seats, combining tables, or splitting groups. POS Waiter Lock, POS Table Lock, POS Table Manager, Odoo POS Table Lock, Odoo Restaurant POS, Odoo POS Waiter Control, Restaurant Table Lock in POS, POS Table Access Control, Odoo POS Table Reservation, Odoo POS Table Assignment, POS Table Transfer, POS Table Merge, Waiter Table Management, Lock Tables in POS, Prevent Double Table Serving, Restaurant POS Order Control, Waiter Exclusive Table Access, POS Automatic Table Unlock, Odoo Restaurant Table Workflow, Restaurant POS Management, Smart POS for Restaurants, Restaurant Digital Table Manager, POS Order Flow Management, Restaurant POS Order Handling, Waiter Table Assignment, Waiter Order Control, Waiter POS App, POS for Waiters, Manage Waiters in POS, Prevent Waiter Conflicts, Exclusive Waiter Table Lock.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Stock Valuation By Warehouse/Location",
@@ -332,7 +362,9 @@
         "description": "Easily track and analyze product stock valuations in Odoo by warehouse and location. This module provides clear tree and pivot views, grouping inventory values for better visibility, accurate reporting, and smarter decision-making in inventory management.",
         "summary": "Odoo stock valuation, Inventory valuation, Stock by location, Warehouse stock valuation, Product valuation report, Inventory analysis, Odoo inventory reporting, Stock location tracking, Valuation by warehouse, Valuation by Location, Inventory management, Stock valuation by warehouse, Stock valuation by location.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Manufacturing Order Report Preview",
@@ -353,7 +385,9 @@
         "description": "The Manufacturing Order Report Preview feature lets users view their manufacturing order reports as a PDF before downloading or printing. This real-time PDF preview helps ensure that all report details are accurate and correctly formatted. By reviewing the report layout and content beforehand, users can avoid printing errors and save time. Whether you need to print a manufacturing report or download it as a PDF, this tool makes the process faster and more reliable.",
         "summary": "With the Manufacturing Order Report Preview feature, users can instantly view a PDF version of their manufacturing report before choosing to download or print it. This ensures the accuracy of critical order details and allows for a quick review of formatting and layout. The live PDF preview eliminates the need for multiple revisions or test prints, streamlining the reporting process. Whether you're generating, printing, or downloading a manufacturing order report, this feature helps you do it with confidence and efficiency.manufacturing order report, manufacturing report preview, order report PDF, manufacturing report PDF preview, preview manufacturing order report, print manufacturing report, download manufacturing report, PDF preview for manufacturing, generate manufacturing order report, manufacturing report download, PDF report preview, live report preview, manufacturing PDF viewer, preview report before printing, preview report before downloading, real-time PDF preview, report viewer for manufacturing, manufacturing order print preview, interactive report preview, report generation tool for manufacturing, manufacturing ERP report, , report preview feature, ERP report preview tool, order management reports, production report preview, manufacturing software PDF, shop floor reporting tool, manufacturing order documentation, digital manufacturing reports, report management in ERP, how to preview manufacturing report, print-ready manufacturing report, download-ready report, save manufacturing order as PDF, print preview for production report, verify order report before printing, confirm report layout before printing, audit manufacturing report, check manufacturing order details, format production report PDF, streamline manufacturing reports, accurate manufacturing report preview",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Lot & Serial Selection",
@@ -374,7 +408,9 @@
         "description": "This module extends Odoo Point of Sale (POS) by allowing cashiers to select Lot/Serial Numbers directly during the POS sales process. It also supports Expiration Date tracking for better inventory management",
         "summary": "The POS Lot/Serial Selection Module provides a seamless solution for managing serialized products within Odoo\u2019s Point of Sale system. This module ensures that every item sold through POS can be tracked with precise lot or serial numbers, enabling businesses to maintain accurate inventory control, streamline operations, and enhance product traceability. In the backend, users can easily create and manage lot/serial numbers for products. For example, a product like Storage Box can have multiple serial numbers assigned (e.g., Ser/01, Ser/02, Ser/03, Ser/04). Each serial number is tied to its own available quantity, expiration date, and history, ensuring businesses can track stock at the most detailed level. The system also provides options for replenishment and history review, helping managers stay informed about stock levels and product movements. In the POS interface, when a cashier selects a serialized product, a popup appears prompting them to choose from available lot/serial numbers. The interface displays key details such as available quantity, expiration date, removal date, and use date for each serial number, allowing accurate selection during sales. This step eliminates errors and ensures the right serials are allocated to customers. Users can adjust the required quantity by increasing or decreasing the number of units selected for each serial, making the process flexible and straightforward. Odoo POS Lot Serial Number, Odoo POS Serial Number Management, Odoo POS Lot Selection, Odoo Point of Sale Serial Tracking, Odoo POS Product Traceability, Odoo inventory lot number tracking, Odoo serialized products in POS, Odoo POS expiration date tracking, Odoo POS lot/serial number popup, Odoo real-time stock tracking, Odoo POS inventory accuracy, Odoo traceability for POS sales, Odoo POS Lot, Odoo POS Serial, POS Lot Selection, POS Serial Tracking, Odoo POS Traceability, POS Expiry Tracking, Odoo POS Inventory, Odoo POS Stock, POS Product Tracking, Odoo POS Lots & Serials.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Website Vendor Signup",
@@ -395,7 +431,9 @@
         "description": "Website Vendor Signup is a configurable registration module that enables vendor account creation only when the corresponding setting is activated. It also supports automatic creation of portal users, controlled through a separate system setting. This ensures that both vendor registration and portal user management are handled based on predefined administrative preferences. The module is designed to offer flexibility and controlled access within the platform.",
         "summary": "Website Vendor Signup is a customizable registration module designed for controlled vendor onboarding. Vendor sign-up is only enabled when the specific setting is activated, allowing precise management of vendor access. The module also offers optional portal user creation, based on system configuration. Ideal for platforms that require flexible, setting-driven registration flows, this solution ensures secure and efficient user management. Vendor signup module, Vendor registration system, Website vendor signup, Vendor onboarding solution, Vendor management tool, Online vendor registration, Portal user creation, Vendor access control, Custom vendor signup, Automated vendor registration, Enable vendor registration by setting, Conditional vendor signup feature, Create portal user automatically, Controlled vendor onboarding, Vendor registration with user roles, Flexible vendor registration system, Role-based vendor access, Vendor signup with admin settings, Multi-vendor registration platform, Secure vendor registration flow, Setting-based user registration, Platform-specific vendor management, Registration settings configuration, Portal user setup automation, Admin-controlled vendor creation, Vendor registration workflow, Dynamic registration settings, Configurable registration fields, Vendor and portal user integration, Backend-driven registration control, User account creation tool, Vendor user profile management, Vendor self-registration module, User onboarding automation, Access-controlled registration form, User registration with custom roles, Multi-role user management system, Vendor account approval process, B2B vendor signup tool, E-commerce vendor registration, Vendor onboarding for marketplace, Custom vendor portal setup, Professional vendor registration app",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Full Screen Form View | Hide Chatter",
@@ -416,7 +454,9 @@
         "description": "Hide the chatter panel to provide a wider form view.Once you enable full screen on any form view, the system automatically remembers your preference and applies it to all form views.",
         "summary": "Hide the chatter panel to provide a wider form view.Once you enable full screen on any form view, the system automatically remembers your preference and applies it to all form views. Invisible Chatter Delete Chatter Hide Chatter Disable Chatter Box Remove Chatter Limited Chatter Access Hide Chatter by Model Remove Chatter in Odoo Remove Chatter Globally Show/Hide Chatter Chatter Display Options Chatter Visibility Settings Hide Chatter Section Show Chatter Section Enable/Disable Chatter Enable Chatter Hide Lognotes Disable Attachments Disable Send Message Hide Send Message Hide Attachments Hide Lognotes Hide Chatter Box",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Website Complimentary Product",
@@ -437,7 +477,9 @@
         "description": "Website Complimentary Product is an application designed to enhance product management by allowing administrators to configure and control complimentary product settings. The system provides flexibility to enable or disable complimentary product functionality directly from the settings panel, ensuring seamless integration with backend operations. Configurations set in the system are automatically reflected on the website frontend, maintaining consistency and accuracy. This streamlined approach helps in managing promotional offerings effectively, improving the overall shopping experience.",
         "summary": "Website Complimentary Product Management System is a powerful tool designed to streamline product management and enhance eCommerce promotional strategies. This feature allows administrators to easily configure and control complimentary product settings directly from a centralized settings panel. With the ability to enable or disable complimentary product functionality, businesses gain the flexibility to manage promotional items without disrupting backend operations. All configurations are automatically synced and reflected on the website frontend, ensuring real-time accuracy and consistency. By simplifying the management of free gifts, add-ons, or bundled products, this system improves the overall shopping experience, boosts customer satisfaction, and supports higher conversion rates.Complimentary product management, ree product configuration, eCommerce promotional tools, Product bundling software, Add-on product management, Promotional product settings, Complimentary items feature, eCommerce admin panel, Product upsell tools, Cross-sell configuration, Enable free products in cart, Automatic gift product settings, Free gift with purchase setup, eCommerce product automation, Website promotion management, Product promotion software, Backend product management, Real-time product sync, Complimentary product plugin, Manage eCommerce offers, How to configure complimentary products, Best tool for eCommerce promotions, Add free product to order , tomatically, Website tool for managing free gifts, Customize free product offers online, Enable/disable complimentary items easily, Sync product settings to website frontend, Simplify eCommerce promotions, Automatic product add-ons for discounts, Gift product system for online stores, Improve customer shopping experience, Increase cart value with promotions, Conversion rate optimization tool, Smart promotional product setup, Admin control for product offers, Dynamic gift product logic, Customizable product offer engine, User-friendly product promotion panel, Free product campaign manager, Promotional gift automation tool",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Website Product Variant Description",
@@ -458,7 +500,9 @@
         "description": "Website Product Variant Description enables dynamic product detail management by allowing administrators to assign specific descriptions to each product variant. These descriptions automatically update on product page of the website as variants change, ensuring accurate and relevant information is always displayed. This feature enhances product presentation and improves the overall browsing experience.",
         "summary": "Website Product Variant Description is a powerful tool that enables dynamic product detail management for your online store. With this feature, store administrators can assign unique, variant-specific descriptions to each product option such as size, color, or model. As customers switch between product variants on the product page, the relevant description updates automatically in real time.This ensures that shoppers always see accurate, detailed, and relevant information for the exact variant they\u2019re viewing, enhancing product presentation, reducing confusion, and improving user engagement. By delivering a more personalized and informative browsing experience, this feature helps increase customer trust and boost conversion rates.product variant description , dynamic product descriptions , ecommerce product variant , product variant management , variant-specific descriptions , product detail automation , dynamic product content , Shopify variant description , WooCommerce variant description , Magento product variant , product variant SEO , ecommerce variant content , real-time product updates , product page optimization , improve product presentation , variant-based descriptions , product customization , ecommerce conversion optimization , dynamic variant display , variant description update , personalized product descriptions , product detail variation , ecommerce UX improvement , ecommerce user experience , product information management , variant-specific content , ecommerce admin tools , ecommerce content automation , product detail enhancement , accurate product information , ecommerce content management , dynamic product display , customer engagement tools , real-time variant content , SEO for product variants",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Multi Channel E-commerce Integration",
@@ -478,7 +522,9 @@
         "description": "The Multi Channel E-commerce Integration module for Odoo empowers businesses to manage multiple online stores and marketplaces from one centralized platform. It offers seamless synchronization of products, stock, prices, and orders between Odoo and popular channels such as Shopify, Amazon, WooCommerce, eBay, Magento, and Etsy.",
         "summary": "Multi Channel E-commerce Integration, Odoo multi channel, Odoo ecommerce integration, Odoo marketplace connector, Odoo Shopify integration, Odoo Amazon integration, Odoo WooCommerce integration, Odoo eBay integration, Odoo Magento integration, Odoo Etsy integration, Odoo multichannel selling, Odoo omnichannel ecommerce, Odoo online store integration, Odoo marketplace sync, Odoo order synchronization, Odoo product synchronization, Odoo inventory synchronization, Odoo ecommerce automation, Odoo channel management, Odoo ERP ecommerce, multi store integration Odoo, Odoo ecommerce connector, Odoo stock sync, Odoo price sync, Odoo shipping integration, Odoo ecommerce management, Odoo sales automation, Odoo multichannel orders, Odoo central inventory, Odoo unified product catalog, Odoo ecommerce business tool, Odoo data synchronization, Odoo digital commerce integration",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "First Name - Last Name",
@@ -499,7 +545,9 @@
         "description": "This module is designed to add first and last names to contacts and CRM leads.Simplify name management in your CRM and Contacts with this lightweight module. It introduces dedicated First Name and Last Name fields to contact and lead forms, ensuring cleaner data entry and better personalization. Any changes to these fields automatically update the full name, keeping your records consistent and professional.",
         "summary": "This module is designed to add first and last names to contacts and CRM leads.Simplify name management in your CRM and Contacts with this lightweight module. It introduces dedicated First Name and Last Name fields to contact and lead forms, ensuring cleaner data entry and better personalization. Any changes to these fields automatically update the full name, keeping your records consistent and professional.firstname lastname odoo module, odoo contact name fields, crm lead name formatter, odoo name split module, odoo contact form enhancement, odoo crm lead customization, odoo firstname lastname sync, contact name update odoo, odoo lead name automation, structured name fields odoo, odoo contact data cleaner, odoo crm name editor, odoo contact form firstname lastname, odoo lead form firstname lastname, odoo name management module, odoo crm lead name update, odoo contact name formatter, odoo module for name fields, odoo crm contact name tool, odoo full name updater,Partner first name Partner last name Partner first & last name Partner first name & last name Separate Last name Separate First name Employee first name Employee Last Name First Last Name first and last name first name and last name Odoo,Split first name and last name for non company partners",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Auto Section In Purchase Order",
@@ -520,7 +568,9 @@
         "description": "The Auto Section in Purchase Order module allows users to define product sections and automatically assign purchase order lines to these sections. This feature streamlines organizing and managing products within purchase orders, ensuring that the vendor bill structure matches the purchase order for a cohesive workflow.",
         "summary": "Auto Section In Purchase Order , Automatically assign purchase order lines to product sections in Odoo, ensuring seamless organization and matching invoice structure. , Auto Section In Purchase Order,Purchases Orders and Invoices Auto Sections,purchase order line section,Purchase Order Line Section Management,Automatic Purchase Order Sections, Group Purchase Order Lines by Section, Product Section Management in Purchases, Section-Based Purchase Orders, Organized Purchase Order Line Items, Invoice Sections Matching Purchase Orders, Auto Sections for Product Organization, Purchase Order Line Automation, Predefined Sections in Purchase Orders, Dynamic Purchase Order Sections, Streamlined Purchase Order Organization, Sectioned Invoices for Purchases, Product Grouping in Purchase Orders, Purchase Order Section Workflow, Automated Section Creation for Purchases.This module allows you to define the section inside the product. once you select the the product in Purchase order line save the Purchase order it will move Purchase order lines to the respected section define in the products. it will also manage the dynamic creation of section in Purchase order line.in case section not exist in Purchase order line it will create new section and move Purchase order line under the correct sections. Auto Section Sale Order Auto Section in Sale Order  Auto Section Purchase Order, purchase order section, automatic section purchase",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Line Section Subtotal | Purchase Section Subtotal | Section Subtotal for Quotations | Section Total for Purchase Order",
@@ -541,7 +591,9 @@
         "description": "The Odoo Sales & Purchase Section-Wise Subtotal app is designed for businesses aiming to streamline and enhance their order processing workflows. This powerful tool enables users to automatically calculate subtotals within sales and purchase orders, grouped by custom-defined sections.",
         "summary": "The Odoo Sales & Purchase Section-Wise Subtotal app is designed for businesses aiming to streamline and enhance their order processing workflows. This powerful tool enables users to automatically calculate subtotals within sales and purchase orders, grouped by custom-defined sections.sale purchase section subtotal odoo sale order subtotal odoo purchase order subtotal section wise subtotal odoo sale line subtotal by section purchase line subtotal by section odoo order line subtotal odoo section subtotal app order management odoo odoo subtotal by category odoo financial breakdown odoo sales analysis odoo purchase analysis odoo subtotal module odoo business insights section wise order summary odoo order tracking odoo subtotal feature odoo sales purchase enhancement odoo subtotal automation Section wise subtotal purchase order line section subtotal for sales order subtotal section for invoice section subtotal sale order total of section invoice sale section subtotal on purchase for quotation section subtotal for RFQ subtotal by section auto section in sale order auto section in purchase order ",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Employee Disciplinary Management",
@@ -562,7 +614,9 @@
         "description": "Employee Disciplinary Management is a powerful app that streamlines handling workplace disciplinary actions with structured workflows and role-based access. It allows admins to manage all records, managers to review and validate assigned cases, and employees to view and respond to their own actions. Custom categories, detailed case tracking, and smart filters improve organization and visibility. The app ensures transparency, accountability, and secure data handling throughout the disciplinary process. It\u2019s an all-in-one solution for fair, efficient, and compliant discipline management.",
         "summary": "Employee Action , Action Employee , Employee Disciplinary , Disciplinary Employee , Employee Case , Case Employee , Disciplinary Case , Case Disciplinary , Employee Management , Management Employee , Disciplinary Management , Management Disciplinary , Employee Process , Process Employee , Disciplinary Process , Process Disciplinary , Employee Tracking , Tracking Employee , Disciplinary Tracking , Tracking Disciplinary , Employee Explanation , Explanation Employee , Disciplinary Explanation , Explanation Disciplinary , Employee Validation , Validation Employee , Disciplinary Validation , Validation Disciplinary , Employee Response , Response Employee , Disciplinary Response , Response Disciplinary , Employee Record , Record Employee , Disciplinary Record , Record Disciplinary , Employee Category , Category Employee , Disciplinary Category , Category Disciplinary , Employee Action Management , Action Management Employee , Disciplinary Action , Action Disciplinary , Employee Stage , Stage Employee , Disciplinary Stage , Stage Disciplinary , Employee Workflow , Workflow Employee , Disciplinary Workflow , Workflow Disciplinary , Employee Role , Role Employee , Disciplinary Role , Role Disciplinary , Employee Rights , Rights Employee , Disciplinary Rights , Rights Disciplinary , Employee Access , Access Employee , Disciplinary Access , Access Disciplinary",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Employee Report Preview",
@@ -583,7 +637,9 @@
         "description": "Employee Report Preview is a professional tool designed to display detailed employee reports before printing or exporting them as PDF files. The app provides a clean, accurate, and real-time preview to ensure every report meets organizational standards. Its streamlined interface enhances report verification, reduces errors, and improves overall efficiency.",
         "summary": "The Employee Report Preview is a professional and reliable tool designed to display detailed employee reports with precision before printing or exporting as PDF files. This intuitive app offers a clean, real-time preview of employee data, ensuring every report aligns with organizational standards and compliance requirements. With its streamlined interface, users can quickly verify report accuracy, minimize errors, and boost overall workflow efficiency. Ideal for HR teams, managers, and administrators, the Employee Report Preview tool simplifies employee data management and enhances reporting processes.Employee report preview , Employee report viewer , Real-time employee report , Employee report software , Employee report generator, Employee report export PDF , Preview employee reports , Printable employee reports , Employee data reporting tool , HR report preview tool , Employee performance report preview , Employee attendance report preview , Employee report verification, Employee report management software , Employee report accuracy tool , PDF employee report export , Employee report review software , Real-time report preview software , Employee report printing tool , Streamlined employee report preview , Employee report error reduction , HR report preview application , Employee report quality control , Employee report compliance tool , Employee report workflow solution , Professional employee report preview , Employee data export software , Employee record preview software , Employee report analysis tool , Employee report dashboard , Organizational employee report tool , Employee report verification software , Employee report productivity tool",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Stock Detail In Sale Order",
@@ -604,7 +660,9 @@
         "description": "This module shows real-time product stock details directly in sales orders. You can view stock warehouse-wise or location-wise and manage inventory across multiple companies. It helps users check on-hand and available quantities before confirming orders. With one click, view detailed stock information from the order line. Access can be controlled by enabling the \u201cShow Stock Info in Sale Order\u201d option in user settings.",
         "summary": "on-hand stock , available stock , on-hand quantity , available quantity , warehouse stock , location stock , stock by warehouse , stock by location , warehouse wise stock , location wise stock , multi company stock , product stock , product availability , product stock details , stock visibility , stock details , stock information , stock info in sales order , stock availability , inventory stock , inventory details , sales order stock , sales order inventory , stock check , stock information wizard , warehouse management , location management , product inventory , real-time stock , stock tracking , inventory tracking , warehouse inventory , location inventory , sales stock visibility , product stock management , stock monitoring , inventory control , stock overview , warehouse overview , location overview , stock summary , stock insights , inventory planning , stock forecasting , product stock status , stock reporting , stock analysis , warehouse operations , sales order management , multi warehouse support , multi location support",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Product Sale By Location",
@@ -625,7 +683,9 @@
         "description": "This app allows users to select a specific stock location on each sales order line, which directly affects product delivery, sales order processing, and visibility in sales reports as well as the customer portal.",
         "summary": "This app allows users to select a specific stock location on each sales order line, which directly affects product delivery, sales order processing, and visibility in sales reports as well as the customer portal.sale product by location, sale products by location, product sale by location, selection on sale line location, product deliver location, sale order product deliver location on sale order, location wise delivery order, Sale Product Quantity Location wise",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Product Purchase By Location",
@@ -646,7 +706,9 @@
         "description": "This app enables users to select a location on each purchase order line, allowing incoming shipments to be created for different locations based on the selected line-level locations",
         "summary": "This app enables users to select a location on each purchase order line, allowing incoming shipments to be created for different locations based on the selected line-level locations.purchase line multi location selection on purchase order line location, Purchase Product By Location, purchase line multiple location purchase order by multi location, purchase order multi locations, product purchase by Location, purchase multiple warehouse routes, multi purchase products locations warehouse, purchase multi locations, Purchase multi location, purchase product multi locations, Product purchase by location purchase, product purchase multiple location, multiple locations, purchase multiple locations",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "CRM Survey Management",
@@ -667,7 +729,9 @@
         "description": "CRM Survey Management enables seamless integration of customer feedback directly within your Odoo CRM. This module allows you to create, distribute, and manage surveys from the CRM interface, facilitating enhanced customer engagement and data collection.",
         "summary": "CRM Survey Management enables seamless integration of customer feedback directly within your Odoo CRM. This module allows you to create, distribute, and manage surveys from the CRM interface, facilitating enhanced customer engagement and data collectioCRM Survey Management enables seamless integration of customer feedback directly within your Odoo CRM. This module allows you to create, distribute, and manage surveys from the CRM interface, facilitating enhanced customer engagement and data collection.,crm survey management, crm survey odoo, customer survey in crm, lead survey odoo, crm feedback management, crm survey integration, crm survey tool odoo, survey management in crm, odoo crm survey app, crm survey automation, sales survey in crm, crm survey reports, crm survey analytics, crm customer feedback odoo, crm survey tracking, odoo crm survey management system, crm survey module odoo, crm survey responses, crm questionnaire management, crm client survey odoo, crm survey workflow, crm survey customization odoo, crm satisfaction survey, crm survey with leads, crm survey for opportunities, crm survey data management, odoo crm customer survey, crm feedback collection odoo, crm survey distribution, crm survey automation odoo, crm survey response tracking, crm survey form odoo, crm lead survey module, crm customer feedback survey, crm sales pipeline survey, crm opportunity survey odoo, odoo crm survey questionnaire, crm survey reporting tool, crm integrated survey management, crm survey result analysis, crm customer feedback tracking, odoo crm feedback survey app, crm survey management module, crm feedback automation, crm survey scheduling odoo, crm survey customization tool, crm survey builder odoo, crm survey workflow automation, crm sales and survey integration, crm lead feedback survey odoo, crm opportunity feedback survey, crm survey performance tracking, crm feedback and survey analytics, odoo crm survey extension",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Auto Cancel Quotation",
@@ -688,7 +752,9 @@
         "description": "The Auto Cancel Quotation module is designed for businesses that generate numerous sales quotations daily. Often, many of these quotations remain untouched and never convert into sales orders, cluttering your system. This app introduces a smart automation feature that cancels quotations still in the \"Quotation\" stage after a user-defined number of days.",
         "summary": "The Auto Cancel Quotation module is designed for businesses that generate numerous sales quotations daily. Often, many of these quotations remain untouched and never convert into sales orders, cluttering your system. This app introduces a smart automation feature that cancels quotations still in the \"Quotation\" stage after a user-defined number of days. Automatic Cancel Created Quotation Automatic Cancel Quotation After Defined Days Auto Delete Customer Quotations Auto Delete Quotation Disable Sales Quote Disable Sales Quotation Expire After Predefined Days Expire Quotation After Predefined Days Expire Quotation After Defined Days  Quotation Expire After Defined Days Automatic Cancel Quotation After Some Days Auto close quotation Automatic Close Quotation Odoo Auto Cancel Quote Automatic Cancel Quotation Auto delete sale quotation, auto delete quotation, delete quotation, cancel sale, cancel quotation, auto cancel quotation, auto delete quotation, delete sale, auto delete sale Cancel Quotation Based on Expire Date Quotation Auto Expiry Smart Quote Cancel Quote Expiration Manager Automatic Quotation Closer, auto cancel sale quotation cancel, remove quotation, remove sale order, delete sale order, cancel sale order, auto cancel sale order",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Lead Progress Based on Stagesc",
@@ -708,7 +774,9 @@
         "description": "Easily monitor your CRM leads with a dynamic progress bar that updates automatically based on the lead\u2019s stage. Enhance sales visibility, performance tracking, and forecasting.",
         "summary": "Easily monitor your CRM leads with a dynamic progress bar that updates automatically based on the lead\u2019s stage. Enhance sales visibility, performance tracking, and forecasting.Compute lead progress based on lead stage percentage Lead Progress Based on Stage Odoo CRM Lead Progress Odoo Lead Stage Progress Odoo Lead Progress Bar Odoo Opportunity Progress Tracker Odoo CRM Stage Progress Odoo Sales Lead Progress Odoo CRM Progress Indicator Odoo Lead Pipeline Visualization Odoo Lead Conversion Progress Odoo CRM Stage Percentage Odoo Sales Stage Tracker Odoo Lead Stage Tracking Odoo Lead Percentage Bar Odoo CRM Workflow Progress Odoo CRM Stage Probability Odoo Sales Opportunity Progress Odoo CRM Pipeline Progress Odoo Lead Tracking Tool Odoo Sales Lead Monitoring Odoo CRM Progress Automation Odoo CRM Stage Visualization Odoo Sales CRM Performance Odoo Opportunity Stage Progress Odoo Sales Funnel Progress Odoo CRM Stage Mapping Odoo CRM Progress Dashboard Odoo Sales Tracking Automation Odoo Lead Progress Management Odoo CRM Deal Progress Odoo Opportunity Probability Tracking Odoo CRM Pipeline Enhancement Odoo CRM Lead Stage Tool Odoo CRM Lead Progress Module Odoo CRM Analytics Tool Odoo Sales Performance Tracker Automatic Progress Updates Dynamic Progress Bar on CRM Opportunities",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Customer Note in Website Cart/Order",
@@ -729,7 +797,9 @@
         "description": "The Customer Note in Website Cart/Order app adds a convenient option for customers to include personalized notes directly from the shopping cart before submitting an order. These notes can contain delivery instructions, customization requests, or special messages and are automatically displayed on the related sales order after checkout. This feature helps improve communication, reduce order errors, and create a more personalized shopping experience for both customers and sales teams.",
         "summary": "Customer Note in Website Cart/Order is a powerful enhancement that enables customers to add custom notes or instructions directly from the shopping cart before order submission. Each note is automatically linked to the corresponding sales order, ensuring clear communication between customers and the sales team. This feature streamlines order processing, minimizes errors, and enhances the overall shopping experience. Ideal for businesses that handle personalized orders, special requests, or delivery instructions, this app brings efficiency, transparency, and better customer satisfaction to the eCommerce workflow. customer note in cart, add note to order, order note app, cart note feature, ecommerce order notes, sales order notes, customer instructions, checkout note option, online store note addon, personalized order request, special delivery instructions, customer message in cart, order customization request, ecommerce enhancement, cart note integration, customer feedback in cart, website cart addon, odoo ecommerce app, shop order notes, order remark feature, sales note module, cart comment option, ecommerce customer communication, order message feature, shopping cart customization, cart to sale order note, order management improvement, online order personalization, customer note plugin, ecommerce efficiency tool, order details enhancement, sales process automation, cart note system, online checkout notes",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Website Shop Clear Cart",
@@ -750,7 +820,9 @@
         "description": "Website Shop Clear Cart provides a one click solution to reset the shopping cart, removing all items instantly for fast order management. The clear cart button appears only when the cart contains products, keeping the interface clean and context sensitive. This functionality eliminates repetitive, item by item deletion, streamlining the shopping workflow. Designed for efficiency, the feature supports a smoother checkout preparation process.",
         "summary": "Shop Clear Cart is a powerful one-click solution that instantly empties a user\u2019s shopping cart for faster and more efficient order management. This smart Clear Cart button only appears when products are in the cart, creating a clean, user-friendly, and context-aware interface. Instead of deleting items one by one, customers can remove everything at once, saving time and reducing frustration. Designed to improve the online shopping experience, this feature helps streamline checkout and supports smoother, hassle-free cart updates. Clear cart button, empty shopping cart, one click cart reset, instant cart removal, remove all cart items, ecommerce cart feature, shopping cart reset tool, cart management solution, fast checkout process, user friendly cart options, streamline online shopping, ecommerce usability feature, clear cart plugin, empty cart functionality, cart cleanup tool, improve checkout experience, quick cart update, online store optimization, cart automation feature, cart bulk removal, fast order management, optimize shopping workflow, cart utility addon, ecommerce UI improvement, shopping cart enhancement, easy cart clearing, online store efficiency tool, ecommerce customer experience, cart reset functionality, empty cart shortcut, reduce cart frustration, clean cart interface, ecommerce productivity tool, remove products instantly, simplified cart control, context aware cart button",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Auto Cancel Request For Quotation",
@@ -771,7 +843,9 @@
         "description": "The Auto Cancel Request For Quotation module streamlines your procurement process by automatically cancelling stale RFQs (Requests for Quotation) based on a configurable time threshold. By setting a specific number of days in the Purchase configuration settings, this module ensures that outdated or unresponsive RFQs are cleaned up without manual intervention keeping your purchase pipeline lean and efficient.",
         "summary": "The Auto Cancel Request For Quotation module streamlines your procurement process by automatically cancelling stale RFQs (Requests for Quotation) based on a configurable time threshold. By setting a specific number of days in the Purchase configuration settings, this module ensures that outdated or unresponsive RFQs are cleaned up without manual intervention keeping your purchase pipeline lean and efficient. auto cancel request for quotation odoo auto rfq cancellation odoo cancel rfq after days odoo odoo purchase automation rfq timeout odoo auto cancel purchase order request odoo procurement cleanup rfq expiry odoo odoo purchase config rfq cancel automatic rfq expiry odoo odoo cancel unconfirmed rfq rfq delay cancellation odoo odoo purchase module enhancement auto remove stale rfq odoo odoo rfq scheduler purchase request auto cancel odoo odoo procurement optimization rfq auto cancel setting odoo odoo purchase workflow cleanup odoo rfq management tool automatic cancel rfq, auto_cancel_quotation, Automatic Cancel Created Quotation Automatic Cancel Quotation After Defined Days Auto Delete Customer Quotations Auto Delete Quotation Disable Sales Quote Disable Sales Quotation Expire After Predefined Days Expire Quotation After Predefined Days Expire Quotation After Defined Days  Quotation Expire After Defined Days Automatic Cancel Quotation After Some Days Auto close quotation Automatic Close Quotation Odoo Auto Cancel Quote.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Quotation Followup",
@@ -792,7 +866,9 @@
         "description": "The Quotation Followup module helps sales teams stay proactive by automating reminders for quotations that remain inactive. By setting a threshold in the configuration settings, the system monitors quotations stuck in the \"Quotation\" state and triggers timely email and activity alerts. This ensures no opportunity slips through the cracks and improves conversion rates through consistent follow-up. Automate follow-ups for quotations with configurable reminders. Set a threshold in settings to monitor quotations stuck in Quotation state. Triggers email and mail.activity alerts to ensure timely action and conversion. This module create the followup activity for the salesperson when customer open quotation from portal and customer signd the quotation from portal.",
         "summary": "Automate follow-ups for quotations with configurable reminders. Set a threshold in settings to monitor quotations stuck in Quotation state. Triggers email and mail.activity alerts to ensure timely action and conversion. The Quotation Followup module helps sales teams stay proactive by automating reminders for quotations that remain inactive. By setting a threshold in the configuration settings, the system monitors quotations stuck in the \"Quotation\" state and triggers timely email and activity alerts. This ensures no opportunity slips through the cracks and improves conversion rates through consistent follow-up. quotation followup odoo, automate quotation reminders odoo, odoo sales followup tool, quotation stuck alert odoo, odoo quotation email reminder, followup activity for quotation odoo, odoo quotation conversion booster, quotation state monitor odoo, odoo sales automation, quotation followup scheduler odoo, odoo mail activity for quotation, odoo sales pipeline reminder, quotation delay alert odoo, odoo quotation tracking, quotation followup configuration odoo, odoo sales engagement tool, auto followup quotation odoo, odoo crm quotation reminder, quotation followup app odoo, odoo sales quotation workflow. This module create the followup activity for the salesperson when customer open quotation from portal and customer signd the quotation from portal, sale reminder, quotation reminder.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Website Shop Reorder",
@@ -813,7 +889,9 @@
         "description": "Website Shop Reorder enables quick and convenient reordering of previously confirmed orders. This application removes the need to search for products again, allowing instant addition of past items to the cart. It ensures an efficient and time saving shopping experience for regular purchases and frequently ordered products.",
         "summary": "Website Shop Reorder is a smart online shopping application designed to simplify the reorder process from previous confirmed orders. The app provides a quick reorder option that enables users to repurchase frequently ordered products without repeating the search process. With advanced order management features, all past orders are organized and easily accessible for accurate selection and faster checkout. Website Shop Reorder focuses on delivering a smooth and time-saving shopping experience by allowing instant reordering of essentials and regular purchases. This efficient approach helps maintain consistency in shopping while improving overall convenience and productivity for users and businesses alike. quick reorder app, reorder previous orders, online shopping reorder, easy reordering system, fast order repeat, past order management, order history app, instant reorder feature, shopping automation, one click reorder, smart shopping app, repeat purchase tool, online cart reorder, confirmed orders management, ecommerce reorder system, quick shopping solution, product reorder app, time saving shopping, reorder essentials online, frequent purchase manager, digital order tracker, smart buy again app, easy order repeat, seamless reorder experience, online purchase manager",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "POS Floor, Table & Customer Info on Receipt",
@@ -833,7 +911,9 @@
         "description": "Enhance your Odoo Point of Sale (POS Restaurant) experience by displaying Floor, Table, and Customer details directly on printed receipts.",
         "summary": "Enhance your Odoo Point of Sale (POS Restaurant) experience by displaying Floor, Table, and Customer details directly on printed receipts. This module provides restaurant owners and staff with a more organized and transparent order management system. The Display Floor, Table, and Customer Details on POS Receipts module is a powerful and practical enhancement for Odoo Point of Sale (POS Restaurant) system. It provides a simple yet highly useful feature that allows restaurants, cafes, and hospitality businesses to print Floor Name, Table Number, and Customer Information directly on their POS receipts. This app bridges the gap between POS order management and real-world restaurant operations, ensuring that every printed receipt accurately reflects the order\u2019s location (floor and table) and customer identity. With this added information, staff can serve more efficiently, managers can track orders precisely, and customers receive a more professional and personalized experience. Odoo POS Receipt, POS Floor and Table Info, POS Customer Details on Receipt, Odoo POS Restaurant Extension, POS Receipt Customization, POS Floor Table Customer Module, oint of sale odoo, odoo pos enhancement, pos floor table module, pos restaurant extension, ,Odoo restaurant app, Odoo restaurant management, POS floor and table information, POS customer name on receipt, Add floor number to POS receipt, Restaurant POS receipt details, Odoo POS customer info module, Show table and floor in Odoo POS, Odoo POS restaurant customization, POS printed receipt enhancement, Odoo POS printing module, Floor and table POS extension.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Email Enhancement",
@@ -854,7 +934,9 @@
         "description": "Enhance your Odoo email system by adding default CC & BCC recipients to all outgoing emails.Easily configure them from settings and have them applied automatically when sending emails.You can edit or remove recipients while composing emails for flexibility.All sent emails, including CC & BCC details, are visible in chatter and technical email logs.",
         "summary": "Email cc email bcc email send email email cc bcc default cc bcc email enhancement email auto cc auto bcc email customization send email cc bcc communication module email settings cc bcc app email extension chatter email tracking mail automation add cc bcc default message cc bcc",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Multiple Delivery Address",
@@ -875,7 +957,9 @@
         "description": "This app allows users to select a specific delivery address on each sales order line, which directly affects product delivery, sales order processing, and visibility in sales reports as well as the customer portal.",
         "summary": "This app allows users to select a specific delivery address on each sales order line, which directly affects product delivery, sales order processing, and visibility in sales reports as well as the customer portal.sale multiple address, sale multiple delivery address, for sale multi delivery multi picking,  sale different delivery address, sale multi address,sale order multiple delivery address, sales multi address, sale multi picking",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Vendor Evaluation / Rating",
@@ -896,7 +980,9 @@
         "description": "The Vendor Evaluation and Purchase Management App streamlines supplier assessment and procurement in one platform. It enables businesses to evaluate vendors based on performance criteria and automatically calculate ratings. Managers can review, approve, or reject evaluations with a simple workflow. Vendor ratings are seamlessly linked to purchase orders and RFQs for informed decision-making. Enhance procurement efficiency, transparency, and supplier quality with this integrated solution.",
         "summary": "vendor evaluation system supplier rating vendor rating management supplier assessment software procurement management purchase automation vendor approval supplier performance tracking purchase order management vendor assessment ERP procurement supplier quality control vendor scorecard supplier benchmarking vendor lifecycle management procurement automation supplier compliance tracking vendor performance analytics supplier relationship management business procurement software supplier risk analysis procurement reporting dashboard vendor audit supplier collaboration supply chain optimization strategic sourcing purchase operations management procurement efficiency vendor evaluation workflow digital procurement system smart vendor management vendor insights procurement decision making",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Employee Performance report KRA / KPA",
@@ -917,7 +1003,9 @@
         "description": "This application streamlines employee performance management through KRA and Value Rating modules. It enables managers to define key result areas, review progress, and evaluate individual competencies. Automated reports provide transparent insights into employee performance and growth. Designed for accuracy and efficiency, it supports data-driven talent and appraisal decisions.",
         "summary": "Employee Performance Management App focuses on employee performance performance employee evaluation KRA Key Result Area Value Rating employee appraisal KPI OKR employee assessment performance review HR appraisal employee productivity staff performance workforce evaluation performance management HR performance employee feedback employee growth performance report performance analysis employee rating performance monitoring HR management system employee goal tracking performance tracker performance dashboard HR analytics employee scoring competency evaluation appraisal management talent management performance measurement continuous appraisal objective setting and result based evaluation",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Delivery Delay Notification",
@@ -938,6 +1026,8 @@
         "description": "This module enhances delivery management by automatically notifying users when a delivery order remains in the draft state and its scheduled date exceeds the threshold set in the configuration settings. It sends both an email and an activity to the responsible user, helping teams stay on top of delayed orders and take timely action.",
         "summary": "This module enhances delivery management by automatically notifying users when a delivery order remains in the draft state and its scheduled date exceeds the threshold set in the configuration settings. It sends both an email and an activity to the responsible user, helping teams stay on top of delayed orders and take timely action. delivery delay reminder odoo app delivery delay notification odoo delivery alert scheduled delivery warning draft order delay delivery order mail alert delivery activity creation odoo delivery scheduler delivery delay automation delivery follow-up reminder delivery order tracking odoo delivery workflow delivery delay config send mail on delivery delay create activity on delivery delay odoo delivery management delivery deadline alert delivery order monitoring delivery delay app odoo logistics reminder delivery followup delivery order follow up send mail create activity on delivery delay late delivery notification late delivery reminder picking followup picking delay notification stock picking reminder",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     }
 ]

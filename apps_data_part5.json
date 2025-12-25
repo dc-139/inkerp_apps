@@ -21,7 +21,9 @@
         "description": "Twilio SMS Integration for Odoo allows businesses to instantly send SMS notifications directly from their Odoo system using the Twilio gateway, enabling smooth communication for sales, purchase, CRM, HR, and accounting processes. The module supports automated alerts for orders, invoices, payments, deliveries, and reminders, as well as bulk SMS campaigns and OTP verification for secure transactions. With customizable SMS templates, real-time message logs, and multi-company support, it helps companies improve customer engagement and streamline notifications, while also offering the flexibility to extend messaging to WhatsApp through Twilio.",
         "summary": "twilio sms odoo, odoo twilio integration, sms gateway odoo, twilio connector odoo, send sms odoo, sms notification odoo, bulk sms odoo, sms api odoo, odoo message integration, odoo sms tool, sms alert odoo, twilio whatsapp odoo, odoo customer sms, otp via twilio odoo, order sms notification, delivery sms alert, invoice sms odoo, payment sms alert, odoo sms automation, sms marketing odoo, sms crm odoo, sms sales odoo, sms purchase order odoo, sms stock odoo, sms shipping odoo, sms template odoo, automated sms odoo, twilio odoo module, odoo partner sms, sms reminder odoo, odoo appointment sms, meeting sms alert, sms otp verification odoo, two-factor sms odoo, sms from odoo backend, sms log odoo, sms activity odoo, odoo sms tracking, sms campaign odoo, sms broadcast odoo, odoo bulk sms sending, send invoice sms odoo, send quotation sms odoo, send order sms odoo, sms gateway connector odoo, integrate twilio with odoo, sms from sales order odoo, sms from purchase order odoo, sms from crm odoo, sms from helpdesk odoo, sms from hr odoo, sms leave notification odoo, sms employee alert odoo, sms payroll odoo, sms ticket alert odoo, sms payment reminder odoo, sms overdue reminder odoo, sms subscription odoo, sms renewal alert, sms status update odoo, sms shipping tracking odoo, sms delivery update odoo, sms customer support odoo, sms confirmation odoo, sms api connector odoo, sms integration odoo apps, sms notification automation, sms gateway app odoo, sms customer communication, sms direct odoo, odoo sms utility, business sms odoo, odoo sms service, sms order status odoo, odoo sms manager, odoo sms campaign tool.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Twilio Whatsapp",
@@ -45,7 +47,9 @@
         "description": "This app integrates Twilios WhatsApp API with Odoo, enabling seamless WhatsApp messaging directly from Odoo modules like CRM, Sales, Helpdesk, and more. It allows sending automated updates, order confirmations, reminders, and chat messages to customers using WhatsApp all through your Twilio account. Improve communication and engagement with real-time, trackable, and reliable messaging.",
         "summary": "twilio whatsapp integration, odoo whatsapp integration, whatsapp automation odoo, odoo chat via whatsapp, whatsapp crm odoo, whatsapp sales order odoo, odoo whatsapp api, send whatsapp odoo, whatsapp twilio odoo, odoo whatsapp communication, odoo whatsapp notification, whatsapp message odoo, odoo auto whatsapp, odoo chat integration, twilio odoo module, odoo whatsapp gateway, odoo whatsapp business, send invoice on whatsapp, odoo whatsapp connect, order status via whatsapp, odoo whatsapp contact, whatsapp template odoo, odoo whatsapp reminders, odoo whatsapp alerts, odoo whatsapp broadcast, whatsapp helpdesk odoo, odoo messaging module, whatsapp automation for leads, odoo lead chat via whatsapp, whatsapp integration odoo backend, odoo whatsapp workflow, odoo whatsapp direct send, whatsapp ticket notification, odoo whatsapp API config, odoo whatsapp chatbot, whatsapp notifications odoo, whatsapp marketing odoo, odoo whatsapp log, twilio whatsapp api key, odoo whatsapp chat history, whatsapp group alert odoo, whatsapp communication system odoo, odoo multi-channel chat, whatsapp replies in odoo, odoo customer whatsapp chat, twilio whatsapp alert, odoo auto chat via whatsapp, whatsapp message trigger odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All in one order line views",
@@ -71,7 +75,9 @@
         "description": "All in One Order Line Views is an Odoo module designed to improve the way order lines are displayed and managed across Sales, Purchase, and Invoicing. Instead of working with limited default views, this module provides multiple, customizable views that make reviewing and editing order lines faster and more intuitive.",
         "summary": "Sale order line, purchase order line, account invoice line, stock move line to add in menu with new filters and groups,all in one order line views, Odoo order line extension, sales order line view, purchase order line view, invoice order line view, improved order line views, order line customization, advanced order line view Odoo, all order line management, Odoo order line table, order line enhancements, multiple order line views, Odoo sales order extension, purchase order line customization, better order line visibility, order line display Odoo, Odoo ERP order line views, order line reporting, order line analysis, advanced Odoo sales view, Odoo purchase order line improvement, invoice line view customization, Odoo order entry enhancement, streamlined order lines, order line quick view, Odoo order workflow enhancement, order line usability, Odoo productivity extension, advanced quotation lines, sales invoice lines Odoo, Odoo order line add-on, multiple line views, order line detail control, customizable order line view, order line management tool, Odoo all-in-one extension, order line module Odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All In One Excel Report",
@@ -97,7 +103,9 @@
         "description": "this app provides users with the ability to generate comprehensive Excel reports for invoices, purchase orders, and sale orders. This app consolidates essential financial data into well-organized spreadsheets, facilitating easier analysis and record-keeping.\n\n",
         "summary": "odoo excel report, all in one xlsx report, odoo xlsx export, excel export odoo, sales report excel, purchase report excel, inventory excel report, accounting report xlsx, hr excel report odoo, odoo report download, odoo report wizard, odoo data to excel, odoo excel analytics, odoo xlsx generator, odoo report automation, custom report excel odoo, excel data export odoo, multi module excel report, export xlsx odoo, odoo summary report excel, all module report xlsx, sales purchase inventory excel, report wizard odoo xlsx, accounting excel sheet odoo, employee report excel, timesheet excel odoo, leave report excel, odoo spreadsheet report, purchase excel data, stock excel export, multi company excel report, xlsx report generator, reporting odoo excel, odoo dashboards xlsx, smart excel export odoo, accounting data excel, all reports in excel odoo, odoo module wise report excel, export from odoo xlsx, business reports excel odoo, clean excel export odoo, odoo report engine, excel format download odoo, odoo template excel, tabular export odoo, filtered report excel, odoo smart excel tool, company wise report excel, branch wise report excel, odoo excel reports tool, powerful excel report odoo, odoo analytic reports excel, consolidated report xlsx, xls download odoo, spreadsheet export odoo, financial report excel odoo, stock movement excel odoo, invoice report xlsx, sales performance excel",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Aramex Shipping Connector",
@@ -123,7 +131,9 @@
         "description": "Seamlessly integrate Aramex shipping services with Odoo using the Aramex Shipping Connector. Manage shipments, track orders, and generate shipping labels directly from your Odoo environment for efficient logistics management. , Aramex Shipping Connector, Odoo Aramex Integration, Shipping and Logistics Management, Aramex Shipment Tracking, Generate Shipping Labels in Odoo, Aramex API Integration",
         "summary": "\nAramex shipping connector, Odoo Aramex integration, Aramex courier connector, shipping integration Odoo, Aramex delivery Odoo, Odoo shipping connector, Aramex API Odoo, courier integration Odoo, Odoo logistics Aramex, Aramex shipping label, Aramex tracking Odoo, shipping automation Odoo, Aramex express connector, Odoo carrier integration, Aramex delivery tracking, Odoo eCommerce shipping, Aramex freight Odoo, Aramex logistics connector, shipping order automation, Aramex waybill Odoo, courier shipping integration, Odoo ERP shipping connector, real-time shipment tracking Odoo, Aramex parcel integration, Aramex service Odoo, shipping label printing, Aramex courier management, Odoo delivery connector, Aramex shipping API integration, Odoo order shipping automation, Aramex barcode label, Aramex order fulfillment Odoo, Aramex delivery service connector, Odoo shipping add-on, Aramex logistics tool, automated shipping orders Odoo, Odoo marketplace Aramex, Aramex international shipping connector",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "E-commerce Base",
@@ -149,7 +159,9 @@
         "description": false,
         "summary": "Base for ecommerce api integration",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Import Purchase Order Line",
@@ -175,7 +187,9 @@
         "description": "Import Purchase Order Line is a time-saving Odoo module that allows businesses to import purchase order lines directly from Excel or CSV files. Instead of manually entering products and quantities line by line, procurement teams can upload bulk data in just a few clicks.",
         "summary": "import purchase order line, Odoo purchase order import, purchase line import tool, purchase order CSV import, Excel purchase order import, Odoo procurement import, bulk order line import, purchase order automation, import vendor orders, purchase line import Odoo, Odoo purchase data upload, quick purchase import, purchase line Excel tool, purchase order product import, Odoo import module, supplier order import, purchase import extension, Odoo ERP purchase import, fast purchase order entry, purchase order upload, purchase order management Odoo, import procurement orders, purchase data integration, bulk purchase entry, order line CSV tool, Odoo supplier order upload, purchase Excel upload Odoo, quick procurement entry, Odoo purchase data automation, batch import purchase lines, Odoo import add-on, purchase order import wizard, purchase upload Excel CSV, procurement efficiency tool.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Import Sale Order Line",
@@ -201,7 +215,9 @@
         "description": "Import Sale Order Line is an Odoo module that simplifies sales order creation by allowing you to import order lines directly from Excel or CSV files. Instead of adding products one by one, sales teams can upload bulk product and quantity data into quotations or confirmed orders with just a few clicks.",
         "summary": "import sale order line, Odoo sales order import, sales line import tool, sales order CSV import, Excel sales order import, Odoo order line upload, bulk sales order import, customer order import, Odoo sales automation, sales order product import, Odoo ERP sales import, import quotations Odoo, sales order upload tool, sales line import Odoo, Odoo order management extension, quick sales order entry, sales data import tool, batch import sales lines, Odoo CRM sales import, sales workflow automation, customer order upload, Odoo sales productivity, sales Excel CSV upload, Odoo quotation import, fast sales order creation, bulk sales entry tool, order line upload Odoo, sales order data integration, Odoo import wizard sales, sales data upload module, Odoo sales extension, sales process optimization, quotation line import Odoo, order entry automation",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Invoice Order Excel Report",
@@ -227,7 +243,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Invoice Payment Report",
@@ -253,7 +271,9 @@
         "description": "Invoice Payment Report is an Odoo module designed to give businesses clear visibility into customer and vendor payments. It generates comprehensive reports that track invoices by payment status paid, unpaid, or partially paid  making financial monitoring easier.",
         "summary": "invoice payment report, Odoo payment report, customer invoice report, vendor invoice report, invoice payment tracking, Odoo accounting extension, invoice payment summary, detailed invoice report, payment analysis Odoo, outstanding invoice report, paid invoice tracking, invoice payment reconciliation, Odoo finance report, invoice payment report Odoo, accounts receivable report, accounts payable report, Odoo ERP payment report, customer payment history, supplier payment report, invoice due report, invoice settlement report, Odoo invoice dashboard, invoice payment statement, invoice and payment analysis, Odoo accounting tool, invoice collection report, Odoo payment tracking, financial report Odoo, invoice summary statement, invoice payment monitoring, overdue invoice report, invoice reconciliation tool, Odoo invoice analysis, customer balance report, vendor balance report, payment transaction report",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Invoice Validation Approval",
@@ -279,7 +299,9 @@
         "description": "Invoice Validation Approval is an Odoo module that enforces a controlled approval process before invoices are validated or posted in the system. Instead of invoices being posted directly, they must first be approved by a designated manager or accountant.",
         "summary": "invoice validation approval, Odoo invoice approval, invoice posting control, vendor bill approval, customer invoice approval, Odoo accounting workflow, invoice approval workflow, validate invoice approval, invoice authorization Odoo, invoice posting approval, Odoo finance approval, invoice manager approval, vendor bill validation, customer invoice validation, invoice approval process Odoo, Odoo accounting security, multi-level invoice approval, Odoo invoice posting workflow, invoice validation control, Odoo ERP accounting approval, invoice approval rules, invoice validation permissions, Odoo finance extension, invoice posting restriction, invoice check approval, approval workflow Odoo, invoice control process, invoice review and approval, invoice validation manager, invoice compliance Odoo, invoice security approval.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Low Stock Notification",
@@ -305,7 +327,9 @@
         "description": "This app helps businesses monitor inventory levels efficiently by automatically identifying products with low stock and generating Excel reports. It can also notify users via email when stock falls below the defined minimum levels, ensuring timely restocking and uninterrupted sales or manufacturing operations.",
         "summary": "product low stock alert, odoo inventory alert, stock level threshold, excel stock report odoo, odoo low inventory report, odoo stock shortage email, minimum stock notification, low stock email alert, inventory control alert odoo, odoo stock warning, excel export low stock, automatic restock alert, stock level monitoring, low quantity report odoo, critical inventory items report, stock reorder alert odoo, product stock tracking odoo, alert below minimum stock, odoo item stock report, warehouse stock alert, inventory limit tracking odoo, odoo low stock scheduler, low quantity inventory tracker, odoo real-time stock alert, shortage product report odoo, alert for stock shortage, low stock dashboard odoo, excel inventory download, low stock list excel odoo, odoo warehouse stock control, auto alert inventory odoo, notify product stock limit, odoo inventory risk alert, product stock check odoo, low stock summary odoo, odoo low quantity trigger, threshold quantity notification odoo, odoo excel stock listing, auto stock report odoo, stock limit mail notification odoo, odoo inventory control sheet, product alert report odoo, minimum level warning odoo, stock deficiency tracking odoo, odoo product restock signal, scheduled low stock notification, dynamic stock alert report, excel export for inventory odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Merge Delivery Order",
@@ -331,7 +355,9 @@
         "description": "The Merge Delivery Order app enhances the delivery management process in Odoo by allowing users to efficiently merge multiple delivery orders into a single order. This streamlines logistics and inventory management, ensuring a more organized approach to handling deliveries.",
         "summary": "merge delivery order, Odoo delivery merge, consolidate delivery orders, combine delivery orders, Odoo logistics tool, merge picking orders, delivery order consolidation, Odoo shipping merge, merge stock pickings, Odoo warehouse merge, consolidated delivery note, merge outgoing shipments, Odoo delivery optimization, group delivery orders, single delivery order Odoo, Odoo multi order delivery, warehouse management Odoo, delivery efficiency tool, Odoo logistics optimization, merge sale order deliveries, Odoo shipping consolidation, reduce multiple deliveries, Odoo ERP warehouse tool, delivery batch merge, Odoo stock delivery extension, shipment merge Odoo, merge packing slips, consolidated invoice delivery, Odoo inventory delivery control, customer delivery merge, Odoo supply chain tool",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Merge Sale Order",
@@ -357,7 +383,9 @@
         "description": "Merge Sale Order is an Odoo module designed to help businesses consolidate multiple sales orders into one unified order for the same customer. Instead of handling multiple quotations or orders separately, sales teams can merge them into a single SO, making order processing faster and more efficient.",
         "summary": "Merge the Quotations, merge sale order, Odoo merge orders, combine sales orders, consolidate sale orders, Odoo sales management, merge customer orders, Odoo sale order extension, group sale orders, sales consolidation Odoo, merge quotations, Odoo sales workflow, merge SO Odoo, sales efficiency tool, Odoo sales merge app, consolidate quotations, merge draft sales orders, Odoo sales optimization, customer order consolidation, Odoo ERP sales tool, merge multiple sale orders, Odoo merge functionality, sales order control, Odoo sales customization, order processing efficiency, consolidate customer requests, Odoo sales module extension, reduce duplicate sale orders, merge multiple quotations, Odoo CRM integration, customer sales merge",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Multiple Shipment Tracking",
@@ -383,7 +411,9 @@
         "description": "Track multiple shipments across different carriers directly within Odoo. Manage and monitor delivery statuses in real-time for enhanced logistics efficiency and customer satisfaction. , Multiple Shipment Tracking, Odoo Shipment Management, Real-time Shipment Tracking, Track Multiple Carriers in Odoo, Logistics and Delivery Monitoring, Shipment Status Updates",
         "summary": "Track multiple shipments across different carriers directly within Odoo. Manage and monitor delivery statuses in real-time for enhanced logistics efficiency and customer satisfaction. , Multiple Shipment Tracking, Odoo Shipment Management, Real-time Shipment Tracking, Track Multiple Carriers in Odoo, Logistics and Delivery Monitoring, Shipment Status Updates",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "PO Auto Email",
@@ -409,7 +439,9 @@
         "description": "PO Auto Email is an Odoo module that automates the process of sending purchase orders to vendors. Once a purchase order is confirmed, the system will automatically send it via email to the supplier\u2019s registered email address, along with the PO PDF attachment.",
         "summary": "PO auto email, purchase order auto email, Odoo purchase automation, send PO automatically, auto email purchase order, automatic supplier email Odoo, Odoo purchase communication, vendor PO auto email, Odoo purchase order automation, supplier order email, purchase order confirmation email, Odoo PO notification, automated purchase workflow, purchase order delivery email, vendor email automation, Odoo ERP purchase order, auto send supplier PO, streamline purchase orders, PO approval email, Odoo supplier communication, purchase efficiency tool, Odoo automatic PO send, vendor management Odoo, procurement automation, Odoo mail purchase order, PO auto sending, Odoo supplier auto notification, purchase order confirmation workflow, Odoo ERP procurement tool, auto email supplier Odoo.",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "PO Bulk Email",
@@ -435,7 +467,9 @@
         "description": false,
         "summary": "PO Bulk Email Purchase Order Bulk Email Odoo Purchase Order Email Odoo Bulk Email Module Odoo Send Multiple Purchase Orders Send Purchase Orders in Bulk Odoo Mass Email to Vendors Odoo Purchase Email Automation Purchase Email Tool for Odoo Odoo Vendor Communication Module Send POs Automatically Odoo Odoo Email Purchase Orders Odoo Bulk Vendor Email Odoo Purchase Management Tool Odoo Purchase Communication Automation Odoo Purchase Order PDF Email Odoo PO Email Module Odoo Purchase Order Mail Sender Odoo Email Multiple POs Odoo Multi Vendor Email Tool Odoo Email Automation for Purchase Odoo Procurement Email Automation Odoo Send Purchase Order PDFs Odoo Purchase Order Batch Email Bulk Send POs Odoo Odoo Purchase Email Enhancement Odoo Procurement Automation Module Odoo Purchase Order Workflow Automation Odoo Vendor Management Email Odoo Mass Purchase Order Sender Odoo PO Auto Email Feature Odoo Email for Purchase Department Odoo Procurement Productivity Tools Odoo Automated Purchase Communication Odoo Multi Company Email Tool Odoo Vendor Email Notification Odoo Purchase Team Automation Odoo Supplier Email Module Odoo Vendor Contact Email Automation Odoo Purchase Email Feature Odoo Purchase Order Email Extension Odoo Email Integration for Purchase Orders Odoo Purchase Order Delivery Email Send Purchase Orders Automatically in Odoo Odoo Supplier Communication System Odoo Bulk Email Feature for Procurement Odoo Purchase Order Management Addon Odoo Email Template for Purchase Order Odoo Purchase PDF Email Tool Purchase Order Automation Odoo Odoo Procurement Email Sender Odoo Purchase Efficiency Tools Odoo Purchase Workflow Module Odoo Send PO to Vendor Automatically Odoo Vendor Notification Automation Odoo Mass Email Procurement",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Product Sale Report (Day Wise)",
@@ -461,7 +495,9 @@
         "description": "Product Sale Report (Day Wise) is an Odoo module that allows businesses to analyze daily product sales in detail. It provides a clear view of which products are selling the most or least on each day, helping businesses make data-driven decisions for stock planning, sales strategies, and demand forecasting.",
         "summary": "Report about Day wise Product sale report, product sale report, day wise sales report, Odoo sales analytics, daily product sales report, Odoo sales reporting, product sales analysis, Odoo ERP sales report, day-wise revenue report, Odoo daily sales dashboard, sales by date report, Odoo business intelligence, product-wise sales tracking, Odoo daily transaction report, sales trend analysis, Odoo POS sales report, daily order analysis, Odoo performance report, day-wise sales monitoring, product sale summary Odoo, Odoo report generator, daily sales performance, Odoo commerce insights, product movement report, Odoo ERP reporting tool, day wise product analytics, Odoo advanced reporting, sales growth tracking Odoo, day-to-day sales monitoring, Odoo KPI report, product demand analysis, daily sales insights",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Product Variant Description",
@@ -484,7 +520,9 @@
         "description": "\n        The Product Variant Description Manager module allows users to view key descriptions for product variants across different modules in Odoo. This ensures easy access to essential information, enhancing clarity for product handling and supporting improved decision-making throughout sales, purchases, and inventory management.\n\n        Key Features:\n        1) Sales Description Access:\n           - View the sales description directly within the product variant form.\n\n        2) Purchase Description Access:\n           - Access the purchase description within the product variant form.\n\n        3) Inventory Description Access:\n           - Check the inventory description of the product variant in the product variant form.\n\n        4) Sales Order Integration:\n           - Display the sales description in the sales order lines for clarity.\n\n        5) Purchase Order Integration:\n           - Show the purchase description in the purchase order lines.\n\n        6) Delivery Order Integration:\n           - View the inventory description in the delivery order lines for better tracking.\n    ",
         "summary": "Easily access key product descriptions across sales, purchase, and inventory modules to improve clarity and decision-making. , Product Variant Description Odoo, Product Descriptions Manager Odoo, Odoo Sales Descriptions, Purchase Descriptions Odoo, Inventory Descriptions Odoo, Product Variant Clarity Odoo, Odoo Product Information Access, Description in Sales Orders Odoo, Description in Purchase Orders Odoo, Delivery Order Descriptions Odoo, View Product Descriptions Odoo, Product Variant Module Odoo, Odoo Master Data Descriptions, Sales Order Line Description Odoo, Purchase Order Line Description Odoo, Delivery Order Line Description Odoo, Variant Descriptions Integration Odoo, Enhanced Product Handling Odoo, Odoo Product Management Clarity. product variant description, Odoo product variant, variant wise description, Odoo sales product variant, product variant details, Odoo ecommerce product variant, custom variant description, Odoo POS product variant, product information management, Odoo product attributes, variant level description, Odoo ERP product customization, e-commerce product description Odoo, product variant content, Odoo multi-variant product, product detail extension, sales order variant description, Odoo purchase product variant, detailed variant catalog, Odoo inventory variant description, variant specific details, product differentiation Odoo, Odoo variant enhancement, attribute-based description, variant sales description, Odoo store product details, Odoo shop variant customization, ERP product variant content, product catalog improvement Odoo, product line variant description",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Order Excel Report",
@@ -510,7 +548,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Purchase Order Recurring",
@@ -536,7 +576,9 @@
         "description": "This app helps automate the recurring creation of purchase orders in Odoo. It\u2019s ideal for businesses that purchase raw materials, office supplies, or services on a regular schedule. You can define recurrence intervals, suppliers, and products\u2014letting the system generate POs automatically based on your predefined rules.",
         "summary": "recurring purchase order, auto purchase order, scheduled purchase order, repeat po, po recurrence, recurring po odoo, automatic po, odoo recurring order, auto reorder, purchase automation, recurring procurement, repeating order, po scheduler, recurring supplier order, odoo recurring vendor order, odoo auto po, vendor schedule order, purchase cycle automation, recurring material purchase, recurring service po, po time interval, weekly purchase order, monthly recurring order, recurring supply order, auto generate po, purchase order repeat, vendor auto po, po automation app, po recurring logic, odoo scheduled purchase, po workflow automation, purchase planning tool, odoo repeat procurement, recurring order generation, recurring po trigger, scheduled po generation, po template recurring, po series automation, procurement automation, odoo po timing, odoo po interval, supplier recurring order, recurring order setup, auto purchase generator, odoo reorder routine, recurring purchasing rule, repeat odoo purchase, recurring order system, repeat vendor orders, order automation purchase, smart recurring po, odoo recurring module, odoo auto order vendor, scheduled odoo po, po calendar based, recurring odoo purchase, po schedule manager, automated po odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Confirm Approval",
@@ -562,7 +604,9 @@
         "description": "Sale Confirm Approval is an Odoo module that introduces an approval workflow before confirming Sales Orders, ensuring that only authorized users can confirm orders.",
         "summary": "sale confirm approval, sales order approval, Odoo sales approval workflow, confirm sales with approval, sales manager approval, Odoo order authorization, approval before sales confirm, Odoo sale order restriction, sales validation workflow, Odoo ERP sales security, order approval Odoo, multi-level approval sales, Odoo sales manager confirmation, restricted sales confirmation, Odoo sales control, approval process sales, Odoo sale authorization, confirm SO after approval, Odoo restricted sales user, Odoo approval hierarchy, secure sales order, Odoo business rules sales, order validation Odoo, Odoo workflow sales order, confirm sales restriction, approval chain Odoo, sales confirmation rules, Odoo approval sales app, prevent unauthorized sales Odoo, Odoo ERP confirm approval",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Detail Report",
@@ -588,7 +632,9 @@
         "description": false,
         "summary": "Report about all detail of sale order Sale Detail Report Odoo sales detail report Odoo detailed sales analysis Odoo sale order report Odoo sales summary Odoo sales performance report Odoo sales breakdown Odoo customer sales report Odoo sales history report Odoo item wise sales report Odoo product wise sales report Odoo sales report by customer Odoo sales report by product Odoo sales report by date Odoo detailed quotation report Odoo invoice sales detail Odoo sales report customization Odoo sales reporting tool Odoo ERP sales report Odoo advanced sales report Odoo sales document analysis Odoo sales performance tracking Odoo sales data visualization Odoo business intelligence sales report Odoo custom sales reporting Odoo sales metrics Odoo revenue report Odoo sales monitoring Odoo analytical sales dashboard Odoo sales module enhancement Odoo profit analysis Odoo sales order tracking Odoo sales growth report Odoo report generator Odoo detailed sales tracking Odoo customizable sales report Odoo sales report automation Odoo sales performance insights Odoo sales management tool Odoo sale document improvement Odoo sales analytics Odoo management reporting Odoo sales forecasting Odoo revenue tracking",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order Excel Report",
@@ -614,7 +660,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Order recurring",
@@ -640,7 +688,9 @@
         "description": "Sale Order Recurring is an Odoo module designed for businesses that handle repeat or subscription-based sales. Instead of manually creating Sales Orders for regular customers, this module allows you to schedule recurring orders at predefined intervals.",
         "summary": "sale order recurring, recurring sales order, Odoo recurring orders, repeat sales order Odoo, auto-generate sales order, subscription sales Odoo, recurring invoice Odoo, repeat customer orders, Odoo sales automation, recurring billing Odoo, auto sales confirmation, repeat SO Odoo, Odoo recurring workflow, automated sales order, periodic sales order, customer recurring purchase, recurring quotations Odoo, Odoo subscription sales, monthly recurring orders, Odoo sales repeat, recurring order generator, auto-create sales order Odoo, recurring SO module, Odoo repeat billing, recurring customers Odoo, repeat orders ERP, recurring transactions Odoo, Odoo automation recurring sales, recurring order approval, Odoo repetitive order workflow",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Sale Report by Salesperson",
@@ -666,7 +716,9 @@
         "description": "Sale Report by Salesperson is an Odoo module designed to help businesses track and analyze sales performance per salesperson. With this app, managers can generate reports showing the number of sales, revenue, and customer details linked to each sales representative.",
         "summary": "sales report by salesperson, Odoo sales analysis, salesperson performance report, Odoo sales dashboard, sales team report Odoo, sales order by salesperson, sales KPI Odoo, Odoo sales reporting tool, salesperson wise revenue, sales commission tracking Odoo, Odoo ERP sales analytics, sales order summary by user, customer sales by salesperson, Odoo business intelligence sales, sales performance metrics, Odoo sales team productivity, sales order report Odoo, sales growth by salesperson, Odoo CRM sales report, salesperson invoice report, Odoo detailed sales analysis, sales monitoring Odoo, Odoo ERP sales insights, sales user activity report, Odoo profit by salesperson, sales order breakdown, Odoo reporting module, sales revenue tracking, Odoo performance monitoring, sales by employee report",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "All in one Sale reports",
@@ -691,7 +743,9 @@
         "description": "All in One Sale Reports is a powerful Odoo module that brings together all key sales reporting tools in a single place. Instead of relying on multiple reports, businesses can now generate customer-wise, product-wise, and salesperson-wise reports, along with detailed insights into revenue, profit margins, and growth trends.",
         "summary": "all in one sales reports, Odoo sales reporting, sales performance Odoo, complete sales analytics, Odoo sales dashboard, advanced sales reports, customer sales report Odoo, product sales analysis, salesperson sales report, Odoo revenue tracking, Odoo ERP sales insights, profit margin sales Odoo, sales KPI reporting, sales summary Odoo, detailed sales breakdown, Odoo sales growth analysis, recurring sales report, Odoo sales statistics, Odoo reporting module, sales invoice analysis, Odoo order revenue tracking, business intelligence sales Odoo, Odoo export sales data, daily sales report Odoo, monthly sales report Odoo, yearly sales insights, Odoo team sales report, custom sales report, all in one reporting Odoo, Odoo sales profitability, sales revenue monitoring ERP",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "SendCloud Delivery Shipping Connector",
@@ -711,7 +765,9 @@
         "description": "SendCloud Delivery Shipping Connector is an Odoo module that integrates SendCloud\u2019s shipping platform with Odoo. It allows businesses to automate the entire shipping process \u2014 from generating shipping labels to tracking parcels \u2014 directly from within Odoo.",
         "summary": "SendCloud Delivery Shipping Connector / SendCloud Shipping integration, Odoo SendCloud, SendCloud ecommerce integration, sendcloud odoo connector, odoo sendcloud integration, sendcloud shipping odoo, odoo delivery connector, automated shipping odoo, sendcloud parcel odoo, odoo courier integration, odoo logistics automation, sendcloud api odoo, odoo shipping rates, sendcloud label printing, odoo warehouse shipping, sendcloud delivery method odoo, odoo multi-carrier integration, shipping automation odoo, odoo e-commerce shipping, sendcloud tracking odoo, odoo marketplace sendcloud, sendcloud connector odoo module, shipping order odoo sendcloud, sendcloud courier partners odoo, odoo logistics sendcloud, odoo real-time shipping, sendcloud delivery label odoo, shipping efficiency odoo, odoo europe shipping connector, odoo fulfillment integration, sendcloud parcel tracking odoo, odoo delivery workflow, shipping management odoo",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Shopify Integration",
@@ -734,7 +790,9 @@
         "description": "Shopify Integration is an Odoo module that connects your Shopify store with Odoo ERP to automate and streamline e-commerce operations. It eliminates manual data entry by synchronizing products, stock, orders, customers, invoices, and deliveries between both platforms.",
         "summary": "shopify odoo connector, odoo shopify integration, sync shopify with odoo, odoo ecommerce integration, shopify odoo sync, shopify order import odoo, odoo inventory sync shopify, shopify product export odoo, shopify stock sync, odoo multi-channel integration, shopify customer sync odoo, shopify delivery odoo, shopify invoice odoo, odoo erp for shopify, shopify connector odoo module, odoo ecommerce automation, shopify odoo bridge, sync shopify sales with odoo, shopify fulfillment odoo, odoo marketplace integration, shopify backend odoo, odoo retail integration, shopify invoice automation, odoo webshop sync, shopify payment sync odoo, shopify returns odoo, odoo omnichannel commerce, shopify odoo app store, shopify accounting odoo, shopify shipping odoo, odoo centralize shopify",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Top Customer Report",
@@ -760,7 +818,9 @@
         "description": "Top Customer Report is an Odoo module that helps businesses analyze and identify their most valuable customers. It generates reports ranking customers based on sales revenue, order value, or invoice data, giving clear insights into customer contribution to business growth.",
         "summary": "Report about Top Customer by buy product high to low, top customer odoo, odoo top customer report, odoo sales analysis, customer ranking odoo, best customer odoo, odoo crm reporting, sales report odoo, odoo revenue by customer, customer performance odoo, odoo customer leaderboard, top clients odoo, odoo customer sales history, odoo customer sales chart, odoo b2b customer report, odoo customer invoice report, customer purchase frequency odoo, odoo loyalty customer report, top customer analysis, odoo kpi report, sales contribution by customer, odoo dashboard customer, odoo crm analytics, repeat customer odoo, odoo customer order report, odoo sales summary by customer, customer value analysis odoo, odoo business intelligence sales, top customers report odoo, odoo customer trend analysis, odoo sales leaderboard",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Top Selling Product Report",
@@ -786,7 +846,9 @@
         "description": "Top Selling Product Report is an Odoo module designed to help businesses track and analyze their best-selling products. It generates product-wise reports based on sales order or invoice data, ranking items by total sales revenue or quantity sold.",
         "summary": "top selling product odoo, best product sales odoo, odoo top product report, odoo sales analysis, product ranking odoo, odoo best seller report, sales by product odoo, odoo product sales report, most sold product odoo, odoo inventory sales report, odoo sales dashboard, product performance odoo, odoo product KPI report, odoo stock movement sales, odoo item sales report, top products analysis, odoo business intelligence sales, product wise sales odoo, odoo sales chart product, odoo product revenue report, fast moving product odoo, odoo crm product report, odoo order line product analysis, odoo sales insights, high demand product odoo, odoo erp sales analysis, odoo sales by category, odoo report product trend, odoo top product sales history, odoo sales leaderboard product",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Woocommerce Integration",
@@ -812,7 +874,9 @@
         "description": false,
         "summary": false,
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Fastlo Delivery Integration",
@@ -838,7 +902,9 @@
         "description": false,
         "summary": "Integrate Fastlo delivery services with Odoo for streamlined logistics. Manage deliveries, track shipments, and generate delivery orders directly from your Odoo system to enhance operational efficiency. , Fastlo Delivery Integration, Odoo Fastlo Integration, Delivery Management in Odoo, Shipment Tracking with Fastlo, Generate Delivery Orders, Logistics and Shipping Solution",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "Fedex Shipping Connector",
@@ -864,7 +930,9 @@
         "description": false,
         "summary": "Streamline your shipping process with the FedEx Shipping Connector for Odoo. Easily manage shipments, print labels, and track deliveries directly within your Odoo system for efficient logistics management. , FedEx Shipping Connector, Odoo FedEx Integration, Shipping and Logistics Management, FedEx Shipment Tracking, Print FedEx Labels in Odoo, FedEx API Integration",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     },
     {
         "name": "SMSA Delivery",
@@ -890,6 +958,8 @@
         "description": "SMSA Delivery is an Odoo module that integrates SMSA Express courier services with Odoo\u2019s Sales and Delivery workflow. It allows businesses to generate Air Waybills (AWB), print shipping labels, and track shipments directly within Odoo, making delivery management faster and easier.",
         "summary": "Integrate SMSA delivery services with Odoo to manage shipments seamlessly. Generate shipping labels, track deliveries, and streamline your logistics operations directly within Odoo. , SMSA Delivery Integration, Odoo SMSA Shipping, SMSA Shipment Tracking, Generate SMSA Shipping Labels, Logistics Management with SMSA, Middle East Shipping Solution, SMSA delivery odoo, SMSA shipping connector, odoo SMSA express, SMSA courier odoo, SMSA API integration, odoo shipping carrier, SMSA delivery service, odoo logistics integration, SMSA waybill odoo, odoo shipping automation, SMSA order tracking odoo, odoo courier connector, SMSA delivery labels, SMSA parcel service odoo, odoo ecommerce shipping, SMSA express integration, SMSA delivery management, odoo carrier connector, SMSA AWB generation odoo, odoo delivery order SMSA, shipping partner odoo, SMSA freight odoo, odoo sales delivery SMSA, SMSA odoo ecommerce, automate SMSA delivery odoo, odoo multi-carrier shipping, SMSA shipping report odoo, odoo shipping API, SMSA customer delivery odoo, Odoo delivery app SMSA",
         "offer_date": "",
-        "odoo_type": []
+        "odoo_type": [],
+        "live_test_url": false,
+        "is_enterprise": false
     }
 ]
